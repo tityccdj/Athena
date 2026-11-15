@@ -27,6 +27,7 @@ namespace Athena.Player
 
         [Header("Visual & Animation")]
         [SerializeField] private PlayerAnimation _animation;
+        [SerializeField] private PlayerAnimationEventReceiver _animEventReceiver;
 
         public IPlayerInput Input => _inputReader;
         public CollisionDetector2D Collisions => _collisionDetector;
@@ -46,6 +47,7 @@ namespace Athena.Player
             if (_combat == null) _combat = GetComponent<PlayerCombat>();
             if (_health == null) _health = GetComponent<PlayerHealth>();
             if (_animation == null) _animation = GetComponentInChildren<PlayerAnimation>();
+            if (_animEventReceiver == null) _animEventReceiver = GetComponentInChildren<PlayerAnimationEventReceiver>();
 
             var rb = GetComponent<Rigidbody2D>();
 
@@ -59,7 +61,22 @@ namespace Athena.Player
             {
                 _animation.Initialize(_movement, _dash, _combat, _health, rb);
             }
+
+            // Animation Event Receiver must be initialized after Combat
+            if (_animEventReceiver != null)
+            {
+                _animEventReceiver.Initialize(_combat);
+            }
+
+            // Wire death/respawn to movement lock
+            _health.OnDeath += _movement.OnPlayerDied;
+        }
+
+        private void OnDestroy()
+        {
+            if (_health != null) _health.OnDeath -= _movement.OnPlayerDied;
         }
     }
 }
+
 

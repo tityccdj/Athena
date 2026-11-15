@@ -5,6 +5,10 @@ using UnityEngine;
 
 namespace Athena.Player.Combat
 {
+    /// <summary>
+    /// Hitbox ที่เปิด/ปิดได้จาก Animation Event
+    /// Open() → เริ่ม check ทุก FixedUpdate, Close() → หยุด check
+    /// </summary>
     public class PlayerAttackHitbox : MonoBehaviour
     {
         [Header("Hitbox Area")]
@@ -12,40 +16,74 @@ namespace Athena.Player.Combat
         [SerializeField] private float _radius = 0.6f;
         [SerializeField] private LayerMask _targetLayers;
 
-        public int PerformAttack(int damage, int facingDirection, float knockbackForce, GameObject attacker)
-        {
-            Vector2 origin = (Vector2)transform.position + new Vector2(_offset.x * facingDirection, _offset.y);
-            Collider2D[] hits = Physics2D.OverlapCircleAll(origin, _radius, _targetLayers);
+        private bool _isActive;
+        private int _damage;
+        private int _facingDirection;
+        private float _knockbackForce;
+        private GameObject _attacker;
 
-            HashSet<IDamageable> damagedEntities = new HashSet<IDamageable>();
-            int hitCount = 0;
+        // Track hit entities within single open window to avoid multi-hit
+        private readonly HashSet<IDamageable> _damagedThisSwing = new HashSet<IDamageable>();
+
+        public bool IsActive => _isActive;
+
+        /// <summary>
+        /// เรียกจาก Animation Event "HitboxOpen" — เปิด hitbox พร้อมตั้งค่า damage
+        /// </summary>
+        public void Open(int damage, int facingDirection, float knockbackForce, GameObject attacker)
+        {
+            _damage = damage;
+            _facingDirection = facingDirection;
+            _knockbackForce = knockbackForce;
+            _attacker = attacker;
+            _damagedThisSwing.Clear();
+            _isActive = true;
+        }
+
+        /// <summary>
+        /// เรียกจาก Animation Event "HitboxClose" — ปิด hitbox
+        /// </summary>
+        public void Close()
+        {
+            _isActive = false;
+            _damagedThisSwing.Clear();
+        }
+
+        private void FixedUpdate()
+        {
+            if (!_isActive) return;
+            CheckOverlap();
+        }
+
+        private void CheckOverlap()
+        {
+            Vector2 origin = (Vector2)transform.position + new Vector2(_offset.x * _facingDirection, _offset.y);
+            Collider2D[] hits = Physics2D.OverlapCircleAll(origin, _radius, _targetLayers);
 
             foreach (var hit in hits)
             {
-                if (hit.gameObject == attacker) continue;
+                if (hit.gameObject == _attacker) continue;
 
                 if (hit.TryGetComponent<IDamageable>(out var damageable))
                 {
-                    if (!damagedEntities.Contains(damageable) && !damageable.IsInvulnerable)
+                    if (!_damagedThisSwing.Contains(damageable) && !damageable.IsInvulnerable)
                     {
-                        damagedEntities.Add(damageable);
-                        Vector2 knockbackDir = new Vector2(facingDirection, 0.2f).normalized;
-                        DamageInfo info = new DamageInfo(damage, hit.transform.position, knockbackDir, knockbackForce, attacker);
+                        _damagedThisSwing.Add(damageable);
+                        Vector2 knockbackDir = new Vector2(_facingDirection, 0.2f).normalized;
+                        DamageInfo info = new DamageInfo(_damage, hit.transform.position, knockbackDir, _knockbackForce, _attacker);
                         damageable.TakeDamage(info);
-                        hitCount++;
                     }
                 }
             }
-
-            return hitCount;
         }
 
         private void OnDrawGizmosSelected()
         {
-            Gizmos.color = Color.red;
-            Vector2 origin = (Vector2)transform.position + _offset;
+            // Show hitbox in red when active, gray when inactive
+            Gizmos.color = _isActive ? Color.red : new Color(1f, 0f, 0f, 0.3f);
+            Vector2 facing = Application.isPlaying ? new Vector2(_facingDirection, 0f) : Vector2.right;
+            Vector2 origin = (Vector2)transform.position + new Vector2(_offset.x * facing.x, _offset.y);
             Gizmos.DrawWireSphere(origin, _radius);
         }
     }
 }
-

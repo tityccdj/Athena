@@ -13,11 +13,17 @@ namespace Athena.Player.Movement
 
         [Header("Jump Settings")]
         [SerializeField] private float _jumpForce = 14f;
-        [SerializeField] private float _fallGravityMultiplier = 2.5f;
+        [SerializeField] private float _baseGravityScale = 1.0f;
+        [SerializeField] private float _fallGravityMultiplier = 1.5f;
         [SerializeField] private float _jumpCutMultiplier = 0.5f;
 
         [Header("Wall Slide Settings")]
         [SerializeField] private float _wallSlideSpeed = 2f;
+
+        [Header("Wall Jump Settings")]
+        [SerializeField] private float _wallJumpForceY = 13f;
+        [SerializeField] private float _wallJumpForceX = 7f;
+        [SerializeField] private float _wallJumpInputLockDuration = 0.2f; // ล็อค horizontal input ชั่วคราวหลัง wall jump
 
         [Header("Visual")]
         [SerializeField] private Transform _visualTransform;
@@ -28,8 +34,12 @@ namespace Athena.Player.Movement
 
         private float _defaultGravityScale;
         private bool _canJump;
+        private bool _hasReleasedJumpKey = true;
+        private float _lastJumpTime = -999f;
         private bool _isWallSliding;
         private bool _isMovementLocked;
+        private bool _isDead;
+        private float _wallJumpInputLockEndTime = -999f; // ล็อค horizontal input หลัง wall jump
 
         public int FacingDirection { get; private set; } = 1; // 1 = Right, -1 = Left
         public bool IsWallSliding => _isWallSliding;
@@ -44,13 +54,21 @@ namespace Athena.Player.Movement
         private void Awake()
         {
             _rb = GetComponent<Rigidbody2D>();
+
+            // Apply platformer base gravity if Rigidbody was on default 1.0
+            if (_rb.gravityScale <= 1.0f)
+            {
+                _rb.gravityScale = _baseGravityScale;
+            }
             _defaultGravityScale = _rb.gravityScale;
+
             if (_visualTransform == null) _visualTransform = transform;
         }
 
         private void Update()
         {
             if (_input == null || _collisionDetector == null) return;
+            if (_isDead) return;
 
             UpdateFacingDirection();
             CheckJump();
@@ -59,6 +77,7 @@ namespace Athena.Player.Movement
         private void FixedUpdate()
         {
             if (_input == null || _collisionDetector == null) return;
+            if (_isDead) return;
 
             if (_isMovementLocked) return;
 
@@ -69,6 +88,9 @@ namespace Athena.Player.Movement
 
         private void UpdateFacingDirection()
         {
+            // Don't change facing direction when movement is locked (e.g. during attack)
+            if (_isMovementLocked) return;
+
             float horizontal = _input.MoveInput.x;
             if (Mathf.Abs(horizontal) > 0.05f)
             {
@@ -81,27 +103,69 @@ namespace Athena.Player.Movement
 
         private void CheckJump()
         {
-            if (_collisionDetector.IsGrounded)
+            // Reset jump release state once player releases Space
+            if (!_input.IsJumpHeld)
+            {
+                _hasReleasedJumpKey = true;
+            }
+
+            // Don't allow jumping when movement is locked (e.g. during attack)
+            if (_isMovementLocked) return;
+
+            // Refresh jump when grounded
+            if (_collisionDetector.IsGrounded && Time.time > _lastJumpTime + 0.1f)
             {
                 _canJump = true;
             }
 
-            // GDD: Single Jump
+            if (!_hasReleasedJumpKey) return;
+
+            // Wall Jump: กระโดดออกจากกำแพงขณะ Wall Slide
+            if (_isWallSliding && _input.ConsumeJumpBuffer())
+            {
+                ExecuteWallJump();
+                return;
+            }
+
+            // Normal Jump
             if (_canJump && _input.ConsumeJumpBuffer())
             {
                 ExecuteJump();
             }
 
-            // Variable jump height: releasing jump key cuts vertical momentum
+            // Variable jump height: releasing jump key cuts upward momentum
             if (!_input.IsJumpHeld && _rb.linearVelocity.y > 0)
             {
                 _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _rb.linearVelocity.y * _jumpCutMultiplier);
             }
         }
 
+        private void ExecuteWallJump()
+        {
+            int wallDir = _collisionDetector.WallDirection;
+            _canJump = false;
+            _hasReleasedJumpKey = false;
+            _lastJumpTime = Time.time;
+            _isWallSliding = false;
+
+            // กระโดดออกจากกำแพง: X ออกด้านตรงข้ามกำแพง, Y ขึ้น
+            _rb.linearVelocity = new Vector2(-wallDir * _wallJumpForceX, _wallJumpForceY);
+
+            // ล็อค horizontal input ชั่วคราว กัน player กด input ทวนทิศทาง wall jump ทันที
+            _wallJumpInputLockEndTime = Time.time + _wallJumpInputLockDuration;
+
+            // หันหน้าออกจากกำแพง
+            FacingDirection = -wallDir;
+            Vector3 scale = _visualTransform.localScale;
+            scale.x = Mathf.Abs(scale.x) * FacingDirection;
+            _visualTransform.localScale = scale;
+        }
+
         private void ExecuteJump()
         {
             _canJump = false;
+            _hasReleasedJumpKey = false; // Player must release Space before jumping again
+            _lastJumpTime = Time.time;
             _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce);
         }
 
@@ -110,9 +174,12 @@ namespace Athena.Player.Movement
             // Wall slide condition: In air, touching wall, falling down
             if (!_collisionDetector.IsGrounded && _collisionDetector.IsTouchingWall && _rb.linearVelocity.y < 0)
             {
-                // Must be pressing towards the wall or falling against it
+                // Only slide if actively pushing into the wall (A towards left wall, D towards right wall)
                 int wallDir = _collisionDetector.WallDirection;
-                if (_input.MoveInput.x == 0 || Mathf.Sign(_input.MoveInput.x) == wallDir)
+                bool isPushingIntoWall = (wallDir == 1 && _input.MoveInput.x > 0.1f) || 
+                                         (wallDir == -1 && _input.MoveInput.x < -0.1f);
+
+                if (isPushingIntoWall)
                 {
                     _isWallSliding = true;
                     _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, -_wallSlideSpeed);
@@ -125,7 +192,11 @@ namespace Athena.Player.Movement
 
         private void HandleHorizontalMovement()
         {
-            float targetSpeed = _input.MoveInput.x * _moveSpeed;
+            // ล็อค horizontal input ชั่วคราวหลัง wall jump (กัน player กด ทวนทิศทันที)
+            bool wallJumpInputLocked = Time.time < _wallJumpInputLockEndTime;
+            float inputX = wallJumpInputLocked ? 0f : _input.MoveInput.x;
+
+            float targetSpeed = inputX * _moveSpeed;
             float speedDiff = targetSpeed - _rb.linearVelocity.x;
             float accelRate = (Mathf.Abs(targetSpeed) > 0.01f) ? _acceleration : _deceleration;
             float movement = speedDiff * accelRate * Time.fixedDeltaTime;
@@ -153,11 +224,34 @@ namespace Athena.Player.Movement
 
         public void SetMovementLocked(bool locked)
         {
+            // ถ้าตายแล้ว ห้ามปลดล็อค (กัน knockback coroutine ปลดล็อคหลังตาย)
+            if (_isDead && !locked) return;
+
             _isMovementLocked = locked;
             if (locked)
             {
                 _rb.gravityScale = _defaultGravityScale;
             }
+        }
+
+        /// <summary>
+        /// เรียกเมื่อ Player ตาย — ล็อคการเคลื่อนที่ถาวรจนกว่าจะ Respawn
+        /// </summary>
+        public void OnPlayerDied()
+        {
+            _isDead = true;
+            _isMovementLocked = true;
+            _rb.linearVelocity = Vector2.zero;
+            _rb.gravityScale = _defaultGravityScale;
+        }
+
+        /// <summary>
+        /// เรียกเมื่อ Respawn — ปลดล็อคการเคลื่อนที่
+        /// </summary>
+        public void OnPlayerRespawned()
+        {
+            _isDead = false;
+            _isMovementLocked = false;
         }
 
         public void ApplyDirectVelocity(Vector2 velocity)
@@ -169,6 +263,10 @@ namespace Athena.Player.Movement
         {
             _rb.linearVelocity = Vector2.zero;
         }
+
+        public void StopHorizontalVelocity()
+        {
+            _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+        }
     }
 }
-
