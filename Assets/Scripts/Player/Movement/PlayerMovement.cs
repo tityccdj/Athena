@@ -16,6 +16,7 @@ namespace Athena.Player.Movement
         [SerializeField] private float _baseGravityScale = 1.0f;
         [SerializeField] private float _fallGravityMultiplier = 1.5f;
         [SerializeField] private float _jumpCutMultiplier = 0.5f;
+        [SerializeField] private float _maxFallSpeed = 22f; // จำกัดความเร็วตกสูงสุด ป้องกันการตกทะลุพื้น (Tunneling)
 
         [Header("Wall Slide Settings")]
         [SerializeField] private float _wallSlideSpeed = 2f;
@@ -54,6 +55,10 @@ namespace Athena.Player.Movement
         private void Awake()
         {
             _rb = GetComponent<Rigidbody2D>();
+
+            // ป้องกัน Physics Tunneling (ตกทะลุ Tile เมื่อตกเร็ว)
+            _rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+            _rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
             // Apply platformer base gravity if Rigidbody was on default 1.0
             if (_rb.gravityScale <= 1.0f)
@@ -215,6 +220,12 @@ namespace Athena.Player.Movement
             if (_rb.linearVelocity.y < 0)
             {
                 _rb.gravityScale = _defaultGravityScale * _fallGravityMultiplier;
+
+                // จำกัดความเร็วตกไม่ให้เกินขีดจำกัด (Terminal Velocity)
+                if (_rb.linearVelocity.y < -_maxFallSpeed)
+                {
+                    _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, -_maxFallSpeed);
+                }
             }
             else
             {
