@@ -108,8 +108,20 @@ namespace Athena.Boss.Core
 
         public void SwitchToPhase(int phaseIndex)
         {
+            GameObject prevObj = GetCurrentPhaseObject();
+            Vector3 lastPos = prevObj != null ? prevObj.transform.position : Vector3.zero;
+
             _currentPhase = phaseIndex;
             ActivateCurrentPhaseObject();
+
+            // ให้ตัว Phase ใหม่เกิดตรงจุดที่ตัวเดิมตาย (เพื่อความต่อเนื่องในการต่อสู้)
+            GameObject newObj = GetCurrentPhaseObject();
+            if (newObj != null && prevObj != null)
+            {
+                Transform designatedSpawn = GetCurrentPhaseSpawnPoint();
+                newObj.transform.position = (designatedSpawn != null) ? designatedSpawn.position : lastPos;
+            }
+
             OnPhaseChanged?.Invoke(_currentPhase);
 
             UnityEngine.Debug.Log($"[BossManager] Switched to Phase {_currentPhase}");

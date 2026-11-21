@@ -46,6 +46,10 @@ namespace Athena.Boss.Phase1
         [SerializeField] private float _idleTimeBetweenAttacks = 0.8f;
         [SerializeField] private float _attackRecoveryTime = 0.5f;
 
+        [Header("Phase Transition (Death Animation)")]
+        [Tooltip("ระยะเวลารอให้ท่าตายเล่นจบ ก่อนสลับเป็น Phase 2 (ถ้าใส่ Animation Event 'OnDeathComplete' จะสลับทันที)")]
+        [SerializeField] private float _deathAnimationDuration = 1.4f;
+
         [Header("Attack Hitboxes")]
         [SerializeField] private BossDamageHitbox _frontAttackHitbox;
         [SerializeField] private BossDamageHitbox _spinAttackHitbox;
@@ -58,6 +62,7 @@ namespace Athena.Boss.Phase1
         private BossHealth _health;
         private PlayerController _player;
         private OrcRiderAnimation _anim;
+        private OrcRiderAnimationEventReceiver _eventReceiver;
 
         private OrcBossState _currentState = OrcBossState.Idle;
         private OrcAttackType _pendingAttack = OrcAttackType.None;
@@ -66,6 +71,9 @@ namespace Athena.Boss.Phase1
 
         private float _stateTimer = 0f;
         private int _facingDirection = 1; // 1 = Right, -1 = Left
+        private bool _isDashing = false;
+        private Coroutine _safetyTimeoutCoroutine;
+        private Coroutine _deathTransitionCoroutine;
 
         public OrcBossState CurrentState => _currentState;
         public int FacingDirection => _facingDirection;
@@ -75,6 +83,20 @@ namespace Athena.Boss.Phase1
             _rb = GetComponent<Rigidbody2D>();
             _health = GetComponent<BossHealth>();
             _anim = GetComponentInChildren<OrcRiderAnimation>();
+            _eventReceiver = GetComponentInChildren<OrcRiderAnimationEventReceiver>();
+
+            if (_rb != null)
+            {
+                // ตั้งน้ำหนักให้เยอะมาก และล็อคไม่ให้ Player วิ่งมาชนแล้วดันบอสขยับได้
+                _rb.mass = 5000f;
+                _rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+                SetHorizontalLock(true);
+            }
+
+            if (_eventReceiver != null)
+            {
+                _eventReceiver.Initialize(this, _anim);
+            }
 
             if (_visualTransform == null)
             {
@@ -82,6 +104,23 @@ namespace Athena.Boss.Phase1
             }
 
             _health.OnDefeated += HandleDefeated;
+        }
+
+        /// <summary>
+        /// ล็อคแกน X เพื่อไม่ให้ Player สามารถดันบอสได้ตอนยืนอยู่กับที่
+        /// </summary>
+        private void SetHorizontalLock(bool locked)
+        {
+            if (_rb == null) return;
+            if (locked)
+            {
+                _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+                _rb.constraints = RigidbodyConstraints2D.FreezeRotation | RigidbodyConstraints2D.FreezePositionX;
+            }
+            else
+            {
+                _rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+            }
         }
 
         private void Start()
@@ -125,6 +164,15 @@ namespace Athena.Boss.Phase1
             }
         }
 
+        private void FixedUpdate()
+        {
+            // ถ้ากำลังพุ่ง Dash จาก Animation Event ให้ขับเคลื่อนด้วยความเร็ว Dash
+            if (_currentState == OrcBossState.Attacking && _isDashing)
+            {
+                _rb.linearVelocity = new Vector2(_facingDirection * _dashAttackSpeed, _rb.linearVelocity.y);
+            }
+        }
+
         private void UpdateFacingDirection()
         {
             float diffX = _player.transform.position.x - transform.position.x;
@@ -146,35 +194,47 @@ namespace Athena.Boss.Phase1
             switch (newState)
             {
                 case OrcBossState.Idle:
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+                    _isDashing = false;
+                    SetHorizontalLock(true);
                     if (_anim != null) _anim.PlayIdle();
                     break;
 
                 case OrcBossState.Chase:
+                    _isDashing = false;
+                    SetHorizontalLock(false);
                     if (_anim != null) _anim.PlayWalk();
                     break;
 
                 case OrcBossState.TelegraphCharge:
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
-                    if (_anim != null) _anim.StartTelegraphCharge(_chargeDelay);
-                    StartCoroutine(TelegraphChargeRoutine());
+                    // มีไว้รองรับ Backward compatibility ถ้าต้องการ
+                    _isDashing = false;
+                    SetHorizontalLock(true);
+                    if (_anim != null) _anim.StartTelegraphFlash();
                     break;
 
                 case OrcBossState.Attacking:
-                    StartCoroutine(ExecuteAttackRoutine(_pendingAttack));
+                    _isDashing = false;
+                    SetHorizontalLock(true); // ล็อคตำแหน่งระหว่างชาร์จเตือน
+                    ExecuteAttackAnimation(_pendingAttack);
                     break;
 
                 case OrcBossState.Recovery:
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+                    _isDashing = false;
+                    SetHorizontalLock(true);
                     if (_anim != null) _anim.PlayIdle();
                     StartCoroutine(RecoveryRoutine());
                     break;
 
                 case OrcBossState.Defeated:
-                    _rb.linearVelocity = Vector2.zero;
+                    _isDashing = false;
+                    SetHorizontalLock(true);
                     StopAllCoroutines();
                     CloseAllHitboxes();
-                    if (_anim != null) _anim.PlayDeath();
+                    if (_anim != null)
+                    {
+                        _anim.StopTelegraph();
+                        _anim.PlayDeath();
+                    }
                     break;
             }
         }
@@ -260,71 +320,114 @@ namespace Athena.Boss.Phase1
 
             _pendingAttack = chosen;
 
-            // GDD: ทุกท่าจะต้องมี Delay Charge 1 วินาทีก่อนเสมอ (Telegraphing)
-            SetState(OrcBossState.TelegraphCharge);
+            // สั่งเล่น Animation ทันที (Telegraph Charge + Hitbox จะถูกควบคุมผ่าน Animation Events)
+            SetState(OrcBossState.Attacking);
         }
 
-        private IEnumerator TelegraphChargeRoutine()
+        private void ExecuteAttackAnimation(OrcAttackType attackType)
         {
-            yield return new WaitForSeconds(_chargeDelay);
-
-            if (_currentState == OrcBossState.TelegraphCharge)
+            if (_anim != null)
             {
-                SetState(OrcBossState.Attacking);
+                _anim.StartTelegraphFlash(); // เริ่มกะพริบชาร์จเตือนทันที
+
+                switch (attackType)
+                {
+                    case OrcAttackType.DashAttack:
+                        _anim.PlayAttack01_Dash();
+                        break;
+                    case OrcAttackType.FrontCleave:
+                        _anim.PlayAttack02_Front();
+                        break;
+                    case OrcAttackType.SpinAttack:
+                        _anim.PlayAttack03_Spin();
+                        break;
+                }
+            }
+
+            // Safety Timeout: กันบอสค้างกรณีที่ Animation Clip ยังไม่ได้ใส่ OnAttackComplete
+            if (_safetyTimeoutCoroutine != null) StopCoroutine(_safetyTimeoutCoroutine);
+            _safetyTimeoutCoroutine = StartCoroutine(AttackSafetyTimeoutRoutine(3.5f));
+        }
+
+        private IEnumerator AttackSafetyTimeoutRoutine(float maxDuration)
+        {
+            yield return new WaitForSeconds(maxDuration);
+            if (_currentState == OrcBossState.Attacking)
+            {
+                UnityEngine.Debug.LogWarning("[OrcRiderBossController] Attack animation timed out! Did you forget to add 'OnAttackComplete' event?");
+                AnimEvent_OnAttackComplete();
             }
         }
 
-        private IEnumerator ExecuteAttackRoutine(OrcAttackType attackType)
+        // ─── Methods called by OrcRiderAnimationEventReceiver (Animation Events) ───────
+
+        /// <summary>
+        /// Animation Event: สิ้นสุดช่วงชาร์จเตือน หยุดกะพริบ (และเริ่มพุ่งตัวสำหรับท่า Dash)
+        /// </summary>
+        public void AnimEvent_OnTelegraphEnd()
         {
-            int attackDir = _facingDirection;
+            if (_currentState != OrcBossState.Attacking) return;
+            if (_anim != null) _anim.StopTelegraph();
 
-            switch (attackType)
+            // สำหรับท่า Dash Attack: ปลดล็อค X และเริ่มพุ่งตัวไปข้างหน้า
+            if (_pendingAttack == OrcAttackType.DashAttack)
             {
-                case OrcAttackType.DashAttack:
-                    // ท่า 1: Dash พุ่งเข้าใส่ด้วยความเร็วสูง
-                    if (_anim != null) _anim.PlayAttack01_Dash();
-                    if (_frontAttackHitbox != null) _frontAttackHitbox.OpenHitbox();
-
-                    float dashTimer = 0f;
-                    float dashDuration = 0.45f;
-                    while (dashTimer < dashDuration)
-                    {
-                        _rb.linearVelocity = new Vector2(attackDir * _dashAttackSpeed, _rb.linearVelocity.y);
-                        dashTimer += Time.deltaTime;
-                        yield return null;
-                    }
-
-                    if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
-                    break;
-
-                case OrcAttackType.FrontCleave:
-                    // ท่า 2: ฟันกวาดด้านหน้า
-                    if (_anim != null) _anim.PlayAttack02_Front();
-
-                    // เลื่อนไปข้างหน้านิดหน่อยตอนฟัน
-                    _rb.linearVelocity = new Vector2(attackDir * 2f, _rb.linearVelocity.y);
-                    yield return new WaitForSeconds(0.15f);
-
-                    if (_frontAttackHitbox != null) _frontAttackHitbox.OpenHitbox();
-                    yield return new WaitForSeconds(0.35f);
-                    if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
-
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
-                    break;
-
-                case OrcAttackType.SpinAttack:
-                    // ท่า 3: หมุนฟันรอบตัว
-                    if (_anim != null) _anim.PlayAttack03_Spin();
-
-                    yield return new WaitForSeconds(0.15f);
-                    if (_spinAttackHitbox != null) _spinAttackHitbox.OpenHitbox();
-                    yield return new WaitForSeconds(0.4f);
-                    if (_spinAttackHitbox != null) _spinAttackHitbox.CloseHitbox();
-
-                    _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
-                    break;
+                SetHorizontalLock(false);
+                _isDashing = true;
+                _rb.linearVelocity = new Vector2(_facingDirection * _dashAttackSpeed, _rb.linearVelocity.y);
             }
+            else if (_pendingAttack == OrcAttackType.FrontCleave)
+            {
+                SetHorizontalLock(false);
+                // ขยับก้าวไปข้างหน้านิดหน่อยตอนฟัน
+                _rb.linearVelocity = new Vector2(_facingDirection * 2f, _rb.linearVelocity.y);
+            }
+        }
+
+        /// <summary>
+        /// Animation Event: เปิดใช้งาน Hitbox ในช่วงที่ฟันโดน
+        /// </summary>
+        public void AnimEvent_OpenHitbox()
+        {
+            if (_currentState != OrcBossState.Attacking) return;
+
+            if (_pendingAttack == OrcAttackType.SpinAttack)
+            {
+                if (_spinAttackHitbox != null) _spinAttackHitbox.OpenHitbox();
+            }
+            else
+            {
+                if (_frontAttackHitbox != null) _frontAttackHitbox.OpenHitbox();
+            }
+        }
+
+        /// <summary>
+        /// Animation Event: ปิดใช้งาน Hitbox เมื่อฟันเสร็จ
+        /// </summary>
+        public void AnimEvent_CloseHitbox()
+        {
+            CloseAllHitboxes();
+            _isDashing = false;
+            SetHorizontalLock(true);
+        }
+
+        /// <summary>
+        /// Animation Event: จบท่าโจมตี เข้าสู่จังหวะ Recovery
+        /// </summary>
+        public void AnimEvent_OnAttackComplete()
+        {
+            if (_currentState != OrcBossState.Attacking) return;
+
+            if (_safetyTimeoutCoroutine != null)
+            {
+                StopCoroutine(_safetyTimeoutCoroutine);
+                _safetyTimeoutCoroutine = null;
+            }
+
+            _isDashing = false;
+            SetHorizontalLock(true);
+            CloseAllHitboxes();
+            if (_anim != null) _anim.StopTelegraph();
 
             SetState(OrcBossState.Recovery);
         }
@@ -348,12 +451,80 @@ namespace Athena.Boss.Phase1
         private void HandleDefeated()
         {
             SetState(OrcBossState.Defeated);
+            if (_deathTransitionCoroutine != null) StopCoroutine(_deathTransitionCoroutine);
+            _deathTransitionCoroutine = StartCoroutine(DefeatedTransitionRoutine());
+        }
 
-            // แจ้งเตือน BossManager เพื่อเตรียมเปลี่ยนเฟส
+        private IEnumerator DefeatedTransitionRoutine()
+        {
+            SetHorizontalLock(true);
+            CloseAllHitboxes();
+            if (_anim != null)
+            {
+                _anim.StopTelegraph();
+                _anim.PlayDeath();
+            }
+
+            // รอให้อนิเมชั่นตายเล่นจบตามระยะเวลาที่กำหนด (Fallback กรณีไม่ได้ใส่ Animation Event)
+            yield return new WaitForSeconds(_deathAnimationDuration);
+
+            TriggerPhaseAdvance();
+        }
+
+        /// <summary>
+        /// Animation Event: เล่นอนิเมชั่นตายจบแล้ว สั่งเปลี่ยนเฟสทันที
+        /// </summary>
+        public void AnimEvent_OnDeathComplete()
+        {
+            if (_deathTransitionCoroutine != null)
+            {
+                StopCoroutine(_deathTransitionCoroutine);
+                _deathTransitionCoroutine = null;
+            }
+
+            TriggerPhaseAdvance();
+        }
+
+        private void TriggerPhaseAdvance()
+        {
+            UnityEngine.Debug.Log("[OrcRiderBossController] Phase 1 Death completed! Transitioning to Phase 2...");
+
             if (BossManager.Instance != null)
             {
                 BossManager.Instance.AdvanceToNextPhase();
             }
+        }
+
+        private void OnDrawGizmosSelected()
+        {
+            Vector3 center = transform.position;
+
+            // วาดเส้นและวงกลม Melee Range
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(center, _meleeRange);
+
+            // วาดขอบเขตระยะประชิดแนวนอน (ซ้าย-ขวา)
+            Gizmos.color = new Color(1f, 0.4f, 0f, 0.9f);
+            Gizmos.DrawLine(center + Vector3.left * _meleeRange + Vector3.up * 2f, center + Vector3.left * _meleeRange + Vector3.down * 0.5f);
+            Gizmos.DrawLine(center + Vector3.right * _meleeRange + Vector3.up * 2f, center + Vector3.right * _meleeRange + Vector3.down * 0.5f);
+            Gizmos.DrawLine(center + Vector3.left * _meleeRange, center + Vector3.right * _meleeRange);
+
+            #if UNITY_EDITOR
+            // วาดพื้นที่แรเงาสีแดงโปร่งแสงใน Scene view
+            UnityEditor.Handles.color = new Color(1f, 0f, 0f, 0.08f);
+            UnityEditor.Handles.DrawSolidDisc(center, Vector3.forward, _meleeRange);
+
+            UnityEditor.Handles.color = new Color(1f, 0.2f, 0.2f, 0.8f);
+            UnityEditor.Handles.DrawWireDisc(center, Vector3.forward, _meleeRange);
+
+            GUIStyle labelStyle = new GUIStyle
+            {
+                normal = { textColor = Color.yellow },
+                fontSize = 11,
+                fontStyle = FontStyle.Bold
+            };
+            UnityEditor.Handles.Label(center + Vector3.up * (_meleeRange + 0.4f), $"Melee Range: {_meleeRange:F1}m", labelStyle);
+            #endif
         }
     }
 }

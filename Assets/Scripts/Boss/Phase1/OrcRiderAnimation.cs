@@ -75,29 +75,37 @@ namespace Athena.Boss.Phase1
 
         public void StartTelegraphCharge(float duration)
         {
+            StartTelegraphFlash();
+            if (duration > 0f)
+            {
+                _telegraphCoroutine = StartCoroutine(TelegraphFlashDurationRoutine(duration));
+            }
+        }
+
+        /// <summary>
+        /// เริ่มกะพริบชาร์จเตือน (Telegraph) แบบต่อเนื่องจนกว่าจะสั่งหยุด
+        /// </summary>
+        public void StartTelegraphFlash()
+        {
             StopTelegraph();
-            PlayState(_idleHash); // ท่ายืนเตรียมพร้อมชาร์จ
             if (_spriteRenderer != null)
             {
-                _telegraphCoroutine = StartCoroutine(TelegraphFlashRoutine(duration));
+                _telegraphCoroutine = StartCoroutine(ContinuousTelegraphFlashRoutine());
             }
         }
 
         public void PlayAttack01_Dash()
         {
-            StopTelegraph();
             PlayState(_attack01Hash, force: true);
         }
 
         public void PlayAttack02_Front()
         {
-            StopTelegraph();
             PlayState(_attack02Hash, force: true);
         }
 
         public void PlayAttack03_Spin()
         {
-            StopTelegraph();
             PlayState(_attack03Hash, force: true);
         }
 
@@ -122,7 +130,10 @@ namespace Athena.Boss.Phase1
             }
         }
 
-        private void StopTelegraph()
+        /// <summary>
+        /// หยุดเอฟเฟกต์กะพริบชาร์จเตือน และคืนสีเดิม
+        /// </summary>
+        public void StopTelegraph()
         {
             if (_telegraphCoroutine != null)
             {
@@ -136,7 +147,18 @@ namespace Athena.Boss.Phase1
             }
         }
 
-        private IEnumerator TelegraphFlashRoutine(float duration)
+        private IEnumerator ContinuousTelegraphFlashRoutine()
+        {
+            bool isToggled = false;
+            while (true)
+            {
+                _spriteRenderer.color = isToggled ? _telegraphColor : _originalColor;
+                isToggled = !isToggled;
+                yield return new WaitForSeconds(_flashInterval);
+            }
+        }
+
+        private IEnumerator TelegraphFlashDurationRoutine(float duration)
         {
             float elapsed = 0f;
             bool isToggled = false;

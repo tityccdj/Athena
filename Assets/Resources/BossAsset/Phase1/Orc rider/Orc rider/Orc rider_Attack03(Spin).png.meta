@@ -143,243 +143,243 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Orc rider_Attack03_0
+      name: Orc rider_Attack03(Spin)_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 42
-        width: 34
-        height: 30
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c899b5453e67b0b20800000000000000
-      internalID: 3101703487119661452
+      spriteID: f4e620ca84a0cc34ca4393568f00c927
+      internalID: 33878399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_1
+      name: Orc rider_Attack03(Spin)_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 42
-        width: 33
-        height: 31
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 85186ab9d5cd4b0b0800000000000000
-      internalID: -5713699732624866984
+      spriteID: 781510e954c5f6e45a438e0f051d9641
+      internalID: 1311212311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_2
+      name: Orc rider_Attack03(Spin)_2
       rect:
         serializedVersion: 2
-        x: 236
-        y: 42
-        width: 33
-        height: 35
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc2704f201f136270800000000000000
-      internalID: 8242465897390830284
+      spriteID: 38a21ce2488cb2048bbc71671eb3ff63
+      internalID: -1535485678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_3
+      name: Orc rider_Attack03(Spin)_3
       rect:
         serializedVersion: 2
-        x: 336
-        y: 42
-        width: 34
-        height: 42
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46bc0661f486e42f0800000000000000
-      internalID: -986736579460412572
+      spriteID: 46b0261197d633d4aa74e9dbd20d5183
+      internalID: 887714794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_4
+      name: Orc rider_Attack03(Spin)_4
       rect:
         serializedVersion: 2
-        x: 436
-        y: 42
-        width: 40
-        height: 40
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 70085cd13a5cb6720800000000000000
-      internalID: 2840581294357053447
+      spriteID: f48696d781176ce4e8dd8ac7ed7a38b5
+      internalID: 903967171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_5
+      name: Orc rider_Attack03(Spin)_5
       rect:
         serializedVersion: 2
-        x: 536
-        y: 42
-        width: 59
-        height: 29
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bf2dd7a0bbe34aae0800000000000000
-      internalID: -1539036199598042373
+      spriteID: 3c09d3784202afe47a2d68d7b9932be8
+      internalID: 59568091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_6
+      name: Orc rider_Attack03(Spin)_6
       rect:
         serializedVersion: 2
-        x: 608
-        y: 42
-        width: 87
-        height: 29
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 06240942b600b9100800000000000000
-      internalID: 115686675603014240
+      spriteID: adc46d7bea7f10f4180801aef750be4a
+      internalID: -1886119594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_7
+      name: Orc rider_Attack03(Spin)_7
       rect:
         serializedVersion: 2
-        x: 708
-        y: 42
-        width: 61
-        height: 29
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 83dd45e91424c7870800000000000000
-      internalID: 8681887031260142904
+      spriteID: 9a13033305d72f34c878fd72ca46a75c
+      internalID: 313613317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_8
+      name: Orc rider_Attack03(Spin)_8
       rect:
         serializedVersion: 2
-        x: 811
-        y: 42
-        width: 60
-        height: 29
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc6c2eab669aafc80800000000000000
-      internalID: -8288125905534794035
+      spriteID: ba4a464d4eb82bb4ab02c8f6e3192691
+      internalID: -600368049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_9
+      name: Orc rider_Attack03(Spin)_9
       rect:
         serializedVersion: 2
-        x: 936
-        y: 42
-        width: 59
-        height: 29
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 79a0b6504cbe839e0800000000000000
-      internalID: -1641302837039527273
+      spriteID: f36f2f93c1c60494eb3d6b0d5cad7a82
+      internalID: 737549692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc rider_Attack03_10
+      name: Orc rider_Attack03(Spin)_10
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 42
-        width: 33
-        height: 29
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d67ce4166c1ae5c0800000000000000
-      internalID: -4185501678924171563
+      spriteID: e95797bfe1fb459469f07d7729409176
+      internalID: 1550707268
       vertices: []
       indices: 
       edges: []
@@ -388,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cff7ea0121664064898681c2bdc9415f
     internalID: 0
     vertices: []
     indices: 
@@ -398,17 +398,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Orc rider_Attack03_0: 3101703487119661452
-      Orc rider_Attack03_1: -5713699732624866984
-      Orc rider_Attack03_10: -4185501678924171563
-      Orc rider_Attack03_2: 8242465897390830284
-      Orc rider_Attack03_3: -986736579460412572
-      Orc rider_Attack03_4: 2840581294357053447
-      Orc rider_Attack03_5: -1539036199598042373
-      Orc rider_Attack03_6: 115686675603014240
-      Orc rider_Attack03_7: 8681887031260142904
-      Orc rider_Attack03_8: -8288125905534794035
-      Orc rider_Attack03_9: -1641302837039527273
+      Orc rider_Attack03(Spin)_0: 33878399
+      Orc rider_Attack03(Spin)_1: 1311212311
+      Orc rider_Attack03(Spin)_10: 1550707268
+      Orc rider_Attack03(Spin)_2: -1535485678
+      Orc rider_Attack03(Spin)_3: 887714794
+      Orc rider_Attack03(Spin)_4: 903967171
+      Orc rider_Attack03(Spin)_5: 59568091
+      Orc rider_Attack03(Spin)_6: -1886119594
+      Orc rider_Attack03(Spin)_7: 313613317
+      Orc rider_Attack03(Spin)_8: -600368049
+      Orc rider_Attack03(Spin)_9: 737549692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -118,5 +118,19 @@ namespace Athena.Boss.Core
 
             UnityEngine.Debug.Log($"[BossDamageHitbox] Hit {target.name} for {_damage} DMG! (Type: {_hitboxType})");
         }
+
+        private void OnDrawGizmosSelected()
+        {
+            Collider2D col = _collider != null ? _collider : GetComponent<Collider2D>();
+            if (col == null) return;
+
+            // สีแดง = ActiveAttack, สีส้ม = BodyContact
+            Gizmos.color = (_hitboxType == BossHitboxType.ActiveAttack)
+                ? new Color(1f, 0f, 0f, 0.5f)
+                : new Color(1f, 0.5f, 0f, 0.35f);
+
+            Gizmos.DrawCube(col.bounds.center, col.bounds.size);
+            Gizmos.DrawWireCube(col.bounds.center, col.bounds.size);
+        }
     }
 }
