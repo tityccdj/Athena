@@ -126,6 +126,7 @@ namespace Athena.Boss.Phase1
         private void Start()
         {
             _player = FindFirstObjectByType<PlayerController>();
+            _frontAttackHitbox?.UpdateFacing(_facingDirection);
             SetState(OrcBossState.Idle);
         }
 
@@ -183,6 +184,8 @@ namespace Athena.Boss.Phase1
                 float sign = _spriteFacesRightByDefault ? _facingDirection : -_facingDirection;
                 scale.x = Mathf.Abs(scale.x) * sign;
                 _visualTransform.localScale = scale;
+
+                _frontAttackHitbox?.UpdateFacing(_facingDirection);
             }
         }
 
@@ -397,7 +400,11 @@ namespace Athena.Boss.Phase1
             }
             else
             {
-                if (_frontAttackHitbox != null) _frontAttackHitbox.OpenHitbox();
+                if (_frontAttackHitbox != null)
+                {
+                    _frontAttackHitbox.UpdateFacing(_facingDirection);
+                    _frontAttackHitbox.OpenHitbox();
+                }
             }
         }
 

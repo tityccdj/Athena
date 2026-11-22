@@ -31,11 +31,15 @@ namespace Athena.Boss.Core
         private bool _isActive = false;
         private readonly HashSet<IDamageable> _hitEntitiesThisAttack = new HashSet<IDamageable>();
 
+        private float _initialLocalPosX;
+        private float _initialColliderOffsetX;
+        private bool _isOffsetInitialized = false;
+
         public bool IsActive => _isActive;
 
         private void Awake()
         {
-            _collider = GetComponent<Collider2D>();
+            InitializeOffsets();
 
             if (_hitboxType == BossHitboxType.BodyContact)
             {
@@ -46,6 +50,45 @@ namespace Athena.Boss.Core
                 // ActiveAttack เริ่มต้นปิดไว้
                 _isActive = false;
                 if (_collider != null) _collider.enabled = false;
+            }
+        }
+
+        private void InitializeOffsets()
+        {
+            if (_isOffsetInitialized) return;
+            _collider = GetComponent<Collider2D>();
+
+            // จดจำระยะห่างเริ่มต้นด้านบวกไว้ สำหรับพลิกซ้าย-ขวา
+            _initialLocalPosX = Mathf.Abs(transform.localPosition.x);
+            if (_collider != null)
+            {
+                _initialColliderOffsetX = Mathf.Abs(_collider.offset.x);
+            }
+            _isOffsetInitialized = true;
+        }
+
+        /// <summary>
+        /// พลิกตำแหน่งและ Offset ของ Hitbox ตามทิศทางการหันหน้าของบอส (1 = ขวา, -1 = ซ้าย)
+        /// </summary>
+        public void UpdateFacing(int facingDirection)
+        {
+            if (facingDirection == 0) return;
+            InitializeOffsets();
+
+            // 1. พลิก Local Position X ของ GameObject
+            if (_initialLocalPosX > 0.001f)
+            {
+                Vector3 pos = transform.localPosition;
+                pos.x = _initialLocalPosX * facingDirection;
+                transform.localPosition = pos;
+            }
+
+            // 2. พลิก Offset X ของ Collider2D
+            if (_collider != null && _initialColliderOffsetX > 0.001f)
+            {
+                Vector2 offset = _collider.offset;
+                offset.x = _initialColliderOffsetX * facingDirection;
+                _collider.offset = offset;
             }
         }
 
@@ -117,6 +160,17 @@ namespace Athena.Boss.Core
             damageable.TakeDamage(info);
 
             UnityEngine.Debug.Log($"[BossDamageHitbox] Hit {target.name} for {_damage} DMG! (Type: {_hitboxType})");
+        }
+
+        private void OnDrawGizmos()
+        {
+            if (!_isActive) return;
+            Collider2D col = _collider != null ? _collider : GetComponent<Collider2D>();
+            if (col == null) return;
+
+            Gizmos.color = new Color(1f, 0f, 0f, 0.75f);
+            Gizmos.DrawCube(col.bounds.center, col.bounds.size);
+            Gizmos.DrawWireCube(col.bounds.center, col.bounds.size);
         }
 
         private void OnDrawGizmosSelected()

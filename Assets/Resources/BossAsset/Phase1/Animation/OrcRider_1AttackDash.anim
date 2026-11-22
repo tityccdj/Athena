@@ -99,13 +99,6 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 1.1666666
-    functionName: OnHitboxOpen
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 1.1666666
     functionName: OnTelegraphEnd
     data: 
     objectReferenceParameter: {fileID: 0}
@@ -114,13 +107,6 @@ AnimationClip:
     messageOptions: 0
   - time: 1.5833334
     functionName: OnAttackComplete
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 1.5833334
-    functionName: OnHitboxClose
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
