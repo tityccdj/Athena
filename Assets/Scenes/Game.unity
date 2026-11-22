@@ -420,7 +420,7 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1
   _contactCooldown: 0.6
 --- !u!61 &402280577
 BoxCollider2D:
@@ -12662,7 +12662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playIntroOnStart: 1
-  _introDuration: 4
+  _introDuration: 10
   _walkSpeed: 6
   _meleeRange: 2.98
   _tornadoMovementMode: 3
@@ -13582,10 +13582,10 @@ GameObject:
   - component: {fileID: 956202958}
   - component: {fileID: 956202957}
   - component: {fileID: 956202955}
-  - component: {fileID: 956202954}
   - component: {fileID: 956202953}
   - component: {fileID: 956202959}
   - component: {fileID: 956202960}
+  - component: {fileID: 956202961}
   m_Layer: 8
   m_Name: Boss_Phase1_OrcRider
   m_TagString: Untagged
@@ -13611,30 +13611,11 @@ MonoBehaviour:
   _chargeDelay: 1
   _idleTimeBetweenAttacks: 2
   _attackRecoveryTime: 0.5
-  _deathAnimationDuration: 6
+  _deathAnimationDuration: 10
   _frontAttackHitbox: {fileID: 527777067}
   _spinAttackHitbox: {fileID: 402280576}
   _visualTransform: {fileID: 1503151049}
   _spriteFacesRightByDefault: 1
---- !u!114 &956202954
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 956202952}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _hitboxType: 0
-  _damage: 1
-  _knockbackForce: 6
-  _targetLayer:
-    serializedVersion: 2
-    m_Bits: 1
-  _contactCooldown: 0.6
 --- !u!114 &956202955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13770,6 +13751,25 @@ CapsuleCollider2D:
   m_Offset: {x: 0.14336395, y: 0.7168249}
   m_Size: {x: 1.3442612, y: 2.4336498}
   m_Direction: 0
+--- !u!114 &956202961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956202952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hitboxType: 0
+  _damage: 1
+  _knockbackForce: 6
+  _targetLayer:
+    serializedVersion: 2
+    m_Bits: 1
+  _contactCooldown: 0.6
 --- !u!1 &1203574023
 GameObject:
   m_ObjectHideFlags: 0

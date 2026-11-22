@@ -51,6 +51,9 @@ namespace Athena.Player.Movement
         {
             if (_input == null || _movement == null) return;
 
+            // ห้าม Dash ถ้าตายแล้ว
+            if (_health != null && _health.CurrentHealth <= 0) return;
+
             if (!_isDashing && Time.time >= _lastDashTime + _dashCooldown)
             {
                 if (_input.ConsumeDashBuffer())

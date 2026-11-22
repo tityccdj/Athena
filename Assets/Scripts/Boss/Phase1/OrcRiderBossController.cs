@@ -504,15 +504,14 @@ namespace Athena.Boss.Phase1
             }
         }
 
+        /// <summary>
+        /// ปิดเฉพาะ Attack Hitbox (ActiveAttack) เท่านั้น
+        /// ห้ามปิด BodyContact เพราะมันต้องทำ contact damage ตลอดเวลา
+        /// </summary>
         private void CloseAllHitboxes()
         {
             if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
             if (_spinAttackHitbox != null) _spinAttackHitbox.CloseHitbox();
-            BossDamageHitbox[] hitboxes = GetComponents<BossDamageHitbox>();
-            foreach (var hb in hitboxes)
-            {
-                hb.CloseHitbox();
-            }
         }
 
         private void HandleDefeated()
