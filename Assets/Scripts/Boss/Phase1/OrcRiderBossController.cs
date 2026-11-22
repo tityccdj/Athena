@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Athena.Core;
 using Athena.Boss.Core;
 using Athena.Player;
 using UnityEngine;
@@ -109,6 +110,15 @@ namespace Athena.Boss.Phase1
         /// <summary>
         /// ล็อคแกน X เพื่อไม่ให้ Player สามารถดันบอสได้ตอนยืนอยู่กับที่
         /// </summary>
+        [ContextMenu("Debug: Kill Phase 1 (Instant 0 HP)")]
+        public void DebugKillPhase1()
+        {
+            if (_health != null)
+            {
+                _health.TakeDamage(new DamageInfo(9999, transform.position, Vector2.zero, 0f, gameObject));
+            }
+        }
+
         private void SetHorizontalLock(bool locked)
         {
             if (_rb == null) return;
@@ -127,7 +137,26 @@ namespace Athena.Boss.Phase1
         {
             _player = FindFirstObjectByType<PlayerController>();
             _frontAttackHitbox?.UpdateFacing(_facingDirection);
+            ResetPhysicsState();
             SetState(OrcBossState.Idle);
+        }
+
+        private void ResetPhysicsState()
+        {
+            if (_rb != null)
+            {
+                _rb.bodyType = RigidbodyType2D.Dynamic;
+                _rb.simulated = true;
+                _rb.mass = 5000f;
+                _rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+                SetHorizontalLock(true);
+            }
+
+            Collider2D[] colliders = GetComponents<Collider2D>();
+            foreach (var col in colliders)
+            {
+                col.enabled = true;
+            }
         }
 
         private void OnDestroy()
@@ -140,6 +169,15 @@ namespace Athena.Boss.Phase1
 
         private void Update()
         {
+#if UNITY_EDITOR
+            // ปุ่มลัดสำหรับฆ่า Phase 1 ทันที เพื่อทดสอบดูแอนิเมชันตาย + การเปลี่ยนเข้า Phase 2
+            if (Input.GetKeyDown(KeyCode.K))
+            {
+                DebugKillPhase1();
+                return;
+            }
+#endif
+
             if (_currentState == OrcBossState.Defeated) return;
             if (_player == null)
             {
@@ -230,9 +268,26 @@ namespace Athena.Boss.Phase1
 
                 case OrcBossState.Defeated:
                     _isDashing = false;
-                    SetHorizontalLock(true);
                     StopAllCoroutines();
                     CloseAllHitboxes();
+
+                    // ล็อคตำแหน่งให้อยู่กับที่ และเปลี่ยนเป็น Kinematic/ปิด Simulated ทันที
+                    // เพื่อไม่ให้ Gravity ดึงร่างบอสตกทะลุพื้น Tilemap
+                    if (_rb != null)
+                    {
+                        _rb.linearVelocity = Vector2.zero;
+                        _rb.constraints = RigidbodyConstraints2D.FreezeAll;
+                        _rb.bodyType = RigidbodyType2D.Kinematic;
+                        _rb.simulated = false;
+                    }
+
+                    // ปิด Collider ทางกายภาพ เพื่อให้ Player เดินผ่านร่างที่นอนอยู่ได้โดยไม่ติด
+                    Collider2D[] colliders = GetComponents<Collider2D>();
+                    foreach (var col in colliders)
+                    {
+                        col.enabled = false;
+                    }
+
                     if (_anim != null)
                     {
                         _anim.StopTelegraph();
@@ -453,6 +508,11 @@ namespace Athena.Boss.Phase1
         {
             if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
             if (_spinAttackHitbox != null) _spinAttackHitbox.CloseHitbox();
+            BossDamageHitbox[] hitboxes = GetComponents<BossDamageHitbox>();
+            foreach (var hb in hitboxes)
+            {
+                hb.CloseHitbox();
+            }
         }
 
         private void HandleDefeated()

@@ -68,6 +68,34 @@ namespace Athena.Boss.Core
             }
         }
 
+        private void Update()
+        {
+#if UNITY_EDITOR
+            // ปุ่มลัดสำหรับทดสอบสลับ Phase ได้ทันทีใน Editor
+            if (Input.GetKeyDown(KeyCode.F1))
+            {
+                SwitchToPhase(1);
+            }
+            else if (Input.GetKeyDown(KeyCode.F2))
+            {
+                SwitchToPhase(2);
+            }
+            else if (Input.GetKeyDown(KeyCode.F3))
+            {
+                SwitchToPhase(3);
+            }
+#endif
+        }
+
+        [ContextMenu("Debug: Switch to Phase 1")]
+        public void DebugSwitchToPhase1() => SwitchToPhase(1);
+
+        [ContextMenu("Debug: Switch to Phase 2")]
+        public void DebugSwitchToPhase2() => SwitchToPhase(2);
+
+        [ContextMenu("Debug: Switch to Phase 3")]
+        public void DebugSwitchToPhase3() => SwitchToPhase(3);
+
         /// <summary>
         /// เริ่มต้นการต่อสู้กับบอส (เช่น เมื่อ Player เดินเข้าห้องบอส)
         /// </summary>
@@ -112,19 +140,43 @@ namespace Athena.Boss.Core
             Vector3 lastPos = prevObj != null ? prevObj.transform.position : Vector3.zero;
 
             _currentPhase = phaseIndex;
-            ActivateCurrentPhaseObject();
 
-            // ให้ตัว Phase ใหม่เกิดตรงจุดที่ตัวเดิมตาย (เพื่อความต่อเนื่องในการต่อสู้)
-            GameObject newObj = GetCurrentPhaseObject();
-            if (newObj != null && prevObj != null)
+            // เมื่อเปลี่ยนจาก Phase 1 ไป 2 ให้คง Phase 1 ไว้ก่อนจนกว่า Phase 2 จะเล่น Intro เสร็จ
+            if (phaseIndex == 2 && _phase1Object != null)
             {
-                Transform designatedSpawn = GetCurrentPhaseSpawnPoint();
-                newObj.transform.position = (designatedSpawn != null) ? designatedSpawn.position : lastPos;
+                if (_phase2Object != null)
+                {
+                    _phase2Object.SetActive(true);
+                    Transform designatedSpawn = GetCurrentPhaseSpawnPoint();
+                    _phase2Object.transform.position = (designatedSpawn != null) ? designatedSpawn.position : lastPos;
+                }
+            }
+            else
+            {
+                ActivateCurrentPhaseObject();
+                GameObject newObj = GetCurrentPhaseObject();
+                if (newObj != null && prevObj != null)
+                {
+                    Transform designatedSpawn = GetCurrentPhaseSpawnPoint();
+                    newObj.transform.position = (designatedSpawn != null) ? designatedSpawn.position : lastPos;
+                }
             }
 
             OnPhaseChanged?.Invoke(_currentPhase);
 
             UnityEngine.Debug.Log($"[BossManager] Switched to Phase {_currentPhase}");
+        }
+
+        /// <summary>
+        /// เรียกเมื่อ Phase 2 เล่น Intro Animation เสร็จสมบูรณ์ -> ทำการปิด GameObject ของ Phase 1
+        /// </summary>
+        public void OnPhase2IntroComplete()
+        {
+            if (_phase1Object != null)
+            {
+                _phase1Object.SetActive(false);
+                UnityEngine.Debug.Log("[BossManager] Phase 2 Intro completed -> Phase 1 object deactivated.");
+            }
         }
 
         private void ActivateCurrentPhaseObject()
@@ -140,6 +192,12 @@ namespace Athena.Boss.Core
         private void HandlePlayerDeath()
         {
             if (!_isFightActive) return;
+
+            // ตรวจสอบให้แน่ใจว่า Phase 1 ปิดอยู่เมื่อเกิดใหม่ใน Phase 2
+            if (_currentPhase == 2 && _phase1Object != null)
+            {
+                _phase1Object.SetActive(false);
+            }
 
             UnityEngine.Debug.Log($"[BossManager] Player died! Resetting Boss Phase {_currentPhase} to full HP...");
 

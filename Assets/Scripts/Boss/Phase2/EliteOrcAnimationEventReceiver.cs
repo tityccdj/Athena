@@ -65,6 +65,11 @@ namespace Athena.Boss.Phase2
             _controller?.AnimEvent_OnAttackComplete();
         }
 
+        public void OnIntroComplete()
+        {
+            _controller?.AnimEvent_OnIntroComplete();
+        }
+
         public void OnDeathComplete()
         {
             _controller?.AnimEvent_OnDeathComplete();

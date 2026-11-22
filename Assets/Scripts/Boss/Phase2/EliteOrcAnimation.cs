@@ -9,6 +9,7 @@ namespace Athena.Boss.Phase2
     public class EliteOrcAnimation : MonoBehaviour
     {
         [Header("Animator State Names")]
+        [SerializeField] private string _startState = "EliteOrc_Start";
         [SerializeField] private string _idleState = "Idle";
         [SerializeField] private string _walkState = "Walk";
         [SerializeField] private string _attack01State = "Attack01";
@@ -26,6 +27,7 @@ namespace Athena.Boss.Phase2
         private Color _originalColor;
         private Coroutine _telegraphCoroutine;
 
+        private int _startHash;
         private int _idleHash;
         private int _walkHash;
         private int _attack01Hash;
@@ -36,6 +38,13 @@ namespace Athena.Boss.Phase2
 
         private void Awake()
         {
+            EnsureInitialized();
+        }
+
+        private void EnsureInitialized()
+        {
+            if (_animator != null) return;
+
             _animator = GetComponent<Animator>();
             if (_spriteRenderer == null)
             {
@@ -52,6 +61,7 @@ namespace Athena.Boss.Phase2
 
         private void InitializeHashes()
         {
+            _startHash = Animator.StringToHash(_startState);
             _idleHash = Animator.StringToHash(_idleState);
             _walkHash = Animator.StringToHash(_walkState);
             _attack01Hash = Animator.StringToHash(_attack01State);
@@ -59,6 +69,12 @@ namespace Athena.Boss.Phase2
             _attack03Hash = Animator.StringToHash(_attack03State);
             _hurtHash = Animator.StringToHash(_hurtState);
             _deathHash = Animator.StringToHash(_deathState);
+        }
+
+        public void PlayStart()
+        {
+            StopTelegraph();
+            PlayState(_startHash, force: true);
         }
 
         public void PlayIdle()
@@ -111,10 +127,18 @@ namespace Athena.Boss.Phase2
 
         private void PlayState(int stateHash, bool force = false)
         {
+            EnsureInitialized();
             if (_animator == null) return;
             if (_animator.HasState(0, stateHash))
             {
-                _animator.CrossFade(stateHash, 0.05f, 0, 0f);
+                if (force)
+                {
+                    _animator.Play(stateHash, 0, 0f);
+                }
+                else
+                {
+                    _animator.CrossFade(stateHash, 0.05f, 0, 0f);
+                }
             }
         }
 

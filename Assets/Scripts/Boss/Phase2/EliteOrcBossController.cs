@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Athena.Core;
 using Athena.Boss.Core;
 using Athena.Player;
 using UnityEngine;
@@ -25,6 +26,7 @@ namespace Athena.Boss.Phase2
 
     public enum EliteOrcBossState
     {
+        Intro,
         Idle,
         Chase,
         Attacking,
@@ -46,6 +48,12 @@ namespace Athena.Boss.Phase2
     [RequireComponent(typeof(BossHealth))]
     public class EliteOrcBossController : MonoBehaviour
     {
+        [Header("Intro Settings (GDD: Phase 2 Start)")]
+        [Tooltip("เล่นแอนิเมชันเปิดตัว EliteOrc_Start เมื่อเริ่ม Phase 2")]
+        [SerializeField] private bool _playIntroOnStart = true;
+        [Tooltip("ระยะเวลาเล่น Intro ก่อนเริ่มต่อสู้ (หากมี Animation Event 'OnIntroComplete' จะสิ้นสุดทันที)")]
+        [SerializeField] private float _introDuration = 2.08f;
+
         [Header("Movement Settings (GDD: ความเร็วระดับกลาง)")]
         [SerializeField] private float _walkSpeed = 4.2f;
         [SerializeField] private float _meleeRange = 3.0f;
@@ -105,6 +113,7 @@ namespace Athena.Boss.Phase2
         private int _tornadoCurrentDir = 1;
         private float _nextTornadoDirectionChangeTime = 0f;
         private float _initialShockwaveSpawnPosX;
+        private Coroutine _introCoroutine;
         private Coroutine _safetyTimeoutCoroutine;
         private Coroutine _deathTransitionCoroutine;
 
@@ -148,12 +157,24 @@ namespace Athena.Boss.Phase2
             _health.OnDefeated += HandleDefeated;
         }
 
+        private void OnEnable()
+        {
+            if (_playIntroOnStart)
+            {
+                SetState(EliteOrcBossState.Intro);
+            }
+        }
+
         private void Start()
         {
             _player = FindFirstObjectByType<PlayerController>();
             _frontAttackHitbox?.UpdateFacing(_facingDirection);
             UpdateShockwaveSpawnPointFacing(_facingDirection);
-            SetState(EliteOrcBossState.Idle);
+
+            if (_currentState != EliteOrcBossState.Intro)
+            {
+                SetState(_playIntroOnStart ? EliteOrcBossState.Intro : EliteOrcBossState.Idle);
+            }
         }
 
         private void OnDestroy()
@@ -329,6 +350,15 @@ namespace Athena.Boss.Phase2
 
             switch (newState)
             {
+                case EliteOrcBossState.Intro:
+                    _isSpinRushing = false;
+                    SetHorizontalLock(true);
+                    if (_health != null) _health.SetInvulnerable(true);
+                    if (_anim != null) _anim.PlayStart();
+                    if (_introCoroutine != null) StopCoroutine(_introCoroutine);
+                    _introCoroutine = StartCoroutine(IntroRoutine());
+                    break;
+
                 case EliteOrcBossState.Idle:
                     _isSpinRushing = false;
                     SetHorizontalLock(true);
@@ -356,9 +386,17 @@ namespace Athena.Boss.Phase2
 
                 case EliteOrcBossState.Defeated:
                     _isSpinRushing = false;
-                    SetHorizontalLock(true);
                     StopAllCoroutines();
                     CloseAllHitboxes();
+
+                    // ล็อคให้อยู่กับที่ และตั้งเป็น Kinematic ไม่ให้ตกทะลุพื้น
+                    if (_rb != null)
+                    {
+                        _rb.linearVelocity = Vector2.zero;
+                        _rb.constraints = RigidbodyConstraints2D.FreezeAll;
+                        _rb.bodyType = RigidbodyType2D.Kinematic;
+                    }
+
                     if (_anim != null)
                     {
                         _anim.StopTelegraph();
@@ -621,6 +659,42 @@ namespace Athena.Boss.Phase2
         {
             if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
             if (_spinAttackHitbox != null) _spinAttackHitbox.CloseHitbox();
+        }
+
+        private IEnumerator IntroRoutine()
+        {
+            yield return new WaitForSeconds(_introDuration);
+            FinishIntro();
+        }
+
+        public void AnimEvent_OnIntroComplete()
+        {
+            if (_introCoroutine != null)
+            {
+                StopCoroutine(_introCoroutine);
+                _introCoroutine = null;
+            }
+            FinishIntro();
+        }
+
+        private void FinishIntro()
+        {
+            if (_currentState != EliteOrcBossState.Intro) return;
+
+            // ปลด I-Frame (กลายเป็นตีเข้าตามปกติ)
+            if (_health != null)
+            {
+                _health.SetInvulnerable(false);
+            }
+
+            // แจ้งให้ BossManager สั่งปิดตัว Phase 1 ที่นอนอยู่บนพื้น
+            if (BossManager.Instance != null)
+            {
+                BossManager.Instance.OnPhase2IntroComplete();
+            }
+
+            SetState(EliteOrcBossState.Idle);
+            UnityEngine.Debug.Log("[EliteOrcBossController] Phase 2 Intro Finished! Boss is now active and vulnerable.");
         }
 
         private void HandleDefeated()
