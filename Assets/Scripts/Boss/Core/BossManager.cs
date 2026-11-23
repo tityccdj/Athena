@@ -28,6 +28,7 @@ namespace Athena.Boss.Core
 
         [Header("Room Gate")]
         [SerializeField] private RoomGate _bossRoomGate;
+        [SerializeField] private RoomGate _room3Gate;
 
         [Header("Phase 2 -> 3 Ghost Transition")]
         [SerializeField] private BossGhostTransition _ghostTransition;
@@ -83,6 +84,15 @@ namespace Athena.Boss.Core
             if (room.RoomName.Equals("Room2_boss", StringComparison.OrdinalIgnoreCase) && !_isFightActive && _currentPhase <= 2)
             {
                 StartBossFight();
+            }
+
+            // เมื่อ Player เดินเข้า Room3_Boss ให้ปิดประตูห้อง 3 ทันที
+            if (room.RoomName.Equals("Room3_Boss", StringComparison.OrdinalIgnoreCase))
+            {
+                if (_room3Gate != null)
+                {
+                    _room3Gate.CloseGate();
+                }
             }
         }
 

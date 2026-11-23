@@ -692,6 +692,20 @@ namespace Athena.Boss.Phase2
                 _health.SetInvulnerable(false);
             }
 
+            // เปิด Boss Damage Hitbox เมื่อ Intro จบ
+            BossDamageHitbox[] allHitboxes = GetComponentsInChildren<BossDamageHitbox>();
+            foreach (BossDamageHitbox hitbox in allHitboxes)
+            {
+                if (hitbox != null)
+                {
+                    Collider2D col = hitbox.GetComponent<Collider2D>();
+                    if (col != null) col.enabled = true;
+                }
+            }
+
+            // ปิด Attack Hitbox ที่ค้าง
+            CloseAllHitboxes();
+
             // แจ้งให้ BossManager สั่งปิดตัว Phase 1 ที่นอนอยู่บนพื้น
             if (BossManager.Instance != null)
             {
@@ -713,6 +727,18 @@ namespace Athena.Boss.Phase2
         {
             SetHorizontalLock(true);
             CloseAllHitboxes();
+            
+            // ปิด Boss Damage Hitbox ทั้งหมด (รวม BodyContact)
+            BossDamageHitbox[] allHitboxes = GetComponentsInChildren<BossDamageHitbox>();
+            foreach (BossDamageHitbox hitbox in allHitboxes)
+            {
+                if (hitbox != null)
+                {
+                    Collider2D col = hitbox.GetComponent<Collider2D>();
+                    if (col != null) col.enabled = false;
+                }
+            }
+            
             if (_anim != null)
             {
                 _anim.StopTelegraph();
