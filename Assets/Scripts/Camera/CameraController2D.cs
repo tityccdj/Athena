@@ -25,6 +25,8 @@ namespace Athena.CameraSystem
 
         private Camera _cam;
         private Vector3 _currentVelocity = Vector3.zero;
+        private float _defaultOrthographicSize = 5f;
+        private Coroutine _winZoomCoroutine;
 
         public bool IsConfined => _isConfined;
         public Bounds CurrentRoomBounds => _currentRoomBounds;
@@ -39,6 +41,10 @@ namespace Athena.CameraSystem
             Instance = this;
 
             _cam = GetComponent<Camera>();
+            if (_cam != null)
+            {
+                _defaultOrthographicSize = _cam.orthographicSize;
+            }
 
             // Auto-find player if not assigned
             if (_target == null)
@@ -127,6 +133,51 @@ namespace Athena.CameraSystem
             }
             transform.position = new Vector3(desiredPos.x, desiredPos.y, _offset.z);
             _currentVelocity = Vector3.zero;
+        }
+
+        /// <summary>
+        /// GDD Win State: ซูมกล้องเข้าไปหาร่างบอสพร้อม Slow-motion และค่อยๆ ซูมออกกลับสู่ปกติ
+        /// </summary>
+        public void TriggerWinZoom(Transform focusTarget, float targetZoomSize = 3.2f, float holdDuration = 1.5f)
+        {
+            if (_winZoomCoroutine != null) StopCoroutine(_winZoomCoroutine);
+            _winZoomCoroutine = StartCoroutine(WinZoomRoutine(focusTarget, targetZoomSize, holdDuration));
+        }
+
+        private System.Collections.IEnumerator WinZoomRoutine(Transform focusTarget, float targetZoomSize, float holdDuration)
+        {
+            Transform originalTarget = _target;
+            if (focusTarget != null) _target = focusTarget;
+
+            // 1. Zoom-In อย่างนุ่มนวล
+            float zoomSpeed = 0.5f;
+            float elapsed = 0f;
+            float startSize = _cam.orthographicSize;
+
+            while (elapsed < zoomSpeed)
+            {
+                elapsed += Time.unscaledDeltaTime;
+                _cam.orthographicSize = Mathf.Lerp(startSize, targetZoomSize, elapsed / zoomSpeed);
+                yield return null;
+            }
+            _cam.orthographicSize = targetZoomSize;
+
+            // 2. แช่ภาพตามระยะเวลา holdDuration
+            yield return new WaitForSecondsRealtime(holdDuration);
+
+            // 3. Zoom-Out ค่อยๆ ซูมกลับมาเป็นขนาดเดิม
+            elapsed = 0f;
+            float returnSpeed = 1.2f;
+            while (elapsed < returnSpeed)
+            {
+                elapsed += Time.unscaledDeltaTime;
+                _cam.orthographicSize = Mathf.Lerp(targetZoomSize, _defaultOrthographicSize, elapsed / returnSpeed);
+                yield return null;
+            }
+            _cam.orthographicSize = _defaultOrthographicSize;
+
+            if (originalTarget != null) _target = originalTarget;
+            _winZoomCoroutine = null;
         }
     }
 }

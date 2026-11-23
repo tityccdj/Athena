@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Athena.Player;
 using Athena.Rooms;
 using UnityEngine;
@@ -27,6 +28,10 @@ namespace Athena.Boss.Core
 
         [Header("Room Gate")]
         [SerializeField] private RoomGate _bossRoomGate;
+
+        [Header("Phase 2 -> 3 Ghost Transition")]
+        [SerializeField] private BossGhostTransition _ghostTransition;
+        [SerializeField] private Transform _corridorWaypoint;
 
         [Header("Player")]
         [SerializeField] private PlayerController _player;
@@ -131,7 +136,79 @@ namespace Athena.Boss.Core
                 return;
             }
 
+            // GDD: เมื่อ Phase 2 ตาย ร่างจะกลายเป็นผีและบินไป Room 3, ประตูเปิดให้ Player วิ่งตาม
+            if (_currentPhase == 2 && nextPhase == 3)
+            {
+                StartGhostFlightToRoom3();
+                return;
+            }
+
             SwitchToPhase(nextPhase);
+        }
+
+        /// <summary>
+        /// จัดการ Transition จาก Phase 2 ไป 3 ตาม GDD:
+        /// 1. เปิดประตูกั้นห้องเพื่อให้ Player เดินผ่านเข้า Corridor ไป Room 3
+        /// 2. สั่ง Ghost บินลอยข้ามไปยัง Room 3
+        /// 3. ปิด GameObject ของ Phase 2
+        /// </summary>
+        public void StartGhostFlightToRoom3()
+        {
+            UnityEngine.Debug.Log("[BossManager] Starting Ghost Flight from Room 2 to Room 3...");
+
+            // 1. เปิดประตูกั้นห้องให้ Player วิ่งตามไป Room 3
+            if (_bossRoomGate != null)
+            {
+                _bossRoomGate.OpenGate();
+            }
+
+            // 2. คำนวณตำแหน่งเริ่มต้นและปลายทางของ Ghost
+            Vector3 startPos = _phase2Object != null ? _phase2Object.transform.position : transform.position;
+            Transform designatedSpawn = GetCurrentPhaseSpawnPoint();
+            Vector3 targetPos = _phase3SpawnPoint != null ? _phase3SpawnPoint.position : startPos + new Vector3(45f, 0f, 0f);
+
+            // ปิด GameObject Phase 2
+            if (_phase2Object != null)
+            {
+                _phase2Object.SetActive(false);
+            }
+
+            // 3. ปล่อย Ghost บินไป Room 3
+            if (_ghostTransition != null)
+            {
+                List<Vector3> waypoints = new List<Vector3>();
+                if (_corridorWaypoint != null)
+                {
+                    waypoints.Add(_corridorWaypoint.position);
+                }
+                _ghostTransition.StartFlight(startPos, targetPos, waypoints);
+            }
+            else
+            {
+                // ถ้าไม่มี GameObject Ghost ให้สลับตรงเข้า Phase 3 ทันทีเป็น Fallback
+                SwitchToPhase(3);
+            }
+        }
+
+        /// <summary>
+        /// เรียกเมื่อ Player วิ่งมาถึง Room 3 และ Ghost อยู่ที่ Room 3 -> ปลุก Phase 3 Necromancer ขึ้นมาสู้
+        /// </summary>
+        public void StartPhase3FromGhost()
+        {
+            _currentPhase = 3;
+
+            if (_phase3Object != null)
+            {
+                _phase3Object.SetActive(true);
+                Transform spawnPt = _phase3SpawnPoint != null ? _phase3SpawnPoint : (_ghostTransition != null ? _ghostTransition.transform : null);
+                if (spawnPt != null)
+                {
+                    _phase3Object.transform.position = spawnPt.position;
+                }
+            }
+
+            OnPhaseChanged?.Invoke(3);
+            UnityEngine.Debug.Log("[BossManager] Phase 3 Necromancer awakened in Room 3!");
         }
 
         public void SwitchToPhase(int phaseIndex)
@@ -197,6 +274,13 @@ namespace Athena.Boss.Core
             if (_currentPhase == 2 && _phase1Object != null)
             {
                 _phase1Object.SetActive(false);
+            }
+
+            if (_currentPhase == 3)
+            {
+                if (_phase1Object != null) _phase1Object.SetActive(false);
+                if (_phase2Object != null) _phase2Object.SetActive(false);
+                if (_ghostTransition != null) _ghostTransition.gameObject.SetActive(false);
             }
 
             UnityEngine.Debug.Log($"[BossManager] Player died! Resetting Boss Phase {_currentPhase} to full HP...");

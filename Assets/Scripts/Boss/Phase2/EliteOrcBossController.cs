@@ -92,6 +92,11 @@ namespace Athena.Boss.Phase2
         [Header("Phase Transition Settings")]
         [SerializeField] private float _deathAnimationDuration = 1.6f;
 
+        [Header("Death Zoom Effect (Slow-motion + Zoom-in)")]
+        [SerializeField] private float _deathSlowMoTimeScale = 0.2f;
+        [SerializeField] private float _deathSlowMoDuration = 1.5f;
+        [SerializeField] private float _deathZoomCameraSize = 3.2f;
+
         [Header("Visual & Direction")]
         [SerializeField] private Transform _visualTransform;
         [SerializeField] private bool _spriteFacesRightByDefault = true;
@@ -714,6 +719,24 @@ namespace Athena.Boss.Phase2
                 _anim.PlayDeath();
             }
 
+            // Slow-Motion + Camera Zoom-In (เหมือน Phase 3 Win State)
+            Time.timeScale = _deathSlowMoTimeScale;
+            Time.fixedDeltaTime = 0.02f * Time.timeScale;
+
+            if (Athena.CameraSystem.CameraController2D.Instance != null)
+            {
+                Athena.CameraSystem.CameraController2D.Instance.TriggerWinZoom(
+                    transform, _deathZoomCameraSize, _deathSlowMoDuration);
+            }
+
+            // รอ slow-mo ด้วย realtime เพื่อไม่ให้ถูกชะลอ
+            yield return new WaitForSecondsRealtime(_deathSlowMoDuration);
+
+            // คืน Time.timeScale กลับปกติ
+            Time.timeScale = 1.0f;
+            Time.fixedDeltaTime = 0.02f;
+
+            // รอให้อนิเมชั่นตายเล่นจบ
             yield return new WaitForSeconds(_deathAnimationDuration);
 
             TriggerPhaseAdvance();
@@ -726,6 +749,10 @@ namespace Athena.Boss.Phase2
                 StopCoroutine(_deathTransitionCoroutine);
                 _deathTransitionCoroutine = null;
             }
+
+            // คืน timeScale กลับปกติเผื่อ coroutine ยังไม่ถึงจุดคืนค่า
+            Time.timeScale = 1.0f;
+            Time.fixedDeltaTime = 0.02f;
 
             TriggerPhaseAdvance();
         }
