@@ -24,12 +24,12 @@ namespace Athena.Boss.Core
         [SerializeField] private Color _flashColor = Color.red;
         [SerializeField] private float _flashDuration = 0.1f;
 
-        private int _currentHealth;
+        private int _currentHealth = -1;
         private bool _isInvulnerable = false;
         private Color _originalColor;
         private Coroutine _flashCoroutine;
 
-        public int CurrentHealth => _currentHealth;
+        public int CurrentHealth => (_currentHealth >= 0) ? _currentHealth : _maxHealth;
         public int MaxHealth => _maxHealth;
         public bool IsInvulnerable => _isInvulnerable;
 
@@ -59,6 +59,7 @@ namespace Athena.Boss.Core
 
         public void TakeDamage(DamageInfo info)
         {
+            if (_currentHealth < 0) _currentHealth = _maxHealth;
             if (_isInvulnerable || _currentHealth <= 0) return;
 
             int damageToTake = Mathf.Max(1, info.Amount);

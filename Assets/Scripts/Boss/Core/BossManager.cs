@@ -65,6 +65,27 @@ namespace Athena.Boss.Core
             }
         }
 
+        private void OnEnable()
+        {
+            RoomArea.OnRoomEntered += HandleRoomEntered;
+        }
+
+        private void OnDisable()
+        {
+            RoomArea.OnRoomEntered -= HandleRoomEntered;
+        }
+
+        private void HandleRoomEntered(RoomArea room)
+        {
+            if (room == null) return;
+
+            // เมื่อ Player เดินเข้า Room2_boss ให้เริ่มการต่อสู้บอสทันที
+            if (room.RoomName.Equals("Room2_boss", StringComparison.OrdinalIgnoreCase) && !_isFightActive && _currentPhase <= 2)
+            {
+                StartBossFight();
+            }
+        }
+
         private void OnDestroy()
         {
             if (_player != null)
@@ -301,6 +322,22 @@ namespace Athena.Boss.Core
                     currentObj.transform.position = spawnPt.position;
                 }
             }
+        }
+
+        public GameObject Phase1Object => _phase1Object;
+        public GameObject Phase2Object => _phase2Object;
+        public GameObject Phase3Object => _phase3Object;
+
+        public BossHealth GetPhaseHealth(int phase)
+        {
+            GameObject obj = null;
+            switch (phase)
+            {
+                case 1: obj = _phase1Object; break;
+                case 2: obj = _phase2Object; break;
+                case 3: obj = _phase3Object; break;
+            }
+            return obj != null ? obj.GetComponent<BossHealth>() : null;
         }
 
         public GameObject GetCurrentPhaseObject()
