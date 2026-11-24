@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: bb20ab4029c7aee45927a0bbc61a447c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8696158689373971182
+    second: Explosion_Ground_B_Frost_Small_sheet_0
+  - first:
+      213: -5809260270556453040
+    second: Explosion_Ground_B_Frost_Small_sheet_1
+  - first:
+      213: 208165565245066053
+    second: Explosion_Ground_B_Frost_Small_sheet_2
+  - first:
+      213: 3344318601614964492
+    second: Explosion_Ground_B_Frost_Small_sheet_3
+  - first:
+      213: -6867638950253491632
+    second: Explosion_Ground_B_Frost_Small_sheet_4
+  - first:
+      213: 134459784059166254
+    second: Explosion_Ground_B_Frost_Small_sheet_5
+  - first:
+      213: -7119057354001355954
+    second: Explosion_Ground_B_Frost_Small_sheet_6
+  - first:
+      213: -2230605738311973096
+    second: Explosion_Ground_B_Frost_Small_sheet_7
+  - first:
+      213: 9199388990378648924
+    second: Explosion_Ground_B_Frost_Small_sheet_8
+  - first:
+      213: -7386570227860776248
+    second: Explosion_Ground_B_Frost_Small_sheet_9
+  - first:
+      213: 6788461087816848892
+    second: Explosion_Ground_B_Frost_Small_sheet_10
+  - first:
+      213: -2550729758312886774
+    second: Explosion_Ground_B_Frost_Small_sheet_11
+  - first:
+      213: 2897367210131020266
+    second: Explosion_Ground_B_Frost_Small_sheet_12
+  - first:
+      213: 7130416421228145508
+    second: Explosion_Ground_B_Frost_Small_sheet_13
+  - first:
+      213: 5507457993902404141
+    second: Explosion_Ground_B_Frost_Small_sheet_14
+  - first:
+      213: -4934336603046420280
+    second: Explosion_Ground_B_Frost_Small_sheet_15
+  - first:
+      213: -1281117111104185013
+    second: Explosion_Ground_B_Frost_Small_sheet_16
+  - first:
+      213: 4058692369895216325
+    second: Explosion_Ground_B_Frost_Small_sheet_17
+  - first:
+      213: -6261669003110814371
+    second: Explosion_Ground_B_Frost_Small_sheet_18
+  - first:
+      213: 3650508979275161841
+    second: Explosion_Ground_B_Frost_Small_sheet_19
+  - first:
+      213: -1045831545655391185
+    second: Explosion_Ground_B_Frost_Small_sheet_20
+  - first:
+      213: -2227453653723519937
+    second: Explosion_Ground_B_Frost_Small_sheet_21
+  - first:
+      213: 5349048859582753729
+    second: Explosion_Ground_B_Frost_Small_sheet_22
+  - first:
+      213: 7846191697994685028
+    second: Explosion_Ground_B_Frost_Small_sheet_23
+  - first:
+      213: -2745573890033555831
+    second: Explosion_Ground_B_Frost_Small_sheet_24
+  - first:
+      213: 5717441800156554890
+    second: Explosion_Ground_B_Frost_Small_sheet_25
+  - first:
+      213: 7253438579781782037
+    second: Explosion_Ground_B_Frost_Small_sheet_26
+  - first:
+      213: -2668114439106913090
+    second: Explosion_Ground_B_Frost_Small_sheet_27
+  - first:
+      213: 8484392072616845130
+    second: Explosion_Ground_B_Frost_Small_sheet_28
+  - first:
+      213: -1483669439589659728
+    second: Explosion_Ground_B_Frost_Small_sheet_29
+  - first:
+      213: -3795573770943693144
+    second: Explosion_Ground_B_Frost_Small_sheet_30
+  - first:
+      213: 2712219406782217473
+    second: Explosion_Ground_B_Frost_Small_sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d10790fb9015780800000000000000
+      internalID: -8696158689373971182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05761bd009c516fa0800000000000000
+      internalID: -5809260270556453040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b86ea8a7d83e200800000000000000
+      internalID: 208165565245066053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07bdf89c08696e20800000000000000
+      internalID: 3344318601614964492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 42
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a0184d2ce31b0a0800000000000000
+      internalID: -6867638950253491632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 4
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1c611672bdd100800000000000000
+      internalID: 134459784059166254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 44
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bed1f0e07043d90800000000000000
+      internalID: -7119057354001355954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81787f536eb4b01e0800000000000000
+      internalID: -2230605738311973096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 46
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a82adb8bcaaf70800000000000000
+      internalID: 9199388990378648924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 4
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cad1e37381ad7990800000000000000
+      internalID: -7386570227860776248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf592ee7465753e50800000000000000
+      internalID: 6788461087816848892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 31
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0eb59cccf99cd0800000000000000
+      internalID: -2550729758312886774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae959bf6024853820800000000000000
+      internalID: 2897367210131020266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b6aefd4f354f260800000000000000
+      internalID: 7130416421228145508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 37
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2230fd9ddb6e6c40800000000000000
+      internalID: 5507457993902404141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 56
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e535b007b58bb0800000000000000
+      internalID: -4934336603046420280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 40
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd5fc66ce883ee0800000000000000
+      internalID: -1281117111104185013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 52
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c45130e43f535830800000000000000
+      internalID: 4058692369895216325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 42
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6188a7351a19a0800000000000000
+      internalID: -6261669003110814371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 42
+        width: 203
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e11f439639a230800000000000000
+      internalID: 3650508979275161841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c005210c57c71f0800000000000000
+      internalID: -1045831545655391185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e92814be7611e0800000000000000
+      internalID: -2227453653723519937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb63a9e893ab3a40800000000000000
+      internalID: 5349048859582753729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a979647c543ec60800000000000000
+      internalID: 7846191697994685028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98666fbf713c5e9d0800000000000000
+      internalID: -2745573890033555831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a862d42660f685f40800000000000000
+      internalID: 5717441800156554890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac10c35f369a460800000000000000
+      internalID: 7253438579781782037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 38
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc11fccd04f8fad0800000000000000
+      internalID: -2668114439106913090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 39
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f977743ad9eb570800000000000000
+      internalID: 8484392072616845130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 4
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc7296182f86be0800000000000000
+      internalID: -1483669439589659728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae7c10e3c9635bc0800000000000000
+      internalID: -3795573770943693144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Ground_B_Frost_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 5
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dbc263e2db3a520800000000000000
+      internalID: 2712219406782217473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Ground_B_Frost_Small_sheet_0: -8696158689373971182
+      Explosion_Ground_B_Frost_Small_sheet_1: -5809260270556453040
+      Explosion_Ground_B_Frost_Small_sheet_10: 6788461087816848892
+      Explosion_Ground_B_Frost_Small_sheet_11: -2550729758312886774
+      Explosion_Ground_B_Frost_Small_sheet_12: 2897367210131020266
+      Explosion_Ground_B_Frost_Small_sheet_13: 7130416421228145508
+      Explosion_Ground_B_Frost_Small_sheet_14: 5507457993902404141
+      Explosion_Ground_B_Frost_Small_sheet_15: -4934336603046420280
+      Explosion_Ground_B_Frost_Small_sheet_16: -1281117111104185013
+      Explosion_Ground_B_Frost_Small_sheet_17: 4058692369895216325
+      Explosion_Ground_B_Frost_Small_sheet_18: -6261669003110814371
+      Explosion_Ground_B_Frost_Small_sheet_19: 3650508979275161841
+      Explosion_Ground_B_Frost_Small_sheet_2: 208165565245066053
+      Explosion_Ground_B_Frost_Small_sheet_20: -1045831545655391185
+      Explosion_Ground_B_Frost_Small_sheet_21: -2227453653723519937
+      Explosion_Ground_B_Frost_Small_sheet_22: 5349048859582753729
+      Explosion_Ground_B_Frost_Small_sheet_23: 7846191697994685028
+      Explosion_Ground_B_Frost_Small_sheet_24: -2745573890033555831
+      Explosion_Ground_B_Frost_Small_sheet_25: 5717441800156554890
+      Explosion_Ground_B_Frost_Small_sheet_26: 7253438579781782037
+      Explosion_Ground_B_Frost_Small_sheet_27: -2668114439106913090
+      Explosion_Ground_B_Frost_Small_sheet_28: 8484392072616845130
+      Explosion_Ground_B_Frost_Small_sheet_29: -1483669439589659728
+      Explosion_Ground_B_Frost_Small_sheet_3: 3344318601614964492
+      Explosion_Ground_B_Frost_Small_sheet_30: -3795573770943693144
+      Explosion_Ground_B_Frost_Small_sheet_31: 2712219406782217473
+      Explosion_Ground_B_Frost_Small_sheet_4: -6867638950253491632
+      Explosion_Ground_B_Frost_Small_sheet_5: 134459784059166254
+      Explosion_Ground_B_Frost_Small_sheet_6: -7119057354001355954
+      Explosion_Ground_B_Frost_Small_sheet_7: -2230605738311973096
+      Explosion_Ground_B_Frost_Small_sheet_8: 9199388990378648924
+      Explosion_Ground_B_Frost_Small_sheet_9: -7386570227860776248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

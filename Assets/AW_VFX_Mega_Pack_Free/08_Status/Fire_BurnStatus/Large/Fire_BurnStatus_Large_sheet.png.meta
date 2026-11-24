@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: bf73bfa6096fd074dafc8438e3b52e87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1210703868732162024
+    second: Fire_BurnStatus_Large_sheet_0
+  - first:
+      213: -164742231195430887
+    second: Fire_BurnStatus_Large_sheet_1
+  - first:
+      213: 3563435414952144132
+    second: Fire_BurnStatus_Large_sheet_2
+  - first:
+      213: -7561469767833114472
+    second: Fire_BurnStatus_Large_sheet_3
+  - first:
+      213: 5434301286642112219
+    second: Fire_BurnStatus_Large_sheet_4
+  - first:
+      213: 7492337212604711131
+    second: Fire_BurnStatus_Large_sheet_5
+  - first:
+      213: -4633129025646468314
+    second: Fire_BurnStatus_Large_sheet_6
+  - first:
+      213: -6981127470086157218
+    second: Fire_BurnStatus_Large_sheet_7
+  - first:
+      213: -397130296564864057
+    second: Fire_BurnStatus_Large_sheet_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8104708fe37b23fe0800000000000000
+      internalID: -1210703868732162024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910571640d7b6bdf0800000000000000
+      internalID: -164742231195430887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 7
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40de44841add37130800000000000000
+      internalID: 3563435414952144132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a37cfe43401790800000000000000
+      internalID: -7561469767833114472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd650c06a348a6b40800000000000000
+      internalID: 5434301286642112219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd08ebeaff02af760800000000000000
+      internalID: 7492337212604711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 42
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236ac3d2b1d3bfb0800000000000000
+      internalID: -4633129025646468314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0bc5bd8d0e1f90800000000000000
+      internalID: -6981127470086157218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_BurnStatus_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cba4bf691c1d7af0800000000000000
+      internalID: -397130296564864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_BurnStatus_Large_sheet_0: -1210703868732162024
+      Fire_BurnStatus_Large_sheet_1: -164742231195430887
+      Fire_BurnStatus_Large_sheet_2: 3563435414952144132
+      Fire_BurnStatus_Large_sheet_3: -7561469767833114472
+      Fire_BurnStatus_Large_sheet_4: 5434301286642112219
+      Fire_BurnStatus_Large_sheet_5: 7492337212604711131
+      Fire_BurnStatus_Large_sheet_6: -4633129025646468314
+      Fire_BurnStatus_Large_sheet_7: -6981127470086157218
+      Fire_BurnStatus_Large_sheet_8: -397130296564864057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

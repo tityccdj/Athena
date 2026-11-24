@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 94820d66d09968d4c81e5d936636ecbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7320589997552071413
+    second: Poison_Glob_Small_sheet_0
+  - first:
+      213: -492758966944834611
+    second: Poison_Glob_Small_sheet_1
+  - first:
+      213: -7971583192430102011
+    second: Poison_Glob_Small_sheet_2
+  - first:
+      213: 4571729709606358356
+    second: Poison_Glob_Small_sheet_3
+  - first:
+      213: 5005693876492539906
+    second: Poison_Glob_Small_sheet_4
+  - first:
+      213: 8470800851910443981
+    second: Poison_Glob_Small_sheet_5
+  - first:
+      213: 6384051039709889889
+    second: Poison_Glob_Small_sheet_6
+  - first:
+      213: 7306815148251045751
+    second: Poison_Glob_Small_sheet_7
+  - first:
+      213: 6225617095378479965
+    second: Poison_Glob_Small_sheet_8
+  - first:
+      213: 6147881618605900070
+    second: Poison_Glob_Small_sheet_9
+  - first:
+      213: -7750221288899044540
+    second: Poison_Glob_Small_sheet_10
+  - first:
+      213: -6221475560042111323
+    second: Poison_Glob_Small_sheet_11
+  - first:
+      213: 9202701512687617618
+    second: Poison_Glob_Small_sheet_12
+  - first:
+      213: -6694039269518133208
+    second: Poison_Glob_Small_sheet_13
+  - first:
+      213: 5632928187526984737
+    second: Poison_Glob_Small_sheet_14
+  - first:
+      213: 2076940060277741632
+    second: Poison_Glob_Small_sheet_15
+  - first:
+      213: -7881445653922797155
+    second: Poison_Glob_Small_sheet_16
+  - first:
+      213: 2151332326340422455
+    second: Poison_Glob_Small_sheet_17
+  - first:
+      213: -2735276209565461314
+    second: Poison_Glob_Small_sheet_18
+  - first:
+      213: -7507143982128598032
+    second: Poison_Glob_Small_sheet_19
+  - first:
+      213: 8998878419468234572
+    second: Poison_Glob_Small_sheet_20
+  - first:
+      213: 662622100484602198
+    second: Poison_Glob_Small_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d81a1fe2a086a90800000000000000
+      internalID: -7320589997552071413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5d5f845e5929f0800000000000000
+      internalID: -492758966944834611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ababd525f3f5190800000000000000
+      internalID: -7971583192430102011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dcf26e2fb027f30800000000000000
+      internalID: 4571729709606358356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2089fa23f0cc77540800000000000000
+      internalID: 5005693876492539906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3c23d9e745e8570800000000000000
+      internalID: 8470800851910443981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1650fd1b894b89850800000000000000
+      internalID: 6384051039709889889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 7
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f52f60aa5076560800000000000000
+      internalID: 7306815148251045751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 6
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b22a573c5d56650800000000000000
+      internalID: 6225617095378479965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621882e52c9a15550800000000000000
+      internalID: 6147881618605900070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 6
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b9088dccea17490800000000000000
+      internalID: -7750221288899044540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5ae0e0f0e8a9a0800000000000000
+      internalID: -6221475560042111323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25602bd844096bf70800000000000000
+      internalID: 9202701512687617618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8283bdb30cef913a0800000000000000
+      internalID: -6694039269518133208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 8
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124b4de875e2c2e40800000000000000
+      internalID: 5632928187526984737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 6
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04812a01bf5c2dc10800000000000000
+      internalID: 2076940060277741632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a2697fea7f9290800000000000000
+      internalID: -7881445653922797155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 6
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73be5514a511bdd10800000000000000
+      internalID: 2151332326340422455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4164e87c85a0ad0800000000000000
+      internalID: -2735276209565461314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 6
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f37383a25441d790800000000000000
+      internalID: -7507143982128598032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 6
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f25519e3072ec70800000000000000
+      internalID: 8998878419468234572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Glob_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65935b72a4b123900800000000000000
+      internalID: 662622100484602198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison_Glob_Small_sheet_0: -7320589997552071413
+      Poison_Glob_Small_sheet_1: -492758966944834611
+      Poison_Glob_Small_sheet_10: -7750221288899044540
+      Poison_Glob_Small_sheet_11: -6221475560042111323
+      Poison_Glob_Small_sheet_12: 9202701512687617618
+      Poison_Glob_Small_sheet_13: -6694039269518133208
+      Poison_Glob_Small_sheet_14: 5632928187526984737
+      Poison_Glob_Small_sheet_15: 2076940060277741632
+      Poison_Glob_Small_sheet_16: -7881445653922797155
+      Poison_Glob_Small_sheet_17: 2151332326340422455
+      Poison_Glob_Small_sheet_18: -2735276209565461314
+      Poison_Glob_Small_sheet_19: -7507143982128598032
+      Poison_Glob_Small_sheet_2: -7971583192430102011
+      Poison_Glob_Small_sheet_20: 8998878419468234572
+      Poison_Glob_Small_sheet_21: 662622100484602198
+      Poison_Glob_Small_sheet_3: 4571729709606358356
+      Poison_Glob_Small_sheet_4: 5005693876492539906
+      Poison_Glob_Small_sheet_5: 8470800851910443981
+      Poison_Glob_Small_sheet_6: 6384051039709889889
+      Poison_Glob_Small_sheet_7: 7306815148251045751
+      Poison_Glob_Small_sheet_8: 6225617095378479965
+      Poison_Glob_Small_sheet_9: 6147881618605900070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

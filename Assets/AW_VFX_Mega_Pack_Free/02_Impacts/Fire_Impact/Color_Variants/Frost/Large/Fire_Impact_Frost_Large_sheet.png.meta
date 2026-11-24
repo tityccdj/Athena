@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 3cafdd4b236cd124691cf7cdbd06c7bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2447602650275465701
+    second: Fire_Impact_Frost_Large_sheet_0
+  - first:
+      213: -4836192156031038434
+    second: Fire_Impact_Frost_Large_sheet_1
+  - first:
+      213: 1033139619398987816
+    second: Fire_Impact_Frost_Large_sheet_2
+  - first:
+      213: -4535986039591326189
+    second: Fire_Impact_Frost_Large_sheet_3
+  - first:
+      213: 8542203748613779203
+    second: Fire_Impact_Frost_Large_sheet_4
+  - first:
+      213: 791785111492032265
+    second: Fire_Impact_Frost_Large_sheet_5
+  - first:
+      213: -2751985977128160617
+    second: Fire_Impact_Frost_Large_sheet_6
+  - first:
+      213: 8625684009738955559
+    second: Fire_Impact_Frost_Large_sheet_7
+  - first:
+      213: -3792271716983863431
+    second: Fire_Impact_Frost_Large_sheet_8
+  - first:
+      213: 2625139222718921016
+    second: Fire_Impact_Frost_Large_sheet_9
+  - first:
+      213: -1469602499902586624
+    second: Fire_Impact_Frost_Large_sheet_10
+  - first:
+      213: 7137528977342938301
+    second: Fire_Impact_Frost_Large_sheet_11
+  - first:
+      213: -8177950218620940479
+    second: Fire_Impact_Frost_Large_sheet_12
+  - first:
+      213: -6017747142995676299
+    second: Fire_Impact_Frost_Large_sheet_13
+  - first:
+      213: 5290862648310900133
+    second: Fire_Impact_Frost_Large_sheet_14
+  - first:
+      213: 6648887161467458202
+    second: Fire_Impact_Frost_Large_sheet_15
+  - first:
+      213: -8669428670151125753
+    second: Fire_Impact_Frost_Large_sheet_16
+  - first:
+      213: 2962992957912531305
+    second: Fire_Impact_Frost_Large_sheet_17
+  - first:
+      213: 4066613645735201386
+    second: Fire_Impact_Frost_Large_sheet_18
+  - first:
+      213: 3847071537583790110
+    second: Fire_Impact_Frost_Large_sheet_19
+  - first:
+      213: 7007635139438560627
+    second: Fire_Impact_Frost_Large_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 37
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16b6078b5e580ed0800000000000000
+      internalID: -2447602650275465701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 39
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4d3a7bd462ecb0800000000000000
+      internalID: -4836192156031038434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 56
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820b8a19203765e00800000000000000
+      internalID: 1033139619398987816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e270ccab0fc01c0800000000000000
+      internalID: -4535986039591326189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f62230d010c8670800000000000000
+      internalID: 8542203748613779203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907fce42d5cfcfa00800000000000000
+      internalID: 791785111492032265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927b6e955bfec9d0800000000000000
+      internalID: -2751985977128160617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be141f7e594b770800000000000000
+      internalID: 8625684009738955559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9778a6937f42f5bc0800000000000000
+      internalID: -3792271716983863431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 79
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8393b18e63e5e6420800000000000000
+      internalID: 2625139222718921016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 24
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c748005cea9be0800000000000000
+      internalID: -1469602499902586624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc3594e9c89d0360800000000000000
+      internalID: 7137528977342938301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 28
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f4544da95128e80800000000000000
+      internalID: -8177950218620940479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 71
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573fe995bdaac7ca0800000000000000
+      internalID: -6017747142995676299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 66
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a524f3eb8bec6940800000000000000
+      internalID: 5290862648310900133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 73
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925ce265a7954c50800000000000000
+      internalID: 6648887161467458202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051e0e9e8000b780800000000000000
+      internalID: -8669428670151125753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9614c58856aae1920800000000000000
+      internalID: 2962992957912531305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a8dc0a0938f6830800000000000000
+      internalID: 4066613645735201386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1892374e2b836530800000000000000
+      internalID: 3847071537583790110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Frost_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c7c1080f104160800000000000000
+      internalID: 7007635139438560627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Impact_Frost_Large_sheet_0: -2447602650275465701
+      Fire_Impact_Frost_Large_sheet_1: -4836192156031038434
+      Fire_Impact_Frost_Large_sheet_10: -1469602499902586624
+      Fire_Impact_Frost_Large_sheet_11: 7137528977342938301
+      Fire_Impact_Frost_Large_sheet_12: -8177950218620940479
+      Fire_Impact_Frost_Large_sheet_13: -6017747142995676299
+      Fire_Impact_Frost_Large_sheet_14: 5290862648310900133
+      Fire_Impact_Frost_Large_sheet_15: 6648887161467458202
+      Fire_Impact_Frost_Large_sheet_16: -8669428670151125753
+      Fire_Impact_Frost_Large_sheet_17: 2962992957912531305
+      Fire_Impact_Frost_Large_sheet_18: 4066613645735201386
+      Fire_Impact_Frost_Large_sheet_19: 3847071537583790110
+      Fire_Impact_Frost_Large_sheet_2: 1033139619398987816
+      Fire_Impact_Frost_Large_sheet_20: 7007635139438560627
+      Fire_Impact_Frost_Large_sheet_3: -4535986039591326189
+      Fire_Impact_Frost_Large_sheet_4: 8542203748613779203
+      Fire_Impact_Frost_Large_sheet_5: 791785111492032265
+      Fire_Impact_Frost_Large_sheet_6: -2751985977128160617
+      Fire_Impact_Frost_Large_sheet_7: 8625684009738955559
+      Fire_Impact_Frost_Large_sheet_8: -3792271716983863431
+      Fire_Impact_Frost_Large_sheet_9: 2625139222718921016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

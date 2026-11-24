@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: c5de12d11fc024143a1a6ea3a5d8790c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4190566708743361664
+    second: Icon_Exclamation_Small_sheet_0
+  - first:
+      213: -304663105715656907
+    second: Icon_Exclamation_Small_sheet_1
+  - first:
+      213: -5981204043137292517
+    second: Icon_Exclamation_Small_sheet_2
+  - first:
+      213: -6959756439706257356
+    second: Icon_Exclamation_Small_sheet_3
+  - first:
+      213: 5336253158790351695
+    second: Icon_Exclamation_Small_sheet_4
+  - first:
+      213: -3479127039280225928
+    second: Icon_Exclamation_Small_sheet_5
+  - first:
+      213: -8742365098187528040
+    second: Icon_Exclamation_Small_sheet_6
+  - first:
+      213: 2499322787650260369
+    second: Icon_Exclamation_Small_sheet_7
+  - first:
+      213: 7743066331293258283
+    second: Icon_Exclamation_Small_sheet_8
+  - first:
+      213: 3853621603794972595
+    second: Icon_Exclamation_Small_sheet_9
+  - first:
+      213: 4043308565113299012
+    second: Icon_Exclamation_Small_sheet_10
+  - first:
+      213: 4850366008256537578
+    second: Icon_Exclamation_Small_sheet_11
+  - first:
+      213: 2366884535492356756
+    second: Icon_Exclamation_Small_sheet_12
+  - first:
+      213: 6659937909109096883
+    second: Icon_Exclamation_Small_sheet_13
+  - first:
+      213: -3222662530668731681
+    second: Icon_Exclamation_Small_sheet_14
+  - first:
+      213: -7871025880980003743
+    second: Icon_Exclamation_Small_sheet_15
+  - first:
+      213: -5886773594342382230
+    second: Icon_Exclamation_Small_sheet_16
+  - first:
+      213: -942297812511151703
+    second: Icon_Exclamation_Small_sheet_17
+  - first:
+      213: -2104694766149361387
+    second: Icon_Exclamation_Small_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d9321832e72a30800000000000000
+      internalID: 4190566708743361664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a6aff48e95cbf0800000000000000
+      internalID: -304663105715656907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ebafcc9e7efca0800000000000000
+      internalID: -5981204043137292517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383218746af96f90800000000000000
+      internalID: -6959756439706257356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4149a9fd2e0a40800000000000000
+      internalID: 5336253158790351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871ee371468a7bfc0800000000000000
+      internalID: -3479127039280225928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89862c12341eca680800000000000000
+      internalID: -8742365098187528040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dcee855d06fa220800000000000000
+      internalID: 2499322787650260369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229505cdc5e47b60800000000000000
+      internalID: 7743066331293258283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf68f86e60da7530800000000000000
+      internalID: 3853621603794972595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4406fd4b7b7bc1830800000000000000
+      internalID: 4043308565113299012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a2c8af26ff4340800000000000000
+      internalID: 4850366008256537578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a236ad1fcd8d020800000000000000
+      internalID: 2366884535492356756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10b921e3adc6c50800000000000000
+      internalID: 6659937909109096883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd26784b08dc643d0800000000000000
+      internalID: -3222662530668731681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164e74ae9af74c290800000000000000
+      internalID: -7871025880980003743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a21cfa9afd4ea0800000000000000
+      internalID: -5886773594342382230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a925acc1294ce2f0800000000000000
+      internalID: -942297812511151703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Exclamation_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5112b07e24f9ac2e0800000000000000
+      internalID: -2104694766149361387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icon_Exclamation_Small_sheet_0: 4190566708743361664
+      Icon_Exclamation_Small_sheet_1: -304663105715656907
+      Icon_Exclamation_Small_sheet_10: 4043308565113299012
+      Icon_Exclamation_Small_sheet_11: 4850366008256537578
+      Icon_Exclamation_Small_sheet_12: 2366884535492356756
+      Icon_Exclamation_Small_sheet_13: 6659937909109096883
+      Icon_Exclamation_Small_sheet_14: -3222662530668731681
+      Icon_Exclamation_Small_sheet_15: -7871025880980003743
+      Icon_Exclamation_Small_sheet_16: -5886773594342382230
+      Icon_Exclamation_Small_sheet_17: -942297812511151703
+      Icon_Exclamation_Small_sheet_18: -2104694766149361387
+      Icon_Exclamation_Small_sheet_2: -5981204043137292517
+      Icon_Exclamation_Small_sheet_3: -6959756439706257356
+      Icon_Exclamation_Small_sheet_4: 5336253158790351695
+      Icon_Exclamation_Small_sheet_5: -3479127039280225928
+      Icon_Exclamation_Small_sheet_6: -8742365098187528040
+      Icon_Exclamation_Small_sheet_7: 2499322787650260369
+      Icon_Exclamation_Small_sheet_8: 7743066331293258283
+      Icon_Exclamation_Small_sheet_9: 3853621603794972595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

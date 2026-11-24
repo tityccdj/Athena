@@ -21,6 +21,11 @@ namespace Athena.Player.Combat
         [SerializeField] private float _attack1LockDuration = 0.35f;
         [SerializeField] private float _attack2LockDuration = 0.4f;
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onAttack1Event;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onAttack2Event;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDashAttackEvent;
+
         [Header("Dash Attack Settings (GDD: Projectile, 2 Damage)")]
         [SerializeField] private GameObject _projectilePrefab;
         [SerializeField] private Transform _projectileSpawnPoint;
@@ -137,6 +142,8 @@ namespace Athena.Player.Combat
             // Fire event → PlayerAnimation will play correct clip
             // Hitbox open/close is handled by Animation Events via PlayerAnimationEventReceiver
             OnMeleeAttackStarted?.Invoke(_currentComboStep);
+            if (_lastExecutedComboStep == 1) _onAttack1Event?.Invoke();
+            else if (_lastExecutedComboStep == 2) _onAttack2Event?.Invoke();
 
             // GDD: Combo has 2 hits max, then resets to 0
             if (_currentComboStep >= 2)
@@ -209,6 +216,7 @@ namespace Athena.Player.Combat
             // Projectile is fired by Animation Event (AnimEvent_FireProjectile)
             // This just notifies subscribers (e.g. PlayerAnimation to play DashAttack clip)
             OnDashAttackTriggered?.Invoke();
+            _onDashAttackEvent?.Invoke();
         }
 
         private void HandleDashStarted(int direction)

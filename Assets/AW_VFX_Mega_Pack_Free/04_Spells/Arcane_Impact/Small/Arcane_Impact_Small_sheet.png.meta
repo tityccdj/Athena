@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: 6bb3aae33fd254846a0715d9c664825f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8612911923621245552
+    second: Arcane_Impact_Small_sheet_0
+  - first:
+      213: 6545995620403533230
+    second: Arcane_Impact_Small_sheet_1
+  - first:
+      213: -3725253660317706930
+    second: Arcane_Impact_Small_sheet_2
+  - first:
+      213: 6385505968933753338
+    second: Arcane_Impact_Small_sheet_3
+  - first:
+      213: 8191732403951297463
+    second: Arcane_Impact_Small_sheet_4
+  - first:
+      213: -7869326442417367999
+    second: Arcane_Impact_Small_sheet_5
+  - first:
+      213: 5903701508753529282
+    second: Arcane_Impact_Small_sheet_6
+  - first:
+      213: 5684518875455778497
+    second: Arcane_Impact_Small_sheet_7
+  - first:
+      213: -1157932469104208364
+    second: Arcane_Impact_Small_sheet_8
+  - first:
+      213: -1544321439209427598
+    second: Arcane_Impact_Small_sheet_9
+  - first:
+      213: 4637442263433338705
+    second: Arcane_Impact_Small_sheet_10
+  - first:
+      213: 8326120231958325893
+    second: Arcane_Impact_Small_sheet_11
+  - first:
+      213: 8857691117310807694
+    second: Arcane_Impact_Small_sheet_12
+  - first:
+      213: 6419312127585351340
+    second: Arcane_Impact_Small_sheet_13
+  - first:
+      213: 2132265062140593071
+    second: Arcane_Impact_Small_sheet_14
+  - first:
+      213: -586814826912809380
+    second: Arcane_Impact_Small_sheet_15
+  - first:
+      213: 5930204989573287102
+    second: Arcane_Impact_Small_sheet_16
+  - first:
+      213: -4536563689229394051
+    second: Arcane_Impact_Small_sheet_17
+  - first:
+      213: 2240596927775093698
+    second: Arcane_Impact_Small_sheet_18
+  - first:
+      213: 8902830458229988275
+    second: Arcane_Impact_Small_sheet_19
+  - first:
+      213: 1202580375229409401
+    second: Arcane_Impact_Small_sheet_20
+  - first:
+      213: -4565235739145095668
+    second: Arcane_Impact_Small_sheet_21
+  - first:
+      213: 3712917528609390427
+    second: Arcane_Impact_Small_sheet_22
+  - first:
+      213: -9044125571216991344
+    second: Arcane_Impact_Small_sheet_23
+  - first:
+      213: -4644072547404810330
+    second: Arcane_Impact_Small_sheet_24
+  - first:
+      213: 5791379728704918907
+    second: Arcane_Impact_Small_sheet_25
+  - first:
+      213: 6873904969949793964
+    second: Arcane_Impact_Small_sheet_26
+  - first:
+      213: -3384643198864507353
+    second: Arcane_Impact_Small_sheet_27
+  - first:
+      213: 4405025387957759156
+    second: Arcane_Impact_Small_sheet_28
+  - first:
+      213: 467586535364103336
+    second: Arcane_Impact_Small_sheet_29
+  - first:
+      213: -7202360062708204784
+    second: Arcane_Impact_Small_sheet_30
+  - first:
+      213: 5452146983151300394
+    second: Arcane_Impact_Small_sheet_31
+  - first:
+      213: 5957424758030876551
+    second: Arcane_Impact_Small_sheet_32
+  - first:
+      213: -9184466128536646724
+    second: Arcane_Impact_Small_sheet_33
+  - first:
+      213: -1002689115005256196
+    second: Arcane_Impact_Small_sheet_34
+  - first:
+      213: 7396439972642715355
+    second: Arcane_Impact_Small_sheet_35
+  - first:
+      213: 3544852269232566889
+    second: Arcane_Impact_Small_sheet_36
+  - first:
+      213: 807784195865389445
+    second: Arcane_Impact_Small_sheet_37
+  - first:
+      213: 63188643682057579
+    second: Arcane_Impact_Small_sheet_38
+  - first:
+      213: 3494990515961104441
+    second: Arcane_Impact_Small_sheet_39
+  - first:
+      213: 6544485699861067299
+    second: Arcane_Impact_Small_sheet_40
+  - first:
+      213: 7453041586031782009
+    second: Arcane_Impact_Small_sheet_41
+  - first:
+      213: 5999598101399998717
+    second: Arcane_Impact_Small_sheet_42
+  - first:
+      213: 4132797182318326735
+    second: Arcane_Impact_Small_sheet_43
+  - first:
+      213: -1874243131122590384
+    second: Arcane_Impact_Small_sheet_44
+  - first:
+      213: -1907727109531518989
+    second: Arcane_Impact_Small_sheet_45
+  - first:
+      213: -5326585785004204869
+    second: Arcane_Impact_Small_sheet_46
+  - first:
+      213: -5266319084131367162
+    second: Arcane_Impact_Small_sheet_47
+  - first:
+      213: 9044448555163335737
+    second: Arcane_Impact_Small_sheet_48
+  - first:
+      213: 2166696533185068732
+    second: Arcane_Impact_Small_sheet_49
+  - first:
+      213: -3783552075009645697
+    second: Arcane_Impact_Small_sheet_50
+  - first:
+      213: 1276730470194243459
+    second: Arcane_Impact_Small_sheet_51
+  - first:
+      213: -1972044704678343634
+    second: Arcane_Impact_Small_sheet_52
+  - first:
+      213: 7239034370686824194
+    second: Arcane_Impact_Small_sheet_53
+  - first:
+      213: 4431071150258187309
+    second: Arcane_Impact_Small_sheet_54
+  - first:
+      213: -385089130834254722
+    second: Arcane_Impact_Small_sheet_55
+  - first:
+      213: 3834859064863381516
+    second: Arcane_Impact_Small_sheet_56
+  - first:
+      213: -3940576173376029343
+    second: Arcane_Impact_Small_sheet_57
+  - first:
+      213: -8017090224037936797
+    second: Arcane_Impact_Small_sheet_58
+  - first:
+      213: 1054753274599339540
+    second: Arcane_Impact_Small_sheet_59
+  - first:
+      213: 118369593331567677
+    second: Arcane_Impact_Small_sheet_60
+  - first:
+      213: 7535930907806505505
+    second: Arcane_Impact_Small_sheet_61
+  - first:
+      213: -6272178125330982468
+    second: Arcane_Impact_Small_sheet_62
+  - first:
+      213: -8434575407301805455
+    second: Arcane_Impact_Small_sheet_63
+  - first:
+      213: 2533672977762014888
+    second: Arcane_Impact_Small_sheet_64
+  - first:
+      213: 1651883862948089321
+    second: Arcane_Impact_Small_sheet_65
+  - first:
+      213: 8370276003869321290
+    second: Arcane_Impact_Small_sheet_66
+  - first:
+      213: 4448064933173876872
+    second: Arcane_Impact_Small_sheet_67
+  - first:
+      213: -2698382009590635337
+    second: Arcane_Impact_Small_sheet_68
+  - first:
+      213: 8363508116040962443
+    second: Arcane_Impact_Small_sheet_69
+  - first:
+      213: -3385735203139786911
+    second: Arcane_Impact_Small_sheet_70
+  - first:
+      213: -5770716173977925602
+    second: Arcane_Impact_Small_sheet_71
+  - first:
+      213: 5119159416398415737
+    second: Arcane_Impact_Small_sheet_72
+  - first:
+      213: 976614105946979160
+    second: Arcane_Impact_Small_sheet_73
+  - first:
+      213: 7972541590720014119
+    second: Arcane_Impact_Small_sheet_74
+  - first:
+      213: 8367531878903953037
+    second: Arcane_Impact_Small_sheet_75
+  - first:
+      213: -3237247666668678544
+    second: Arcane_Impact_Small_sheet_76
+  - first:
+      213: -6141567313837688912
+    second: Arcane_Impact_Small_sheet_77
+  - first:
+      213: 3641237950802254582
+    second: Arcane_Impact_Small_sheet_78
+  - first:
+      213: 9058276675701046907
+    second: Arcane_Impact_Small_sheet_79
+  - first:
+      213: -2251238536186891775
+    second: Arcane_Impact_Small_sheet_80
+  - first:
+      213: -7335679292848072501
+    second: Arcane_Impact_Small_sheet_81
+  - first:
+      213: -4081964874008743922
+    second: Arcane_Impact_Small_sheet_82
+  - first:
+      213: 2645182293247581341
+    second: Arcane_Impact_Small_sheet_83
+  - first:
+      213: -1089398492721553236
+    second: Arcane_Impact_Small_sheet_84
+  - first:
+      213: -3404721608254558194
+    second: Arcane_Impact_Small_sheet_85
+  - first:
+      213: 1157784879264941450
+    second: Arcane_Impact_Small_sheet_86
+  - first:
+      213: 5872630758199037287
+    second: Arcane_Impact_Small_sheet_87
+  - first:
+      213: 2898642686648078271
+    second: Arcane_Impact_Small_sheet_88
+  - first:
+      213: -6625801922154380248
+    second: Arcane_Impact_Small_sheet_89
+  - first:
+      213: 4763675899255646840
+    second: Arcane_Impact_Small_sheet_90
+  - first:
+      213: 7268328617482142215
+    second: Arcane_Impact_Small_sheet_91
+  - first:
+      213: -8331650566392733772
+    second: Arcane_Impact_Small_sheet_92
+  - first:
+      213: -3178954773904447306
+    second: Arcane_Impact_Small_sheet_93
+  - first:
+      213: -8486329599601575831
+    second: Arcane_Impact_Small_sheet_94
+  - first:
+      213: 7099987313400987375
+    second: Arcane_Impact_Small_sheet_95
+  - first:
+      213: -641560962524341499
+    second: Arcane_Impact_Small_sheet_96
+  - first:
+      213: 6734119954357132942
+    second: Arcane_Impact_Small_sheet_97
+  - first:
+      213: 7995726085598858027
+    second: Arcane_Impact_Small_sheet_98
+  - first:
+      213: -4209605680520717344
+    second: Arcane_Impact_Small_sheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 29
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072bb29e2c5378770800000000000000
+      internalID: 8612911923621245552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 39
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea55a67a55c08da50800000000000000
+      internalID: 6545995620403533230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e451a8e788d3d4cc0800000000000000
+      internalID: -3725253660317706930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1de6dc8dfdd9850800000000000000
+      internalID: 6385505968933753338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 38
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e2904831eea170800000000000000
+      internalID: 8191732403951297463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144df1a4b498ac290800000000000000
+      internalID: -7869326442417367999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 7
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c911393e392ee150800000000000000
+      internalID: 5903701508753529282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce6b82acc773ee40800000000000000
+      internalID: 5684518875455778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161729ed823eefe0800000000000000
+      internalID: -1157932469104208364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de6ec45d7719ae0800000000000000
+      internalID: -1544321439209427598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd35a1b218b5040800000000000000
+      internalID: 4637442263433338705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aa11fbc325c8370800000000000000
+      internalID: 8326120231958325893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 37
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e81712427dcea70800000000000000
+      internalID: 8857691117310807694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 36
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f41b7e5af51950800000000000000
+      internalID: 6419312127585351340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 37
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3cddbd6c3579d10800000000000000
+      internalID: 2132265062140593071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5efde426073bd7f0800000000000000
+      internalID: -586814826912809380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 41
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc3c8b4025c4250800000000000000
+      internalID: 5930204989573287102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 36
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fdb824c53ea01c0800000000000000
+      internalID: -4536563689229394051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3bddcd803381f10800000000000000
+      internalID: 2240596927775093698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 36
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb935ee1253d8b70800000000000000
+      internalID: 8902830458229988275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 36
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a76fca7c60b010800000000000000
+      internalID: 1202580375229409401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 34
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b65c684605a0c0800000000000000
+      internalID: -4565235739145095668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 38
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f751502dee68330800000000000000
+      internalID: 3712917528609390427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b9597f5bfcc7280800000000000000
+      internalID: -9044125571216991344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 9
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7facc9f90fc8fb0800000000000000
+      internalID: -4644072547404810330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75dad0ed2d1f5050800000000000000
+      internalID: 5791379728704918907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae46a19624056f50800000000000000
+      internalID: 6873904969949793964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e3d3871f45701d0800000000000000
+      internalID: -3384643198864507353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcacc3604bc12d30800000000000000
+      internalID: 4405025387957759156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 20
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac022ef9733d7600800000000000000
+      internalID: 467586535364103336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 12
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b31d5cea31c0c90800000000000000
+      internalID: -7202360062708204784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 11
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f63f16bcae9ab40800000000000000
+      internalID: 5452146983151300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 13
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3c8ee0460da250800000000000000
+      internalID: 5957424758030876551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 31
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb47fca7b83a8080800000000000000
+      internalID: -9184466128536646724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 36
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf5f7ff8bb512f0800000000000000
+      internalID: -1002689115005256196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd67ed397fe65a660800000000000000
+      internalID: 7396439972642715355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 26
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96238d08b58d13130800000000000000
+      internalID: 3544852269232566889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892bb14273d53b00800000000000000
+      internalID: 807784195865389445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6df1849cbd70e000800000000000000
+      internalID: 63188643682057579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93888356b53b08030800000000000000
+      internalID: 3494990515961104441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 28
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b7d1e11fa2da50800000000000000
+      internalID: 6544485699861067299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 32
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97863a7a5d58e6760800000000000000
+      internalID: 7453041586031782009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df01e0d9faad24350800000000000000
+      internalID: 5999598101399998717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3b1dc0425aa5930800000000000000
+      internalID: 4132797182318326735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd8ba6dc95df5e0800000000000000
+      internalID: -1874243131122590384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 32
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7bdfb2d446685e0800000000000000
+      internalID: -1907727109531518989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcdd23337a2416b0800000000000000
+      internalID: -5326585785004204869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074d74f1b64ae6b0800000000000000
+      internalID: -5266319084131367162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c3ec79a06548d70800000000000000
+      internalID: 9044448555163335737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 21
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef09c6407a11e10800000000000000
+      internalID: 2166696533185068732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73abd31f6f1e7bc0800000000000000
+      internalID: -3783552075009645697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38768d5299bd7b110800000000000000
+      internalID: 1276730470194243459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c05781ac3e1a4e0800000000000000
+      internalID: -1972044704678343634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa1a5f767367460800000000000000
+      internalID: 7239034370686824194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cee9dfbb35e7d30800000000000000
+      internalID: 4431071150258187309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a2cdc973e7aaf0800000000000000
+      internalID: -385089130834254722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085ed46008283530800000000000000
+      internalID: 3834859064863381516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbd8f29d24059c0800000000000000
+      internalID: -3940576173376029343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36146f7eae29db090800000000000000
+      internalID: -8017090224037936797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167c22d38c33ae00800000000000000
+      internalID: 1054753274599339540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4cba948884a100800000000000000
+      internalID: 118369593331567677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a91bbcb31059860800000000000000
+      internalID: 7535930907806505505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 19
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9dba7f93fb4f8a0800000000000000
+      internalID: -6272178125330982468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab788fa5e52fa80800000000000000
+      internalID: -8434575407301805455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6d288362a692320800000000000000
+      internalID: 2533672977762014888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed883d0f9bace610800000000000000
+      internalID: 1651883862948089321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 12
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486b9a8da1392470800000000000000
+      internalID: 8370276003869321290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 16
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88853b76d73babd30800000000000000
+      internalID: 4448064933173876872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4ab02ebdb6d8ad0800000000000000
+      internalID: -2698382009590635337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 11
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d7bcd156211470800000000000000
+      internalID: 8363508116040962443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 16
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167615965c37301d0800000000000000
+      internalID: -3385735203139786911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c17ed63c4aefa0800000000000000
+      internalID: -5770716173977925602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770603ed58ea0740800000000000000
+      internalID: 5119159416398415737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bfa93ea51ad8d00800000000000000
+      internalID: 976614105946979160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e4ef165824ae60800000000000000
+      internalID: 7972541590720014119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 11
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b3d829e17f1470800000000000000
+      internalID: 8367531878903953037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072504a166cf213d0800000000000000
+      internalID: -3237247666668678544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 15
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7fd864115c4caa0800000000000000
+      internalID: -6141567313837688912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa5d38cf96488230800000000000000
+      internalID: 3641237950802254582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7efd5cc4a675bd70800000000000000
+      internalID: 9058276675701046907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f8e99a7ef1c0e0800000000000000
+      internalID: -2251238536186891775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81a9b9c8e623a90800000000000000
+      internalID: -7335679292848072501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0036130392f957c0800000000000000
+      internalID: -4081964874008743922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cdc2be74395b420800000000000000
+      internalID: 2645182293247581341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca06c7eb7dda1e0f0800000000000000
+      internalID: -1089398492721553236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 8
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f3ec7cbfffb0d0800000000000000
+      internalID: -3404721608254558194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c7e6a637411010800000000000000
+      internalID: 1157784879264941450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8c7f5f86cf7150800000000000000
+      internalID: 5872630758199037287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 5
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf41747a2c0a3820800000000000000
+      internalID: 2898642686648078271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82443edb14c6c04a0800000000000000
+      internalID: -6625801922154380248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae838cdf9fb1240800000000000000
+      internalID: 4763675899255646840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 5
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70244db4e5a4ed460800000000000000
+      internalID: 7268328617482142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9a7de3f7006c80800000000000000
+      internalID: -8331650566392733772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a468d97512e3d0800000000000000
+      internalID: -3178954773904447306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687dd011308a3a80800000000000000
+      internalID: -8486329599601575831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feebb0d18d8388260800000000000000
+      internalID: 7099987313400987375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9af624b7b817f0800000000000000
+      internalID: -641560962524341499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e935a6b66647d50800000000000000
+      internalID: 6734119954357132942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc17df28686fe60800000000000000
+      internalID: 7995726085598858027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Impact_Small_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9810efe97495c0800000000000000
+      internalID: -4209605680520717344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcane_Impact_Small_sheet_0: 8612911923621245552
+      Arcane_Impact_Small_sheet_1: 6545995620403533230
+      Arcane_Impact_Small_sheet_10: 4637442263433338705
+      Arcane_Impact_Small_sheet_11: 8326120231958325893
+      Arcane_Impact_Small_sheet_12: 8857691117310807694
+      Arcane_Impact_Small_sheet_13: 6419312127585351340
+      Arcane_Impact_Small_sheet_14: 2132265062140593071
+      Arcane_Impact_Small_sheet_15: -586814826912809380
+      Arcane_Impact_Small_sheet_16: 5930204989573287102
+      Arcane_Impact_Small_sheet_17: -4536563689229394051
+      Arcane_Impact_Small_sheet_18: 2240596927775093698
+      Arcane_Impact_Small_sheet_19: 8902830458229988275
+      Arcane_Impact_Small_sheet_2: -3725253660317706930
+      Arcane_Impact_Small_sheet_20: 1202580375229409401
+      Arcane_Impact_Small_sheet_21: -4565235739145095668
+      Arcane_Impact_Small_sheet_22: 3712917528609390427
+      Arcane_Impact_Small_sheet_23: -9044125571216991344
+      Arcane_Impact_Small_sheet_24: -4644072547404810330
+      Arcane_Impact_Small_sheet_25: 5791379728704918907
+      Arcane_Impact_Small_sheet_26: 6873904969949793964
+      Arcane_Impact_Small_sheet_27: -3384643198864507353
+      Arcane_Impact_Small_sheet_28: 4405025387957759156
+      Arcane_Impact_Small_sheet_29: 467586535364103336
+      Arcane_Impact_Small_sheet_3: 6385505968933753338
+      Arcane_Impact_Small_sheet_30: -7202360062708204784
+      Arcane_Impact_Small_sheet_31: 5452146983151300394
+      Arcane_Impact_Small_sheet_32: 5957424758030876551
+      Arcane_Impact_Small_sheet_33: -9184466128536646724
+      Arcane_Impact_Small_sheet_34: -1002689115005256196
+      Arcane_Impact_Small_sheet_35: 7396439972642715355
+      Arcane_Impact_Small_sheet_36: 3544852269232566889
+      Arcane_Impact_Small_sheet_37: 807784195865389445
+      Arcane_Impact_Small_sheet_38: 63188643682057579
+      Arcane_Impact_Small_sheet_39: 3494990515961104441
+      Arcane_Impact_Small_sheet_4: 8191732403951297463
+      Arcane_Impact_Small_sheet_40: 6544485699861067299
+      Arcane_Impact_Small_sheet_41: 7453041586031782009
+      Arcane_Impact_Small_sheet_42: 5999598101399998717
+      Arcane_Impact_Small_sheet_43: 4132797182318326735
+      Arcane_Impact_Small_sheet_44: -1874243131122590384
+      Arcane_Impact_Small_sheet_45: -1907727109531518989
+      Arcane_Impact_Small_sheet_46: -5326585785004204869
+      Arcane_Impact_Small_sheet_47: -5266319084131367162
+      Arcane_Impact_Small_sheet_48: 9044448555163335737
+      Arcane_Impact_Small_sheet_49: 2166696533185068732
+      Arcane_Impact_Small_sheet_5: -7869326442417367999
+      Arcane_Impact_Small_sheet_50: -3783552075009645697
+      Arcane_Impact_Small_sheet_51: 1276730470194243459
+      Arcane_Impact_Small_sheet_52: -1972044704678343634
+      Arcane_Impact_Small_sheet_53: 7239034370686824194
+      Arcane_Impact_Small_sheet_54: 4431071150258187309
+      Arcane_Impact_Small_sheet_55: -385089130834254722
+      Arcane_Impact_Small_sheet_56: 3834859064863381516
+      Arcane_Impact_Small_sheet_57: -3940576173376029343
+      Arcane_Impact_Small_sheet_58: -8017090224037936797
+      Arcane_Impact_Small_sheet_59: 1054753274599339540
+      Arcane_Impact_Small_sheet_6: 5903701508753529282
+      Arcane_Impact_Small_sheet_60: 118369593331567677
+      Arcane_Impact_Small_sheet_61: 7535930907806505505
+      Arcane_Impact_Small_sheet_62: -6272178125330982468
+      Arcane_Impact_Small_sheet_63: -8434575407301805455
+      Arcane_Impact_Small_sheet_64: 2533672977762014888
+      Arcane_Impact_Small_sheet_65: 1651883862948089321
+      Arcane_Impact_Small_sheet_66: 8370276003869321290
+      Arcane_Impact_Small_sheet_67: 4448064933173876872
+      Arcane_Impact_Small_sheet_68: -2698382009590635337
+      Arcane_Impact_Small_sheet_69: 8363508116040962443
+      Arcane_Impact_Small_sheet_7: 5684518875455778497
+      Arcane_Impact_Small_sheet_70: -3385735203139786911
+      Arcane_Impact_Small_sheet_71: -5770716173977925602
+      Arcane_Impact_Small_sheet_72: 5119159416398415737
+      Arcane_Impact_Small_sheet_73: 976614105946979160
+      Arcane_Impact_Small_sheet_74: 7972541590720014119
+      Arcane_Impact_Small_sheet_75: 8367531878903953037
+      Arcane_Impact_Small_sheet_76: -3237247666668678544
+      Arcane_Impact_Small_sheet_77: -6141567313837688912
+      Arcane_Impact_Small_sheet_78: 3641237950802254582
+      Arcane_Impact_Small_sheet_79: 9058276675701046907
+      Arcane_Impact_Small_sheet_8: -1157932469104208364
+      Arcane_Impact_Small_sheet_80: -2251238536186891775
+      Arcane_Impact_Small_sheet_81: -7335679292848072501
+      Arcane_Impact_Small_sheet_82: -4081964874008743922
+      Arcane_Impact_Small_sheet_83: 2645182293247581341
+      Arcane_Impact_Small_sheet_84: -1089398492721553236
+      Arcane_Impact_Small_sheet_85: -3404721608254558194
+      Arcane_Impact_Small_sheet_86: 1157784879264941450
+      Arcane_Impact_Small_sheet_87: 5872630758199037287
+      Arcane_Impact_Small_sheet_88: 2898642686648078271
+      Arcane_Impact_Small_sheet_89: -6625801922154380248
+      Arcane_Impact_Small_sheet_9: -1544321439209427598
+      Arcane_Impact_Small_sheet_90: 4763675899255646840
+      Arcane_Impact_Small_sheet_91: 7268328617482142215
+      Arcane_Impact_Small_sheet_92: -8331650566392733772
+      Arcane_Impact_Small_sheet_93: -3178954773904447306
+      Arcane_Impact_Small_sheet_94: -8486329599601575831
+      Arcane_Impact_Small_sheet_95: 7099987313400987375
+      Arcane_Impact_Small_sheet_96: -641560962524341499
+      Arcane_Impact_Small_sheet_97: 6734119954357132942
+      Arcane_Impact_Small_sheet_98: 7995726085598858027
+      Arcane_Impact_Small_sheet_99: -4209605680520717344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

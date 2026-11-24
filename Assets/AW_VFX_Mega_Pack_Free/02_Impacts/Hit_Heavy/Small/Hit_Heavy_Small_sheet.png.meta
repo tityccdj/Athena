@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 50ce2e71b961e85448cc56d338b6b8f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7510610340618411817
+    second: Hit_Heavy_Small_sheet_0
+  - first:
+      213: -1234332215278700304
+    second: Hit_Heavy_Small_sheet_1
+  - first:
+      213: -1513051232981089707
+    second: Hit_Heavy_Small_sheet_2
+  - first:
+      213: 3191092105797439243
+    second: Hit_Heavy_Small_sheet_3
+  - first:
+      213: -5000877543538473524
+    second: Hit_Heavy_Small_sheet_4
+  - first:
+      213: -5984332474234277957
+    second: Hit_Heavy_Small_sheet_5
+  - first:
+      213: 3553370203520006862
+    second: Hit_Heavy_Small_sheet_6
+  - first:
+      213: 4151863683784514005
+    second: Hit_Heavy_Small_sheet_7
+  - first:
+      213: -1035115967927894039
+    second: Hit_Heavy_Small_sheet_8
+  - first:
+      213: -7889934236305691178
+    second: Hit_Heavy_Small_sheet_9
+  - first:
+      213: 410371648549379885
+    second: Hit_Heavy_Small_sheet_10
+  - first:
+      213: 9062912998911065850
+    second: Hit_Heavy_Small_sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0601920b3f4c790800000000000000
+      internalID: -7510610340618411817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8fd75d365cedee0800000000000000
+      internalID: -1234332215278700304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 35
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552023b8bef800be0800000000000000
+      internalID: -1513051232981089707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 39
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f0c93fc59094c20800000000000000
+      internalID: 3191092105797439243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54924be50599ab0800000000000000
+      internalID: -5000877543538473524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf6e6f225163fca0800000000000000
+      internalID: -5984332474234277957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca7440af5b105130800000000000000
+      internalID: 3553370203520006862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d912dbd5026e9930800000000000000
+      internalID: 4151863683784514005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb25ee28782a1f0800000000000000
+      internalID: -1035115967927894039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6ecf5d92518290800000000000000
+      internalID: -7889934236305691178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f5da117dee1b500800000000000000
+      internalID: 410371648549379885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe3d5aea5fe5cd70800000000000000
+      internalID: 9062912998911065850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Heavy_Small_sheet_0: -7510610340618411817
+      Hit_Heavy_Small_sheet_1: -1234332215278700304
+      Hit_Heavy_Small_sheet_10: 410371648549379885
+      Hit_Heavy_Small_sheet_11: 9062912998911065850
+      Hit_Heavy_Small_sheet_2: -1513051232981089707
+      Hit_Heavy_Small_sheet_3: 3191092105797439243
+      Hit_Heavy_Small_sheet_4: -5000877543538473524
+      Hit_Heavy_Small_sheet_5: -5984332474234277957
+      Hit_Heavy_Small_sheet_6: 3553370203520006862
+      Hit_Heavy_Small_sheet_7: 4151863683784514005
+      Hit_Heavy_Small_sheet_8: -1035115967927894039
+      Hit_Heavy_Small_sheet_9: -7889934236305691178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

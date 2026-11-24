@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 52f32ccf695e04542a113b9bde9afd70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5083644853396872153
+    second: Collect_Ring_Small_sheet_0
+  - first:
+      213: 3937967234786993800
+    second: Collect_Ring_Small_sheet_1
+  - first:
+      213: -4841732939603552510
+    second: Collect_Ring_Small_sheet_2
+  - first:
+      213: 718250847868399055
+    second: Collect_Ring_Small_sheet_3
+  - first:
+      213: -2805232089959835082
+    second: Collect_Ring_Small_sheet_4
+  - first:
+      213: 2312541851252302734
+    second: Collect_Ring_Small_sheet_5
+  - first:
+      213: -500034855698464706
+    second: Collect_Ring_Small_sheet_6
+  - first:
+      213: -1814249089798433315
+    second: Collect_Ring_Small_sheet_7
+  - first:
+      213: -1728120143165366935
+    second: Collect_Ring_Small_sheet_8
+  - first:
+      213: 4698430664138059477
+    second: Collect_Ring_Small_sheet_9
+  - first:
+      213: 802768247783479733
+    second: Collect_Ring_Small_sheet_10
+  - first:
+      213: 8546937869269905966
+    second: Collect_Ring_Small_sheet_11
+  - first:
+      213: -2380387573109115717
+    second: Collect_Ring_Small_sheet_12
+  - first:
+      213: 4794606155760406626
+    second: Collect_Ring_Small_sheet_13
+  - first:
+      213: -6467222087728667241
+    second: Collect_Ring_Small_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724690da0f34379b0800000000000000
+      internalID: -5083644853396872153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8862b96f55876a630800000000000000
+      internalID: 3937967234786993800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2075f954b85beccb0800000000000000
+      internalID: -4841732939603552510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcda1d6375db7f900800000000000000
+      internalID: 718250847868399055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ada65e640d119d0800000000000000
+      internalID: -2805232089959835082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832e14bf8cc71020800000000000000
+      internalID: 2312541851252302734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3087c2b2f48f09f0800000000000000
+      internalID: -500034855698464706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51d7ca01e72d6e0800000000000000
+      internalID: -1814249089798433315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 15
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d5e61c2eb7408e0800000000000000
+      internalID: -1728120143165366935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 175
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de60c1bbcd243140800000000000000
+      internalID: 4698430664138059477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9d816d771042b00800000000000000
+      internalID: 802768247783479733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22ba2f55b2dc9670800000000000000
+      internalID: 8546937869269905966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b3153d1a27fed0800000000000000
+      internalID: -2380387573109115717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260100055ecd98240800000000000000
+      internalID: 4794606155760406626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Ring_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956f59a6cfcf36a0800000000000000
+      internalID: -6467222087728667241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Collect_Ring_Small_sheet_0: -5083644853396872153
+      Collect_Ring_Small_sheet_1: 3937967234786993800
+      Collect_Ring_Small_sheet_10: 802768247783479733
+      Collect_Ring_Small_sheet_11: 8546937869269905966
+      Collect_Ring_Small_sheet_12: -2380387573109115717
+      Collect_Ring_Small_sheet_13: 4794606155760406626
+      Collect_Ring_Small_sheet_14: -6467222087728667241
+      Collect_Ring_Small_sheet_2: -4841732939603552510
+      Collect_Ring_Small_sheet_3: 718250847868399055
+      Collect_Ring_Small_sheet_4: -2805232089959835082
+      Collect_Ring_Small_sheet_5: 2312541851252302734
+      Collect_Ring_Small_sheet_6: -500034855698464706
+      Collect_Ring_Small_sheet_7: -1814249089798433315
+      Collect_Ring_Small_sheet_8: -1728120143165366935
+      Collect_Ring_Small_sheet_9: 4698430664138059477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

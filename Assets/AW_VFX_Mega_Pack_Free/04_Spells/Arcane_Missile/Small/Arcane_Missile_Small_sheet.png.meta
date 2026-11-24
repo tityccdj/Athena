@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: cca0df15f6b91804fa03e8733bef773f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3136531133188777414
+    second: Arcane_Missile_Small_sheet_0
+  - first:
+      213: 6806798735887825233
+    second: Arcane_Missile_Small_sheet_1
+  - first:
+      213: -3239656374974189753
+    second: Arcane_Missile_Small_sheet_2
+  - first:
+      213: -725628185425453786
+    second: Arcane_Missile_Small_sheet_3
+  - first:
+      213: 4153160877191421548
+    second: Arcane_Missile_Small_sheet_4
+  - first:
+      213: 7659161029519334797
+    second: Arcane_Missile_Small_sheet_5
+  - first:
+      213: -8164145826131822790
+    second: Arcane_Missile_Small_sheet_6
+  - first:
+      213: -8775479345065852039
+    second: Arcane_Missile_Small_sheet_7
+  - first:
+      213: 6986798606941555328
+    second: Arcane_Missile_Small_sheet_8
+  - first:
+      213: -5639191039890155775
+    second: Arcane_Missile_Small_sheet_9
+  - first:
+      213: 8053668411108807855
+    second: Arcane_Missile_Small_sheet_10
+  - first:
+      213: -6689244213685800913
+    second: Arcane_Missile_Small_sheet_11
+  - first:
+      213: 1314553851925273328
+    second: Arcane_Missile_Small_sheet_12
+  - first:
+      213: -6859452381791974550
+    second: Arcane_Missile_Small_sheet_13
+  - first:
+      213: -9221125654998961628
+    second: Arcane_Missile_Small_sheet_14
+  - first:
+      213: -471688281262699812
+    second: Arcane_Missile_Small_sheet_15
+  - first:
+      213: 6257944388809566369
+    second: Arcane_Missile_Small_sheet_16
+  - first:
+      213: 1036120093330143237
+    second: Arcane_Missile_Small_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a545b6d8dc874d0800000000000000
+      internalID: -3136531133188777414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fb26e26b967e50800000000000000
+      internalID: 6806798735887825233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f655ff0bd6a03d0800000000000000
+      internalID: -3239656374974189753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d54b8820d0ee5f0800000000000000
+      internalID: -725628185425453786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e5b0c30ddf2a930800000000000000
+      internalID: 4153160877191421548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dd30a506eca4a60800000000000000
+      internalID: 7659161029519334797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37bcea60a023be80800000000000000
+      internalID: -8164145826131822790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738297b70c373680800000000000000
+      internalID: -8775479345065852039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a02fbb05816f060800000000000000
+      internalID: 6986798606941555328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10718ce70a19db1b0800000000000000
+      internalID: -5639191039890155775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4dceeefb064cf60800000000000000
+      internalID: 8053668411108807855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20bb6b24d70b23a0800000000000000
+      internalID: -6689244213685800913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa902673cb3e3210800000000000000
+      internalID: 1314553851925273328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0595d6645ec0a0800000000000000
+      internalID: -6859452381791974550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422bb88821bf70080800000000000000
+      internalID: -9221125654998961628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4f9ed10a3479f0800000000000000
+      internalID: -471688281262699812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8a42ff34fa8d650800000000000000
+      internalID: 6257944388809566369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Missile_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 4
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508769b3cb9016e00800000000000000
+      internalID: 1036120093330143237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcane_Missile_Small_sheet_0: -3136531133188777414
+      Arcane_Missile_Small_sheet_1: 6806798735887825233
+      Arcane_Missile_Small_sheet_10: 8053668411108807855
+      Arcane_Missile_Small_sheet_11: -6689244213685800913
+      Arcane_Missile_Small_sheet_12: 1314553851925273328
+      Arcane_Missile_Small_sheet_13: -6859452381791974550
+      Arcane_Missile_Small_sheet_14: -9221125654998961628
+      Arcane_Missile_Small_sheet_15: -471688281262699812
+      Arcane_Missile_Small_sheet_16: 6257944388809566369
+      Arcane_Missile_Small_sheet_17: 1036120093330143237
+      Arcane_Missile_Small_sheet_2: -3239656374974189753
+      Arcane_Missile_Small_sheet_3: -725628185425453786
+      Arcane_Missile_Small_sheet_4: 4153160877191421548
+      Arcane_Missile_Small_sheet_5: 7659161029519334797
+      Arcane_Missile_Small_sheet_6: -8164145826131822790
+      Arcane_Missile_Small_sheet_7: -8775479345065852039
+      Arcane_Missile_Small_sheet_8: 6986798606941555328
+      Arcane_Missile_Small_sheet_9: -5639191039890155775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

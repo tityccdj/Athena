@@ -161,3 +161,17 @@ MonoBehaviour:
   _hitLayers:
     serializedVersion: 2
     m_Bits: 256
+  _hitParticleName: Player_pPtjOH
+  _hitParticlePrefab: {fileID: 0}
+  _hitParticleOffset: {x: 0, y: 0, z: 0}
+  _launchParticleName: 
+  _launchParticlePrefab: {fileID: 0}
+  _onLaunchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onHitEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onHitPositionEvent:
+    m_PersistentCalls:
+      m_Calls: []

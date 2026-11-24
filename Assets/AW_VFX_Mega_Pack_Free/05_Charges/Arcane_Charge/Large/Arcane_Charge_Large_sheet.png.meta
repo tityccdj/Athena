@@ -1,0 +1,4966 @@
+fileFormatVersion: 2
+guid: d48c510acd5d27844b3d1443b9ef8d35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7195102589198764000
+    second: Arcane_Charge_Large_sheet_0
+  - first:
+      213: -1581780786619428584
+    second: Arcane_Charge_Large_sheet_1
+  - first:
+      213: 5822385161805804658
+    second: Arcane_Charge_Large_sheet_2
+  - first:
+      213: -8589360098687086412
+    second: Arcane_Charge_Large_sheet_3
+  - first:
+      213: -2437140232345696714
+    second: Arcane_Charge_Large_sheet_4
+  - first:
+      213: -1115807905181759804
+    second: Arcane_Charge_Large_sheet_5
+  - first:
+      213: 3874362612663385269
+    second: Arcane_Charge_Large_sheet_6
+  - first:
+      213: -154607797234377125
+    second: Arcane_Charge_Large_sheet_7
+  - first:
+      213: 14083133710517713
+    second: Arcane_Charge_Large_sheet_8
+  - first:
+      213: -7557834231352602917
+    second: Arcane_Charge_Large_sheet_9
+  - first:
+      213: -2085129444474764059
+    second: Arcane_Charge_Large_sheet_10
+  - first:
+      213: -6182215060054603412
+    second: Arcane_Charge_Large_sheet_11
+  - first:
+      213: -3612470966425602894
+    second: Arcane_Charge_Large_sheet_12
+  - first:
+      213: -8294735779797184732
+    second: Arcane_Charge_Large_sheet_13
+  - first:
+      213: -874646016924681704
+    second: Arcane_Charge_Large_sheet_14
+  - first:
+      213: -7127278285570317840
+    second: Arcane_Charge_Large_sheet_15
+  - first:
+      213: -6379144354138648631
+    second: Arcane_Charge_Large_sheet_16
+  - first:
+      213: -935099062746499219
+    second: Arcane_Charge_Large_sheet_17
+  - first:
+      213: -3041819021435520600
+    second: Arcane_Charge_Large_sheet_18
+  - first:
+      213: 4163353644003871464
+    second: Arcane_Charge_Large_sheet_19
+  - first:
+      213: 2406973973276418348
+    second: Arcane_Charge_Large_sheet_20
+  - first:
+      213: 6741471926250549084
+    second: Arcane_Charge_Large_sheet_21
+  - first:
+      213: 6278391810171178922
+    second: Arcane_Charge_Large_sheet_22
+  - first:
+      213: -8105086927224977855
+    second: Arcane_Charge_Large_sheet_23
+  - first:
+      213: 7727898590083564632
+    second: Arcane_Charge_Large_sheet_24
+  - first:
+      213: -4589088486345803353
+    second: Arcane_Charge_Large_sheet_25
+  - first:
+      213: -7234825849099526073
+    second: Arcane_Charge_Large_sheet_26
+  - first:
+      213: -4244684767751393481
+    second: Arcane_Charge_Large_sheet_27
+  - first:
+      213: -2139665492421602503
+    second: Arcane_Charge_Large_sheet_28
+  - first:
+      213: 8103544579601535085
+    second: Arcane_Charge_Large_sheet_29
+  - first:
+      213: -598161069779753581
+    second: Arcane_Charge_Large_sheet_30
+  - first:
+      213: -4880464479068838983
+    second: Arcane_Charge_Large_sheet_31
+  - first:
+      213: 4532055373957142261
+    second: Arcane_Charge_Large_sheet_32
+  - first:
+      213: 6109073920573036869
+    second: Arcane_Charge_Large_sheet_33
+  - first:
+      213: -4846012813966596217
+    second: Arcane_Charge_Large_sheet_34
+  - first:
+      213: 7229715989395667533
+    second: Arcane_Charge_Large_sheet_35
+  - first:
+      213: -1015957234366550830
+    second: Arcane_Charge_Large_sheet_36
+  - first:
+      213: -8212996969796353194
+    second: Arcane_Charge_Large_sheet_37
+  - first:
+      213: 2670109000780487713
+    second: Arcane_Charge_Large_sheet_38
+  - first:
+      213: 3308567579907751935
+    second: Arcane_Charge_Large_sheet_39
+  - first:
+      213: -8905026413382082135
+    second: Arcane_Charge_Large_sheet_40
+  - first:
+      213: 6155331771759317987
+    second: Arcane_Charge_Large_sheet_41
+  - first:
+      213: 6453856597972041231
+    second: Arcane_Charge_Large_sheet_42
+  - first:
+      213: -9185537937334719580
+    second: Arcane_Charge_Large_sheet_43
+  - first:
+      213: 9107607220028523635
+    second: Arcane_Charge_Large_sheet_44
+  - first:
+      213: 3626532654945688541
+    second: Arcane_Charge_Large_sheet_45
+  - first:
+      213: 7174951788549292711
+    second: Arcane_Charge_Large_sheet_46
+  - first:
+      213: 3485897584439467904
+    second: Arcane_Charge_Large_sheet_47
+  - first:
+      213: 8634470467495106351
+    second: Arcane_Charge_Large_sheet_48
+  - first:
+      213: -4406633097544872429
+    second: Arcane_Charge_Large_sheet_49
+  - first:
+      213: -1704909387266103334
+    second: Arcane_Charge_Large_sheet_50
+  - first:
+      213: 228911176124876296
+    second: Arcane_Charge_Large_sheet_51
+  - first:
+      213: -3377294692714521518
+    second: Arcane_Charge_Large_sheet_52
+  - first:
+      213: 2460299568581727310
+    second: Arcane_Charge_Large_sheet_53
+  - first:
+      213: 2474962618735627336
+    second: Arcane_Charge_Large_sheet_54
+  - first:
+      213: 7684426448377750242
+    second: Arcane_Charge_Large_sheet_55
+  - first:
+      213: 4070557595765025916
+    second: Arcane_Charge_Large_sheet_56
+  - first:
+      213: 9216299685801518455
+    second: Arcane_Charge_Large_sheet_57
+  - first:
+      213: -4511861888305996728
+    second: Arcane_Charge_Large_sheet_58
+  - first:
+      213: 8399380234780903292
+    second: Arcane_Charge_Large_sheet_59
+  - first:
+      213: 1291480484969733094
+    second: Arcane_Charge_Large_sheet_60
+  - first:
+      213: 8847177027825372038
+    second: Arcane_Charge_Large_sheet_61
+  - first:
+      213: 7752377263889492492
+    second: Arcane_Charge_Large_sheet_62
+  - first:
+      213: -4658309205562862473
+    second: Arcane_Charge_Large_sheet_63
+  - first:
+      213: 252133083862071306
+    second: Arcane_Charge_Large_sheet_64
+  - first:
+      213: 1795022644221117812
+    second: Arcane_Charge_Large_sheet_65
+  - first:
+      213: 1140630341939740136
+    second: Arcane_Charge_Large_sheet_66
+  - first:
+      213: 9073420465323018675
+    second: Arcane_Charge_Large_sheet_67
+  - first:
+      213: -1502100997092635624
+    second: Arcane_Charge_Large_sheet_68
+  - first:
+      213: 8209469094468591757
+    second: Arcane_Charge_Large_sheet_69
+  - first:
+      213: 3453519357477804158
+    second: Arcane_Charge_Large_sheet_70
+  - first:
+      213: -4203741256185261264
+    second: Arcane_Charge_Large_sheet_71
+  - first:
+      213: 122944585804558594
+    second: Arcane_Charge_Large_sheet_72
+  - first:
+      213: -5368881289180696628
+    second: Arcane_Charge_Large_sheet_73
+  - first:
+      213: 2770679615192270496
+    second: Arcane_Charge_Large_sheet_74
+  - first:
+      213: 660531603494821657
+    second: Arcane_Charge_Large_sheet_75
+  - first:
+      213: 6299932679181116734
+    second: Arcane_Charge_Large_sheet_76
+  - first:
+      213: -3815609745296448950
+    second: Arcane_Charge_Large_sheet_77
+  - first:
+      213: 3444067248301221232
+    second: Arcane_Charge_Large_sheet_78
+  - first:
+      213: -2844458610046838908
+    second: Arcane_Charge_Large_sheet_79
+  - first:
+      213: -7709726665737466515
+    second: Arcane_Charge_Large_sheet_80
+  - first:
+      213: 199635960295888245
+    second: Arcane_Charge_Large_sheet_81
+  - first:
+      213: 2430320044502609677
+    second: Arcane_Charge_Large_sheet_82
+  - first:
+      213: 2449803035877291236
+    second: Arcane_Charge_Large_sheet_83
+  - first:
+      213: -1072121009756731783
+    second: Arcane_Charge_Large_sheet_84
+  - first:
+      213: -2025187441527624350
+    second: Arcane_Charge_Large_sheet_85
+  - first:
+      213: 3735201060281524455
+    second: Arcane_Charge_Large_sheet_86
+  - first:
+      213: 7652501011905088956
+    second: Arcane_Charge_Large_sheet_87
+  - first:
+      213: -5338742364058844809
+    second: Arcane_Charge_Large_sheet_88
+  - first:
+      213: -8533670335554230383
+    second: Arcane_Charge_Large_sheet_89
+  - first:
+      213: -6055128731234844753
+    second: Arcane_Charge_Large_sheet_90
+  - first:
+      213: -999578770110655290
+    second: Arcane_Charge_Large_sheet_91
+  - first:
+      213: -4405390856613437173
+    second: Arcane_Charge_Large_sheet_92
+  - first:
+      213: 2896156879336273653
+    second: Arcane_Charge_Large_sheet_93
+  - first:
+      213: 4316002874484365756
+    second: Arcane_Charge_Large_sheet_94
+  - first:
+      213: 4074463262362871801
+    second: Arcane_Charge_Large_sheet_95
+  - first:
+      213: 2250496024451395923
+    second: Arcane_Charge_Large_sheet_96
+  - first:
+      213: 167932250455647994
+    second: Arcane_Charge_Large_sheet_97
+  - first:
+      213: -7328578868230464246
+    second: Arcane_Charge_Large_sheet_98
+  - first:
+      213: 7388769221486317274
+    second: Arcane_Charge_Large_sheet_99
+  - first:
+      213: 6595160773088858058
+    second: Arcane_Charge_Large_sheet_100
+  - first:
+      213: -7013175757463255135
+    second: Arcane_Charge_Large_sheet_101
+  - first:
+      213: 2588100983422361696
+    second: Arcane_Charge_Large_sheet_102
+  - first:
+      213: -6588967720562866578
+    second: Arcane_Charge_Large_sheet_103
+  - first:
+      213: -8884998860585482012
+    second: Arcane_Charge_Large_sheet_104
+  - first:
+      213: 414904915661302684
+    second: Arcane_Charge_Large_sheet_105
+  - first:
+      213: -8598014595420470787
+    second: Arcane_Charge_Large_sheet_106
+  - first:
+      213: -5087456062517030515
+    second: Arcane_Charge_Large_sheet_107
+  - first:
+      213: -1297610888642241879
+    second: Arcane_Charge_Large_sheet_108
+  - first:
+      213: 2116878557543472314
+    second: Arcane_Charge_Large_sheet_109
+  - first:
+      213: -1861188434864311988
+    second: Arcane_Charge_Large_sheet_110
+  - first:
+      213: -7460532496060353798
+    second: Arcane_Charge_Large_sheet_111
+  - first:
+      213: 5670689135453365305
+    second: Arcane_Charge_Large_sheet_112
+  - first:
+      213: 5126011348562808228
+    second: Arcane_Charge_Large_sheet_113
+  - first:
+      213: -1421278342947888401
+    second: Arcane_Charge_Large_sheet_114
+  - first:
+      213: 4577136247859181634
+    second: Arcane_Charge_Large_sheet_115
+  - first:
+      213: -238002441659184198
+    second: Arcane_Charge_Large_sheet_116
+  - first:
+      213: -4852617053842521729
+    second: Arcane_Charge_Large_sheet_117
+  - first:
+      213: 3288886823607123914
+    second: Arcane_Charge_Large_sheet_118
+  - first:
+      213: -5211174726855032106
+    second: Arcane_Charge_Large_sheet_119
+  - first:
+      213: 7418878937140882024
+    second: Arcane_Charge_Large_sheet_120
+  - first:
+      213: 4088028193839013411
+    second: Arcane_Charge_Large_sheet_121
+  - first:
+      213: -8816016608922168711
+    second: Arcane_Charge_Large_sheet_122
+  - first:
+      213: 8091115287119999546
+    second: Arcane_Charge_Large_sheet_123
+  - first:
+      213: -3889308048021636117
+    second: Arcane_Charge_Large_sheet_124
+  - first:
+      213: 2051711696689030423
+    second: Arcane_Charge_Large_sheet_125
+  - first:
+      213: 495291013324592020
+    second: Arcane_Charge_Large_sheet_126
+  - first:
+      213: -1213890676014505244
+    second: Arcane_Charge_Large_sheet_127
+  - first:
+      213: 4247110870426193581
+    second: Arcane_Charge_Large_sheet_128
+  - first:
+      213: 3667572955424353636
+    second: Arcane_Charge_Large_sheet_129
+  - first:
+      213: 7927517339431706066
+    second: Arcane_Charge_Large_sheet_130
+  - first:
+      213: 4843477456012012283
+    second: Arcane_Charge_Large_sheet_131
+  - first:
+      213: 4110073346076229782
+    second: Arcane_Charge_Large_sheet_132
+  - first:
+      213: 8841141016771006090
+    second: Arcane_Charge_Large_sheet_133
+  - first:
+      213: -2426307038482196073
+    second: Arcane_Charge_Large_sheet_134
+  - first:
+      213: 602019503368758261
+    second: Arcane_Charge_Large_sheet_135
+  - first:
+      213: -8190469290960328542
+    second: Arcane_Charge_Large_sheet_136
+  - first:
+      213: 2125803857885393283
+    second: Arcane_Charge_Large_sheet_137
+  - first:
+      213: 2366995219851519545
+    second: Arcane_Charge_Large_sheet_138
+  - first:
+      213: 3655770271247181147
+    second: Arcane_Charge_Large_sheet_139
+  - first:
+      213: -4365618613807676478
+    second: Arcane_Charge_Large_sheet_140
+  - first:
+      213: 7106390515646427127
+    second: Arcane_Charge_Large_sheet_141
+  - first:
+      213: -236481896283422590
+    second: Arcane_Charge_Large_sheet_142
+  - first:
+      213: -9031359082359113185
+    second: Arcane_Charge_Large_sheet_143
+  - first:
+      213: 5049160909009781240
+    second: Arcane_Charge_Large_sheet_144
+  - first:
+      213: 4682214809792708853
+    second: Arcane_Charge_Large_sheet_145
+  - first:
+      213: -2889029039455167986
+    second: Arcane_Charge_Large_sheet_146
+  - first:
+      213: -7376598622685257206
+    second: Arcane_Charge_Large_sheet_147
+  - first:
+      213: 2135445599534488666
+    second: Arcane_Charge_Large_sheet_148
+  - first:
+      213: -3114963942528266691
+    second: Arcane_Charge_Large_sheet_149
+  - first:
+      213: -3914060190780162677
+    second: Arcane_Charge_Large_sheet_150
+  - first:
+      213: -7008318339572732468
+    second: Arcane_Charge_Large_sheet_151
+  - first:
+      213: -2015499934541620987
+    second: Arcane_Charge_Large_sheet_152
+  - first:
+      213: 6194211011373919200
+    second: Arcane_Charge_Large_sheet_153
+  - first:
+      213: 7233573771522589095
+    second: Arcane_Charge_Large_sheet_154
+  - first:
+      213: 5652063429940413549
+    second: Arcane_Charge_Large_sheet_155
+  - first:
+      213: 8435182107486087763
+    second: Arcane_Charge_Large_sheet_156
+  - first:
+      213: 5572189848988776859
+    second: Arcane_Charge_Large_sheet_157
+  - first:
+      213: 9088404165717823044
+    second: Arcane_Charge_Large_sheet_158
+  - first:
+      213: -4249398587333715796
+    second: Arcane_Charge_Large_sheet_159
+  - first:
+      213: -4661235817132418392
+    second: Arcane_Charge_Large_sheet_160
+  - first:
+      213: 4944519088455429385
+    second: Arcane_Charge_Large_sheet_161
+  - first:
+      213: 943654502967278662
+    second: Arcane_Charge_Large_sheet_162
+  - first:
+      213: 5812860385178090419
+    second: Arcane_Charge_Large_sheet_163
+  - first:
+      213: 3705955400601893515
+    second: Arcane_Charge_Large_sheet_164
+  - first:
+      213: -7436313362765359490
+    second: Arcane_Charge_Large_sheet_165
+  - first:
+      213: 6282062976775597244
+    second: Arcane_Charge_Large_sheet_166
+  - first:
+      213: -2991513712126736913
+    second: Arcane_Charge_Large_sheet_167
+  - first:
+      213: -2375489104892606702
+    second: Arcane_Charge_Large_sheet_168
+  - first:
+      213: 3883585795629965838
+    second: Arcane_Charge_Large_sheet_169
+  - first:
+      213: -2996075582543507133
+    second: Arcane_Charge_Large_sheet_170
+  - first:
+      213: 4076339173759208203
+    second: Arcane_Charge_Large_sheet_171
+  - first:
+      213: -6612549416900590227
+    second: Arcane_Charge_Large_sheet_172
+  - first:
+      213: 6291453170167270145
+    second: Arcane_Charge_Large_sheet_173
+  - first:
+      213: -5017355544131952592
+    second: Arcane_Charge_Large_sheet_174
+  - first:
+      213: 4858128648756694626
+    second: Arcane_Charge_Large_sheet_175
+  - first:
+      213: 5366071295970134762
+    second: Arcane_Charge_Large_sheet_176
+  - first:
+      213: 364002228255581857
+    second: Arcane_Charge_Large_sheet_177
+  - first:
+      213: -3814511574845572360
+    second: Arcane_Charge_Large_sheet_178
+  - first:
+      213: -5051300210930052780
+    second: Arcane_Charge_Large_sheet_179
+  - first:
+      213: -1114743160417972447
+    second: Arcane_Charge_Large_sheet_180
+  - first:
+      213: -9021966283784644459
+    second: Arcane_Charge_Large_sheet_181
+  - first:
+      213: 8512116956468981200
+    second: Arcane_Charge_Large_sheet_182
+  - first:
+      213: 8785186435549591036
+    second: Arcane_Charge_Large_sheet_183
+  - first:
+      213: -5771658961401829011
+    second: Arcane_Charge_Large_sheet_184
+  - first:
+      213: 5480358166440267669
+    second: Arcane_Charge_Large_sheet_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 54
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0287050015cd52c90800000000000000
+      internalID: -7195102589198764000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d20551c26c0ae0800000000000000
+      internalID: -1581780786619428584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b0f2d4744dc050800000000000000
+      internalID: 5822385161805804658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 56
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b097d5af767cc880800000000000000
+      internalID: -8589360098687086412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c8370fd98d2ed0800000000000000
+      internalID: -2437140232345696714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6811e3f9ad380f0800000000000000
+      internalID: -1115807905181759804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 50
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcfadad44084c530800000000000000
+      internalID: 3874362612663385269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 55
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed65e0709baddf0800000000000000
+      internalID: -154607797234377125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 68
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5c3261988023000800000000000000
+      internalID: 14083133710517713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 57
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec0f84fcd2d1790800000000000000
+      internalID: -7557834231352602917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 44
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4cf5751d12013e0800000000000000
+      internalID: -2085129444474764059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 57
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69006c582c543aa0800000000000000
+      internalID: -6182215060054603412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 58
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43ac4bbccedddc0800000000000000
+      internalID: -3612470966425602894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 53
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f477371cd23ec80800000000000000
+      internalID: -8294735779797184732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7ef8e412acd3f0800000000000000
+      internalID: -874646016924681704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 33
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e9354922d61d90800000000000000
+      internalID: -7127278285570317840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 63
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf80a0120ab877a0800000000000000
+      internalID: -6379144354138648631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 73
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b1375b5cd503f0800000000000000
+      internalID: -935099062746499219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 66
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a93f4c57b949c5d0800000000000000
+      internalID: -3041819021435520600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 69
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eacd21b41437c930800000000000000
+      internalID: 4163353644003871464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 56
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2160c4731a476120800000000000000
+      internalID: 2406973973276418348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 66
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fae63cff48e8d50800000000000000
+      internalID: 6741471926250549084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 68
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf89f54614512750800000000000000
+      internalID: 6278391810171178922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 56
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c71dd162f48f80800000000000000
+      internalID: -8105086927224977855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 69
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8544c22d2d20f3b60800000000000000
+      internalID: 7727898590083564632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 56
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f580f5584050c0800000000000000
+      internalID: -4589088486345803353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740eb94d83cb89b90800000000000000
+      internalID: -7234825849099526073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 23
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73faaaa61b9d715c0800000000000000
+      internalID: -4244684767751393481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 56
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339c0232916e42e0800000000000000
+      internalID: -2139665492421602503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 61
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6011b85cd2957070800000000000000
+      internalID: 8103544579601535085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 70
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956f4d1da7e2b7f0800000000000000
+      internalID: -598161069779753581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 57
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a0320a6b154cb0800000000000000
+      internalID: -4880464479068838983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 67
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f69d1bc95815ee30800000000000000
+      internalID: 4532055373957142261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 18
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549db5e0d5ac7c450800000000000000
+      internalID: 6109073920573036869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 68
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787a78e55018fbcb0800000000000000
+      internalID: -4846012813966596217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 57
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af3ee336c155460800000000000000
+      internalID: 7229715989395667533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 66
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce792374896e1f0800000000000000
+      internalID: -1015957234366550830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 57
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cde135c2950e80800000000000000
+      internalID: -8212996969796353194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 70
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c18174df12e0520800000000000000
+      internalID: 2670109000780487713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 34
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff76c33fa46aed20800000000000000
+      internalID: 3308567579907751935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 68
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e3ea68adfa6480800000000000000
+      internalID: -8905026413382082135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 67
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d36252a12c6550800000000000000
+      internalID: 6155331771759317987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 53
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3f61c164b09950800000000000000
+      internalID: 6453856597972041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 19
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab2a4eb9e9668080800000000000000
+      internalID: -9185537937334719580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374459f2388b46e70800000000000000
+      internalID: 9107607220028523635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb54684c38045230800000000000000
+      internalID: 3626532654945688541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 58
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2c80d13ac829360800000000000000
+      internalID: 7174951788549292711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 65
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f18eb4265606030800000000000000
+      internalID: 3485897584439467904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 43
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2795ae842dc3d770800000000000000
+      internalID: 8634470467495106351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 56
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ecb5d8b8e78d2c0800000000000000
+      internalID: -4406633097544872429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 71
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad766cdf1f1f658e0800000000000000
+      internalID: -1704909387266103334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064a0a70814d2300800000000000000
+      internalID: 228911176124876296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c50f2ee507121d0800000000000000
+      internalID: -3377294692714521518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 41
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445c522c6db42220800000000000000
+      internalID: 2460299568581727310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c8b1a8365d85220800000000000000
+      internalID: 2474962618735627336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e22c26142194aa60800000000000000
+      internalID: 7684426448377750242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 41
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca75d01968d7830800000000000000
+      internalID: 4070557595765025916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 50
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756eb3fbbfd6ef70800000000000000
+      internalID: 9216299685801518455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd5e77485a261c0800000000000000
+      internalID: -4511861888305996728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 36
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778d8b52d7909470800000000000000
+      internalID: 8399380234780903292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 36
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb58f498a24ce110800000000000000
+      internalID: 1291480484969733094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 50
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0788e1ac77ca70800000000000000
+      internalID: 8847177027825372038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 53
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aa2f23c0af59b60800000000000000
+      internalID: 7752377263889492492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 35
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7745e74557c5a5fb0800000000000000
+      internalID: -4658309205562862473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f8b334b1cf7300800000000000000
+      internalID: 252133083862071306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 33
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4750590a59339e810800000000000000
+      internalID: 1795022644221117812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb95fa04554df00800000000000000
+      internalID: 1140630341939740136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9865517d34bed70800000000000000
+      internalID: 9073420465323018675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 51
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c88830a17772be0800000000000000
+      internalID: -1502100997092635624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 27
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80295255a4ede170800000000000000
+      internalID: 8209469094468591757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 36
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78566fde8d5def20800000000000000
+      internalID: 3453519357477804158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335c61999f49a5c0800000000000000
+      internalID: -4203741256185261264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 44
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20130fb0379c4b100800000000000000
+      internalID: 122944585804558594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 14
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa42db9e6ed75b0800000000000000
+      internalID: -5368881289180696628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 38
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a683f92e6e637620800000000000000
+      internalID: 2770679615192270496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f5a356efdaa2900800000000000000
+      internalID: 660531603494821657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 37
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35277ba46bdd6750800000000000000
+      internalID: 6299932679181116734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 42
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a422612172b3c0bc0800000000000000
+      internalID: -3815609745296448950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 49
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0752d853ae8cbcf20800000000000000
+      internalID: 3444067248301221232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 35
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4875bd9f6f37688d0800000000000000
+      internalID: -2844458610046838908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 54
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8c55027c810590800000000000000
+      internalID: -7709726665737466515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 39
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57594d129df35c200800000000000000
+      internalID: 199635960295888245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 48
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe61f343b3ab120800000000000000
+      internalID: 2430320044502609677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b32ba1e27ff120800000000000000
+      internalID: 2449803035877291236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 55
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97687393f9f0f11f0800000000000000
+      internalID: -1072121009756731783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 44
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de92870c615e3e0800000000000000
+      internalID: -2025187441527624350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 27
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e02eba039916d330800000000000000
+      internalID: 3735201060281524455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 37
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8be92025233a60800000000000000
+      internalID: 7652501011905088956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 54
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77181f21b1af8e5b0800000000000000
+      internalID: -5338742364058844809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 48
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197600b0b00529980800000000000000
+      internalID: -8533670335554230383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 55
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3c79108cd7fba0800000000000000
+      internalID: -6055128731234844753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 22
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c458829768c022f0800000000000000
+      internalID: -999578770110655290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 29
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016dce4b58ecd2c0800000000000000
+      internalID: -4405390856613437173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 38
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f674a65657313820800000000000000
+      internalID: 2896156879336273653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 33
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb994374fb585eb30800000000000000
+      internalID: 4316002874484365756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 36
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a48befb66b8830800000000000000
+      internalID: 4074463262362871801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351bad9e53e5b3f10800000000000000
+      internalID: 2250496024451395923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6adb6fd7d945200800000000000000
+      internalID: 167932250455647994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d50ba0958ab4a90800000000000000
+      internalID: -7328578868230464246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 26
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0806a57e2a8660800000000000000
+      internalID: 7388769221486317274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4d8cc7c7b68b50800000000000000
+      internalID: 6595160773088858058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a785055ec13cae90800000000000000
+      internalID: -7013175757463255135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 27
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060aabfc128cae320800000000000000
+      internalID: 2588100983422361696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 27
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c55b94c84f84a0800000000000000
+      internalID: -6588967720562866578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 12
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84d0d6c9422b480800000000000000
+      internalID: -8884998860585482012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 35
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2e8192d902c500800000000000000
+      internalID: 414904915661302684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c65a9747bda880800000000000000
+      internalID: -8598014595420470787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 16
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81d3476aa9b569b0800000000000000
+      internalID: -5087456062517030515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 27
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aadcc595c5fdfde0800000000000000
+      internalID: -1297610888642241879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 39
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc150715d9a06d10800000000000000
+      internalID: 2116878557543472314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f8dfbafabb26e0800000000000000
+      internalID: -1861188434864311988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 30
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27011f83dd67890800000000000000
+      internalID: -7460532496060353798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 26
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346d5e59b552be40800000000000000
+      internalID: 5670689135453365305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 25
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad05b9a920432740800000000000000
+      internalID: 5126011348562808228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 27
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a2a990ea964ce0800000000000000
+      internalID: -1421278342947888401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 36
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248f53eaa21458f30800000000000000
+      internalID: 4577136247859181634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 11
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8a315a0272bcf0800000000000000
+      internalID: -238002441659184198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 38
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c6b2ff7a08acb0800000000000000
+      internalID: -4852617053842521729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 19
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfb09b042974ad20800000000000000
+      internalID: 3288886823607123914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 25
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2005722303ea7b0800000000000000
+      internalID: -5211174726855032106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 29
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae8ef161725f660800000000000000
+      internalID: 7418878937140882024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 25
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5e85abf79bb830800000000000000
+      internalID: 4088028193839013411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972104b7a9737a580800000000000000
+      internalID: -8816016608922168711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 10
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32358d2c7a694070800000000000000
+      internalID: 8091115287119999546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb3a9fcfe6660ac0800000000000000
+      internalID: -3889308048021636117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 36
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e9aeeae4297c10800000000000000
+      internalID: 2051711696689030423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 26
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493d7ad6d80afd600800000000000000
+      internalID: 495291013324592020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 29
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22ff39cd4672fe0800000000000000
+      internalID: -1213890676014505244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 25
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae0471a5d4c0fa30800000000000000
+      internalID: 4247110870426193581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 30
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de5ebdb26d5e230800000000000000
+      internalID: 3667572955424353636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 13
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd9397b403340e60800000000000000
+      internalID: 7927517339431706066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa653b951d773340800000000000000
+      internalID: 4843477456012012283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 25
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690cca1aee9e90930800000000000000
+      internalID: 4110073346076229782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 29
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e85c199ea02ba70800000000000000
+      internalID: 8841141016771006090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 30
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991d378a96045ed0800000000000000
+      internalID: -2426307038482196073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 37
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e6267c8dca5800800000000000000
+      internalID: 602019503368758261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 25
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86098239b955e80800000000000000
+      internalID: -8190469290960328542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f963885f508d10800000000000000
+      internalID: 2125803857885393283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 19
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9362c409c9149d020800000000000000
+      internalID: 2366995219851519545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552f1e41b7ebb230800000000000000
+      internalID: 3655770271247181147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3092330053a63c0800000000000000
+      internalID: -4365618613807676478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6f40d588fe9260800000000000000
+      internalID: 7106390515646427127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804730e7f8d7bcf0800000000000000
+      internalID: -236481896283422590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1abcf8c3ca2aa280800000000000000
+      internalID: -9031359082359113185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1015b5819321640800000000000000
+      internalID: 5049160909009781240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f084c3ef819af040800000000000000
+      internalID: 4682214809792708853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 13
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a9c75356b18e7d0800000000000000
+      internalID: -2889029039455167986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 20
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02a534b2ae01a990800000000000000
+      internalID: -7376598622685257206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c9c6d6570a2ad10800000000000000
+      internalID: 2135445599534488666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 9
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec37d4ccc65c4d0800000000000000
+      internalID: -3114963942528266691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dfc0b7ef67ea9c0800000000000000
+      internalID: -3914060190780162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd69e01a937dbe90800000000000000
+      internalID: -7008318339572732468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 9
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d2d4fc718704e0800000000000000
+      internalID: -2015499934541620987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 27
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb61c4b81246f550800000000000000
+      internalID: 6194211011373919200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 13
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1cf242501d26460800000000000000
+      internalID: 7233573771522589095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 22
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64039d5eb9207e40800000000000000
+      internalID: 5652063429940413549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 16
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a607c6f69cf0570800000000000000
+      internalID: 8435182107486087763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 17
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99730a1525645d40800000000000000
+      internalID: 5572189848988776859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 10
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8ac0bf6f702e70800000000000000
+      internalID: 9088404165717823044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85de4cf7a1705c0800000000000000
+      internalID: -4249398587333715796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9e7978b6ff4fb0800000000000000
+      internalID: -4661235817132418392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d268ce9e57e9440800000000000000
+      internalID: 4944519088455429385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 9
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cff0055c8881d00800000000000000
+      internalID: 943654502967278662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbfa73f8bd6ba050800000000000000
+      internalID: 5812860385178090419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 16
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af0564dc23e6330800000000000000
+      internalID: 3705955400601893515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 24
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7651e55568ecc890800000000000000
+      internalID: -7436313362765359490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 8
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca75b5efe5e2750800000000000000
+      internalID: 6282062976775597244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5c9f7e0220c76d0800000000000000
+      internalID: -2991513712126736913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 8
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c017be31980fd0800000000000000
+      internalID: -2375489104892606702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e64b74b445e530800000000000000
+      internalID: 3883585795629965838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 10
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d54ea12dcb66d0800000000000000
+      internalID: -2996075582543507133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4de391e0129830800000000000000
+      internalID: 4076339173759208203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 9
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658ce117518b34a0800000000000000
+      internalID: -6612549416900590227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 10
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b43d0235bbf4750800000000000000
+      internalID: 6291453170167270145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 21
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ad2837b5ce5ab0800000000000000
+      internalID: -5017355544131952592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8a4e344a8b6340800000000000000
+      internalID: 4858128648756694626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea48bbb96d187a40800000000000000
+      internalID: 5366071295970134762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 11
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6ef9819123d0500800000000000000
+      internalID: 364002228255581857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab6bdcee1201bc0800000000000000
+      internalID: -3814511574845572360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45198a9983d26e9b0800000000000000
+      internalID: -5051300210930052780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 9
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8d737003a780f0800000000000000
+      internalID: -1114743160417972447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598177f17798bc280800000000000000
+      internalID: -9021966283784644459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 16
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda9e4d54d112670800000000000000
+      internalID: 8512116956468981200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 13
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5738864804be970800000000000000
+      internalID: 8785186435549591036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69a1f011c2f6efa0800000000000000
+      internalID: -5771658961401829011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Charge_Large_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 11
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f459857b42e0c40800000000000000
+      internalID: 5480358166440267669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcane_Charge_Large_sheet_0: -7195102589198764000
+      Arcane_Charge_Large_sheet_1: -1581780786619428584
+      Arcane_Charge_Large_sheet_10: -2085129444474764059
+      Arcane_Charge_Large_sheet_100: 6595160773088858058
+      Arcane_Charge_Large_sheet_101: -7013175757463255135
+      Arcane_Charge_Large_sheet_102: 2588100983422361696
+      Arcane_Charge_Large_sheet_103: -6588967720562866578
+      Arcane_Charge_Large_sheet_104: -8884998860585482012
+      Arcane_Charge_Large_sheet_105: 414904915661302684
+      Arcane_Charge_Large_sheet_106: -8598014595420470787
+      Arcane_Charge_Large_sheet_107: -5087456062517030515
+      Arcane_Charge_Large_sheet_108: -1297610888642241879
+      Arcane_Charge_Large_sheet_109: 2116878557543472314
+      Arcane_Charge_Large_sheet_11: -6182215060054603412
+      Arcane_Charge_Large_sheet_110: -1861188434864311988
+      Arcane_Charge_Large_sheet_111: -7460532496060353798
+      Arcane_Charge_Large_sheet_112: 5670689135453365305
+      Arcane_Charge_Large_sheet_113: 5126011348562808228
+      Arcane_Charge_Large_sheet_114: -1421278342947888401
+      Arcane_Charge_Large_sheet_115: 4577136247859181634
+      Arcane_Charge_Large_sheet_116: -238002441659184198
+      Arcane_Charge_Large_sheet_117: -4852617053842521729
+      Arcane_Charge_Large_sheet_118: 3288886823607123914
+      Arcane_Charge_Large_sheet_119: -5211174726855032106
+      Arcane_Charge_Large_sheet_12: -3612470966425602894
+      Arcane_Charge_Large_sheet_120: 7418878937140882024
+      Arcane_Charge_Large_sheet_121: 4088028193839013411
+      Arcane_Charge_Large_sheet_122: -8816016608922168711
+      Arcane_Charge_Large_sheet_123: 8091115287119999546
+      Arcane_Charge_Large_sheet_124: -3889308048021636117
+      Arcane_Charge_Large_sheet_125: 2051711696689030423
+      Arcane_Charge_Large_sheet_126: 495291013324592020
+      Arcane_Charge_Large_sheet_127: -1213890676014505244
+      Arcane_Charge_Large_sheet_128: 4247110870426193581
+      Arcane_Charge_Large_sheet_129: 3667572955424353636
+      Arcane_Charge_Large_sheet_13: -8294735779797184732
+      Arcane_Charge_Large_sheet_130: 7927517339431706066
+      Arcane_Charge_Large_sheet_131: 4843477456012012283
+      Arcane_Charge_Large_sheet_132: 4110073346076229782
+      Arcane_Charge_Large_sheet_133: 8841141016771006090
+      Arcane_Charge_Large_sheet_134: -2426307038482196073
+      Arcane_Charge_Large_sheet_135: 602019503368758261
+      Arcane_Charge_Large_sheet_136: -8190469290960328542
+      Arcane_Charge_Large_sheet_137: 2125803857885393283
+      Arcane_Charge_Large_sheet_138: 2366995219851519545
+      Arcane_Charge_Large_sheet_139: 3655770271247181147
+      Arcane_Charge_Large_sheet_14: -874646016924681704
+      Arcane_Charge_Large_sheet_140: -4365618613807676478
+      Arcane_Charge_Large_sheet_141: 7106390515646427127
+      Arcane_Charge_Large_sheet_142: -236481896283422590
+      Arcane_Charge_Large_sheet_143: -9031359082359113185
+      Arcane_Charge_Large_sheet_144: 5049160909009781240
+      Arcane_Charge_Large_sheet_145: 4682214809792708853
+      Arcane_Charge_Large_sheet_146: -2889029039455167986
+      Arcane_Charge_Large_sheet_147: -7376598622685257206
+      Arcane_Charge_Large_sheet_148: 2135445599534488666
+      Arcane_Charge_Large_sheet_149: -3114963942528266691
+      Arcane_Charge_Large_sheet_15: -7127278285570317840
+      Arcane_Charge_Large_sheet_150: -3914060190780162677
+      Arcane_Charge_Large_sheet_151: -7008318339572732468
+      Arcane_Charge_Large_sheet_152: -2015499934541620987
+      Arcane_Charge_Large_sheet_153: 6194211011373919200
+      Arcane_Charge_Large_sheet_154: 7233573771522589095
+      Arcane_Charge_Large_sheet_155: 5652063429940413549
+      Arcane_Charge_Large_sheet_156: 8435182107486087763
+      Arcane_Charge_Large_sheet_157: 5572189848988776859
+      Arcane_Charge_Large_sheet_158: 9088404165717823044
+      Arcane_Charge_Large_sheet_159: -4249398587333715796
+      Arcane_Charge_Large_sheet_16: -6379144354138648631
+      Arcane_Charge_Large_sheet_160: -4661235817132418392
+      Arcane_Charge_Large_sheet_161: 4944519088455429385
+      Arcane_Charge_Large_sheet_162: 943654502967278662
+      Arcane_Charge_Large_sheet_163: 5812860385178090419
+      Arcane_Charge_Large_sheet_164: 3705955400601893515
+      Arcane_Charge_Large_sheet_165: -7436313362765359490
+      Arcane_Charge_Large_sheet_166: 6282062976775597244
+      Arcane_Charge_Large_sheet_167: -2991513712126736913
+      Arcane_Charge_Large_sheet_168: -2375489104892606702
+      Arcane_Charge_Large_sheet_169: 3883585795629965838
+      Arcane_Charge_Large_sheet_17: -935099062746499219
+      Arcane_Charge_Large_sheet_170: -2996075582543507133
+      Arcane_Charge_Large_sheet_171: 4076339173759208203
+      Arcane_Charge_Large_sheet_172: -6612549416900590227
+      Arcane_Charge_Large_sheet_173: 6291453170167270145
+      Arcane_Charge_Large_sheet_174: -5017355544131952592
+      Arcane_Charge_Large_sheet_175: 4858128648756694626
+      Arcane_Charge_Large_sheet_176: 5366071295970134762
+      Arcane_Charge_Large_sheet_177: 364002228255581857
+      Arcane_Charge_Large_sheet_178: -3814511574845572360
+      Arcane_Charge_Large_sheet_179: -5051300210930052780
+      Arcane_Charge_Large_sheet_18: -3041819021435520600
+      Arcane_Charge_Large_sheet_180: -1114743160417972447
+      Arcane_Charge_Large_sheet_181: -9021966283784644459
+      Arcane_Charge_Large_sheet_182: 8512116956468981200
+      Arcane_Charge_Large_sheet_183: 8785186435549591036
+      Arcane_Charge_Large_sheet_184: -5771658961401829011
+      Arcane_Charge_Large_sheet_185: 5480358166440267669
+      Arcane_Charge_Large_sheet_19: 4163353644003871464
+      Arcane_Charge_Large_sheet_2: 5822385161805804658
+      Arcane_Charge_Large_sheet_20: 2406973973276418348
+      Arcane_Charge_Large_sheet_21: 6741471926250549084
+      Arcane_Charge_Large_sheet_22: 6278391810171178922
+      Arcane_Charge_Large_sheet_23: -8105086927224977855
+      Arcane_Charge_Large_sheet_24: 7727898590083564632
+      Arcane_Charge_Large_sheet_25: -4589088486345803353
+      Arcane_Charge_Large_sheet_26: -7234825849099526073
+      Arcane_Charge_Large_sheet_27: -4244684767751393481
+      Arcane_Charge_Large_sheet_28: -2139665492421602503
+      Arcane_Charge_Large_sheet_29: 8103544579601535085
+      Arcane_Charge_Large_sheet_3: -8589360098687086412
+      Arcane_Charge_Large_sheet_30: -598161069779753581
+      Arcane_Charge_Large_sheet_31: -4880464479068838983
+      Arcane_Charge_Large_sheet_32: 4532055373957142261
+      Arcane_Charge_Large_sheet_33: 6109073920573036869
+      Arcane_Charge_Large_sheet_34: -4846012813966596217
+      Arcane_Charge_Large_sheet_35: 7229715989395667533
+      Arcane_Charge_Large_sheet_36: -1015957234366550830
+      Arcane_Charge_Large_sheet_37: -8212996969796353194
+      Arcane_Charge_Large_sheet_38: 2670109000780487713
+      Arcane_Charge_Large_sheet_39: 3308567579907751935
+      Arcane_Charge_Large_sheet_4: -2437140232345696714
+      Arcane_Charge_Large_sheet_40: -8905026413382082135
+      Arcane_Charge_Large_sheet_41: 6155331771759317987
+      Arcane_Charge_Large_sheet_42: 6453856597972041231
+      Arcane_Charge_Large_sheet_43: -9185537937334719580
+      Arcane_Charge_Large_sheet_44: 9107607220028523635
+      Arcane_Charge_Large_sheet_45: 3626532654945688541
+      Arcane_Charge_Large_sheet_46: 7174951788549292711
+      Arcane_Charge_Large_sheet_47: 3485897584439467904
+      Arcane_Charge_Large_sheet_48: 8634470467495106351
+      Arcane_Charge_Large_sheet_49: -4406633097544872429
+      Arcane_Charge_Large_sheet_5: -1115807905181759804
+      Arcane_Charge_Large_sheet_50: -1704909387266103334
+      Arcane_Charge_Large_sheet_51: 228911176124876296
+      Arcane_Charge_Large_sheet_52: -3377294692714521518
+      Arcane_Charge_Large_sheet_53: 2460299568581727310
+      Arcane_Charge_Large_sheet_54: 2474962618735627336
+      Arcane_Charge_Large_sheet_55: 7684426448377750242
+      Arcane_Charge_Large_sheet_56: 4070557595765025916
+      Arcane_Charge_Large_sheet_57: 9216299685801518455
+      Arcane_Charge_Large_sheet_58: -4511861888305996728
+      Arcane_Charge_Large_sheet_59: 8399380234780903292
+      Arcane_Charge_Large_sheet_6: 3874362612663385269
+      Arcane_Charge_Large_sheet_60: 1291480484969733094
+      Arcane_Charge_Large_sheet_61: 8847177027825372038
+      Arcane_Charge_Large_sheet_62: 7752377263889492492
+      Arcane_Charge_Large_sheet_63: -4658309205562862473
+      Arcane_Charge_Large_sheet_64: 252133083862071306
+      Arcane_Charge_Large_sheet_65: 1795022644221117812
+      Arcane_Charge_Large_sheet_66: 1140630341939740136
+      Arcane_Charge_Large_sheet_67: 9073420465323018675
+      Arcane_Charge_Large_sheet_68: -1502100997092635624
+      Arcane_Charge_Large_sheet_69: 8209469094468591757
+      Arcane_Charge_Large_sheet_7: -154607797234377125
+      Arcane_Charge_Large_sheet_70: 3453519357477804158
+      Arcane_Charge_Large_sheet_71: -4203741256185261264
+      Arcane_Charge_Large_sheet_72: 122944585804558594
+      Arcane_Charge_Large_sheet_73: -5368881289180696628
+      Arcane_Charge_Large_sheet_74: 2770679615192270496
+      Arcane_Charge_Large_sheet_75: 660531603494821657
+      Arcane_Charge_Large_sheet_76: 6299932679181116734
+      Arcane_Charge_Large_sheet_77: -3815609745296448950
+      Arcane_Charge_Large_sheet_78: 3444067248301221232
+      Arcane_Charge_Large_sheet_79: -2844458610046838908
+      Arcane_Charge_Large_sheet_8: 14083133710517713
+      Arcane_Charge_Large_sheet_80: -7709726665737466515
+      Arcane_Charge_Large_sheet_81: 199635960295888245
+      Arcane_Charge_Large_sheet_82: 2430320044502609677
+      Arcane_Charge_Large_sheet_83: 2449803035877291236
+      Arcane_Charge_Large_sheet_84: -1072121009756731783
+      Arcane_Charge_Large_sheet_85: -2025187441527624350
+      Arcane_Charge_Large_sheet_86: 3735201060281524455
+      Arcane_Charge_Large_sheet_87: 7652501011905088956
+      Arcane_Charge_Large_sheet_88: -5338742364058844809
+      Arcane_Charge_Large_sheet_89: -8533670335554230383
+      Arcane_Charge_Large_sheet_9: -7557834231352602917
+      Arcane_Charge_Large_sheet_90: -6055128731234844753
+      Arcane_Charge_Large_sheet_91: -999578770110655290
+      Arcane_Charge_Large_sheet_92: -4405390856613437173
+      Arcane_Charge_Large_sheet_93: 2896156879336273653
+      Arcane_Charge_Large_sheet_94: 4316002874484365756
+      Arcane_Charge_Large_sheet_95: 4074463262362871801
+      Arcane_Charge_Large_sheet_96: 2250496024451395923
+      Arcane_Charge_Large_sheet_97: 167932250455647994
+      Arcane_Charge_Large_sheet_98: -7328578868230464246
+      Arcane_Charge_Large_sheet_99: 7388769221486317274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

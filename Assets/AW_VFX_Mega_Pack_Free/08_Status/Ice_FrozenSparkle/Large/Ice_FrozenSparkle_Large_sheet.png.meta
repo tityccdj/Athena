@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 5ce41bbfa90b74143a0f3896bac0cc9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7924980501775180453
+    second: Ice_FrozenSparkle_Large_sheet_0
+  - first:
+      213: 1758700692084452666
+    second: Ice_FrozenSparkle_Large_sheet_1
+  - first:
+      213: -5549036841389758697
+    second: Ice_FrozenSparkle_Large_sheet_2
+  - first:
+      213: -2473938369266979128
+    second: Ice_FrozenSparkle_Large_sheet_3
+  - first:
+      213: 7011819054110234120
+    second: Ice_FrozenSparkle_Large_sheet_4
+  - first:
+      213: -7361835094781167974
+    second: Ice_FrozenSparkle_Large_sheet_5
+  - first:
+      213: 3838766034090485285
+    second: Ice_FrozenSparkle_Large_sheet_6
+  - first:
+      213: -6181618804748207850
+    second: Ice_FrozenSparkle_Large_sheet_7
+  - first:
+      213: 439622248427179053
+    second: Ice_FrozenSparkle_Large_sheet_8
+  - first:
+      213: 8861338191409532492
+    second: Ice_FrozenSparkle_Large_sheet_9
+  - first:
+      213: 3492639814252389043
+    second: Ice_FrozenSparkle_Large_sheet_10
+  - first:
+      213: -4136492839749523827
+    second: Ice_FrozenSparkle_Large_sheet_11
+  - first:
+      213: -8562785304370064600
+    second: Ice_FrozenSparkle_Large_sheet_12
+  - first:
+      213: -7080549790521458461
+    second: Ice_FrozenSparkle_Large_sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d1bc3d830d40290800000000000000
+      internalID: -7924980501775180453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d6de126f8286810800000000000000
+      internalID: 1758700692084452666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 46
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717686f846cddf2b0800000000000000
+      internalID: -5549036841389758697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee1af192ecaadd0800000000000000
+      internalID: -2473938369266979128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 38
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8065e8d874cfe4160800000000000000
+      internalID: 7011819054110234120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9670986cf185d990800000000000000
+      internalID: -7361835094781167974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266ccd8e59064530800000000000000
+      internalID: 3838766034090485285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619bb1ed27a763aa0800000000000000
+      internalID: -6181618804748207850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4cd01b1ad91600800000000000000
+      internalID: 439622248427179053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e419db22cc9fa70800000000000000
+      internalID: 8861338191409532492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b266e00869587030800000000000000
+      internalID: 3492639814252389043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8668c6ada93896c0800000000000000
+      internalID: -4136492839749523827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823561d1220ea2980800000000000000
+      internalID: -8562785304370064600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FrozenSparkle_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08089da75dcbd90800000000000000
+      internalID: -7080549790521458461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_FrozenSparkle_Large_sheet_0: -7924980501775180453
+      Ice_FrozenSparkle_Large_sheet_1: 1758700692084452666
+      Ice_FrozenSparkle_Large_sheet_10: 3492639814252389043
+      Ice_FrozenSparkle_Large_sheet_11: -4136492839749523827
+      Ice_FrozenSparkle_Large_sheet_12: -8562785304370064600
+      Ice_FrozenSparkle_Large_sheet_13: -7080549790521458461
+      Ice_FrozenSparkle_Large_sheet_2: -5549036841389758697
+      Ice_FrozenSparkle_Large_sheet_3: -2473938369266979128
+      Ice_FrozenSparkle_Large_sheet_4: 7011819054110234120
+      Ice_FrozenSparkle_Large_sheet_5: -7361835094781167974
+      Ice_FrozenSparkle_Large_sheet_6: 3838766034090485285
+      Ice_FrozenSparkle_Large_sheet_7: -6181618804748207850
+      Ice_FrozenSparkle_Large_sheet_8: 439622248427179053
+      Ice_FrozenSparkle_Large_sheet_9: 8861338191409532492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

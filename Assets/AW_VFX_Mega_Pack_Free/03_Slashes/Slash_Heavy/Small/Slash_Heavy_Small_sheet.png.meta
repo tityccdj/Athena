@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 7b79f17fe9dde864cabddbd3d6f2500a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1558405995658494164
+    second: Slash_Heavy_Small_sheet_0
+  - first:
+      213: -8494128082298311119
+    second: Slash_Heavy_Small_sheet_1
+  - first:
+      213: -2736602219717643834
+    second: Slash_Heavy_Small_sheet_2
+  - first:
+      213: 5325193127007948469
+    second: Slash_Heavy_Small_sheet_3
+  - first:
+      213: 4505038030882474653
+    second: Slash_Heavy_Small_sheet_4
+  - first:
+      213: -9094457594100071109
+    second: Slash_Heavy_Small_sheet_5
+  - first:
+      213: -1079012720366950264
+    second: Slash_Heavy_Small_sheet_6
+  - first:
+      213: 368819490928552101
+    second: Slash_Heavy_Small_sheet_7
+  - first:
+      213: 7920996798711907416
+    second: Slash_Heavy_Small_sheet_8
+  - first:
+      213: -2997240969545009952
+    second: Slash_Heavy_Small_sheet_9
+  - first:
+      213: 50146415913076829
+    second: Slash_Heavy_Small_sheet_10
+  - first:
+      213: -5604352295047273054
+    second: Slash_Heavy_Small_sheet_11
+  - first:
+      213: 6404510138616177236
+    second: Slash_Heavy_Small_sheet_12
+  - first:
+      213: -5405947945881279019
+    second: Slash_Heavy_Small_sheet_13
+  - first:
+      213: -3680316446399575197
+    second: Slash_Heavy_Small_sheet_14
+  - first:
+      213: -5719071473895192275
+    second: Slash_Heavy_Small_sheet_15
+  - first:
+      213: 8865610556489247972
+    second: Slash_Heavy_Small_sheet_16
+  - first:
+      213: 5651002645263800535
+    second: Slash_Heavy_Small_sheet_17
+  - first:
+      213: -1548939857311207483
+    second: Slash_Heavy_Small_sheet_18
+  - first:
+      213: 7058034872209421623
+    second: Slash_Heavy_Small_sheet_19
+  - first:
+      213: -2564635766194416578
+    second: Slash_Heavy_Small_sheet_20
+  - first:
+      213: 3658878970480818113
+    second: Slash_Heavy_Small_sheet_21
+  - first:
+      213: -5650480357750604542
+    second: Slash_Heavy_Small_sheet_22
+  - first:
+      213: 2550865307256461390
+    second: Slash_Heavy_Small_sheet_23
+  - first:
+      213: 6113348622072428489
+    second: Slash_Heavy_Small_sheet_24
+  - first:
+      213: 1429727830638219081
+    second: Slash_Heavy_Small_sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fbfe4f00e6f5ae0800000000000000
+      internalID: -1558405995658494164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e60f1538bce1a80800000000000000
+      internalID: -8494128082298311119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13f22c7c2a50ad0800000000000000
+      internalID: -2736602219717643834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be09a75fe2e6e940800000000000000
+      internalID: 5325193127007948469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 29
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a006a683c158e30800000000000000
+      internalID: 4505038030882474653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35cfcea00ff9c180800000000000000
+      internalID: -9094457594100071109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 26
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888666ec5a39601f0800000000000000
+      internalID: -1079012720366950264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 5
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a869077f5f4e1500800000000000000
+      internalID: 368819490928552101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 24
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854ca360f980ded60800000000000000
+      internalID: 7920996798711907416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b500e739a766d0800000000000000
+      internalID: -2997240969545009952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 5
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58024b46e722b000800000000000000
+      internalID: 50146415913076829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 5
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ef81e7475932b0800000000000000
+      internalID: -5604352295047273054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ea9cd90461e850800000000000000
+      internalID: 6404510138616177236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56e733cf63af4b0800000000000000
+      internalID: -5405947945881279019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 5
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b435fe0b3ececc0800000000000000
+      internalID: -3680316446399575197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 5
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d294861abc6c1a0b0800000000000000
+      internalID: -5719071473895192275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecae7044d9f80b70800000000000000
+      internalID: 8865610556489247972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 15
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ddbf27f46c6e40800000000000000
+      internalID: 5651002645263800535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 5
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf658a086f018ae0800000000000000
+      internalID: -1548939857311207483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 4
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735bc5a325d23f160800000000000000
+      internalID: 7058034872209421623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3458b1db55986cd0800000000000000
+      internalID: -2564635766194416578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f7afb903f6c230800000000000000
+      internalID: 3658878970480818113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 4
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20df3f95d067591b0800000000000000
+      internalID: -5650480357750604542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 4
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4893ec5b7e766320800000000000000
+      internalID: 2550865307256461390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 0
+        width: 174
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c730ce8e2af6d450800000000000000
+      internalID: 6113348622072428489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash_Heavy_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4eae03e967d310800000000000000
+      internalID: 1429727830638219081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slash_Heavy_Small_sheet_0: -1558405995658494164
+      Slash_Heavy_Small_sheet_1: -8494128082298311119
+      Slash_Heavy_Small_sheet_10: 50146415913076829
+      Slash_Heavy_Small_sheet_11: -5604352295047273054
+      Slash_Heavy_Small_sheet_12: 6404510138616177236
+      Slash_Heavy_Small_sheet_13: -5405947945881279019
+      Slash_Heavy_Small_sheet_14: -3680316446399575197
+      Slash_Heavy_Small_sheet_15: -5719071473895192275
+      Slash_Heavy_Small_sheet_16: 8865610556489247972
+      Slash_Heavy_Small_sheet_17: 5651002645263800535
+      Slash_Heavy_Small_sheet_18: -1548939857311207483
+      Slash_Heavy_Small_sheet_19: 7058034872209421623
+      Slash_Heavy_Small_sheet_2: -2736602219717643834
+      Slash_Heavy_Small_sheet_20: -2564635766194416578
+      Slash_Heavy_Small_sheet_21: 3658878970480818113
+      Slash_Heavy_Small_sheet_22: -5650480357750604542
+      Slash_Heavy_Small_sheet_23: 2550865307256461390
+      Slash_Heavy_Small_sheet_24: 6113348622072428489
+      Slash_Heavy_Small_sheet_25: 1429727830638219081
+      Slash_Heavy_Small_sheet_3: 5325193127007948469
+      Slash_Heavy_Small_sheet_4: 4505038030882474653
+      Slash_Heavy_Small_sheet_5: -9094457594100071109
+      Slash_Heavy_Small_sheet_6: -1079012720366950264
+      Slash_Heavy_Small_sheet_7: 368819490928552101
+      Slash_Heavy_Small_sheet_8: 7920996798711907416
+      Slash_Heavy_Small_sheet_9: -2997240969545009952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 7cbc5006b4f350f41a2111f9ea52fdc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7975582690592061730
+    second: Text_Critical_Large_sheet_0
+  - first:
+      213: -3255675018691917344
+    second: Text_Critical_Large_sheet_1
+  - first:
+      213: -905750354165230621
+    second: Text_Critical_Large_sheet_2
+  - first:
+      213: 93208849042680967
+    second: Text_Critical_Large_sheet_3
+  - first:
+      213: -7234242278250368611
+    second: Text_Critical_Large_sheet_4
+  - first:
+      213: -2359056611810643992
+    second: Text_Critical_Large_sheet_5
+  - first:
+      213: -2097686554447545300
+    second: Text_Critical_Large_sheet_6
+  - first:
+      213: 1452435306656751168
+    second: Text_Critical_Large_sheet_7
+  - first:
+      213: -2577258216189373175
+    second: Text_Critical_Large_sheet_8
+  - first:
+      213: -2085938499067862204
+    second: Text_Critical_Large_sheet_9
+  - first:
+      213: 2059386648255303757
+    second: Text_Critical_Large_sheet_10
+  - first:
+      213: 6197435674350252950
+    second: Text_Critical_Large_sheet_11
+  - first:
+      213: -4025276253644036245
+    second: Text_Critical_Large_sheet_12
+  - first:
+      213: -1424365309839642771
+    second: Text_Critical_Large_sheet_13
+  - first:
+      213: -160428015156348469
+    second: Text_Critical_Large_sheet_14
+  - first:
+      213: 5540480244352793050
+    second: Text_Critical_Large_sheet_15
+  - first:
+      213: -7655713753732822384
+    second: Text_Critical_Large_sheet_16
+  - first:
+      213: -1783596826756174814
+    second: Text_Critical_Large_sheet_17
+  - first:
+      213: 1310855910182207665
+    second: Text_Critical_Large_sheet_18
+  - first:
+      213: -3201777968553419719
+    second: Text_Critical_Large_sheet_19
+  - first:
+      213: 1924174402009360348
+    second: Text_Critical_Large_sheet_20
+  - first:
+      213: -3064725391843345532
+    second: Text_Critical_Large_sheet_21
+  - first:
+      213: 8340953479708786104
+    second: Text_Critical_Large_sheet_22
+  - first:
+      213: 6395227332679398884
+    second: Text_Critical_Large_sheet_23
+  - first:
+      213: 7548576483364854313
+    second: Text_Critical_Large_sheet_24
+  - first:
+      213: 416668106265539003
+    second: Text_Critical_Large_sheet_25
+  - first:
+      213: 8377325160817183728
+    second: Text_Critical_Large_sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68182acc9015190800000000000000
+      internalID: -7975582690592061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e941ced1d481d2d0800000000000000
+      internalID: -3255675018691917344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e31ccc0ad02e63f0800000000000000
+      internalID: -905750354165230621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 13
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cac1154f42b4100800000000000000
+      internalID: 93208849042680967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 13
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9136c10afeca9b90800000000000000
+      internalID: -7234242278250368611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6df7a282f24fd0800000000000000
+      internalID: -2359056611810643992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7a08513583e2e0800000000000000
+      internalID: -2097686554447545300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed2805736182410800000000000000
+      internalID: 1452435306656751168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055399ae4dbb3cd0800000000000000
+      internalID: -2577258216189373175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443afb3acf14d03e0800000000000000
+      internalID: -2085938499067862204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409078de39649c10800000000000000
+      internalID: 2059386648255303757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693faff09e6b10650800000000000000
+      internalID: 6197435674350252950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b676bbaf2985328c0800000000000000
+      internalID: -4025276253644036245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f6e9c1c43ab3ce0800000000000000
+      internalID: -1424365309839642771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b598f19b06cdf0800000000000000
+      internalID: -160428015156348469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b7b17d6db3ec40800000000000000
+      internalID: 5540480244352793050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09acea617e071c590800000000000000
+      internalID: -7655713753732822384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2faec2246f37e0800000000000000
+      internalID: -1783596826756174814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c12e4188113210800000000000000
+      internalID: 1310855910182207665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c93beb6eff093d0800000000000000
+      internalID: -3201777968553419719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7eaa58c6a04ba10800000000000000
+      internalID: 1924174402009360348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bbe056e78e775d0800000000000000
+      internalID: -3064725391843345532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb91e5ff401c370800000000000000
+      internalID: 8340953479708786104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 13
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5793e206960c850800000000000000
+      internalID: 6395227332679398884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 13
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a54da415ee1c860800000000000000
+      internalID: 7548576483364854313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 9
+        width: 210
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1313f5f6d48c500800000000000000
+      internalID: 416668106265539003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 9
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb437a49dc324470800000000000000
+      internalID: 8377325160817183728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Critical_Large_sheet_0: -7975582690592061730
+      Text_Critical_Large_sheet_1: -3255675018691917344
+      Text_Critical_Large_sheet_10: 2059386648255303757
+      Text_Critical_Large_sheet_11: 6197435674350252950
+      Text_Critical_Large_sheet_12: -4025276253644036245
+      Text_Critical_Large_sheet_13: -1424365309839642771
+      Text_Critical_Large_sheet_14: -160428015156348469
+      Text_Critical_Large_sheet_15: 5540480244352793050
+      Text_Critical_Large_sheet_16: -7655713753732822384
+      Text_Critical_Large_sheet_17: -1783596826756174814
+      Text_Critical_Large_sheet_18: 1310855910182207665
+      Text_Critical_Large_sheet_19: -3201777968553419719
+      Text_Critical_Large_sheet_2: -905750354165230621
+      Text_Critical_Large_sheet_20: 1924174402009360348
+      Text_Critical_Large_sheet_21: -3064725391843345532
+      Text_Critical_Large_sheet_22: 8340953479708786104
+      Text_Critical_Large_sheet_23: 6395227332679398884
+      Text_Critical_Large_sheet_24: 7548576483364854313
+      Text_Critical_Large_sheet_25: 416668106265539003
+      Text_Critical_Large_sheet_26: 8377325160817183728
+      Text_Critical_Large_sheet_3: 93208849042680967
+      Text_Critical_Large_sheet_4: -7234242278250368611
+      Text_Critical_Large_sheet_5: -2359056611810643992
+      Text_Critical_Large_sheet_6: -2097686554447545300
+      Text_Critical_Large_sheet_7: 1452435306656751168
+      Text_Critical_Large_sheet_8: -2577258216189373175
+      Text_Critical_Large_sheet_9: -2085938499067862204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

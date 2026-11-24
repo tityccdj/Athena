@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 8b605f64c26dab74788e6d5a2b319cdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1971674346397403792
+    second: Icon_Anger_Small_sheet_0
+  - first:
+      213: -1277809819810528728
+    second: Icon_Anger_Small_sheet_1
+  - first:
+      213: 7515683492209656961
+    second: Icon_Anger_Small_sheet_2
+  - first:
+      213: 9185358121068477531
+    second: Icon_Anger_Small_sheet_3
+  - first:
+      213: -4674229716724519503
+    second: Icon_Anger_Small_sheet_4
+  - first:
+      213: 6018648490886958814
+    second: Icon_Anger_Small_sheet_5
+  - first:
+      213: -8992217022453632303
+    second: Icon_Anger_Small_sheet_6
+  - first:
+      213: -6197536070291893701
+    second: Icon_Anger_Small_sheet_7
+  - first:
+      213: -706635301839074357
+    second: Icon_Anger_Small_sheet_8
+  - first:
+      213: -8535050903817126675
+    second: Icon_Anger_Small_sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0757b3ad0a433a4e0800000000000000
+      internalID: -1971674346397403792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82200bf2dbe444ee0800000000000000
+      internalID: -1277809819810528728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1848c6df0521d4860800000000000000
+      internalID: 7515683492209656961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c39058b82f87f70800000000000000
+      internalID: 9185358121068477531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6f0876dcc12fb0800000000000000
+      internalID: -4674229716724519503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede024f0ae8868350800000000000000
+      internalID: 6018648490886958814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d23e69c24a353380800000000000000
+      internalID: -8992217022453632303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d49fa7cdedf9a0800000000000000
+      internalID: -6197536070291893701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8128dfe68136f0800000000000000
+      internalID: -706635301839074357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Anger_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7a127c686d8980800000000000000
+      internalID: -8535050903817126675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icon_Anger_Small_sheet_0: -1971674346397403792
+      Icon_Anger_Small_sheet_1: -1277809819810528728
+      Icon_Anger_Small_sheet_2: 7515683492209656961
+      Icon_Anger_Small_sheet_3: 9185358121068477531
+      Icon_Anger_Small_sheet_4: -4674229716724519503
+      Icon_Anger_Small_sheet_5: 6018648490886958814
+      Icon_Anger_Small_sheet_6: -8992217022453632303
+      Icon_Anger_Small_sheet_7: -6197536070291893701
+      Icon_Anger_Small_sheet_8: -706635301839074357
+      Icon_Anger_Small_sheet_9: -8535050903817126675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

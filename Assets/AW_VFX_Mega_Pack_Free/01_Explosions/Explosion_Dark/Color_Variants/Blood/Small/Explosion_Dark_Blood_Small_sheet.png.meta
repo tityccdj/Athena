@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: f9c4d155f73205f46a1dc77af7fa7902
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5740919359586337537
+    second: Explosion_Dark_Blood_Small_sheet_0
+  - first:
+      213: -2393258146131087241
+    second: Explosion_Dark_Blood_Small_sheet_1
+  - first:
+      213: 2838044921471239239
+    second: Explosion_Dark_Blood_Small_sheet_2
+  - first:
+      213: -4025406842186764091
+    second: Explosion_Dark_Blood_Small_sheet_3
+  - first:
+      213: 7694450798063250961
+    second: Explosion_Dark_Blood_Small_sheet_4
+  - first:
+      213: 4490300039167829160
+    second: Explosion_Dark_Blood_Small_sheet_5
+  - first:
+      213: 6301197373137565131
+    second: Explosion_Dark_Blood_Small_sheet_6
+  - first:
+      213: -4117327707857606674
+    second: Explosion_Dark_Blood_Small_sheet_7
+  - first:
+      213: 2207200808600860387
+    second: Explosion_Dark_Blood_Small_sheet_8
+  - first:
+      213: 3785281170025782707
+    second: Explosion_Dark_Blood_Small_sheet_9
+  - first:
+      213: 7946489091650980885
+    second: Explosion_Dark_Blood_Small_sheet_10
+  - first:
+      213: -5951004543292445388
+    second: Explosion_Dark_Blood_Small_sheet_11
+  - first:
+      213: 8544416782050729783
+    second: Explosion_Dark_Blood_Small_sheet_12
+  - first:
+      213: -4974192966453273650
+    second: Explosion_Dark_Blood_Small_sheet_13
+  - first:
+      213: -8608378573055440292
+    second: Explosion_Dark_Blood_Small_sheet_14
+  - first:
+      213: 5931729208179818063
+    second: Explosion_Dark_Blood_Small_sheet_15
+  - first:
+      213: -2046502940545234157
+    second: Explosion_Dark_Blood_Small_sheet_16
+  - first:
+      213: 5807417345837732525
+    second: Explosion_Dark_Blood_Small_sheet_17
+  - first:
+      213: 1287676635913168604
+    second: Explosion_Dark_Blood_Small_sheet_18
+  - first:
+      213: 315920221938582921
+    second: Explosion_Dark_Blood_Small_sheet_19
+  - first:
+      213: -1345197104342033338
+    second: Explosion_Dark_Blood_Small_sheet_20
+  - first:
+      213: -5615619359833095644
+    second: Explosion_Dark_Blood_Small_sheet_21
+  - first:
+      213: 3166349514576678586
+    second: Explosion_Dark_Blood_Small_sheet_22
+  - first:
+      213: -2322426141453870743
+    second: Explosion_Dark_Blood_Small_sheet_23
+  - first:
+      213: -7919698441038398783
+    second: Explosion_Dark_Blood_Small_sheet_24
+  - first:
+      213: 5545363217280485085
+    second: Explosion_Dark_Blood_Small_sheet_25
+  - first:
+      213: 7791185332038287198
+    second: Explosion_Dark_Blood_Small_sheet_26
+  - first:
+      213: 1666991077944788085
+    second: Explosion_Dark_Blood_Small_sheet_27
+  - first:
+      213: -5430603912666339789
+    second: Explosion_Dark_Blood_Small_sheet_28
+  - first:
+      213: -3807425129999413049
+    second: Explosion_Dark_Blood_Small_sheet_29
+  - first:
+      213: 7178809412394000000
+    second: Explosion_Dark_Blood_Small_sheet_30
+  - first:
+      213: 1318892159527063425
+    second: Explosion_Dark_Blood_Small_sheet_31
+  - first:
+      213: 661532627228189437
+    second: Explosion_Dark_Blood_Small_sheet_32
+  - first:
+      213: 4629235485436480640
+    second: Explosion_Dark_Blood_Small_sheet_33
+  - first:
+      213: 5548226513558666590
+    second: Explosion_Dark_Blood_Small_sheet_34
+  - first:
+      213: 6714432719099057172
+    second: Explosion_Dark_Blood_Small_sheet_35
+  - first:
+      213: -6574429590789704591
+    second: Explosion_Dark_Blood_Small_sheet_36
+  - first:
+      213: -6188900431484990767
+    second: Explosion_Dark_Blood_Small_sheet_37
+  - first:
+      213: 8168067669470836893
+    second: Explosion_Dark_Blood_Small_sheet_38
+  - first:
+      213: 3413968181129389576
+    second: Explosion_Dark_Blood_Small_sheet_39
+  - first:
+      213: -3831119823560075082
+    second: Explosion_Dark_Blood_Small_sheet_40
+  - first:
+      213: 7279644811822099364
+    second: Explosion_Dark_Blood_Small_sheet_41
+  - first:
+      213: -9191517452680445749
+    second: Explosion_Dark_Blood_Small_sheet_42
+  - first:
+      213: 3794152702396828726
+    second: Explosion_Dark_Blood_Small_sheet_43
+  - first:
+      213: -1626086060221076119
+    second: Explosion_Dark_Blood_Small_sheet_44
+  - first:
+      213: -7808028479149696142
+    second: Explosion_Dark_Blood_Small_sheet_45
+  - first:
+      213: 3301344341080115546
+    second: Explosion_Dark_Blood_Small_sheet_46
+  - first:
+      213: 7915074571406193844
+    second: Explosion_Dark_Blood_Small_sheet_47
+  - first:
+      213: 960185461224569572
+    second: Explosion_Dark_Blood_Small_sheet_48
+  - first:
+      213: 8458332195462691897
+    second: Explosion_Dark_Blood_Small_sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1038e48adb7dbaf40800000000000000
+      internalID: 5740919359586337537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770fb08656079ced0800000000000000
+      internalID: -2393258146131087241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74405e8c1d2c26720800000000000000
+      internalID: 2838044921471239239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0f707fdc1e228c0800000000000000
+      internalID: -4025406842186764091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee740eb3e28ca60800000000000000
+      internalID: 7694450798063250961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a465815810c05e30800000000000000
+      internalID: 4490300039167829160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53d7d20a9527750800000000000000
+      internalID: 6301197373137565131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72645a3405cd6c0800000000000000
+      internalID: -4117327707857606674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6fb90f07d81ae10800000000000000
+      internalID: 2207200808600860387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 8
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9c5a3b25088430800000000000000
+      internalID: 3785281170025782707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c8f5ff9b9974e60800000000000000
+      internalID: 7946489091650980885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d615cc5e8c96da0800000000000000
+      internalID: -5951004543292445388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 17
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f15030bcdd39670800000000000000
+      internalID: 8544416782050729783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 33
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb5e46f9dd18fab0800000000000000
+      internalID: -4974192966453273650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a42f40c45e88880800000000000000
+      internalID: -8608378573055440292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efd55894cb15250800000000000000
+      internalID: 5931729208179818063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 27
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b420d1b6c5993e0800000000000000
+      internalID: -2046502940545234157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da299199e47189050800000000000000
+      internalID: 5807417345837732525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 26
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6ac25f31fbed110800000000000000
+      internalID: 1287676635913168604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985030e94cf526400800000000000000
+      internalID: 315920221938582921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1fca5c56e45de0800000000000000
+      internalID: -1345197104342033338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 20
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422875fe1ff4112b0800000000000000
+      internalID: -5615619359833095644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abec2138b1221fb20800000000000000
+      internalID: 3166349514576678586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 38
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9699f85aab515cfd0800000000000000
+      internalID: -2322426141453870743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf0bd6a34971290800000000000000
+      internalID: -7919698441038398783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 22
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6458c277615fc40800000000000000
+      internalID: 5545363217280485085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f306fa7c9df1c60800000000000000
+      internalID: 7791185332038287198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57405a4ad87522710800000000000000
+      internalID: 1666991077944788085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362da5938e92a4b0800000000000000
+      internalID: -5430603912666339789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 30
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05d71540f492bc0800000000000000
+      internalID: -3807425129999413049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 21
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e99f7202140a360800000000000000
+      internalID: 7178809412394000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 11
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f88a96e65ad4210800000000000000
+      internalID: 1318892159527063425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df264456b6c3e2900800000000000000
+      internalID: 661532627228189437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 22
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0313b5295e3040800000000000000
+      internalID: 4629235485436480640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 33
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d711a4e924ffc40800000000000000
+      internalID: 5548226513558666590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 26
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d822cbf47e2d50800000000000000
+      internalID: 6714432719099057172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174b928be1fe2c4a0800000000000000
+      internalID: -6574429590789704591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da431709db9c1aa0800000000000000
+      internalID: -6188900431484990767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987924e44eca5170800000000000000
+      internalID: 8168067669470836893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80624b609f9d06f20800000000000000
+      internalID: 3413968181129389576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89eb091d025dac0800000000000000
+      internalID: -3831119823560075082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abebab136e760560800000000000000
+      internalID: 7279644811822099364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0cd26539b217080800000000000000
+      internalID: -9191517452680445749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c83f1d7c987a430800000000000000
+      internalID: 3794152702396828726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 13
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dee46f75bfe69e0800000000000000
+      internalID: -1626086060221076119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1628877f44a390800000000000000
+      internalID: -7808028479149696142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 11
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59835bdf2bb0dd20800000000000000
+      internalID: 3301344341080115546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 13
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b467036ef7dd60800000000000000
+      internalID: 7915074571406193844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf8c6f693435d00800000000000000
+      internalID: 960185461224569572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Blood_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cbdce4158026570800000000000000
+      internalID: 8458332195462691897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Dark_Blood_Small_sheet_0: 5740919359586337537
+      Explosion_Dark_Blood_Small_sheet_1: -2393258146131087241
+      Explosion_Dark_Blood_Small_sheet_10: 7946489091650980885
+      Explosion_Dark_Blood_Small_sheet_11: -5951004543292445388
+      Explosion_Dark_Blood_Small_sheet_12: 8544416782050729783
+      Explosion_Dark_Blood_Small_sheet_13: -4974192966453273650
+      Explosion_Dark_Blood_Small_sheet_14: -8608378573055440292
+      Explosion_Dark_Blood_Small_sheet_15: 5931729208179818063
+      Explosion_Dark_Blood_Small_sheet_16: -2046502940545234157
+      Explosion_Dark_Blood_Small_sheet_17: 5807417345837732525
+      Explosion_Dark_Blood_Small_sheet_18: 1287676635913168604
+      Explosion_Dark_Blood_Small_sheet_19: 315920221938582921
+      Explosion_Dark_Blood_Small_sheet_2: 2838044921471239239
+      Explosion_Dark_Blood_Small_sheet_20: -1345197104342033338
+      Explosion_Dark_Blood_Small_sheet_21: -5615619359833095644
+      Explosion_Dark_Blood_Small_sheet_22: 3166349514576678586
+      Explosion_Dark_Blood_Small_sheet_23: -2322426141453870743
+      Explosion_Dark_Blood_Small_sheet_24: -7919698441038398783
+      Explosion_Dark_Blood_Small_sheet_25: 5545363217280485085
+      Explosion_Dark_Blood_Small_sheet_26: 7791185332038287198
+      Explosion_Dark_Blood_Small_sheet_27: 1666991077944788085
+      Explosion_Dark_Blood_Small_sheet_28: -5430603912666339789
+      Explosion_Dark_Blood_Small_sheet_29: -3807425129999413049
+      Explosion_Dark_Blood_Small_sheet_3: -4025406842186764091
+      Explosion_Dark_Blood_Small_sheet_30: 7178809412394000000
+      Explosion_Dark_Blood_Small_sheet_31: 1318892159527063425
+      Explosion_Dark_Blood_Small_sheet_32: 661532627228189437
+      Explosion_Dark_Blood_Small_sheet_33: 4629235485436480640
+      Explosion_Dark_Blood_Small_sheet_34: 5548226513558666590
+      Explosion_Dark_Blood_Small_sheet_35: 6714432719099057172
+      Explosion_Dark_Blood_Small_sheet_36: -6574429590789704591
+      Explosion_Dark_Blood_Small_sheet_37: -6188900431484990767
+      Explosion_Dark_Blood_Small_sheet_38: 8168067669470836893
+      Explosion_Dark_Blood_Small_sheet_39: 3413968181129389576
+      Explosion_Dark_Blood_Small_sheet_4: 7694450798063250961
+      Explosion_Dark_Blood_Small_sheet_40: -3831119823560075082
+      Explosion_Dark_Blood_Small_sheet_41: 7279644811822099364
+      Explosion_Dark_Blood_Small_sheet_42: -9191517452680445749
+      Explosion_Dark_Blood_Small_sheet_43: 3794152702396828726
+      Explosion_Dark_Blood_Small_sheet_44: -1626086060221076119
+      Explosion_Dark_Blood_Small_sheet_45: -7808028479149696142
+      Explosion_Dark_Blood_Small_sheet_46: 3301344341080115546
+      Explosion_Dark_Blood_Small_sheet_47: 7915074571406193844
+      Explosion_Dark_Blood_Small_sheet_48: 960185461224569572
+      Explosion_Dark_Blood_Small_sheet_49: 8458332195462691897
+      Explosion_Dark_Blood_Small_sheet_5: 4490300039167829160
+      Explosion_Dark_Blood_Small_sheet_6: 6301197373137565131
+      Explosion_Dark_Blood_Small_sheet_7: -4117327707857606674
+      Explosion_Dark_Blood_Small_sheet_8: 2207200808600860387
+      Explosion_Dark_Blood_Small_sheet_9: 3785281170025782707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 6b0c75d17a8cd6249a8fd811aadb2269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2767738050851860368
+    second: Stun_Stars_Large_sheet_0
+  - first:
+      213: 5934356757834187481
+    second: Stun_Stars_Large_sheet_1
+  - first:
+      213: -9153271588469587010
+    second: Stun_Stars_Large_sheet_2
+  - first:
+      213: 56462348607229690
+    second: Stun_Stars_Large_sheet_3
+  - first:
+      213: -6543782580690039491
+    second: Stun_Stars_Large_sheet_4
+  - first:
+      213: 8324842926575750788
+    second: Stun_Stars_Large_sheet_5
+  - first:
+      213: 8438980367658614732
+    second: Stun_Stars_Large_sheet_6
+  - first:
+      213: -3469563152353181823
+    second: Stun_Stars_Large_sheet_7
+  - first:
+      213: 6827742303800280438
+    second: Stun_Stars_Large_sheet_8
+  - first:
+      213: 1033899335327334280
+    second: Stun_Stars_Large_sheet_9
+  - first:
+      213: -543432136811820298
+    second: Stun_Stars_Large_sheet_10
+  - first:
+      213: 7538823976665981114
+    second: Stun_Stars_Large_sheet_11
+  - first:
+      213: 8287362997111458486
+    second: Stun_Stars_Large_sheet_12
+  - first:
+      213: -4268081710008947086
+    second: Stun_Stars_Large_sheet_13
+  - first:
+      213: 2250368086433972155
+    second: Stun_Stars_Large_sheet_14
+  - first:
+      213: 3709978532973478815
+    second: Stun_Stars_Large_sheet_15
+  - first:
+      213: 5429549812748131588
+    second: Stun_Stars_Large_sheet_16
+  - first:
+      213: 3255272090240263707
+    second: Stun_Stars_Large_sheet_17
+  - first:
+      213: -2676252643782449873
+    second: Stun_Stars_Large_sheet_18
+  - first:
+      213: -8779815713828364729
+    second: Stun_Stars_Large_sheet_19
+  - first:
+      213: -8984262243821211525
+    second: Stun_Stars_Large_sheet_20
+  - first:
+      213: -2919027496360996868
+    second: Stun_Stars_Large_sheet_21
+  - first:
+      213: 4712096710854163560
+    second: Stun_Stars_Large_sheet_22
+  - first:
+      213: 7479843994012592794
+    second: Stun_Stars_Large_sheet_23
+  - first:
+      213: -3040725413200968507
+    second: Stun_Stars_Large_sheet_24
+  - first:
+      213: 3484738960708625358
+    second: Stun_Stars_Large_sheet_25
+  - first:
+      213: 4788263593540885130
+    second: Stun_Stars_Large_sheet_26
+  - first:
+      213: 8322727468514347994
+    second: Stun_Stars_Large_sheet_27
+  - first:
+      213: -6760749324595500015
+    second: Stun_Stars_Large_sheet_28
+  - first:
+      213: 1341613698183315781
+    second: Stun_Stars_Large_sheet_29
+  - first:
+      213: 1170129728950638510
+    second: Stun_Stars_Large_sheet_30
+  - first:
+      213: -4265870520910506118
+    second: Stun_Stars_Large_sheet_31
+  - first:
+      213: -1264325514118644241
+    second: Stun_Stars_Large_sheet_32
+  - first:
+      213: 5901824577006872448
+    second: Stun_Stars_Large_sheet_33
+  - first:
+      213: 4691392328381597410
+    second: Stun_Stars_Large_sheet_34
+  - first:
+      213: 3961156505764416741
+    second: Stun_Stars_Large_sheet_35
+  - first:
+      213: -7816079171050914942
+    second: Stun_Stars_Large_sheet_36
+  - first:
+      213: -3995675812127429810
+    second: Stun_Stars_Large_sheet_37
+  - first:
+      213: 4270639205055457927
+    second: Stun_Stars_Large_sheet_38
+  - first:
+      213: -4148290407017648148
+    second: Stun_Stars_Large_sheet_39
+  - first:
+      213: 3936293602640072824
+    second: Stun_Stars_Large_sheet_40
+  - first:
+      213: 6180855480085760792
+    second: Stun_Stars_Large_sheet_41
+  - first:
+      213: -738413251727539371
+    second: Stun_Stars_Large_sheet_42
+  - first:
+      213: 4612019968588018724
+    second: Stun_Stars_Large_sheet_43
+  - first:
+      213: -62446872245946874
+    second: Stun_Stars_Large_sheet_44
+  - first:
+      213: 6919844424559309007
+    second: Stun_Stars_Large_sheet_45
+  - first:
+      213: -4120987153734780188
+    second: Stun_Stars_Large_sheet_46
+  - first:
+      213: -3581252221595031289
+    second: Stun_Stars_Large_sheet_47
+  - first:
+      213: -666160000413048910
+    second: Stun_Stars_Large_sheet_48
+  - first:
+      213: -8727971509972195933
+    second: Stun_Stars_Large_sheet_49
+  - first:
+      213: 6568581185301675177
+    second: Stun_Stars_Large_sheet_50
+  - first:
+      213: -5482868483365865207
+    second: Stun_Stars_Large_sheet_51
+  - first:
+      213: 4990182307323736580
+    second: Stun_Stars_Large_sheet_52
+  - first:
+      213: -8070909641899763195
+    second: Stun_Stars_Large_sheet_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07094a728e40799d0800000000000000
+      internalID: -2767738050851860368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2452997021b5250800000000000000
+      internalID: 5934356757834187481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb348948cfb09f080800000000000000
+      internalID: -9153271588469587010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe0be7f43898c000800000000000000
+      internalID: 56462348607229690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 30
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dc49ec960df25a0800000000000000
+      internalID: -6543782580690039491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8879e888c78370800000000000000
+      internalID: 8324842926575750788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf79c8cee74d1570800000000000000
+      internalID: 8438980367658614732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 31
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f343a02b2a9dfc0800000000000000
+      internalID: -3469563152353181823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 8
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6754ceb437301ce50800000000000000
+      internalID: 6827742303800280438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 18
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb2b7b7f5295e00800000000000000
+      internalID: 1033899335327334280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 6
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6facccdc9575578f0800000000000000
+      internalID: -543432136811820298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0af51e6784f9860800000000000000
+      internalID: 7538823976665981114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 21
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8b8fccb0a20370800000000000000
+      internalID: 8287362997111458486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 5
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e239a4c4ab4c4c0800000000000000
+      internalID: -4268081710008947086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 28
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb5c50ad9ea3f10800000000000000
+      internalID: 2250368086433972155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 28
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938536c1dd7c7330800000000000000
+      internalID: 3709978532973478815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 5
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1427a9c2a95b40800000000000000
+      internalID: 5429549812748131588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 21
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a30a08bc0d2d20800000000000000
+      internalID: 3255272090240263707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 6
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a52e566a0cdad0800000000000000
+      internalID: -2676252643782449873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e1edf2024d72680800000000000000
+      internalID: -8779815713828364729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 18
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703514071d715380800000000000000
+      internalID: -8984262243821211525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff0ecd25f78d77d0800000000000000
+      internalID: -2919027496360996868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 31
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cbfb52efab46140800000000000000
+      internalID: 4712096710854163560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 13
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa57e8b7ebdc760800000000000000
+      internalID: 7479843994012592794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 15
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c447aed85c2dc5d0800000000000000
+      internalID: -3040725413200968507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 30
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec360003f974c5030800000000000000
+      internalID: 3484738960708625358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 8
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a90f77e54537240800000000000000
+      internalID: 4788263593540885130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0f237984408370800000000000000
+      internalID: 8322727468514347994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ce50c2f4efc22a0800000000000000
+      internalID: -6760749324595500015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 6
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541c302ec8e5e9210800000000000000
+      internalID: 1341613698183315781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 22
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71a33f9c22d3010800000000000000
+      internalID: 1170129728950638510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 5
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77915fdc559cc4c0800000000000000
+      internalID: -4265870520910506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 26
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedbe72c4a6347ee0800000000000000
+      internalID: -1264325514118644241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 26
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872a2ffe2e77e150800000000000000
+      internalID: 5901824577006872448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 5
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e68d23777c2b1140800000000000000
+      internalID: 4691392328381597410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc0d9dadad8f630800000000000000
+      internalID: 3961156505764416741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 22
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b3e21c765b78390800000000000000
+      internalID: -7816079171050914942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 6
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2684d4028c88c0800000000000000
+      internalID: -3995675812127429810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aef2deabb544b30800000000000000
+      internalID: 4270639205055457927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6d887adf4e66c0800000000000000
+      internalID: -4148290407017648148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 30
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870110d1d2680a630800000000000000
+      internalID: 3936293602640072824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 15
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bc982cf4fc6c550800000000000000
+      internalID: 6180855480085760792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 15
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c6515f01a0c5f0800000000000000
+      internalID: -738413251727539371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 31
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42472b4d9bf210040800000000000000
+      internalID: 4612019968588018724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 9
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606327a86e4222ff0800000000000000
+      internalID: -62446872245946874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 17
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc033da57d9380060800000000000000
+      internalID: 6919844424559309007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 6
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab0b184005fc6c0800000000000000
+      internalID: -4120987153734780188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 22
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709efb82416dc4ec0800000000000000
+      internalID: -3581252221595031289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 5
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5ec3520351c6f0800000000000000
+      internalID: -666160000413048910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a06a872400e680800000000000000
+      internalID: -8727971509972195933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 28
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac783449c9482b50800000000000000
+      internalID: 6568581185301675177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 26
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909fac2f920f8e3b0800000000000000
+      internalID: -5482868483365865207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 5
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40278709e50b04540800000000000000
+      internalID: 4990182307323736580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun_Stars_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 21
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1a44317e5eff80800000000000000
+      internalID: -8070909641899763195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stun_Stars_Large_sheet_0: -2767738050851860368
+      Stun_Stars_Large_sheet_1: 5934356757834187481
+      Stun_Stars_Large_sheet_10: -543432136811820298
+      Stun_Stars_Large_sheet_11: 7538823976665981114
+      Stun_Stars_Large_sheet_12: 8287362997111458486
+      Stun_Stars_Large_sheet_13: -4268081710008947086
+      Stun_Stars_Large_sheet_14: 2250368086433972155
+      Stun_Stars_Large_sheet_15: 3709978532973478815
+      Stun_Stars_Large_sheet_16: 5429549812748131588
+      Stun_Stars_Large_sheet_17: 3255272090240263707
+      Stun_Stars_Large_sheet_18: -2676252643782449873
+      Stun_Stars_Large_sheet_19: -8779815713828364729
+      Stun_Stars_Large_sheet_2: -9153271588469587010
+      Stun_Stars_Large_sheet_20: -8984262243821211525
+      Stun_Stars_Large_sheet_21: -2919027496360996868
+      Stun_Stars_Large_sheet_22: 4712096710854163560
+      Stun_Stars_Large_sheet_23: 7479843994012592794
+      Stun_Stars_Large_sheet_24: -3040725413200968507
+      Stun_Stars_Large_sheet_25: 3484738960708625358
+      Stun_Stars_Large_sheet_26: 4788263593540885130
+      Stun_Stars_Large_sheet_27: 8322727468514347994
+      Stun_Stars_Large_sheet_28: -6760749324595500015
+      Stun_Stars_Large_sheet_29: 1341613698183315781
+      Stun_Stars_Large_sheet_3: 56462348607229690
+      Stun_Stars_Large_sheet_30: 1170129728950638510
+      Stun_Stars_Large_sheet_31: -4265870520910506118
+      Stun_Stars_Large_sheet_32: -1264325514118644241
+      Stun_Stars_Large_sheet_33: 5901824577006872448
+      Stun_Stars_Large_sheet_34: 4691392328381597410
+      Stun_Stars_Large_sheet_35: 3961156505764416741
+      Stun_Stars_Large_sheet_36: -7816079171050914942
+      Stun_Stars_Large_sheet_37: -3995675812127429810
+      Stun_Stars_Large_sheet_38: 4270639205055457927
+      Stun_Stars_Large_sheet_39: -4148290407017648148
+      Stun_Stars_Large_sheet_4: -6543782580690039491
+      Stun_Stars_Large_sheet_40: 3936293602640072824
+      Stun_Stars_Large_sheet_41: 6180855480085760792
+      Stun_Stars_Large_sheet_42: -738413251727539371
+      Stun_Stars_Large_sheet_43: 4612019968588018724
+      Stun_Stars_Large_sheet_44: -62446872245946874
+      Stun_Stars_Large_sheet_45: 6919844424559309007
+      Stun_Stars_Large_sheet_46: -4120987153734780188
+      Stun_Stars_Large_sheet_47: -3581252221595031289
+      Stun_Stars_Large_sheet_48: -666160000413048910
+      Stun_Stars_Large_sheet_49: -8727971509972195933
+      Stun_Stars_Large_sheet_5: 8324842926575750788
+      Stun_Stars_Large_sheet_50: 6568581185301675177
+      Stun_Stars_Large_sheet_51: -5482868483365865207
+      Stun_Stars_Large_sheet_52: 4990182307323736580
+      Stun_Stars_Large_sheet_53: -8070909641899763195
+      Stun_Stars_Large_sheet_6: 8438980367658614732
+      Stun_Stars_Large_sheet_7: -3469563152353181823
+      Stun_Stars_Large_sheet_8: 6827742303800280438
+      Stun_Stars_Large_sheet_9: 1033899335327334280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

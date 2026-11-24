@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 21f871e8d9d59a740a12b01cab51ee43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -879814043591097805
+    second: Hit_Blunt_Blood_Large_sheet_0
+  - first:
+      213: -380165553386232326
+    second: Hit_Blunt_Blood_Large_sheet_1
+  - first:
+      213: -8367941582939957988
+    second: Hit_Blunt_Blood_Large_sheet_2
+  - first:
+      213: 4804755525829100325
+    second: Hit_Blunt_Blood_Large_sheet_3
+  - first:
+      213: -6596940671938694673
+    second: Hit_Blunt_Blood_Large_sheet_4
+  - first:
+      213: 6552777468498840566
+    second: Hit_Blunt_Blood_Large_sheet_5
+  - first:
+      213: 7846564849933523979
+    second: Hit_Blunt_Blood_Large_sheet_6
+  - first:
+      213: 2934934998787410969
+    second: Hit_Blunt_Blood_Large_sheet_7
+  - first:
+      213: -5787690720430877962
+    second: Hit_Blunt_Blood_Large_sheet_8
+  - first:
+      213: 2875158041582556322
+    second: Hit_Blunt_Blood_Large_sheet_9
+  - first:
+      213: -1319637022768450653
+    second: Hit_Blunt_Blood_Large_sheet_10
+  - first:
+      213: -1494817878329865333
+    second: Hit_Blunt_Blood_Large_sheet_11
+  - first:
+      213: -74969811267135318
+    second: Hit_Blunt_Blood_Large_sheet_12
+  - first:
+      213: -6624894391349041943
+    second: Hit_Blunt_Blood_Large_sheet_13
+  - first:
+      213: -6394380619235436310
+    second: Hit_Blunt_Blood_Large_sheet_14
+  - first:
+      213: -2770232433834493814
+    second: Hit_Blunt_Blood_Large_sheet_15
+  - first:
+      213: 895763190275225169
+    second: Hit_Blunt_Blood_Large_sheet_16
+  - first:
+      213: 5005730142802376351
+    second: Hit_Blunt_Blood_Large_sheet_17
+  - first:
+      213: -3158410908121659349
+    second: Hit_Blunt_Blood_Large_sheet_18
+  - first:
+      213: -1660311764025309545
+    second: Hit_Blunt_Blood_Large_sheet_19
+  - first:
+      213: -3972421569853560810
+    second: Hit_Blunt_Blood_Large_sheet_20
+  - first:
+      213: 3458092636367906454
+    second: Hit_Blunt_Blood_Large_sheet_21
+  - first:
+      213: -2609324220735360880
+    second: Hit_Blunt_Blood_Large_sheet_22
+  - first:
+      213: 3938733902255237130
+    second: Hit_Blunt_Blood_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324a5fe9c54ac3f0800000000000000
+      internalID: -879814043591097805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e292817169baf0800000000000000
+      internalID: -380165553386232326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15d4af27791fdb80800000000000000
+      internalID: -8367941582939957988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52383ada1bbeda240800000000000000
+      internalID: 4804755525829100325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe174c43965f274a0800000000000000
+      internalID: -6596940671938694673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb8e06b36420fa50800000000000000
+      internalID: 6552777468498840566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c9a5b782994ec60800000000000000
+      internalID: 7846564849933523979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc599d4dbfab820800000000000000
+      internalID: 2934934998787410969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 23
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f294ea44fdfdafa0800000000000000
+      internalID: -5787690720430877962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d2ad610d96e720800000000000000
+      internalID: 2875158041582556322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3be699e15bfade0800000000000000
+      internalID: -1319637022768450653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bce3e3f07514be0800000000000000
+      internalID: -1494817878329865333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85b869a57a5fef0800000000000000
+      internalID: -74969811267135318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a929b6a5af04a0800000000000000
+      internalID: -6624894391349041943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae854d7a4b89247a0800000000000000
+      internalID: -6394380619235436310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88770c57482e89d0800000000000000
+      internalID: -2770232433834493814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b93720e36e6c00800000000000000
+      internalID: 895763190275225169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96733b1b0de77540800000000000000
+      internalID: 5005730142802376351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 36
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2880b653021b24d0800000000000000
+      internalID: -3158410908121659349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 36
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968ed05f3365f8e0800000000000000
+      internalID: -1660311764025309545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61867c601af1fd8c0800000000000000
+      internalID: -3972421569853560810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966a175eec9dff20800000000000000
+      internalID: 3458092636367906454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090fe3f2271d9cbd0800000000000000
+      internalID: -2609324220735360880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Blood_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0826b4ad9139a630800000000000000
+      internalID: 3938733902255237130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Blood_Large_sheet_0: -879814043591097805
+      Hit_Blunt_Blood_Large_sheet_1: -380165553386232326
+      Hit_Blunt_Blood_Large_sheet_10: -1319637022768450653
+      Hit_Blunt_Blood_Large_sheet_11: -1494817878329865333
+      Hit_Blunt_Blood_Large_sheet_12: -74969811267135318
+      Hit_Blunt_Blood_Large_sheet_13: -6624894391349041943
+      Hit_Blunt_Blood_Large_sheet_14: -6394380619235436310
+      Hit_Blunt_Blood_Large_sheet_15: -2770232433834493814
+      Hit_Blunt_Blood_Large_sheet_16: 895763190275225169
+      Hit_Blunt_Blood_Large_sheet_17: 5005730142802376351
+      Hit_Blunt_Blood_Large_sheet_18: -3158410908121659349
+      Hit_Blunt_Blood_Large_sheet_19: -1660311764025309545
+      Hit_Blunt_Blood_Large_sheet_2: -8367941582939957988
+      Hit_Blunt_Blood_Large_sheet_20: -3972421569853560810
+      Hit_Blunt_Blood_Large_sheet_21: 3458092636367906454
+      Hit_Blunt_Blood_Large_sheet_22: -2609324220735360880
+      Hit_Blunt_Blood_Large_sheet_23: 3938733902255237130
+      Hit_Blunt_Blood_Large_sheet_3: 4804755525829100325
+      Hit_Blunt_Blood_Large_sheet_4: -6596940671938694673
+      Hit_Blunt_Blood_Large_sheet_5: 6552777468498840566
+      Hit_Blunt_Blood_Large_sheet_6: 7846564849933523979
+      Hit_Blunt_Blood_Large_sheet_7: 2934934998787410969
+      Hit_Blunt_Blood_Large_sheet_8: -5787690720430877962
+      Hit_Blunt_Blood_Large_sheet_9: 2875158041582556322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ed0a6bd715c4f984caae5871f1e70c7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2723863680333314261
+    second: Hit_Critical_Blood_Large_sheet_0
+  - first:
+      213: 6925846727521528550
+    second: Hit_Critical_Blood_Large_sheet_1
+  - first:
+      213: 3453697562566197206
+    second: Hit_Critical_Blood_Large_sheet_2
+  - first:
+      213: 3805555527304142800
+    second: Hit_Critical_Blood_Large_sheet_3
+  - first:
+      213: 6560306436332659645
+    second: Hit_Critical_Blood_Large_sheet_4
+  - first:
+      213: -454152053134477423
+    second: Hit_Critical_Blood_Large_sheet_5
+  - first:
+      213: -7539718424738563405
+    second: Hit_Critical_Blood_Large_sheet_6
+  - first:
+      213: -8546567682908177489
+    second: Hit_Critical_Blood_Large_sheet_7
+  - first:
+      213: -1566252950385441231
+    second: Hit_Critical_Blood_Large_sheet_8
+  - first:
+      213: 1347475904421109572
+    second: Hit_Critical_Blood_Large_sheet_9
+  - first:
+      213: 4740393745150100711
+    second: Hit_Critical_Blood_Large_sheet_10
+  - first:
+      213: -8022245240390207990
+    second: Hit_Critical_Blood_Large_sheet_11
+  - first:
+      213: 1633917672477047497
+    second: Hit_Critical_Blood_Large_sheet_12
+  - first:
+      213: 1847255045135573224
+    second: Hit_Critical_Blood_Large_sheet_13
+  - first:
+      213: 7189467491682007423
+    second: Hit_Critical_Blood_Large_sheet_14
+  - first:
+      213: -4957009249312497525
+    second: Hit_Critical_Blood_Large_sheet_15
+  - first:
+      213: -1475363519547003664
+    second: Hit_Critical_Blood_Large_sheet_16
+  - first:
+      213: -3134503646803148587
+    second: Hit_Critical_Blood_Large_sheet_17
+  - first:
+      213: -2720994221038504533
+    second: Hit_Critical_Blood_Large_sheet_18
+  - first:
+      213: 7016177646554304151
+    second: Hit_Critical_Blood_Large_sheet_19
+  - first:
+      213: 1299923630571220974
+    second: Hit_Critical_Blood_Large_sheet_20
+  - first:
+      213: 3992610745625110537
+    second: Hit_Critical_Blood_Large_sheet_21
+  - first:
+      213: -7766270966412849876
+    second: Hit_Critical_Blood_Large_sheet_22
+  - first:
+      213: -5625025955245208064
+    second: Hit_Critical_Blood_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fadae59b1dc520800000000000000
+      internalID: 2723863680333314261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae8ba67ec8d1060800000000000000
+      internalID: 6925846727521528550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 62
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff36a72affdef20800000000000000
+      internalID: 3453697562566197206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 60
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdcf1e69c00d430800000000000000
+      internalID: 3805555527304142800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3215322f3ea0b50800000000000000
+      internalID: 6560306436332659645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 64
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197b7e62d1782b9f0800000000000000
+      internalID: -454152053134477423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 29
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba7df23a0a8d5790800000000000000
+      internalID: -7539718424738563405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabbc6b59fd746980800000000000000
+      internalID: -8546567682908177489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364edf6d3d834ae0800000000000000
+      internalID: -1566252950385441231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1b62223233b210800000000000000
+      internalID: 1347475904421109572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 42
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c72bdef249c140800000000000000
+      internalID: 4740393745150100711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06397125724ba090800000000000000
+      internalID: -8022245240390207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 40
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca3a3c5777dca610800000000000000
+      internalID: 1633917672477047497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0aad62da4c2a910800000000000000
+      internalID: 1847255045135573224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 39
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79bced979e16c360800000000000000
+      internalID: 7189467491682007423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b802762e95a253bb0800000000000000
+      internalID: -4957009249312497525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 16
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fca4de12b4768be0800000000000000
+      internalID: -1475363519547003664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 39
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c1216a810084d0800000000000000
+      internalID: -3134503646803148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 14
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fb132c261d3ad0800000000000000
+      internalID: -2720994221038504533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 18
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec7ef65687e5160800000000000000
+      internalID: 7016177646554304151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef655b97a14a0210800000000000000
+      internalID: 1299923630571220974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086463c15a986730800000000000000
+      internalID: 3992610745625110537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d488914b9a83490800000000000000
+      internalID: -7766270966412849876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Blood_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec14542b4efe1b0800000000000000
+      internalID: -5625025955245208064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Critical_Blood_Large_sheet_0: 2723863680333314261
+      Hit_Critical_Blood_Large_sheet_1: 6925846727521528550
+      Hit_Critical_Blood_Large_sheet_10: 4740393745150100711
+      Hit_Critical_Blood_Large_sheet_11: -8022245240390207990
+      Hit_Critical_Blood_Large_sheet_12: 1633917672477047497
+      Hit_Critical_Blood_Large_sheet_13: 1847255045135573224
+      Hit_Critical_Blood_Large_sheet_14: 7189467491682007423
+      Hit_Critical_Blood_Large_sheet_15: -4957009249312497525
+      Hit_Critical_Blood_Large_sheet_16: -1475363519547003664
+      Hit_Critical_Blood_Large_sheet_17: -3134503646803148587
+      Hit_Critical_Blood_Large_sheet_18: -2720994221038504533
+      Hit_Critical_Blood_Large_sheet_19: 7016177646554304151
+      Hit_Critical_Blood_Large_sheet_2: 3453697562566197206
+      Hit_Critical_Blood_Large_sheet_20: 1299923630571220974
+      Hit_Critical_Blood_Large_sheet_21: 3992610745625110537
+      Hit_Critical_Blood_Large_sheet_22: -7766270966412849876
+      Hit_Critical_Blood_Large_sheet_23: -5625025955245208064
+      Hit_Critical_Blood_Large_sheet_3: 3805555527304142800
+      Hit_Critical_Blood_Large_sheet_4: 6560306436332659645
+      Hit_Critical_Blood_Large_sheet_5: -454152053134477423
+      Hit_Critical_Blood_Large_sheet_6: -7539718424738563405
+      Hit_Critical_Blood_Large_sheet_7: -8546567682908177489
+      Hit_Critical_Blood_Large_sheet_8: -1566252950385441231
+      Hit_Critical_Blood_Large_sheet_9: 1347475904421109572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

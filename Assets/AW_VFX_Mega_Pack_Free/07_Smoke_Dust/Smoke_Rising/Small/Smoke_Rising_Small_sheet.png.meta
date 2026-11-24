@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: e668ede27aade8b4dad666c9dc20f593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3526411836449889488
+    second: Smoke_Rising_Small_sheet_0
+  - first:
+      213: -1846391437245913290
+    second: Smoke_Rising_Small_sheet_1
+  - first:
+      213: -1312545906010713095
+    second: Smoke_Rising_Small_sheet_2
+  - first:
+      213: 6425715720184819927
+    second: Smoke_Rising_Small_sheet_3
+  - first:
+      213: -3134675495684394031
+    second: Smoke_Rising_Small_sheet_4
+  - first:
+      213: -7640304108482115875
+    second: Smoke_Rising_Small_sheet_5
+  - first:
+      213: 1176308829661381812
+    second: Smoke_Rising_Small_sheet_6
+  - first:
+      213: 7121977262356108893
+    second: Smoke_Rising_Small_sheet_7
+  - first:
+      213: 669484818925556809
+    second: Smoke_Rising_Small_sheet_8
+  - first:
+      213: -2692882400582803235
+    second: Smoke_Rising_Small_sheet_9
+  - first:
+      213: 800523732001089081
+    second: Smoke_Rising_Small_sheet_10
+  - first:
+      213: 1564358290527870138
+    second: Smoke_Rising_Small_sheet_11
+  - first:
+      213: 3006725066636430222
+    second: Smoke_Rising_Small_sheet_12
+  - first:
+      213: -4088249294725760796
+    second: Smoke_Rising_Small_sheet_13
+  - first:
+      213: 6298860594101227257
+    second: Smoke_Rising_Small_sheet_14
+  - first:
+      213: 7054129021627844924
+    second: Smoke_Rising_Small_sheet_15
+  - first:
+      213: -3107921650425788824
+    second: Smoke_Rising_Small_sheet_16
+  - first:
+      213: 1768528384714053472
+    second: Smoke_Rising_Small_sheet_17
+  - first:
+      213: -6850540778399674008
+    second: Smoke_Rising_Small_sheet_18
+  - first:
+      213: 8543229131625822136
+    second: Smoke_Rising_Small_sheet_19
+  - first:
+      213: -4850171393270460440
+    second: Smoke_Rising_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033eba45e1baf0fc0800000000000000
+      internalID: -3526411836449889488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63762aa35cc4066e0800000000000000
+      internalID: -1846391437245913290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f396d0e376e8cde0800000000000000
+      internalID: -1312545906010713095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d07241176abc2950800000000000000
+      internalID: 6425715720184819927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33c91be356f74d0800000000000000
+      internalID: -3134675495684394031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd647f5b4ef28f590800000000000000
+      internalID: -7640304108482115875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44f12f5a6135010800000000000000
+      internalID: 1176308829661381812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561525169856d260800000000000000
+      internalID: 7121977262356108893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944139e45ec7a4900800000000000000
+      internalID: 669484818925556809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd06c5369b5f0aad0800000000000000
+      internalID: -2692882400582803235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e138c7180c1b00800000000000000
+      internalID: 800523732001089081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd950b397b5b510800000000000000
+      internalID: 1564358290527870138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b802e84880ab920800000000000000
+      internalID: 3006725066636430222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e831aa4dee9347c0800000000000000
+      internalID: -4088249294725760796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe0c19665c0a6750800000000000000
+      internalID: 6298860594101227257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c6e588fc45e160800000000000000
+      internalID: 7054129021627844924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86600a4b9b17ed4d0800000000000000
+      internalID: -3107921650425788824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067931222331b8810800000000000000
+      internalID: 1768528384714053472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861d820357dfde0a0800000000000000
+      internalID: -6850540778399674008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 26
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7735991a5af8670800000000000000
+      internalID: 8543229131625822136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Rising_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4a5ca0dab0bcb0800000000000000
+      internalID: -4850171393270460440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smoke_Rising_Small_sheet_0: -3526411836449889488
+      Smoke_Rising_Small_sheet_1: -1846391437245913290
+      Smoke_Rising_Small_sheet_10: 800523732001089081
+      Smoke_Rising_Small_sheet_11: 1564358290527870138
+      Smoke_Rising_Small_sheet_12: 3006725066636430222
+      Smoke_Rising_Small_sheet_13: -4088249294725760796
+      Smoke_Rising_Small_sheet_14: 6298860594101227257
+      Smoke_Rising_Small_sheet_15: 7054129021627844924
+      Smoke_Rising_Small_sheet_16: -3107921650425788824
+      Smoke_Rising_Small_sheet_17: 1768528384714053472
+      Smoke_Rising_Small_sheet_18: -6850540778399674008
+      Smoke_Rising_Small_sheet_19: 8543229131625822136
+      Smoke_Rising_Small_sheet_2: -1312545906010713095
+      Smoke_Rising_Small_sheet_20: -4850171393270460440
+      Smoke_Rising_Small_sheet_3: 6425715720184819927
+      Smoke_Rising_Small_sheet_4: -3134675495684394031
+      Smoke_Rising_Small_sheet_5: -7640304108482115875
+      Smoke_Rising_Small_sheet_6: 1176308829661381812
+      Smoke_Rising_Small_sheet_7: 7121977262356108893
+      Smoke_Rising_Small_sheet_8: 669484818925556809
+      Smoke_Rising_Small_sheet_9: -2692882400582803235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

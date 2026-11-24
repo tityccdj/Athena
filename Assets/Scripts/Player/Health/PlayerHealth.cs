@@ -19,6 +19,11 @@ namespace Athena.Player.Health
         [SerializeField] private int _healAmount = 2;
         [SerializeField] private float _healCooldown = 30.0f;
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDamagedEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onHealedEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDeathEvent;
+
         [Header("Visual Feedback")]
         [SerializeField] private SpriteRenderer _spriteRenderer;
         [SerializeField] private float _flashInterval = 0.1f;
@@ -93,6 +98,7 @@ namespace Athena.Player.Health
 
             OnDamaged?.Invoke(damageToTake);
             OnHealthChanged?.Invoke(_currentHealth, _maxHealth);
+            _onDamagedEvent?.Invoke();
 
             // Apply Knockback
             if (info.KnockbackForce > 0f)
@@ -133,6 +139,7 @@ namespace Athena.Player.Health
             _currentHealth = Mathf.Min(_maxHealth, _currentHealth + amount);
             OnHealed?.Invoke(amount);
             OnHealthChanged?.Invoke(_currentHealth, _maxHealth);
+            _onHealedEvent?.Invoke();
         }
 
         public void SetInvulnerable(bool invulnerable)
@@ -175,6 +182,7 @@ namespace Athena.Player.Health
             if (_spriteRenderer != null) _spriteRenderer.enabled = true;
             _isInvulnerable = true;
             OnDeath?.Invoke();
+            _onDeathEvent?.Invoke();
         }
 
         public void ResetHealth()

@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: dfe565bd059b719419066b6be64c7a14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1984315527808330142
+    second: Explosion_Toxic_Blood_Large_sheet_0
+  - first:
+      213: 4412923895410625340
+    second: Explosion_Toxic_Blood_Large_sheet_1
+  - first:
+      213: 411134763731740841
+    second: Explosion_Toxic_Blood_Large_sheet_2
+  - first:
+      213: 418206408572724053
+    second: Explosion_Toxic_Blood_Large_sheet_3
+  - first:
+      213: 2428503798324842711
+    second: Explosion_Toxic_Blood_Large_sheet_4
+  - first:
+      213: 1473309478440073396
+    second: Explosion_Toxic_Blood_Large_sheet_5
+  - first:
+      213: 8861532132377117376
+    second: Explosion_Toxic_Blood_Large_sheet_6
+  - first:
+      213: 2087000030864126107
+    second: Explosion_Toxic_Blood_Large_sheet_7
+  - first:
+      213: 2819923220697032582
+    second: Explosion_Toxic_Blood_Large_sheet_8
+  - first:
+      213: 3919895977183142940
+    second: Explosion_Toxic_Blood_Large_sheet_9
+  - first:
+      213: 3365131935369620003
+    second: Explosion_Toxic_Blood_Large_sheet_10
+  - first:
+      213: 2226058982450419443
+    second: Explosion_Toxic_Blood_Large_sheet_11
+  - first:
+      213: -6843215133966723203
+    second: Explosion_Toxic_Blood_Large_sheet_12
+  - first:
+      213: -2311458576857503086
+    second: Explosion_Toxic_Blood_Large_sheet_13
+  - first:
+      213: -6150558836875396339
+    second: Explosion_Toxic_Blood_Large_sheet_14
+  - first:
+      213: 6468010578265162823
+    second: Explosion_Toxic_Blood_Large_sheet_15
+  - first:
+      213: 641618250177015268
+    second: Explosion_Toxic_Blood_Large_sheet_16
+  - first:
+      213: -3280955641168172329
+    second: Explosion_Toxic_Blood_Large_sheet_17
+  - first:
+      213: -3860002291475376859
+    second: Explosion_Toxic_Blood_Large_sheet_18
+  - first:
+      213: 3691610843974847974
+    second: Explosion_Toxic_Blood_Large_sheet_19
+  - first:
+      213: 370979160642795035
+    second: Explosion_Toxic_Blood_Large_sheet_20
+  - first:
+      213: 8969220829739081109
+    second: Explosion_Toxic_Blood_Large_sheet_21
+  - first:
+      213: 6546365977074940166
+    second: Explosion_Toxic_Blood_Large_sheet_22
+  - first:
+      213: 7977253556551251489
+    second: Explosion_Toxic_Blood_Large_sheet_23
+  - first:
+      213: 657668883944990887
+    second: Explosion_Toxic_Blood_Large_sheet_24
+  - first:
+      213: 8999232173897751692
+    second: Explosion_Toxic_Blood_Large_sheet_25
+  - first:
+      213: 5101474937292383218
+    second: Explosion_Toxic_Blood_Large_sheet_26
+  - first:
+      213: 8536971281009832056
+    second: Explosion_Toxic_Blood_Large_sheet_27
+  - first:
+      213: -8693251278579824588
+    second: Explosion_Toxic_Blood_Large_sheet_28
+  - first:
+      213: -4252598385910898986
+    second: Explosion_Toxic_Blood_Large_sheet_29
+  - first:
+      213: -7548842732985695265
+    second: Explosion_Toxic_Blood_Large_sheet_30
+  - first:
+      213: 988131060053541099
+    second: Explosion_Toxic_Blood_Large_sheet_31
+  - first:
+      213: 3831027058833400090
+    second: Explosion_Toxic_Blood_Large_sheet_32
+  - first:
+      213: 5793505535582656530
+    second: Explosion_Toxic_Blood_Large_sheet_33
+  - first:
+      213: -7242155328901531735
+    second: Explosion_Toxic_Blood_Large_sheet_34
+  - first:
+      213: 8847179051047569907
+    second: Explosion_Toxic_Blood_Large_sheet_35
+  - first:
+      213: 921434998084266320
+    second: Explosion_Toxic_Blood_Large_sheet_36
+  - first:
+      213: 896992871353074897
+    second: Explosion_Toxic_Blood_Large_sheet_37
+  - first:
+      213: 8224825338718870884
+    second: Explosion_Toxic_Blood_Large_sheet_38
+  - first:
+      213: 4161560500438226846
+    second: Explosion_Toxic_Blood_Large_sheet_39
+  - first:
+      213: 7558486520870621363
+    second: Explosion_Toxic_Blood_Large_sheet_40
+  - first:
+      213: -4954856389559251240
+    second: Explosion_Toxic_Blood_Large_sheet_41
+  - first:
+      213: -5775863717549565411
+    second: Explosion_Toxic_Blood_Large_sheet_42
+  - first:
+      213: 8378278703544896787
+    second: Explosion_Toxic_Blood_Large_sheet_43
+  - first:
+      213: 2641738431794059462
+    second: Explosion_Toxic_Blood_Large_sheet_44
+  - first:
+      213: -1136216584618585278
+    second: Explosion_Toxic_Blood_Large_sheet_45
+  - first:
+      213: 2999377085227564966
+    second: Explosion_Toxic_Blood_Large_sheet_46
+  - first:
+      213: 557641998924569755
+    second: Explosion_Toxic_Blood_Large_sheet_47
+  - first:
+      213: -1392257030866450996
+    second: Explosion_Toxic_Blood_Large_sheet_48
+  - first:
+      213: 6704636729513524578
+    second: Explosion_Toxic_Blood_Large_sheet_49
+  - first:
+      213: -6330543687512137619
+    second: Explosion_Toxic_Blood_Large_sheet_50
+  - first:
+      213: -6265113570682366613
+    second: Explosion_Toxic_Blood_Large_sheet_51
+  - first:
+      213: -6954287194523342067
+    second: Explosion_Toxic_Blood_Large_sheet_52
+  - first:
+      213: 8677314439169091565
+    second: Explosion_Toxic_Blood_Large_sheet_53
+  - first:
+      213: 709622239096267117
+    second: Explosion_Toxic_Blood_Large_sheet_54
+  - first:
+      213: 8826949611840259969
+    second: Explosion_Toxic_Blood_Large_sheet_55
+  - first:
+      213: -3013080245381820765
+    second: Explosion_Toxic_Blood_Large_sheet_56
+  - first:
+      213: -3472511978758194322
+    second: Explosion_Toxic_Blood_Large_sheet_57
+  - first:
+      213: 9002204079863611150
+    second: Explosion_Toxic_Blood_Large_sheet_58
+  - first:
+      213: 2155632446808081344
+    second: Explosion_Toxic_Blood_Large_sheet_59
+  - first:
+      213: 5558863383246274635
+    second: Explosion_Toxic_Blood_Large_sheet_60
+  - first:
+      213: 8366238690513053583
+    second: Explosion_Toxic_Blood_Large_sheet_61
+  - first:
+      213: -3861876642716735222
+    second: Explosion_Toxic_Blood_Large_sheet_62
+  - first:
+      213: 7626159871383386302
+    second: Explosion_Toxic_Blood_Large_sheet_63
+  - first:
+      213: 8161221285542420960
+    second: Explosion_Toxic_Blood_Large_sheet_64
+  - first:
+      213: 8260732808821518855
+    second: Explosion_Toxic_Blood_Large_sheet_65
+  - first:
+      213: 2600198270483227029
+    second: Explosion_Toxic_Blood_Large_sheet_66
+  - first:
+      213: -1031417141712960882
+    second: Explosion_Toxic_Blood_Large_sheet_67
+  - first:
+      213: 5300826728775283562
+    second: Explosion_Toxic_Blood_Large_sheet_68
+  - first:
+      213: -4978728899776160109
+    second: Explosion_Toxic_Blood_Large_sheet_69
+  - first:
+      213: 60177293341220035
+    second: Explosion_Toxic_Blood_Large_sheet_70
+  - first:
+      213: 4108705078463130847
+    second: Explosion_Toxic_Blood_Large_sheet_71
+  - first:
+      213: 2945184914547700736
+    second: Explosion_Toxic_Blood_Large_sheet_72
+  - first:
+      213: 9011851656427267388
+    second: Explosion_Toxic_Blood_Large_sheet_73
+  - first:
+      213: -5300565323365703904
+    second: Explosion_Toxic_Blood_Large_sheet_74
+  - first:
+      213: -9104823619759262565
+    second: Explosion_Toxic_Blood_Large_sheet_75
+  - first:
+      213: -3043906550704967001
+    second: Explosion_Toxic_Blood_Large_sheet_76
+  - first:
+      213: 5104729546121453697
+    second: Explosion_Toxic_Blood_Large_sheet_77
+  - first:
+      213: 3200177980740356829
+    second: Explosion_Toxic_Blood_Large_sheet_78
+  - first:
+      213: -818439562085858750
+    second: Explosion_Toxic_Blood_Large_sheet_79
+  - first:
+      213: -9099101161911491336
+    second: Explosion_Toxic_Blood_Large_sheet_80
+  - first:
+      213: 7832195483105282947
+    second: Explosion_Toxic_Blood_Large_sheet_81
+  - first:
+      213: 3932090828445315952
+    second: Explosion_Toxic_Blood_Large_sheet_82
+  - first:
+      213: -4662753768418541836
+    second: Explosion_Toxic_Blood_Large_sheet_83
+  - first:
+      213: -6201345067724741168
+    second: Explosion_Toxic_Blood_Large_sheet_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 18
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26651b27a8b4674e0800000000000000
+      internalID: -1984315527808330142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 80
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b88c6f6eadd3d30800000000000000
+      internalID: 4412923895410625340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86b0ba3e4a4b500800000000000000
+      internalID: 411134763731740841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553e4c94384cdc500800000000000000
+      internalID: 418206408572724053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d6da7657c3b120800000000000000
+      internalID: 2428503798324842711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 79
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8f2aa2a2f327410800000000000000
+      internalID: 1473309478440073396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 11
+        width: 119
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c24c04268c7afa70800000000000000
+      internalID: 8861532132377117376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 11
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b2ed787386fc10800000000000000
+      internalID: 2087000030864126107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687a5878a31622720800000000000000
+      internalID: 2819923220697032582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14eb7c6f94466630800000000000000
+      internalID: 3919895977183142940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 12
+        width: 118
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a670e7aa953be20800000000000000
+      internalID: 3365131935369620003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f65602b9dc84ee10800000000000000
+      internalID: 2226058982450419443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 11
+        width: 127
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d771652b7140801a0800000000000000
+      internalID: -6843215133966723203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 11
+        width: 121
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae065cbac0cefd0800000000000000
+      internalID: -2311458576857503086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 11
+        width: 121
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf6ed2353d4aaa0800000000000000
+      internalID: -6150558836875396339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c6f81a5df2c950800000000000000
+      internalID: 6468010578265162823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed653b266c77e800800000000000000
+      internalID: 641618250177015268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6b544a34b772d0800000000000000
+      internalID: -3280955641168172329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 55
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259a68fd548e6ac0800000000000000
+      internalID: -3860002291475376859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edc91ce08c3b3330800000000000000
+      internalID: 3691610843974847974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16bf21c49bf52500800000000000000
+      internalID: 370979160642795035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 61
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dd1acd2d2197c70800000000000000
+      internalID: 8969220829739081109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 61
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60931490c2d59da50800000000000000
+      internalID: 6546365977074940166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 58
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126757928d5e4be60800000000000000
+      internalID: 7977253556551251489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a86e5f8d52802900800000000000000
+      internalID: 657668883944990887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 13
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c11707bf1b3ec70800000000000000
+      internalID: 8999232173897751692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3eedb3d641cc640800000000000000
+      internalID: 5101474937292383218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 10
+        width: 120
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707d46362a697670800000000000000
+      internalID: 8536971281009832056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 16
+        width: 118
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4380a0d550e5b5780800000000000000
+      internalID: -8693251278579824588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 56
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de916b9c4cbbf4c0800000000000000
+      internalID: -4252598385910898986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 15
+        width: 114
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34913a78f1d3790800000000000000
+      internalID: -7548842732985695265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0850ab6fb86bd00800000000000000
+      internalID: 988131060053541099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11aca6ffca8a2530800000000000000
+      internalID: 3831027058833400090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 15
+        width: 114
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d9acd69aa66050800000000000000
+      internalID: 5793505535582656530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73f945912be7b90800000000000000
+      internalID: -7242155328901531735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c7f9f87e77ca70800000000000000
+      internalID: 8847179051047569907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 16
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ec60bf3899cc00800000000000000
+      internalID: 921434998084266320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ce079342c27c00800000000000000
+      internalID: 896992871353074897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 12
+        width: 114
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d58fd8113742270800000000000000
+      internalID: 8224825338718870884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 13
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97daebe935d0c930800000000000000
+      internalID: 4161560500438226846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 20
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b05214b17325e860800000000000000
+      internalID: 7558486520870621363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 23
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0f3b9d50dc3bb0800000000000000
+      internalID: -4954856389559251240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 26
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a146cfc8208dfa0800000000000000
+      internalID: -5775863717549565411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 26
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d83024710a54470800000000000000
+      internalID: 8378278703544896787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 11
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c815907b1759a420800000000000000
+      internalID: 2641738431794059462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d6e549095b30f0800000000000000
+      internalID: -1136216584618585278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 16
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af7f60519def9920800000000000000
+      internalID: 2999377085227564966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 23
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cdcb981742db700800000000000000
+      internalID: 557641998924569755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 20
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54a2f5b95bdace0800000000000000
+      internalID: -1392257030866450996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26db0b23597ab0d50800000000000000
+      internalID: 6704636729513524578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 23
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606fbe8e046528a0800000000000000
+      internalID: -6330543687512137619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 40
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b659ff5c668dd09a0800000000000000
+      internalID: -6265113570682366613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 25
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b636854a86d7f90800000000000000
+      internalID: -6954287194523342067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7aa0f02830c6870800000000000000
+      internalID: 8677314439169091565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 36
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ec0eaaa519d900800000000000000
+      internalID: 709622239096267117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c200a7ef9f7a70800000000000000
+      internalID: 8826949611840259969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 24
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae05461b736f26d0800000000000000
+      internalID: -3013080245381820765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 31
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b34d3e0c82fcfc0800000000000000
+      internalID: -3472511978758194322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 11
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb7d73ae04eec70800000000000000
+      internalID: 9002204079863611150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c34d421a485aed10800000000000000
+      internalID: 2155632446808081344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4002518bcc052d40800000000000000
+      internalID: 5558863383246274635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 24
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87e82643c9da1470800000000000000
+      internalID: 8366238690513053583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 27
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ad7097abd76ac0800000000000000
+      internalID: -3861876642716735222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 26
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb835267fff85d960800000000000000
+      internalID: 7626159871383386302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 26
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ec1ae48b724170800000000000000
+      internalID: 8161221285542420960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702b83ee8b404a270800000000000000
+      internalID: 8260732808821518855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ecb1fc82c51420800000000000000
+      internalID: 2600198270483227029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8243f4039bafa1f0800000000000000
+      internalID: -1031417141712960882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 11
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63fb8823d1509940800000000000000
+      internalID: 5300826728775283562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 11
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ededfa17008eab0800000000000000
+      internalID: -4978728899776160109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd521fdeac5d000800000000000000
+      internalID: 60177293341220035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc63a0008d050930800000000000000
+      internalID: 4108705078463130847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 15
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004747553166fd820800000000000000
+      internalID: 2945184914547700736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35ecdda557801d70800000000000000
+      internalID: 9011851656427267388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f98080ceb9076b0800000000000000
+      internalID: -5300565323365703904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b9a1482b25a180800000000000000
+      internalID: -9104823619759262565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2feb39e1fd1c5d0800000000000000
+      internalID: -3043906550704967001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a207e974a7d640800000000000000
+      internalID: 5104729546121453697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda4e001be0596c20800000000000000
+      internalID: 3200177980740356829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2420fb7fd8154a4f0800000000000000
+      internalID: -818439562085858750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ebecc3bf79b180800000000000000
+      internalID: -9099101161911491336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc8ed8b4c81bc60800000000000000
+      internalID: 7832195483105282947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fd0e76c7919630800000000000000
+      internalID: 3932090828445315952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7c46e6229a4fb0800000000000000
+      internalID: -4662753768418541836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Blood_Large_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d565ac548560f9a0800000000000000
+      internalID: -6201345067724741168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Toxic_Blood_Large_sheet_0: -1984315527808330142
+      Explosion_Toxic_Blood_Large_sheet_1: 4412923895410625340
+      Explosion_Toxic_Blood_Large_sheet_10: 3365131935369620003
+      Explosion_Toxic_Blood_Large_sheet_11: 2226058982450419443
+      Explosion_Toxic_Blood_Large_sheet_12: -6843215133966723203
+      Explosion_Toxic_Blood_Large_sheet_13: -2311458576857503086
+      Explosion_Toxic_Blood_Large_sheet_14: -6150558836875396339
+      Explosion_Toxic_Blood_Large_sheet_15: 6468010578265162823
+      Explosion_Toxic_Blood_Large_sheet_16: 641618250177015268
+      Explosion_Toxic_Blood_Large_sheet_17: -3280955641168172329
+      Explosion_Toxic_Blood_Large_sheet_18: -3860002291475376859
+      Explosion_Toxic_Blood_Large_sheet_19: 3691610843974847974
+      Explosion_Toxic_Blood_Large_sheet_2: 411134763731740841
+      Explosion_Toxic_Blood_Large_sheet_20: 370979160642795035
+      Explosion_Toxic_Blood_Large_sheet_21: 8969220829739081109
+      Explosion_Toxic_Blood_Large_sheet_22: 6546365977074940166
+      Explosion_Toxic_Blood_Large_sheet_23: 7977253556551251489
+      Explosion_Toxic_Blood_Large_sheet_24: 657668883944990887
+      Explosion_Toxic_Blood_Large_sheet_25: 8999232173897751692
+      Explosion_Toxic_Blood_Large_sheet_26: 5101474937292383218
+      Explosion_Toxic_Blood_Large_sheet_27: 8536971281009832056
+      Explosion_Toxic_Blood_Large_sheet_28: -8693251278579824588
+      Explosion_Toxic_Blood_Large_sheet_29: -4252598385910898986
+      Explosion_Toxic_Blood_Large_sheet_3: 418206408572724053
+      Explosion_Toxic_Blood_Large_sheet_30: -7548842732985695265
+      Explosion_Toxic_Blood_Large_sheet_31: 988131060053541099
+      Explosion_Toxic_Blood_Large_sheet_32: 3831027058833400090
+      Explosion_Toxic_Blood_Large_sheet_33: 5793505535582656530
+      Explosion_Toxic_Blood_Large_sheet_34: -7242155328901531735
+      Explosion_Toxic_Blood_Large_sheet_35: 8847179051047569907
+      Explosion_Toxic_Blood_Large_sheet_36: 921434998084266320
+      Explosion_Toxic_Blood_Large_sheet_37: 896992871353074897
+      Explosion_Toxic_Blood_Large_sheet_38: 8224825338718870884
+      Explosion_Toxic_Blood_Large_sheet_39: 4161560500438226846
+      Explosion_Toxic_Blood_Large_sheet_4: 2428503798324842711
+      Explosion_Toxic_Blood_Large_sheet_40: 7558486520870621363
+      Explosion_Toxic_Blood_Large_sheet_41: -4954856389559251240
+      Explosion_Toxic_Blood_Large_sheet_42: -5775863717549565411
+      Explosion_Toxic_Blood_Large_sheet_43: 8378278703544896787
+      Explosion_Toxic_Blood_Large_sheet_44: 2641738431794059462
+      Explosion_Toxic_Blood_Large_sheet_45: -1136216584618585278
+      Explosion_Toxic_Blood_Large_sheet_46: 2999377085227564966
+      Explosion_Toxic_Blood_Large_sheet_47: 557641998924569755
+      Explosion_Toxic_Blood_Large_sheet_48: -1392257030866450996
+      Explosion_Toxic_Blood_Large_sheet_49: 6704636729513524578
+      Explosion_Toxic_Blood_Large_sheet_5: 1473309478440073396
+      Explosion_Toxic_Blood_Large_sheet_50: -6330543687512137619
+      Explosion_Toxic_Blood_Large_sheet_51: -6265113570682366613
+      Explosion_Toxic_Blood_Large_sheet_52: -6954287194523342067
+      Explosion_Toxic_Blood_Large_sheet_53: 8677314439169091565
+      Explosion_Toxic_Blood_Large_sheet_54: 709622239096267117
+      Explosion_Toxic_Blood_Large_sheet_55: 8826949611840259969
+      Explosion_Toxic_Blood_Large_sheet_56: -3013080245381820765
+      Explosion_Toxic_Blood_Large_sheet_57: -3472511978758194322
+      Explosion_Toxic_Blood_Large_sheet_58: 9002204079863611150
+      Explosion_Toxic_Blood_Large_sheet_59: 2155632446808081344
+      Explosion_Toxic_Blood_Large_sheet_6: 8861532132377117376
+      Explosion_Toxic_Blood_Large_sheet_60: 5558863383246274635
+      Explosion_Toxic_Blood_Large_sheet_61: 8366238690513053583
+      Explosion_Toxic_Blood_Large_sheet_62: -3861876642716735222
+      Explosion_Toxic_Blood_Large_sheet_63: 7626159871383386302
+      Explosion_Toxic_Blood_Large_sheet_64: 8161221285542420960
+      Explosion_Toxic_Blood_Large_sheet_65: 8260732808821518855
+      Explosion_Toxic_Blood_Large_sheet_66: 2600198270483227029
+      Explosion_Toxic_Blood_Large_sheet_67: -1031417141712960882
+      Explosion_Toxic_Blood_Large_sheet_68: 5300826728775283562
+      Explosion_Toxic_Blood_Large_sheet_69: -4978728899776160109
+      Explosion_Toxic_Blood_Large_sheet_7: 2087000030864126107
+      Explosion_Toxic_Blood_Large_sheet_70: 60177293341220035
+      Explosion_Toxic_Blood_Large_sheet_71: 4108705078463130847
+      Explosion_Toxic_Blood_Large_sheet_72: 2945184914547700736
+      Explosion_Toxic_Blood_Large_sheet_73: 9011851656427267388
+      Explosion_Toxic_Blood_Large_sheet_74: -5300565323365703904
+      Explosion_Toxic_Blood_Large_sheet_75: -9104823619759262565
+      Explosion_Toxic_Blood_Large_sheet_76: -3043906550704967001
+      Explosion_Toxic_Blood_Large_sheet_77: 5104729546121453697
+      Explosion_Toxic_Blood_Large_sheet_78: 3200177980740356829
+      Explosion_Toxic_Blood_Large_sheet_79: -818439562085858750
+      Explosion_Toxic_Blood_Large_sheet_8: 2819923220697032582
+      Explosion_Toxic_Blood_Large_sheet_80: -9099101161911491336
+      Explosion_Toxic_Blood_Large_sheet_81: 7832195483105282947
+      Explosion_Toxic_Blood_Large_sheet_82: 3932090828445315952
+      Explosion_Toxic_Blood_Large_sheet_83: -4662753768418541836
+      Explosion_Toxic_Blood_Large_sheet_84: -6201345067724741168
+      Explosion_Toxic_Blood_Large_sheet_9: 3919895977183142940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

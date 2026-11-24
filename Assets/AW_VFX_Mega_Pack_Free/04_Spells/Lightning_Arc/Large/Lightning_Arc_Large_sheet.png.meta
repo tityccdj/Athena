@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 5575f7da1cac6f94ebd8c8d47fbbee8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7084088761931800534
+    second: Lightning_Arc_Large_sheet_0
+  - first:
+      213: 7313374184064553998
+    second: Lightning_Arc_Large_sheet_1
+  - first:
+      213: -8788558799347605747
+    second: Lightning_Arc_Large_sheet_2
+  - first:
+      213: 8738454046981741415
+    second: Lightning_Arc_Large_sheet_3
+  - first:
+      213: -5384177314865825226
+    second: Lightning_Arc_Large_sheet_4
+  - first:
+      213: -4386717705333533740
+    second: Lightning_Arc_Large_sheet_5
+  - first:
+      213: -9127352000942374703
+    second: Lightning_Arc_Large_sheet_6
+  - first:
+      213: 8581987221601260640
+    second: Lightning_Arc_Large_sheet_7
+  - first:
+      213: 7551809811492718921
+    second: Lightning_Arc_Large_sheet_8
+  - first:
+      213: 5865510985050127651
+    second: Lightning_Arc_Large_sheet_9
+  - first:
+      213: -4524835019747283176
+    second: Lightning_Arc_Large_sheet_10
+  - first:
+      213: 8375924220638724382
+    second: Lightning_Arc_Large_sheet_11
+  - first:
+      213: 378231729887812420
+    second: Lightning_Arc_Large_sheet_12
+  - first:
+      213: -1709739324665272363
+    second: Lightning_Arc_Large_sheet_13
+  - first:
+      213: 7250048950991621250
+    second: Lightning_Arc_Large_sheet_14
+  - first:
+      213: 8053471435694182934
+    second: Lightning_Arc_Large_sheet_15
+  - first:
+      213: 2236192373777401472
+    second: Lightning_Arc_Large_sheet_16
+  - first:
+      213: -3279064134156094854
+    second: Lightning_Arc_Large_sheet_17
+  - first:
+      213: -8795270403817823288
+    second: Lightning_Arc_Large_sheet_18
+  - first:
+      213: -2398369466232486855
+    second: Lightning_Arc_Large_sheet_19
+  - first:
+      213: -4326246084721378832
+    second: Lightning_Arc_Large_sheet_20
+  - first:
+      213: -8357980841017397577
+    second: Lightning_Arc_Large_sheet_21
+  - first:
+      213: -1198107461295711360
+    second: Lightning_Arc_Large_sheet_22
+  - first:
+      213: -4484112547850957009
+    second: Lightning_Arc_Large_sheet_23
+  - first:
+      213: 5776054233858772431
+    second: Lightning_Arc_Large_sheet_24
+  - first:
+      213: -1321610855064751880
+    second: Lightning_Arc_Large_sheet_25
+  - first:
+      213: -66873219338785165
+    second: Lightning_Arc_Large_sheet_26
+  - first:
+      213: 9059803633083262718
+    second: Lightning_Arc_Large_sheet_27
+  - first:
+      213: -8719508356083753788
+    second: Lightning_Arc_Large_sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 137
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e7bbddc240bd90800000000000000
+      internalID: -7084088761931800534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 134
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041eae82135e7560800000000000000
+      internalID: 7313374184064553998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 18
+        width: 132
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9045f554c80680800000000000000
+      internalID: -8788558799347605747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 13
+        width: 136
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bdb6c48a9354970800000000000000
+      internalID: 8738454046981741415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 19
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab4bb324f8745b0800000000000000
+      internalID: -5384177314865825226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 15
+        width: 131
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d39da32d7f3f13c0800000000000000
+      internalID: -4386717705333533740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 17
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d001e3c6b1255180800000000000000
+      internalID: -9127352000942374703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 19
+        width: 135
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641c72a8e7591770800000000000000
+      internalID: 8581987221601260640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 25
+        width: 138
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494559230b6dc860800000000000000
+      internalID: 7551809811492718921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 20
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d70120a2b766150800000000000000
+      internalID: 5865510985050127651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 22
+        width: 141
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f27bce58e8431c0800000000000000
+      internalID: -4524835019747283176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 22
+        width: 135
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1103cc73b24d3470800000000000000
+      internalID: 8375924220638724382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 17
+        width: 137
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b9ebe11cfbf3500800000000000000
+      internalID: 378231729887812420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 23
+        width: 133
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d76fce8429c548e0800000000000000
+      internalID: -1709739324665272363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 18
+        width: 137
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c8c08cb195d9460800000000000000
+      internalID: 7250048950991621250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 23
+        width: 141
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129e450a9da3cf60800000000000000
+      internalID: 8053471435694182934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 23
+        width: 133
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0868078bd1d880f10800000000000000
+      internalID: 2236192373777401472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f6ef0b8c6e72d0800000000000000
+      internalID: -3279064134156094854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3aee4ca2ce0f580800000000000000
+      internalID: -8795270403817823288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 20
+        width: 138
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934c1157da747bed0800000000000000
+      internalID: -2398369466232486855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9f14d7b1616f3c0800000000000000
+      internalID: -4326246084721378832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be23a325bc720c80800000000000000
+      internalID: -8357980841017397577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 34
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b59be9c977f5fe0800000000000000
+      internalID: -1198107461295711360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fc874456b35c1c0800000000000000
+      internalID: -4484112547850957009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd0b8c09baa82050800000000000000
+      internalID: 5776054233858772431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0b094fde1b8ade0800000000000000
+      internalID: -1321610855064751880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e235c492b621ff0800000000000000
+      internalID: -66873219338785165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6a8b44763eabd70800000000000000
+      internalID: 9059803633083262718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd39b19551ef680800000000000000
+      internalID: -8719508356083753788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning_Arc_Large_sheet_0: -7084088761931800534
+      Lightning_Arc_Large_sheet_1: 7313374184064553998
+      Lightning_Arc_Large_sheet_10: -4524835019747283176
+      Lightning_Arc_Large_sheet_11: 8375924220638724382
+      Lightning_Arc_Large_sheet_12: 378231729887812420
+      Lightning_Arc_Large_sheet_13: -1709739324665272363
+      Lightning_Arc_Large_sheet_14: 7250048950991621250
+      Lightning_Arc_Large_sheet_15: 8053471435694182934
+      Lightning_Arc_Large_sheet_16: 2236192373777401472
+      Lightning_Arc_Large_sheet_17: -3279064134156094854
+      Lightning_Arc_Large_sheet_18: -8795270403817823288
+      Lightning_Arc_Large_sheet_19: -2398369466232486855
+      Lightning_Arc_Large_sheet_2: -8788558799347605747
+      Lightning_Arc_Large_sheet_20: -4326246084721378832
+      Lightning_Arc_Large_sheet_21: -8357980841017397577
+      Lightning_Arc_Large_sheet_22: -1198107461295711360
+      Lightning_Arc_Large_sheet_23: -4484112547850957009
+      Lightning_Arc_Large_sheet_24: 5776054233858772431
+      Lightning_Arc_Large_sheet_25: -1321610855064751880
+      Lightning_Arc_Large_sheet_26: -66873219338785165
+      Lightning_Arc_Large_sheet_27: 9059803633083262718
+      Lightning_Arc_Large_sheet_28: -8719508356083753788
+      Lightning_Arc_Large_sheet_3: 8738454046981741415
+      Lightning_Arc_Large_sheet_4: -5384177314865825226
+      Lightning_Arc_Large_sheet_5: -4386717705333533740
+      Lightning_Arc_Large_sheet_6: -9127352000942374703
+      Lightning_Arc_Large_sheet_7: 8581987221601260640
+      Lightning_Arc_Large_sheet_8: 7551809811492718921
+      Lightning_Arc_Large_sheet_9: 5865510985050127651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

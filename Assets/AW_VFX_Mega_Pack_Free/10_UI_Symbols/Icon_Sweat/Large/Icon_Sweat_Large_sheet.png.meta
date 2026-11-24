@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: ff82a1bd27881cd4abba982edb21c2b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3851674721523682964
+    second: Icon_Sweat_Large_sheet_0
+  - first:
+      213: -69124756817463318
+    second: Icon_Sweat_Large_sheet_1
+  - first:
+      213: -8836257739684822090
+    second: Icon_Sweat_Large_sheet_2
+  - first:
+      213: 4672568517113416705
+    second: Icon_Sweat_Large_sheet_3
+  - first:
+      213: 5096160520509142063
+    second: Icon_Sweat_Large_sheet_4
+  - first:
+      213: 7896391027499764828
+    second: Icon_Sweat_Large_sheet_5
+  - first:
+      213: -6446803571831210648
+    second: Icon_Sweat_Large_sheet_6
+  - first:
+      213: -3409021623073407209
+    second: Icon_Sweat_Large_sheet_7
+  - first:
+      213: -8211085335042234355
+    second: Icon_Sweat_Large_sheet_8
+  - first:
+      213: 833880487482722124
+    second: Icon_Sweat_Large_sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 13
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e45ce80c5e37530800000000000000
+      internalID: 3851674721523682964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b5b0666b6a0ff0800000000000000
+      internalID: -69124756817463318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 9
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34a4af66e4f5580800000000000000
+      internalID: -8836257739684822090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 9
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c083b5f4c48d040800000000000000
+      internalID: 4672568517113416705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2431572ef239b640800000000000000
+      internalID: 5096160520509142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c84b97dcd959d60800000000000000
+      internalID: 7896391027499764828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df74cde4a5886a0800000000000000
+      internalID: -6446803571831210648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f751545e8b0b0d0800000000000000
+      internalID: -3409021623073407209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 5
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086368546d5c0e80800000000000000
+      internalID: -8211085335042234355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sweat_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 7
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c478981a2e9829b00800000000000000
+      internalID: 833880487482722124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icon_Sweat_Large_sheet_0: 3851674721523682964
+      Icon_Sweat_Large_sheet_1: -69124756817463318
+      Icon_Sweat_Large_sheet_2: -8836257739684822090
+      Icon_Sweat_Large_sheet_3: 4672568517113416705
+      Icon_Sweat_Large_sheet_4: 5096160520509142063
+      Icon_Sweat_Large_sheet_5: 7896391027499764828
+      Icon_Sweat_Large_sheet_6: -6446803571831210648
+      Icon_Sweat_Large_sheet_7: -3409021623073407209
+      Icon_Sweat_Large_sheet_8: -8211085335042234355
+      Icon_Sweat_Large_sheet_9: 833880487482722124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

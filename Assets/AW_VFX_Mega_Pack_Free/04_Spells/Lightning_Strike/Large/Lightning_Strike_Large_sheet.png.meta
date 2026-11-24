@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: fb657401aaf20244d87880629ea8fd6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1323853424865397190
+    second: Lightning_Strike_Large_sheet_0
+  - first:
+      213: 2294175037341516176
+    second: Lightning_Strike_Large_sheet_1
+  - first:
+      213: -4604450540824001637
+    second: Lightning_Strike_Large_sheet_2
+  - first:
+      213: 16925964957418611
+    second: Lightning_Strike_Large_sheet_3
+  - first:
+      213: -5024723799090463110
+    second: Lightning_Strike_Large_sheet_4
+  - first:
+      213: -6952945313315530231
+    second: Lightning_Strike_Large_sheet_5
+  - first:
+      213: 8160595176820271760
+    second: Lightning_Strike_Large_sheet_6
+  - first:
+      213: -5570104623254144560
+    second: Lightning_Strike_Large_sheet_7
+  - first:
+      213: 4796464368155108047
+    second: Lightning_Strike_Large_sheet_8
+  - first:
+      213: -7695633386127283997
+    second: Lightning_Strike_Large_sheet_9
+  - first:
+      213: -643232270723083439
+    second: Lightning_Strike_Large_sheet_10
+  - first:
+      213: 8646475881612116282
+    second: Lightning_Strike_Large_sheet_11
+  - first:
+      213: 111826642614091503
+    second: Lightning_Strike_Large_sheet_12
+  - first:
+      213: 8300793455942681834
+    second: Lightning_Strike_Large_sheet_13
+  - first:
+      213: 4460649721080790576
+    second: Lightning_Strike_Large_sheet_14
+  - first:
+      213: -7328342591665213985
+    second: Lightning_Strike_Large_sheet_15
+  - first:
+      213: -7348257546950867168
+    second: Lightning_Strike_Large_sheet_16
+  - first:
+      213: -5856766943212889498
+    second: Lightning_Strike_Large_sheet_17
+  - first:
+      213: -861207820101969444
+    second: Lightning_Strike_Large_sheet_18
+  - first:
+      213: -1794852447043838848
+    second: Lightning_Strike_Large_sheet_19
+  - first:
+      213: 8593881116769505534
+    second: Lightning_Strike_Large_sheet_20
+  - first:
+      213: 5211137896189818704
+    second: Lightning_Strike_Large_sheet_21
+  - first:
+      213: 207086980997748447
+    second: Lightning_Strike_Large_sheet_22
+  - first:
+      213: -5240503432314253506
+    second: Lightning_Strike_Large_sheet_23
+  - first:
+      213: -2751451461133345620
+    second: Lightning_Strike_Large_sheet_24
+  - first:
+      213: -2768300629001410896
+    second: Lightning_Strike_Large_sheet_25
+  - first:
+      213: 9197426557426635184
+    second: Lightning_Strike_Large_sheet_26
+  - first:
+      213: -2903553371765334451
+    second: Lightning_Strike_Large_sheet_27
+  - first:
+      213: -2092925307844531037
+    second: Lightning_Strike_Large_sheet_28
+  - first:
+      213: 7291013490904741598
+    second: Lightning_Strike_Large_sheet_29
+  - first:
+      213: 4710484671527586415
+    second: Lightning_Strike_Large_sheet_30
+  - first:
+      213: 3868125937035478985
+    second: Lightning_Strike_Large_sheet_31
+  - first:
+      213: 732018028065197979
+    second: Lightning_Strike_Large_sheet_32
+  - first:
+      213: -8065195278172749749
+    second: Lightning_Strike_Large_sheet_33
+  - first:
+      213: -6928201397841387522
+    second: Lightning_Strike_Large_sheet_34
+  - first:
+      213: -7221986222403538553
+    second: Lightning_Strike_Large_sheet_35
+  - first:
+      213: -2926696565757559093
+    second: Lightning_Strike_Large_sheet_36
+  - first:
+      213: -4588750114811770490
+    second: Lightning_Strike_Large_sheet_37
+  - first:
+      213: -8624985528523507646
+    second: Lightning_Strike_Large_sheet_38
+  - first:
+      213: -1477067225987645859
+    second: Lightning_Strike_Large_sheet_39
+  - first:
+      213: -2672085211537057194
+    second: Lightning_Strike_Large_sheet_40
+  - first:
+      213: 8063301119539368887
+    second: Lightning_Strike_Large_sheet_41
+  - first:
+      213: 3939235206955349374
+    second: Lightning_Strike_Large_sheet_42
+  - first:
+      213: 2717466311603964349
+    second: Lightning_Strike_Large_sheet_43
+  - first:
+      213: 5951348596419912022
+    second: Lightning_Strike_Large_sheet_44
+  - first:
+      213: -7222524369503196708
+    second: Lightning_Strike_Large_sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c949c30da54f5210800000000000000
+      internalID: 1323853424865397190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0914f499a0c86df10800000000000000
+      internalID: 2294175037341516176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b938458e0a4b910c0800000000000000
+      internalID: -4604450540824001637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37484c053122c3000800000000000000
+      internalID: 16925964957418611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef2cca358944ab0800000000000000
+      internalID: -5024723799090463110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5c19631d228f90800000000000000
+      internalID: -6952945313315530231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a632e9312404170800000000000000
+      internalID: 8160595176820271760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9fc295b5303b2b0800000000000000
+      internalID: -5570104623254144560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc224b91ee6709240800000000000000
+      internalID: 4796464368155108047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82f32653e933590800000000000000
+      internalID: -7695633386127283997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1539b7368a7c217f0800000000000000
+      internalID: -643232270723083439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31097ad0047ef770800000000000000
+      internalID: 8646475881612116282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeff6d2db94d8100800000000000000
+      internalID: 111826642614091503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c95f2ba7523370800000000000000
+      internalID: 8300793455942681834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Strike_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e377ca94967ed30800000000000000
+      internalID: 4460649721080790576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 794cf506cf6970b43beb2e1c02a67703
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning_Strike_Large_sheet_0: 1323853424865397190
+      Lightning_Strike_Large_sheet_1: 2294175037341516176
+      Lightning_Strike_Large_sheet_10: -643232270723083439
+      Lightning_Strike_Large_sheet_11: 8646475881612116282
+      Lightning_Strike_Large_sheet_12: 111826642614091503
+      Lightning_Strike_Large_sheet_13: 8300793455942681834
+      Lightning_Strike_Large_sheet_14: 4460649721080790576
+      Lightning_Strike_Large_sheet_2: -4604450540824001637
+      Lightning_Strike_Large_sheet_3: 16925964957418611
+      Lightning_Strike_Large_sheet_4: -5024723799090463110
+      Lightning_Strike_Large_sheet_5: -6952945313315530231
+      Lightning_Strike_Large_sheet_6: 8160595176820271760
+      Lightning_Strike_Large_sheet_7: -5570104623254144560
+      Lightning_Strike_Large_sheet_8: 4796464368155108047
+      Lightning_Strike_Large_sheet_9: -7695633386127283997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

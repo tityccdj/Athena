@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: dbd5f53aa14b4ea4abcb551bb55ea6d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4691020067281704269
+    second: Lightning_Orb_Small_sheet_0
+  - first:
+      213: -5433600062189938178
+    second: Lightning_Orb_Small_sheet_1
+  - first:
+      213: -1983616622092304442
+    second: Lightning_Orb_Small_sheet_2
+  - first:
+      213: 4902614984032463739
+    second: Lightning_Orb_Small_sheet_3
+  - first:
+      213: -2415401382267298537
+    second: Lightning_Orb_Small_sheet_4
+  - first:
+      213: -9090210496977037061
+    second: Lightning_Orb_Small_sheet_5
+  - first:
+      213: -2170143477461850278
+    second: Lightning_Orb_Small_sheet_6
+  - first:
+      213: -8533990244057953183
+    second: Lightning_Orb_Small_sheet_7
+  - first:
+      213: 8990049323786663864
+    second: Lightning_Orb_Small_sheet_8
+  - first:
+      213: -1514185947011674811
+    second: Lightning_Orb_Small_sheet_9
+  - first:
+      213: -7598054683891543768
+    second: Lightning_Orb_Small_sheet_10
+  - first:
+      213: -3591796184346860762
+    second: Lightning_Orb_Small_sheet_11
+  - first:
+      213: -1672097933783830600
+    second: Lightning_Orb_Small_sheet_12
+  - first:
+      213: -676110114923178119
+    second: Lightning_Orb_Small_sheet_13
+  - first:
+      213: -5748961354052179342
+    second: Lightning_Orb_Small_sheet_14
+  - first:
+      213: 5108619659664222837
+    second: Lightning_Orb_Small_sheet_15
+  - first:
+      213: 4873041227921579708
+    second: Lightning_Orb_Small_sheet_16
+  - first:
+      213: 28963302763601442
+    second: Lightning_Orb_Small_sheet_17
+  - first:
+      213: -4844283422628050905
+    second: Lightning_Orb_Small_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae1775a1626eeb0800000000000000
+      internalID: -4691020067281704269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d0a92889f794b0800000000000000
+      internalID: -5433600062189938178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb0ad1137c874e0800000000000000
+      internalID: -1983616622092304442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b23c15a56990440800000000000000
+      internalID: 4902614984032463739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d58fb7d35ca7ed0800000000000000
+      internalID: -2415401382267298537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8182a07b519d180800000000000000
+      internalID: -9090210496977037061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a576142510a12e1e0800000000000000
+      internalID: -2170143477461850278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc64a861d219980800000000000000
+      internalID: -8533990244057953183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 8
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77b898a3213cc70800000000000000
+      internalID: 8990049323786663864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d0b7857e78cfae0800000000000000
+      internalID: -1514185947011674811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d6ae65894e8690800000000000000
+      internalID: -7598054683891543768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e6668660672ec0800000000000000
+      internalID: -3591796184346860762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6623d9c38bc8e0800000000000000
+      internalID: -1672097933783830600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97794f2ce69fd96f0800000000000000
+      internalID: -676110114923178119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a65489b169730b0800000000000000
+      internalID: -5748961354052179342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 8
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aecda838675e640800000000000000
+      internalID: 5108619659664222837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5916ad2580a340800000000000000
+      internalID: 4873041227921579708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 7
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1fbc68f5e66000800000000000000
+      internalID: 28963302763601442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Orb_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 7
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72801faa4e5a5ccb0800000000000000
+      internalID: -4844283422628050905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning_Orb_Small_sheet_0: -4691020067281704269
+      Lightning_Orb_Small_sheet_1: -5433600062189938178
+      Lightning_Orb_Small_sheet_10: -7598054683891543768
+      Lightning_Orb_Small_sheet_11: -3591796184346860762
+      Lightning_Orb_Small_sheet_12: -1672097933783830600
+      Lightning_Orb_Small_sheet_13: -676110114923178119
+      Lightning_Orb_Small_sheet_14: -5748961354052179342
+      Lightning_Orb_Small_sheet_15: 5108619659664222837
+      Lightning_Orb_Small_sheet_16: 4873041227921579708
+      Lightning_Orb_Small_sheet_17: 28963302763601442
+      Lightning_Orb_Small_sheet_18: -4844283422628050905
+      Lightning_Orb_Small_sheet_2: -1983616622092304442
+      Lightning_Orb_Small_sheet_3: 4902614984032463739
+      Lightning_Orb_Small_sheet_4: -2415401382267298537
+      Lightning_Orb_Small_sheet_5: -9090210496977037061
+      Lightning_Orb_Small_sheet_6: -2170143477461850278
+      Lightning_Orb_Small_sheet_7: -8533990244057953183
+      Lightning_Orb_Small_sheet_8: 8990049323786663864
+      Lightning_Orb_Small_sheet_9: -1514185947011674811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

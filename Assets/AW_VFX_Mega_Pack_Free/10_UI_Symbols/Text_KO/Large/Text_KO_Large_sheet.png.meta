@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 2ded30eecd9ae554c9e451816e1a45be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4926521198894550064
+    second: Text_KO_Large_sheet_0
+  - first:
+      213: -2970443073790262408
+    second: Text_KO_Large_sheet_1
+  - first:
+      213: 4482520571786670968
+    second: Text_KO_Large_sheet_2
+  - first:
+      213: 6841161135894905858
+    second: Text_KO_Large_sheet_3
+  - first:
+      213: -7470581581727714627
+    second: Text_KO_Large_sheet_4
+  - first:
+      213: 2606323465351645765
+    second: Text_KO_Large_sheet_5
+  - first:
+      213: 1008573490109414563
+    second: Text_KO_Large_sheet_6
+  - first:
+      213: 4786940025271870792
+    second: Text_KO_Large_sheet_7
+  - first:
+      213: -1547970395768206364
+    second: Text_KO_Large_sheet_8
+  - first:
+      213: 1681813791606243660
+    second: Text_KO_Large_sheet_9
+  - first:
+      213: 541605208967520038
+    second: Text_KO_Large_sheet_10
+  - first:
+      213: -6133155357717915568
+    second: Text_KO_Large_sheet_11
+  - first:
+      213: 3951703786895671355
+    second: Text_KO_Large_sheet_12
+  - first:
+      213: -838783343159941063
+    second: Text_KO_Large_sheet_13
+  - first:
+      213: 963043601440396034
+    second: Text_KO_Large_sheet_14
+  - first:
+      213: 2135149511395463335
+    second: Text_KO_Large_sheet_15
+  - first:
+      213: 5304103709542181885
+    second: Text_KO_Large_sheet_16
+  - first:
+      213: -626151534788783883
+    second: Text_KO_Large_sheet_17
+  - first:
+      213: -7009432278499894484
+    second: Text_KO_Large_sheet_18
+  - first:
+      213: 8047270246413141025
+    second: Text_KO_Large_sheet_19
+  - first:
+      213: -1372383894203028578
+    second: Text_KO_Large_sheet_20
+  - first:
+      213: 3404151592240489487
+    second: Text_KO_Large_sheet_21
+  - first:
+      213: 8364277192719599016
+    second: Text_KO_Large_sheet_22
+  - first:
+      213: -4909756683467463838
+    second: Text_KO_Large_sheet_23
+  - first:
+      213: -1174945598331057971
+    second: Text_KO_Large_sheet_24
+  - first:
+      213: -5847039468469902785
+    second: Text_KO_Large_sheet_25
+  - first:
+      213: 2073390062606900172
+    second: Text_KO_Large_sheet_26
+  - first:
+      213: -8668078217772602761
+    second: Text_KO_Large_sheet_27
+  - first:
+      213: 4183584191963398625
+    second: Text_KO_Large_sheet_28
+  - first:
+      213: -6660679150563297719
+    second: Text_KO_Large_sheet_29
+  - first:
+      213: -4541714707217831257
+    second: Text_KO_Large_sheet_30
+  - first:
+      213: -498612041763773958
+    second: Text_KO_Large_sheet_31
+  - first:
+      213: 2433881983491895865
+    second: Text_KO_Large_sheet_32
+  - first:
+      213: -6817255971774097231
+    second: Text_KO_Large_sheet_33
+  - first:
+      213: -4977971351589010058
+    second: Text_KO_Large_sheet_34
+  - first:
+      213: 2320761912557021129
+    second: Text_KO_Large_sheet_35
+  - first:
+      213: 1225347514994929170
+    second: Text_KO_Large_sheet_36
+  - first:
+      213: 7722680495578007981
+    second: Text_KO_Large_sheet_37
+  - first:
+      213: 1554850600884408529
+    second: Text_KO_Large_sheet_38
+  - first:
+      213: -2685029484589118463
+    second: Text_KO_Large_sheet_39
+  - first:
+      213: 300709087793491940
+    second: Text_KO_Large_sheet_40
+  - first:
+      213: -7813198737730185942
+    second: Text_KO_Large_sheet_41
+  - first:
+      213: -8701786839828831399
+    second: Text_KO_Large_sheet_42
+  - first:
+      213: -5713306363146947647
+    second: Text_KO_Large_sheet_43
+  - first:
+      213: -5880558643725530754
+    second: Text_KO_Large_sheet_44
+  - first:
+      213: 4114627701602270663
+    second: Text_KO_Large_sheet_45
+  - first:
+      213: -4923567167491847758
+    second: Text_KO_Large_sheet_46
+  - first:
+      213: -7550916105550233272
+    second: Text_KO_Large_sheet_47
+  - first:
+      213: -6418764163395143912
+    second: Text_KO_Large_sheet_48
+  - first:
+      213: -7264787643675014
+    second: Text_KO_Large_sheet_49
+  - first:
+      213: -8012087360277676601
+    second: Text_KO_Large_sheet_50
+  - first:
+      213: -1983941071850817303
+    second: Text_KO_Large_sheet_51
+  - first:
+      213: -2149289213243500036
+    second: Text_KO_Large_sheet_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d37579421b71abb0800000000000000
+      internalID: -4926521198894550064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873463133cdd6c6d0800000000000000
+      internalID: -2970443073790262408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b9bbe5bc153e30800000000000000
+      internalID: 4482520571786670968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204493c9ecfa0fe50800000000000000
+      internalID: 6841161135894905858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db23b8bd1a9235890800000000000000
+      internalID: -7470581581727714627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 15
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54acc0202658b2420800000000000000
+      internalID: 2606323465351645765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acf8dfde3c2ffd00800000000000000
+      internalID: 1008573490109414563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 15
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845ed673790ae6240800000000000000
+      internalID: 4786940025271870792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb4a656021848ae0800000000000000
+      internalID: -1547970395768206364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410b0b9bb0075710800000000000000
+      internalID: 1681813791606243660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f9209611b248700800000000000000
+      internalID: 541605208967520038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05890fe62b7a2eaa0800000000000000
+      internalID: -6133155357717915568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308b7b38a547d630800000000000000
+      internalID: 3951703786895671355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ef635efa0c54f0800000000000000
+      internalID: -838783343159941063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20351179d0b6d5d00800000000000000
+      internalID: 963043601440396034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a053190b2391ad10800000000000000
+      internalID: 2135149511395463335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe713b836fb9940800000000000000
+      internalID: 5304103709542181885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f059512f767f47f0800000000000000
+      internalID: -626151534788783883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5bd2fa7e79be90800000000000000
+      internalID: -7009432278499894484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124860127a5adaf60800000000000000
+      internalID: 8047270246413141025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9baf829e1054fce0800000000000000
+      internalID: -1372383894203028578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04231156d9fd3f20800000000000000
+      internalID: 3404151592240489487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a504fa7ac1e31470800000000000000
+      internalID: 8364277192719599016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26362543f4a0ddbb0800000000000000
+      internalID: -4909756683467463838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc881151431c1bfe0800000000000000
+      internalID: -1174945598331057971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a92615942bdea0800000000000000
+      internalID: -5847039468469902785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb5282d64926cc10800000000000000
+      internalID: 2073390062606900172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aec5059ccc4b780800000000000000
+      internalID: -8668078217772602761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10be138a31f0a30800000000000000
+      internalID: 4183584191963398625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f2d33a938093a0800000000000000
+      internalID: -6660679150563297719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa2d1d698698f0c0800000000000000
+      internalID: -4541714707217831257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af120f16df29419f0800000000000000
+      internalID: -498612041763773958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932f14bc4c2e6c120800000000000000
+      internalID: 2433881983491895865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b89e7320dd3461a0800000000000000
+      internalID: -6817255971774097231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675477e1e61baeab0800000000000000
+      internalID: -4977971351589010058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a73ed9a0053020800000000000000
+      internalID: 2320761912557021129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2ead921f410110800000000000000
+      internalID: 1225347514994929170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c3c48ef87c2b60800000000000000
+      internalID: 7722680495578007981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d094803260f39510800000000000000
+      internalID: 1554850600884408529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c8d9fd8ebdcbad0800000000000000
+      internalID: -2685029484589118463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa9a672555c2400800000000000000
+      internalID: 300709087793491940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25df06e421f19390800000000000000
+      internalID: -7813198737730185942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95365d429fa0d3780800000000000000
+      internalID: -8701786839828831399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b5a3122246b0b0800000000000000
+      internalID: -5713306363146947647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7903efe11f046ea0800000000000000
+      internalID: -5880558643725530754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 13
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3cf828181a1930800000000000000
+      internalID: 4114627701602270663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 13
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94fd15fb9fbabb0800000000000000
+      internalID: -4923567167491847758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 13
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84107e7fec1c53790800000000000000
+      internalID: -7550916105550233272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 13
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81733df5008fbe6a0800000000000000
+      internalID: -6418764163395143912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 11
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e4121d6b036eff0800000000000000
+      internalID: -7264787643675014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7045eef85fc090800000000000000
+      internalID: -8012087360277676601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e836054b10a774e0800000000000000
+      internalID: -1983941071850817303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_KO_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9da0519d03c22e0800000000000000
+      internalID: -2149289213243500036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_KO_Large_sheet_0: -4926521198894550064
+      Text_KO_Large_sheet_1: -2970443073790262408
+      Text_KO_Large_sheet_10: 541605208967520038
+      Text_KO_Large_sheet_11: -6133155357717915568
+      Text_KO_Large_sheet_12: 3951703786895671355
+      Text_KO_Large_sheet_13: -838783343159941063
+      Text_KO_Large_sheet_14: 963043601440396034
+      Text_KO_Large_sheet_15: 2135149511395463335
+      Text_KO_Large_sheet_16: 5304103709542181885
+      Text_KO_Large_sheet_17: -626151534788783883
+      Text_KO_Large_sheet_18: -7009432278499894484
+      Text_KO_Large_sheet_19: 8047270246413141025
+      Text_KO_Large_sheet_2: 4482520571786670968
+      Text_KO_Large_sheet_20: -1372383894203028578
+      Text_KO_Large_sheet_21: 3404151592240489487
+      Text_KO_Large_sheet_22: 8364277192719599016
+      Text_KO_Large_sheet_23: -4909756683467463838
+      Text_KO_Large_sheet_24: -1174945598331057971
+      Text_KO_Large_sheet_25: -5847039468469902785
+      Text_KO_Large_sheet_26: 2073390062606900172
+      Text_KO_Large_sheet_27: -8668078217772602761
+      Text_KO_Large_sheet_28: 4183584191963398625
+      Text_KO_Large_sheet_29: -6660679150563297719
+      Text_KO_Large_sheet_3: 6841161135894905858
+      Text_KO_Large_sheet_30: -4541714707217831257
+      Text_KO_Large_sheet_31: -498612041763773958
+      Text_KO_Large_sheet_32: 2433881983491895865
+      Text_KO_Large_sheet_33: -6817255971774097231
+      Text_KO_Large_sheet_34: -4977971351589010058
+      Text_KO_Large_sheet_35: 2320761912557021129
+      Text_KO_Large_sheet_36: 1225347514994929170
+      Text_KO_Large_sheet_37: 7722680495578007981
+      Text_KO_Large_sheet_38: 1554850600884408529
+      Text_KO_Large_sheet_39: -2685029484589118463
+      Text_KO_Large_sheet_4: -7470581581727714627
+      Text_KO_Large_sheet_40: 300709087793491940
+      Text_KO_Large_sheet_41: -7813198737730185942
+      Text_KO_Large_sheet_42: -8701786839828831399
+      Text_KO_Large_sheet_43: -5713306363146947647
+      Text_KO_Large_sheet_44: -5880558643725530754
+      Text_KO_Large_sheet_45: 4114627701602270663
+      Text_KO_Large_sheet_46: -4923567167491847758
+      Text_KO_Large_sheet_47: -7550916105550233272
+      Text_KO_Large_sheet_48: -6418764163395143912
+      Text_KO_Large_sheet_49: -7264787643675014
+      Text_KO_Large_sheet_5: 2606323465351645765
+      Text_KO_Large_sheet_50: -8012087360277676601
+      Text_KO_Large_sheet_51: -1983941071850817303
+      Text_KO_Large_sheet_52: -2149289213243500036
+      Text_KO_Large_sheet_6: 1008573490109414563
+      Text_KO_Large_sheet_7: 4786940025271870792
+      Text_KO_Large_sheet_8: -1547970395768206364
+      Text_KO_Large_sheet_9: 1681813791606243660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

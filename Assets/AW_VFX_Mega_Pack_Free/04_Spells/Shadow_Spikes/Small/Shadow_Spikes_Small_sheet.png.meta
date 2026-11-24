@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 10e0f62fef285404eba830753dcaf57d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2715501292584428135
+    second: Shadow_Spikes_Small_sheet_0
+  - first:
+      213: 2625323710117352810
+    second: Shadow_Spikes_Small_sheet_1
+  - first:
+      213: -5049749455352191088
+    second: Shadow_Spikes_Small_sheet_2
+  - first:
+      213: 1987995226120327202
+    second: Shadow_Spikes_Small_sheet_3
+  - first:
+      213: 1410732205259616260
+    second: Shadow_Spikes_Small_sheet_4
+  - first:
+      213: 3729643778878911956
+    second: Shadow_Spikes_Small_sheet_5
+  - first:
+      213: -4991857894466370826
+    second: Shadow_Spikes_Small_sheet_6
+  - first:
+      213: -9200819464538966294
+    second: Shadow_Spikes_Small_sheet_7
+  - first:
+      213: 2309830611787150548
+    second: Shadow_Spikes_Small_sheet_8
+  - first:
+      213: 3941938095484589405
+    second: Shadow_Spikes_Small_sheet_9
+  - first:
+      213: -7361461621454578397
+    second: Shadow_Spikes_Small_sheet_10
+  - first:
+      213: 7354595744669138417
+    second: Shadow_Spikes_Small_sheet_11
+  - first:
+      213: 462788698215063919
+    second: Shadow_Spikes_Small_sheet_12
+  - first:
+      213: 7717037566108233539
+    second: Shadow_Spikes_Small_sheet_13
+  - first:
+      213: 772617043334777808
+    second: Shadow_Spikes_Small_sheet_14
+  - first:
+      213: 5097388927967597711
+    second: Shadow_Spikes_Small_sheet_15
+  - first:
+      213: 213853106326148914
+    second: Shadow_Spikes_Small_sheet_16
+  - first:
+      213: 2345029351584676163
+    second: Shadow_Spikes_Small_sheet_17
+  - first:
+      213: 6350319872596481531
+    second: Shadow_Spikes_Small_sheet_18
+  - first:
+      213: 5815143341381736311
+    second: Shadow_Spikes_Small_sheet_19
+  - first:
+      213: 8552676711265279615
+    second: Shadow_Spikes_Small_sheet_20
+  - first:
+      213: 1092938335367584996
+    second: Shadow_Spikes_Small_sheet_21
+  - first:
+      213: 4229747241471772139
+    second: Shadow_Spikes_Small_sheet_22
+  - first:
+      213: 634014456443176847
+    second: Shadow_Spikes_Small_sheet_23
+  - first:
+      213: -2683958932532306673
+    second: Shadow_Spikes_Small_sheet_24
+  - first:
+      213: 9186933707071475238
+    second: Shadow_Spikes_Small_sheet_25
+  - first:
+      213: 8425156934989526909
+    second: Shadow_Spikes_Small_sheet_26
+  - first:
+      213: 5518168065539197813
+    second: Shadow_Spikes_Small_sheet_27
+  - first:
+      213: -8844280187839234612
+    second: Shadow_Spikes_Small_sheet_28
+  - first:
+      213: 5126169138096417723
+    second: Shadow_Spikes_Small_sheet_29
+  - first:
+      213: 677076245630380564
+    second: Shadow_Spikes_Small_sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762eb9bc9066fa520800000000000000
+      internalID: 2715501292584428135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 119
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6594f931060f6420800000000000000
+      internalID: 2625323710117352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2
+        width: 120
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a20500afabe9b0800000000000000
+      internalID: -5049749455352191088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22013141027c69b10800000000000000
+      internalID: 1987995226120327202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2
+        width: 109
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f3bf577de39310800000000000000
+      internalID: 1410732205259616260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2
+        width: 108
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b2d2a14b52c330800000000000000
+      internalID: 3729643778878911956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 34
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24a1761bb59bab0800000000000000
+      internalID: -4991857894466370826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b7ade17f105080800000000000000
+      internalID: -9200819464538966294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2
+        width: 112
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d475e214ba2e0020800000000000000
+      internalID: 2309830611787150548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5550f300d394b630800000000000000
+      internalID: 3941938095484589405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d578178a5d6d990800000000000000
+      internalID: -7361461621454578397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7a9b0dd5c01660800000000000000
+      internalID: 7354595744669138417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2
+        width: 109
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ac2b7ed72c6600800000000000000
+      internalID: 462788698215063919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 18
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fe93e97cc681b60800000000000000
+      internalID: 7717037566108233539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 18
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc16f7b13e8ba00800000000000000
+      internalID: 772617043334777808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 85
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84948d09309db640800000000000000
+      internalID: 5097388927967597711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 108
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371fa46442c7f200800000000000000
+      internalID: 213853106326148914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2
+        width: 109
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b11155c73b8020800000000000000
+      internalID: 2345029351584676163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf59738574ed02850800000000000000
+      internalID: 6350319872596481531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2
+        width: 104
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777590d1f0a83b050800000000000000
+      internalID: 5815143341381736311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 17
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e19b5a72631b670800000000000000
+      internalID: 8552676711265279615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecddf810a5ea2f00800000000000000
+      internalID: 1092938335367584996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be50d99b4b413ba30800000000000000
+      internalID: 4229747241471772139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 14
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8702caf9c87cc800800000000000000
+      internalID: 634014456443176847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ddca23299a0cad0800000000000000
+      internalID: -2683958932532306673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ece09388b8e7f70800000000000000
+      internalID: 9186933707071475238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7738fe089b2ce470800000000000000
+      internalID: 8425156934989526909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4e5d7e98749c40800000000000000
+      internalID: 5518168065539197813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd31d5370ec24580800000000000000
+      internalID: -8844280187839234612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbaec6ebafc32740800000000000000
+      internalID: 5126169138096417723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_Spikes_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a67a21245756900800000000000000
+      internalID: 677076245630380564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shadow_Spikes_Small_sheet_0: 2715501292584428135
+      Shadow_Spikes_Small_sheet_1: 2625323710117352810
+      Shadow_Spikes_Small_sheet_10: -7361461621454578397
+      Shadow_Spikes_Small_sheet_11: 7354595744669138417
+      Shadow_Spikes_Small_sheet_12: 462788698215063919
+      Shadow_Spikes_Small_sheet_13: 7717037566108233539
+      Shadow_Spikes_Small_sheet_14: 772617043334777808
+      Shadow_Spikes_Small_sheet_15: 5097388927967597711
+      Shadow_Spikes_Small_sheet_16: 213853106326148914
+      Shadow_Spikes_Small_sheet_17: 2345029351584676163
+      Shadow_Spikes_Small_sheet_18: 6350319872596481531
+      Shadow_Spikes_Small_sheet_19: 5815143341381736311
+      Shadow_Spikes_Small_sheet_2: -5049749455352191088
+      Shadow_Spikes_Small_sheet_20: 8552676711265279615
+      Shadow_Spikes_Small_sheet_21: 1092938335367584996
+      Shadow_Spikes_Small_sheet_22: 4229747241471772139
+      Shadow_Spikes_Small_sheet_23: 634014456443176847
+      Shadow_Spikes_Small_sheet_24: -2683958932532306673
+      Shadow_Spikes_Small_sheet_25: 9186933707071475238
+      Shadow_Spikes_Small_sheet_26: 8425156934989526909
+      Shadow_Spikes_Small_sheet_27: 5518168065539197813
+      Shadow_Spikes_Small_sheet_28: -8844280187839234612
+      Shadow_Spikes_Small_sheet_29: 5126169138096417723
+      Shadow_Spikes_Small_sheet_3: 1987995226120327202
+      Shadow_Spikes_Small_sheet_30: 677076245630380564
+      Shadow_Spikes_Small_sheet_4: 1410732205259616260
+      Shadow_Spikes_Small_sheet_5: 3729643778878911956
+      Shadow_Spikes_Small_sheet_6: -4991857894466370826
+      Shadow_Spikes_Small_sheet_7: -9200819464538966294
+      Shadow_Spikes_Small_sheet_8: 2309830611787150548
+      Shadow_Spikes_Small_sheet_9: 3941938095484589405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

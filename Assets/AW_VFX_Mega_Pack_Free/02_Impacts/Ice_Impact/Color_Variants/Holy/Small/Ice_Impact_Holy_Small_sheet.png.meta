@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 0b6a649648ba49142b4c5f43abebf64a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3521491649475694596
+    second: Ice_Impact_Holy_Small_sheet_0
+  - first:
+      213: 3664229784650093257
+    second: Ice_Impact_Holy_Small_sheet_1
+  - first:
+      213: -1639675344994257249
+    second: Ice_Impact_Holy_Small_sheet_2
+  - first:
+      213: -3101352556828850578
+    second: Ice_Impact_Holy_Small_sheet_3
+  - first:
+      213: -3705884743235808364
+    second: Ice_Impact_Holy_Small_sheet_4
+  - first:
+      213: -3608313344420634726
+    second: Ice_Impact_Holy_Small_sheet_5
+  - first:
+      213: -919536257419155383
+    second: Ice_Impact_Holy_Small_sheet_6
+  - first:
+      213: 3822286222057724523
+    second: Ice_Impact_Holy_Small_sheet_7
+  - first:
+      213: -3374089346022095238
+    second: Ice_Impact_Holy_Small_sheet_8
+  - first:
+      213: 288456679531184427
+    second: Ice_Impact_Holy_Small_sheet_9
+  - first:
+      213: 5979652738911294325
+    second: Ice_Impact_Holy_Small_sheet_10
+  - first:
+      213: -2556534720305223190
+    second: Ice_Impact_Holy_Small_sheet_11
+  - first:
+      213: -3336103447438993957
+    second: Ice_Impact_Holy_Small_sheet_12
+  - first:
+      213: -6390291899581926044
+    second: Ice_Impact_Holy_Small_sheet_13
+  - first:
+      213: -1851836814377744093
+    second: Ice_Impact_Holy_Small_sheet_14
+  - first:
+      213: -5873048159757671721
+    second: Ice_Impact_Holy_Small_sheet_15
+  - first:
+      213: -8020155595746583278
+    second: Ice_Impact_Holy_Small_sheet_16
+  - first:
+      213: -1607000309673211637
+    second: Ice_Impact_Holy_Small_sheet_17
+  - first:
+      213: 1128613279332560782
+    second: Ice_Impact_Holy_Small_sheet_18
+  - first:
+      213: 7579042994456088915
+    second: Ice_Impact_Holy_Small_sheet_19
+  - first:
+      213: 3174653371861056601
+    second: Ice_Impact_Holy_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff2f71a006212fc0800000000000000
+      internalID: -3521491649475694596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c299714395f9d230800000000000000
+      internalID: 3664229784650093257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b6aa06f3be39e0800000000000000
+      internalID: -1639675344994257249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6687fef748c5f4d0800000000000000
+      internalID: -3101352556828850578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493d3ece57d029cc0800000000000000
+      internalID: -3705884743235808364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f91838122bcedc0800000000000000
+      internalID: -3608313344420634726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 24
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948607255a62d33f0800000000000000
+      internalID: -919536257419155383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ade9f411d7b0530800000000000000
+      internalID: 3822286222057724523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a764ce1dd93dc21d0800000000000000
+      internalID: -3374089346022095238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b218b8c52ddc00400800000000000000
+      internalID: 288456679531184427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573dff60c7efbf250800000000000000
+      internalID: 5979652738911294325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 27
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9214c873d558cd0800000000000000
+      internalID: -2556534720305223190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 24
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd551790797c3b1d0800000000000000
+      internalID: -3336103447438993957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fc52ef5f1157a0800000000000000
+      internalID: -6390291899581926044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32906019a34fc46e0800000000000000
+      internalID: -1851836814377744093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2e1e0c0ddbe7ea0800000000000000
+      internalID: -5873048159757671721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd9207afea2b090800000000000000
+      internalID: -8020155595746583278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b094cfb8bb9c2b9e0800000000000000
+      internalID: -1607000309673211637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe7634cc3a9af00800000000000000
+      internalID: 1128613279332560782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351d7fda27b2e2960800000000000000
+      internalID: 7579042994456088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Holy_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c36c2fb62ae0c20800000000000000
+      internalID: 3174653371861056601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Impact_Holy_Small_sheet_0: -3521491649475694596
+      Ice_Impact_Holy_Small_sheet_1: 3664229784650093257
+      Ice_Impact_Holy_Small_sheet_10: 5979652738911294325
+      Ice_Impact_Holy_Small_sheet_11: -2556534720305223190
+      Ice_Impact_Holy_Small_sheet_12: -3336103447438993957
+      Ice_Impact_Holy_Small_sheet_13: -6390291899581926044
+      Ice_Impact_Holy_Small_sheet_14: -1851836814377744093
+      Ice_Impact_Holy_Small_sheet_15: -5873048159757671721
+      Ice_Impact_Holy_Small_sheet_16: -8020155595746583278
+      Ice_Impact_Holy_Small_sheet_17: -1607000309673211637
+      Ice_Impact_Holy_Small_sheet_18: 1128613279332560782
+      Ice_Impact_Holy_Small_sheet_19: 7579042994456088915
+      Ice_Impact_Holy_Small_sheet_2: -1639675344994257249
+      Ice_Impact_Holy_Small_sheet_20: 3174653371861056601
+      Ice_Impact_Holy_Small_sheet_3: -3101352556828850578
+      Ice_Impact_Holy_Small_sheet_4: -3705884743235808364
+      Ice_Impact_Holy_Small_sheet_5: -3608313344420634726
+      Ice_Impact_Holy_Small_sheet_6: -919536257419155383
+      Ice_Impact_Holy_Small_sheet_7: 3822286222057724523
+      Ice_Impact_Holy_Small_sheet_8: -3374089346022095238
+      Ice_Impact_Holy_Small_sheet_9: 288456679531184427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

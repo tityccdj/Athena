@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: c82f3a61e4b4cde4b8811a8fbaf58330
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7196151855169610287
+    second: Hit_Blunt_Frost_Small_sheet_0
+  - first:
+      213: -9043762860745960578
+    second: Hit_Blunt_Frost_Small_sheet_1
+  - first:
+      213: 768211576359222019
+    second: Hit_Blunt_Frost_Small_sheet_2
+  - first:
+      213: 5116265176422767275
+    second: Hit_Blunt_Frost_Small_sheet_3
+  - first:
+      213: 703542749463625837
+    second: Hit_Blunt_Frost_Small_sheet_4
+  - first:
+      213: 8462253348826495655
+    second: Hit_Blunt_Frost_Small_sheet_5
+  - first:
+      213: -863637320855889614
+    second: Hit_Blunt_Frost_Small_sheet_6
+  - first:
+      213: -8496318347731556334
+    second: Hit_Blunt_Frost_Small_sheet_7
+  - first:
+      213: -371771650055774119
+    second: Hit_Blunt_Frost_Small_sheet_8
+  - first:
+      213: 3724048393685190399
+    second: Hit_Blunt_Frost_Small_sheet_9
+  - first:
+      213: 9092846820618828406
+    second: Hit_Blunt_Frost_Small_sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd8dab302222c90800000000000000
+      internalID: -7196151855169610287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 15
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73dd5418991e7280800000000000000
+      internalID: -9043762860745960578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfb39cb5c39aa00800000000000000
+      internalID: 768211576359222019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa51612210a00740800000000000000
+      internalID: 5116265176422767275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c412376c73c900800000000000000
+      internalID: 703542749463625837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab928f596ff6570800000000000000
+      internalID: 8462253348826495655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395d93be6eb304f0800000000000000
+      internalID: -863637320855889614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a3d86a73071a80800000000000000
+      internalID: -8496318347731556334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 17
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506ddc67a337daf0800000000000000
+      internalID: -371771650055774119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff648ff784a7ea330800000000000000
+      internalID: 3724048393685190399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a7604e108403e70800000000000000
+      internalID: 9092846820618828406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Frost_Small_sheet_0: -7196151855169610287
+      Hit_Blunt_Frost_Small_sheet_1: -9043762860745960578
+      Hit_Blunt_Frost_Small_sheet_10: 9092846820618828406
+      Hit_Blunt_Frost_Small_sheet_2: 768211576359222019
+      Hit_Blunt_Frost_Small_sheet_3: 5116265176422767275
+      Hit_Blunt_Frost_Small_sheet_4: 703542749463625837
+      Hit_Blunt_Frost_Small_sheet_5: 8462253348826495655
+      Hit_Blunt_Frost_Small_sheet_6: -863637320855889614
+      Hit_Blunt_Frost_Small_sheet_7: -8496318347731556334
+      Hit_Blunt_Frost_Small_sheet_8: -371771650055774119
+      Hit_Blunt_Frost_Small_sheet_9: 3724048393685190399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

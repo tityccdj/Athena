@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: ed40bf1d6af7d084788a2fc8bd2095b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3102972635353979170
+    second: Text_LevelUp_Small_sheet_0
+  - first:
+      213: 2778595919196475551
+    second: Text_LevelUp_Small_sheet_1
+  - first:
+      213: -217056231541223924
+    second: Text_LevelUp_Small_sheet_2
+  - first:
+      213: -6485601748299310654
+    second: Text_LevelUp_Small_sheet_3
+  - first:
+      213: 4289233118189926215
+    second: Text_LevelUp_Small_sheet_4
+  - first:
+      213: 3055586853183050415
+    second: Text_LevelUp_Small_sheet_5
+  - first:
+      213: -281336324313950096
+    second: Text_LevelUp_Small_sheet_6
+  - first:
+      213: -2501268939597736985
+    second: Text_LevelUp_Small_sheet_7
+  - first:
+      213: -8065170570179204098
+    second: Text_LevelUp_Small_sheet_8
+  - first:
+      213: -1527152343255305038
+    second: Text_LevelUp_Small_sheet_9
+  - first:
+      213: -5165008341796116966
+    second: Text_LevelUp_Small_sheet_10
+  - first:
+      213: -8031764709588043537
+    second: Text_LevelUp_Small_sheet_11
+  - first:
+      213: -541467445101172266
+    second: Text_LevelUp_Small_sheet_12
+  - first:
+      213: 7496666368562066983
+    second: Text_LevelUp_Small_sheet_13
+  - first:
+      213: 438796561031779803
+    second: Text_LevelUp_Small_sheet_14
+  - first:
+      213: 2197294303583326052
+    second: Text_LevelUp_Small_sheet_15
+  - first:
+      213: 5412454787245995328
+    second: Text_LevelUp_Small_sheet_16
+  - first:
+      213: 1142208055862064576
+    second: Text_LevelUp_Small_sheet_17
+  - first:
+      213: 7170700020498968204
+    second: Text_LevelUp_Small_sheet_18
+  - first:
+      213: -6376474991463757590
+    second: Text_LevelUp_Small_sheet_19
+  - first:
+      213: 7986420187620991167
+    second: Text_LevelUp_Small_sheet_20
+  - first:
+      213: -2956618385316752184
+    second: Text_LevelUp_Small_sheet_21
+  - first:
+      213: -1459893512902142864
+    second: Text_LevelUp_Small_sheet_22
+  - first:
+      213: 7376432918951420938
+    second: Text_LevelUp_Small_sheet_23
+  - first:
+      213: 3627532801727237584
+    second: Text_LevelUp_Small_sheet_24
+  - first:
+      213: -5641791016697180704
+    second: Text_LevelUp_Small_sheet_25
+  - first:
+      213: -4080658814569351263
+    second: Text_LevelUp_Small_sheet_26
+  - first:
+      213: 4148178187741779847
+    second: Text_LevelUp_Small_sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e7f114d600f4d0800000000000000
+      internalID: -3102972635353979170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f905e02544e8f8620800000000000000
+      internalID: 2778595919196475551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e43b6e18cdcfcf0800000000000000
+      internalID: -217056231541223924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c997f572938ef5a0800000000000000
+      internalID: -6485601748299310654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7473d80bbca668b30800000000000000
+      internalID: 4289233118189926215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 6
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa25454cd00a76a20800000000000000
+      internalID: 3055586853183050415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0785ad68a1e781cf0800000000000000
+      internalID: -281336324313950096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e31f87d625b94dd0800000000000000
+      internalID: -2501268939597736985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba887f812c21090800000000000000
+      internalID: -8065170570179204098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bc56f8077ecae0800000000000000
+      internalID: -1527152343255305038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16205d47443258b0800000000000000
+      internalID: -5165008341796116966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87c7dfc80798090800000000000000
+      internalID: -8031764709588043537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96e4d3a325c78f0800000000000000
+      internalID: -541467445101172266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72672c9d752890860800000000000000
+      internalID: 7496666368562066983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd556fcb52be61600800000000000000
+      internalID: 438796561031779803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc210078b5e7e10800000000000000
+      internalID: 2197294303583326052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045f8acd3f6ec1b40800000000000000
+      internalID: 5412454787245995328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c57f35dc20f9df00800000000000000
+      internalID: 1142208055862064576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e2ab83da1738360800000000000000
+      internalID: 7170700020498968204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae804ae77c53287a0800000000000000
+      internalID: -6376474991463757590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb06826c8d675de60800000000000000
+      internalID: 7986420187620991167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45ece4e3bf7f6d0800000000000000
+      internalID: -2956618385316752184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741299b59a6dbbe0800000000000000
+      internalID: -1459893512902142864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e89368aa5e5660800000000000000
+      internalID: 7376432918951420938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 6
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd870a1dd5975230800000000000000
+      internalID: 3627532801727237584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 6
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed46c836f454b1b0800000000000000
+      internalID: -5641791016697180704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 4
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f60cad669e57c0800000000000000
+      internalID: -4080658814569351263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_LevelUp_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 4
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7875f51751a419930800000000000000
+      internalID: 4148178187741779847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_LevelUp_Small_sheet_0: -3102972635353979170
+      Text_LevelUp_Small_sheet_1: 2778595919196475551
+      Text_LevelUp_Small_sheet_10: -5165008341796116966
+      Text_LevelUp_Small_sheet_11: -8031764709588043537
+      Text_LevelUp_Small_sheet_12: -541467445101172266
+      Text_LevelUp_Small_sheet_13: 7496666368562066983
+      Text_LevelUp_Small_sheet_14: 438796561031779803
+      Text_LevelUp_Small_sheet_15: 2197294303583326052
+      Text_LevelUp_Small_sheet_16: 5412454787245995328
+      Text_LevelUp_Small_sheet_17: 1142208055862064576
+      Text_LevelUp_Small_sheet_18: 7170700020498968204
+      Text_LevelUp_Small_sheet_19: -6376474991463757590
+      Text_LevelUp_Small_sheet_2: -217056231541223924
+      Text_LevelUp_Small_sheet_20: 7986420187620991167
+      Text_LevelUp_Small_sheet_21: -2956618385316752184
+      Text_LevelUp_Small_sheet_22: -1459893512902142864
+      Text_LevelUp_Small_sheet_23: 7376432918951420938
+      Text_LevelUp_Small_sheet_24: 3627532801727237584
+      Text_LevelUp_Small_sheet_25: -5641791016697180704
+      Text_LevelUp_Small_sheet_26: -4080658814569351263
+      Text_LevelUp_Small_sheet_27: 4148178187741779847
+      Text_LevelUp_Small_sheet_3: -6485601748299310654
+      Text_LevelUp_Small_sheet_4: 4289233118189926215
+      Text_LevelUp_Small_sheet_5: 3055586853183050415
+      Text_LevelUp_Small_sheet_6: -281336324313950096
+      Text_LevelUp_Small_sheet_7: -2501268939597736985
+      Text_LevelUp_Small_sheet_8: -8065170570179204098
+      Text_LevelUp_Small_sheet_9: -1527152343255305038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

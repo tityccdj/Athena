@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 7ecdb2566c1e5df43a880ce2ae3e8009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6764623900411727725
+    second: Hit_Spark_Medium_Frost_Large_sheet_0
+  - first:
+      213: -7930585844715583660
+    second: Hit_Spark_Medium_Frost_Large_sheet_1
+  - first:
+      213: -6111997711864921774
+    second: Hit_Spark_Medium_Frost_Large_sheet_2
+  - first:
+      213: 2987118072973836693
+    second: Hit_Spark_Medium_Frost_Large_sheet_3
+  - first:
+      213: -4256350474752571259
+    second: Hit_Spark_Medium_Frost_Large_sheet_4
+  - first:
+      213: 5862420118580838392
+    second: Hit_Spark_Medium_Frost_Large_sheet_5
+  - first:
+      213: -844679991525475781
+    second: Hit_Spark_Medium_Frost_Large_sheet_6
+  - first:
+      213: 605578412541214304
+    second: Hit_Spark_Medium_Frost_Large_sheet_7
+  - first:
+      213: -8958987125432222427
+    second: Hit_Spark_Medium_Frost_Large_sheet_8
+  - first:
+      213: -632200840865596483
+    second: Hit_Spark_Medium_Frost_Large_sheet_9
+  - first:
+      213: 4182631877677060232
+    second: Hit_Spark_Medium_Frost_Large_sheet_10
+  - first:
+      213: 7337577230791456795
+    second: Hit_Spark_Medium_Frost_Large_sheet_11
+  - first:
+      213: 4151637021109386547
+    second: Hit_Spark_Medium_Frost_Large_sheet_12
+  - first:
+      213: 366575544986282744
+    second: Hit_Spark_Medium_Frost_Large_sheet_13
+  - first:
+      213: 4579787451201238660
+    second: Hit_Spark_Medium_Frost_Large_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f882fc895c0ed50800000000000000
+      internalID: 6764623900411727725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578cf83136e0f190800000000000000
+      internalID: -7930585844715583660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518a4cb672dd2ba0800000000000000
+      internalID: -6111997711864921774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59141c99f00647920800000000000000
+      internalID: 2987118072973836693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588cec85bc76ee4c0800000000000000
+      internalID: -4256350474752571259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff3d1499008b5150800000000000000
+      internalID: 5862420118580838392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7e34e5081744f0800000000000000
+      internalID: -844679991525475781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef9239b52776800800000000000000
+      internalID: 605578412541214304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d70591da84ba380800000000000000
+      internalID: -8958987125432222427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbb08d4fa8f937f0800000000000000
+      internalID: -632200840865596483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8809a2f3881bb0a30800000000000000
+      internalID: 4182631877677060232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b1518d9f44d560800000000000000
+      internalID: 7337577230791456795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df597dfd39d9930800000000000000
+      internalID: 4151637021109386547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faa0461486561500800000000000000
+      internalID: 366575544986282744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Medium_Frost_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48634af0c6cae8f30800000000000000
+      internalID: 4579787451201238660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Spark_Medium_Frost_Large_sheet_0: 6764623900411727725
+      Hit_Spark_Medium_Frost_Large_sheet_1: -7930585844715583660
+      Hit_Spark_Medium_Frost_Large_sheet_10: 4182631877677060232
+      Hit_Spark_Medium_Frost_Large_sheet_11: 7337577230791456795
+      Hit_Spark_Medium_Frost_Large_sheet_12: 4151637021109386547
+      Hit_Spark_Medium_Frost_Large_sheet_13: 366575544986282744
+      Hit_Spark_Medium_Frost_Large_sheet_14: 4579787451201238660
+      Hit_Spark_Medium_Frost_Large_sheet_2: -6111997711864921774
+      Hit_Spark_Medium_Frost_Large_sheet_3: 2987118072973836693
+      Hit_Spark_Medium_Frost_Large_sheet_4: -4256350474752571259
+      Hit_Spark_Medium_Frost_Large_sheet_5: 5862420118580838392
+      Hit_Spark_Medium_Frost_Large_sheet_6: -844679991525475781
+      Hit_Spark_Medium_Frost_Large_sheet_7: 605578412541214304
+      Hit_Spark_Medium_Frost_Large_sheet_8: -8958987125432222427
+      Hit_Spark_Medium_Frost_Large_sheet_9: -632200840865596483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

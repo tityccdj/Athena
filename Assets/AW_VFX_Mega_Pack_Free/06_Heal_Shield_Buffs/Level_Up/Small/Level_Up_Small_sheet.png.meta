@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: fe1a5c74e0345784abeac865d8ce232e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3444209005063680661
+    second: Level_Up_Small_sheet_0
+  - first:
+      213: -2031430745455100156
+    second: Level_Up_Small_sheet_1
+  - first:
+      213: -5843886893762901602
+    second: Level_Up_Small_sheet_2
+  - first:
+      213: 989017591790953330
+    second: Level_Up_Small_sheet_3
+  - first:
+      213: -5832926360530963741
+    second: Level_Up_Small_sheet_4
+  - first:
+      213: -6247940759862863730
+    second: Level_Up_Small_sheet_5
+  - first:
+      213: -695927246855318529
+    second: Level_Up_Small_sheet_6
+  - first:
+      213: -296184291910916664
+    second: Level_Up_Small_sheet_7
+  - first:
+      213: 1067378905513980138
+    second: Level_Up_Small_sheet_8
+  - first:
+      213: -4847567424586648587
+    second: Level_Up_Small_sheet_9
+  - first:
+      213: 2392496671048324882
+    second: Level_Up_Small_sheet_10
+  - first:
+      213: 7981077001841932502
+    second: Level_Up_Small_sheet_11
+  - first:
+      213: 1771309936378560005
+    second: Level_Up_Small_sheet_12
+  - first:
+      213: 7097097343206228147
+    second: Level_Up_Small_sheet_13
+  - first:
+      213: 102099951257454488
+    second: Level_Up_Small_sheet_14
+  - first:
+      213: -8286397074694913726
+    second: Level_Up_Small_sheet_15
+  - first:
+      213: -3976906622472168771
+    second: Level_Up_Small_sheet_16
+  - first:
+      213: 4142491527928803374
+    second: Level_Up_Small_sheet_17
+  - first:
+      213: -1123556050038376454
+    second: Level_Up_Small_sheet_18
+  - first:
+      213: 934672733274329617
+    second: Level_Up_Small_sheet_19
+  - first:
+      213: 1933275312201955133
+    second: Level_Up_Small_sheet_20
+  - first:
+      213: -3188461869818412717
+    second: Level_Up_Small_sheet_21
+  - first:
+      213: -5957236352924302746
+    second: Level_Up_Small_sheet_22
+  - first:
+      213: 6476392021990074926
+    second: Level_Up_Small_sheet_23
+  - first:
+      213: 8415958175398549975
+    second: Level_Up_Small_sheet_24
+  - first:
+      213: -4286027277587546573
+    second: Level_Up_Small_sheet_25
+  - first:
+      213: 5060118491484957471
+    second: Level_Up_Small_sheet_26
+  - first:
+      213: 5352536106181820463
+    second: Level_Up_Small_sheet_27
+  - first:
+      213: 7495060167158714131
+    second: Level_Up_Small_sheet_28
+  - first:
+      213: -1444979611922956609
+    second: Level_Up_Small_sheet_29
+  - first:
+      213: -7665884900969715665
+    second: Level_Up_Small_sheet_30
+  - first:
+      213: -2201659598442247989
+    second: Level_Up_Small_sheet_31
+  - first:
+      213: -3099986426964565851
+    second: Level_Up_Small_sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592b50787d94ccf20800000000000000
+      internalID: 3444209005063680661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f775fff78eec3e0800000000000000
+      internalID: -2031430745455100156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9983b515d756eea0800000000000000
+      internalID: -5843886893762901602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273ef4b7242b9bd00800000000000000
+      internalID: 989017591790953330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e23a8711684d0fa0800000000000000
+      internalID: -5832926360530963741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8890be5bfada49a0800000000000000
+      internalID: -6247940759862863730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35cad2bd19756f0800000000000000
+      internalID: -695927246855318529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5699ca4fdb3ebf0800000000000000
+      internalID: -296184291910916664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f7e7957710de00800000000000000
+      internalID: 1067378905513980138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f1c06c1bf9bcb0800000000000000
+      internalID: -4847567424586648587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d32cdb0bd33120800000000000000
+      internalID: 2392496671048324882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f3d36f3b72ce60800000000000000
+      internalID: 7981077001841932502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 5
+        width: 33
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eb6f89005f49810800000000000000
+      internalID: 1771309936378560005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 5
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b00d2e7e64fd7260800000000000000
+      internalID: 7097097343206228147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897094e5d5bba6100800000000000000
+      internalID: 102099951257454488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 20
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24149f683cdc00d80800000000000000
+      internalID: -8286397074694913726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbad5a65f703fc8c0800000000000000
+      internalID: -3976906622472168771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f247c8161d7930800000000000000
+      internalID: 4142491527928803374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 14
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7b830b9b35860f0800000000000000
+      internalID: -1123556050038376454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125f0816ef98fc00800000000000000
+      internalID: 934672733274329617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3774dc47af54da10800000000000000
+      internalID: 1933275312201955133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351889592de40c3d0800000000000000
+      internalID: -3188461869818412717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 11
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66247ec8915a35da0800000000000000
+      internalID: -5957236352924302746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a64e80b34c0e950800000000000000
+      internalID: 6476392021990074926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9dc21fe5d7bc470800000000000000
+      internalID: 8415958175398549975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 19
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e72cd36e8f484c0800000000000000
+      internalID: -4286027277587546573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba85655f6293640800000000000000
+      internalID: 5060118491484957471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 5
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f208b68ca37084a40800000000000000
+      internalID: 5352536106181820463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fcca1f28dc30860800000000000000
+      internalID: 7495060167158714131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe76a3e2b662fbe0800000000000000
+      internalID: -1444979611922956609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f286ba45c4e4d9590800000000000000
+      internalID: -7665884900969715665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8458692422271e0800000000000000
+      internalID: -2201659598442247989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Up_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ae34e4c2aaf4d0800000000000000
+      internalID: -3099986426964565851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level_Up_Small_sheet_0: 3444209005063680661
+      Level_Up_Small_sheet_1: -2031430745455100156
+      Level_Up_Small_sheet_10: 2392496671048324882
+      Level_Up_Small_sheet_11: 7981077001841932502
+      Level_Up_Small_sheet_12: 1771309936378560005
+      Level_Up_Small_sheet_13: 7097097343206228147
+      Level_Up_Small_sheet_14: 102099951257454488
+      Level_Up_Small_sheet_15: -8286397074694913726
+      Level_Up_Small_sheet_16: -3976906622472168771
+      Level_Up_Small_sheet_17: 4142491527928803374
+      Level_Up_Small_sheet_18: -1123556050038376454
+      Level_Up_Small_sheet_19: 934672733274329617
+      Level_Up_Small_sheet_2: -5843886893762901602
+      Level_Up_Small_sheet_20: 1933275312201955133
+      Level_Up_Small_sheet_21: -3188461869818412717
+      Level_Up_Small_sheet_22: -5957236352924302746
+      Level_Up_Small_sheet_23: 6476392021990074926
+      Level_Up_Small_sheet_24: 8415958175398549975
+      Level_Up_Small_sheet_25: -4286027277587546573
+      Level_Up_Small_sheet_26: 5060118491484957471
+      Level_Up_Small_sheet_27: 5352536106181820463
+      Level_Up_Small_sheet_28: 7495060167158714131
+      Level_Up_Small_sheet_29: -1444979611922956609
+      Level_Up_Small_sheet_3: 989017591790953330
+      Level_Up_Small_sheet_30: -7665884900969715665
+      Level_Up_Small_sheet_31: -2201659598442247989
+      Level_Up_Small_sheet_32: -3099986426964565851
+      Level_Up_Small_sheet_4: -5832926360530963741
+      Level_Up_Small_sheet_5: -6247940759862863730
+      Level_Up_Small_sheet_6: -695927246855318529
+      Level_Up_Small_sheet_7: -296184291910916664
+      Level_Up_Small_sheet_8: 1067378905513980138
+      Level_Up_Small_sheet_9: -4847567424586648587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

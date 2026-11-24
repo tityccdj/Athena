@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3aa135c0861d3f44c99666a02bfa15b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1737842217439023371
+    second: Hit_Blunt_Large_sheet_0
+  - first:
+      213: 4095482722157788665
+    second: Hit_Blunt_Large_sheet_1
+  - first:
+      213: -2184343507249008566
+    second: Hit_Blunt_Large_sheet_2
+  - first:
+      213: 4782380463100605879
+    second: Hit_Blunt_Large_sheet_3
+  - first:
+      213: 1372258310356101362
+    second: Hit_Blunt_Large_sheet_4
+  - first:
+      213: -4625823519161133268
+    second: Hit_Blunt_Large_sheet_5
+  - first:
+      213: -2965396353179468809
+    second: Hit_Blunt_Large_sheet_6
+  - first:
+      213: -607131898456571991
+    second: Hit_Blunt_Large_sheet_7
+  - first:
+      213: -1429391067463642146
+    second: Hit_Blunt_Large_sheet_8
+  - first:
+      213: -2213311251865788676
+    second: Hit_Blunt_Large_sheet_9
+  - first:
+      213: 2924672192767186395
+    second: Hit_Blunt_Large_sheet_10
+  - first:
+      213: 8919145691776952267
+    second: Hit_Blunt_Large_sheet_11
+  - first:
+      213: -692915540929526460
+    second: Hit_Blunt_Large_sheet_12
+  - first:
+      213: 3271701847405304448
+    second: Hit_Blunt_Large_sheet_13
+  - first:
+      213: 4646868815276076455
+    second: Hit_Blunt_Large_sheet_14
+  - first:
+      213: -5278937640319862663
+    second: Hit_Blunt_Large_sheet_15
+  - first:
+      213: 1494856655161202697
+    second: Hit_Blunt_Large_sheet_16
+  - first:
+      213: -4390454440696938998
+    second: Hit_Blunt_Large_sheet_17
+  - first:
+      213: -1045205404200251258
+    second: Hit_Blunt_Large_sheet_18
+  - first:
+      213: 5274430816828470392
+    second: Hit_Blunt_Large_sheet_19
+  - first:
+      213: 3873422690762518340
+    second: Hit_Blunt_Large_sheet_20
+  - first:
+      213: 7311821938418156978
+    second: Hit_Blunt_Large_sheet_21
+  - first:
+      213: 4555614129120130171
+    second: Hit_Blunt_Large_sheet_22
+  - first:
+      213: 7532351576231507181
+    second: Hit_Blunt_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feaed1f5b1f1e7e0800000000000000
+      internalID: -1737842217439023371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf6f546d316d830800000000000000
+      internalID: 4095482722157788665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40fdfe3727afa1e0800000000000000
+      internalID: -2184343507249008566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b531eb61bd6e5240800000000000000
+      internalID: 4782380463100605879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f86ad8a9ad3b0310800000000000000
+      internalID: 1372258310356101362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27d0ca9406cdcfb0800000000000000
+      internalID: -4625823519161133268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbbf766abbc8d6d0800000000000000
+      internalID: -2965396353179468809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afffac41c80397f0800000000000000
+      internalID: -607131898456571991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 23
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed396bab568c92ce0800000000000000
+      internalID: -1429391067463642146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe1a2f942db841e0800000000000000
+      internalID: -2213311251865788676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d95e1dd5869820800000000000000
+      internalID: 2924672192767186395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7225240cb27cb70800000000000000
+      internalID: 8919145691776952267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4454c8b9cf44266f0800000000000000
+      internalID: -692915540929526460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1599fe7b676d20800000000000000
+      internalID: 3271701847405304448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adee5c319efc7040800000000000000
+      internalID: 4646868815276076455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978bb456f227db6b0800000000000000
+      internalID: -5278937640319862663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081301353cceb410800000000000000
+      internalID: 1494856655161202697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef8b3a2f8f113c0800000000000000
+      internalID: -4390454440696938998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 36
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680535df83fae71f0800000000000000
+      internalID: -1045205404200251258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 36
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743f6df1ea823940800000000000000
+      internalID: 5274430816828470392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f66db3a6921c530800000000000000
+      internalID: 3873422690762518340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b58254305fc87560800000000000000
+      internalID: 7311821938418156978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b4fbe9eac83f30800000000000000
+      internalID: 4555614129120130171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4f1a8b9d9488860800000000000000
+      internalID: 7532351576231507181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Large_sheet_0: -1737842217439023371
+      Hit_Blunt_Large_sheet_1: 4095482722157788665
+      Hit_Blunt_Large_sheet_10: 2924672192767186395
+      Hit_Blunt_Large_sheet_11: 8919145691776952267
+      Hit_Blunt_Large_sheet_12: -692915540929526460
+      Hit_Blunt_Large_sheet_13: 3271701847405304448
+      Hit_Blunt_Large_sheet_14: 4646868815276076455
+      Hit_Blunt_Large_sheet_15: -5278937640319862663
+      Hit_Blunt_Large_sheet_16: 1494856655161202697
+      Hit_Blunt_Large_sheet_17: -4390454440696938998
+      Hit_Blunt_Large_sheet_18: -1045205404200251258
+      Hit_Blunt_Large_sheet_19: 5274430816828470392
+      Hit_Blunt_Large_sheet_2: -2184343507249008566
+      Hit_Blunt_Large_sheet_20: 3873422690762518340
+      Hit_Blunt_Large_sheet_21: 7311821938418156978
+      Hit_Blunt_Large_sheet_22: 4555614129120130171
+      Hit_Blunt_Large_sheet_23: 7532351576231507181
+      Hit_Blunt_Large_sheet_3: 4782380463100605879
+      Hit_Blunt_Large_sheet_4: 1372258310356101362
+      Hit_Blunt_Large_sheet_5: -4625823519161133268
+      Hit_Blunt_Large_sheet_6: -2965396353179468809
+      Hit_Blunt_Large_sheet_7: -607131898456571991
+      Hit_Blunt_Large_sheet_8: -1429391067463642146
+      Hit_Blunt_Large_sheet_9: -2213311251865788676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

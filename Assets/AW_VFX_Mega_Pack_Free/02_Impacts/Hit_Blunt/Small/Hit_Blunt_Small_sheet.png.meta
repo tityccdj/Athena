@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 24b2db1b9e5879d418ac7c317064b2a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7061429729973671067
+    second: Hit_Blunt_Small_sheet_0
+  - first:
+      213: 4328550269502348748
+    second: Hit_Blunt_Small_sheet_1
+  - first:
+      213: -5741615238311963958
+    second: Hit_Blunt_Small_sheet_2
+  - first:
+      213: -5760526993767722772
+    second: Hit_Blunt_Small_sheet_3
+  - first:
+      213: -603875529840174231
+    second: Hit_Blunt_Small_sheet_4
+  - first:
+      213: -1475533626873553738
+    second: Hit_Blunt_Small_sheet_5
+  - first:
+      213: 7324380108219797740
+    second: Hit_Blunt_Small_sheet_6
+  - first:
+      213: 8629585772670011162
+    second: Hit_Blunt_Small_sheet_7
+  - first:
+      213: -9119842821174730123
+    second: Hit_Blunt_Small_sheet_8
+  - first:
+      213: -8421701618249725876
+    second: Hit_Blunt_Small_sheet_9
+  - first:
+      213: -6638472321200170536
+    second: Hit_Blunt_Small_sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9496752dec3ff160800000000000000
+      internalID: 7061429729973671067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 15
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccddb165989121c30800000000000000
+      internalID: 4328550269502348748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac212737c5fa150b0800000000000000
+      internalID: -5741615238311963958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce01d61483f7e00b0800000000000000
+      internalID: -5760526993767722772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b5353b76a9e97f0800000000000000
+      internalID: -603875529840174231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcde0cebf9d58be0800000000000000
+      internalID: -1475533626873553738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0d066f6ec65a560800000000000000
+      internalID: 7324380108219797740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c2cae98272c770800000000000000
+      internalID: 8629585772670011162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 17
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572eb7ce54fcf6180800000000000000
+      internalID: -9119842821174730123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4884ef8ffa102b80800000000000000
+      internalID: -8421701618249725876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d99398986fd3a0800000000000000
+      internalID: -6638472321200170536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Small_sheet_0: 7061429729973671067
+      Hit_Blunt_Small_sheet_1: 4328550269502348748
+      Hit_Blunt_Small_sheet_10: -6638472321200170536
+      Hit_Blunt_Small_sheet_2: -5741615238311963958
+      Hit_Blunt_Small_sheet_3: -5760526993767722772
+      Hit_Blunt_Small_sheet_4: -603875529840174231
+      Hit_Blunt_Small_sheet_5: -1475533626873553738
+      Hit_Blunt_Small_sheet_6: 7324380108219797740
+      Hit_Blunt_Small_sheet_7: 8629585772670011162
+      Hit_Blunt_Small_sheet_8: -9119842821174730123
+      Hit_Blunt_Small_sheet_9: -8421701618249725876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

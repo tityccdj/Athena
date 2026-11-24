@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 427dbc46c47d1a44f92a08abb02c0099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5465805104361210707
+    second: XP_Orb_Small_sheet_0
+  - first:
+      213: 7217574430213865425
+    second: XP_Orb_Small_sheet_1
+  - first:
+      213: 5072886459940052138
+    second: XP_Orb_Small_sheet_2
+  - first:
+      213: -1138333585996571604
+    second: XP_Orb_Small_sheet_3
+  - first:
+      213: -3212359872731903641
+    second: XP_Orb_Small_sheet_4
+  - first:
+      213: 1688883161198580773
+    second: XP_Orb_Small_sheet_5
+  - first:
+      213: -8358667937891880903
+    second: XP_Orb_Small_sheet_6
+  - first:
+      213: -3064056863516009306
+    second: XP_Orb_Small_sheet_7
+  - first:
+      213: -8186612328445950157
+    second: XP_Orb_Small_sheet_8
+  - first:
+      213: 1874045042501156204
+    second: XP_Orb_Small_sheet_9
+  - first:
+      213: -7623274195796677296
+    second: XP_Orb_Small_sheet_10
+  - first:
+      213: -4207997759414400750
+    second: XP_Orb_Small_sheet_11
+  - first:
+      213: -643366760728928296
+    second: XP_Orb_Small_sheet_12
+  - first:
+      213: 5511353706918429279
+    second: XP_Orb_Small_sheet_13
+  - first:
+      213: -6947216280858962227
+    second: XP_Orb_Small_sheet_14
+  - first:
+      213: -365123255732771235
+    second: XP_Orb_Small_sheet_15
+  - first:
+      213: -4926024013444668328
+    second: XP_Orb_Small_sheet_16
+  - first:
+      213: -8383186122371495584
+    second: XP_Orb_Small_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35387f888c07adb40800000000000000
+      internalID: 5465805104361210707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff6d434b9f92460800000000000000
+      internalID: 7217574430213865425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac9d96ab53866640800000000000000
+      internalID: 5072886459940052138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c17ca72a3d330f0800000000000000
+      internalID: -1138333585996571604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769881f27b76b63d0800000000000000
+      internalID: -3212359872731903641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524516a794e107710800000000000000
+      internalID: 1688883161198580773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f18eebcb000c80800000000000000
+      internalID: -8358667937891880903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd78644884a75d0800000000000000
+      internalID: -3064056863516009306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3374529367f436e80800000000000000
+      internalID: -8186612328445950157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dfc5b7902f10a10800000000000000
+      internalID: 1874045042501156204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d232e3280b43690800000000000000
+      internalID: -7623274195796677296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219077e25503a95c0800000000000000
+      internalID: -4207997759414400750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df557ef65d4217f0800000000000000
+      internalID: -643366760728928296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c76cfef24c7c40800000000000000
+      internalID: 5511353706918429279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65799b997869f90800000000000000
+      internalID: -6947216280858962227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5660da5552deeaf0800000000000000
+      internalID: -365123255732771235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854269b424f33abb0800000000000000
+      internalID: -4926024013444668328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP_Orb_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069001243a0f8ab80800000000000000
+      internalID: -8383186122371495584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XP_Orb_Small_sheet_0: 5465805104361210707
+      XP_Orb_Small_sheet_1: 7217574430213865425
+      XP_Orb_Small_sheet_10: -7623274195796677296
+      XP_Orb_Small_sheet_11: -4207997759414400750
+      XP_Orb_Small_sheet_12: -643366760728928296
+      XP_Orb_Small_sheet_13: 5511353706918429279
+      XP_Orb_Small_sheet_14: -6947216280858962227
+      XP_Orb_Small_sheet_15: -365123255732771235
+      XP_Orb_Small_sheet_16: -4926024013444668328
+      XP_Orb_Small_sheet_17: -8383186122371495584
+      XP_Orb_Small_sheet_2: 5072886459940052138
+      XP_Orb_Small_sheet_3: -1138333585996571604
+      XP_Orb_Small_sheet_4: -3212359872731903641
+      XP_Orb_Small_sheet_5: 1688883161198580773
+      XP_Orb_Small_sheet_6: -8358667937891880903
+      XP_Orb_Small_sheet_7: -3064056863516009306
+      XP_Orb_Small_sheet_8: -8186612328445950157
+      XP_Orb_Small_sheet_9: 1874045042501156204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

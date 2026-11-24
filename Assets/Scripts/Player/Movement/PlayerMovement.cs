@@ -26,6 +26,10 @@ namespace Athena.Player.Movement
         [SerializeField] private float _wallJumpForceX = 7f;
         [SerializeField] private float _wallJumpInputLockDuration = 0.2f; // ล็อค horizontal input ชั่วคราวหลัง wall jump
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager เช่น ฝุ่นตอนกระโดด/ลงพื้น)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onJumpEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onLandEvent;
+
         [Header("Visual")]
         [SerializeField] private Transform _visualTransform;
 
@@ -40,6 +44,7 @@ namespace Athena.Player.Movement
         private bool _isWallSliding;
         private bool _isMovementLocked;
         private bool _isDead;
+        private bool _wasGroundedLastFrame;
         private float _wallJumpInputLockEndTime = -999f; // ล็อค horizontal input หลัง wall jump
 
         public int FacingDirection { get; private set; } = 1; // 1 = Right, -1 = Left
@@ -77,6 +82,13 @@ namespace Athena.Player.Movement
 
             UpdateFacingDirection();
             CheckJump();
+
+            bool isGrounded = _collisionDetector != null && _collisionDetector.IsGrounded;
+            if (!_wasGroundedLastFrame && isGrounded && _rb.linearVelocity.y <= 0.1f)
+            {
+                _onLandEvent?.Invoke();
+            }
+            _wasGroundedLastFrame = isGrounded;
         }
 
         private void FixedUpdate()
@@ -164,6 +176,8 @@ namespace Athena.Player.Movement
             Vector3 scale = _visualTransform.localScale;
             scale.x = Mathf.Abs(scale.x) * FacingDirection;
             _visualTransform.localScale = scale;
+
+            _onJumpEvent?.Invoke();
         }
 
         private void ExecuteJump()
@@ -172,6 +186,7 @@ namespace Athena.Player.Movement
             _hasReleasedJumpKey = false; // Player must release Space before jumping again
             _lastJumpTime = Time.time;
             _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce);
+            _onJumpEvent?.Invoke();
         }
 
         private void HandleWallSlide()

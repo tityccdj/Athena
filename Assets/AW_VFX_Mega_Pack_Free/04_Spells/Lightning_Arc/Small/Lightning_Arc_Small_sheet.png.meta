@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e0f2f54858ecdaf43a9c163c68b73c30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2295144380489605462
+    second: Lightning_Arc_Small_sheet_0
+  - first:
+      213: 2545369998933887445
+    second: Lightning_Arc_Small_sheet_1
+  - first:
+      213: 5191369901402691548
+    second: Lightning_Arc_Small_sheet_2
+  - first:
+      213: -6649861806540541273
+    second: Lightning_Arc_Small_sheet_3
+  - first:
+      213: -2132772331339792411
+    second: Lightning_Arc_Small_sheet_4
+  - first:
+      213: -2538791002863426544
+    second: Lightning_Arc_Small_sheet_5
+  - first:
+      213: 8667788867504461849
+    second: Lightning_Arc_Small_sheet_6
+  - first:
+      213: -6824668505401154372
+    second: Lightning_Arc_Small_sheet_7
+  - first:
+      213: -2679334255189478416
+    second: Lightning_Arc_Small_sheet_8
+  - first:
+      213: 8523211487027107965
+    second: Lightning_Arc_Small_sheet_9
+  - first:
+      213: 2619394355887419352
+    second: Lightning_Arc_Small_sheet_10
+  - first:
+      213: 6129512187391311983
+    second: Lightning_Arc_Small_sheet_11
+  - first:
+      213: -6846560464668521374
+    second: Lightning_Arc_Small_sheet_12
+  - first:
+      213: 1253883797396541458
+    second: Lightning_Arc_Small_sheet_13
+  - first:
+      213: -8107462985629499451
+    second: Lightning_Arc_Small_sheet_14
+  - first:
+      213: -362863304899041806
+    second: Lightning_Arc_Small_sheet_15
+  - first:
+      213: 6228665961187499562
+    second: Lightning_Arc_Small_sheet_16
+  - first:
+      213: 38084652901502637
+    second: Lightning_Arc_Small_sheet_17
+  - first:
+      213: -335527350779227276
+    second: Lightning_Arc_Small_sheet_18
+  - first:
+      213: -2060403932068729677
+    second: Lightning_Arc_Small_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaedeac98520620e0800000000000000
+      internalID: -2295144380489605462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d904603788f25320800000000000000
+      internalID: 2545369998933887445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd713c69b637b0840800000000000000
+      internalID: 5191369901402691548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b6bf5be1f6b3a0800000000000000
+      internalID: -6649861806540541273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 9
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb5b35dded662e0800000000000000
+      internalID: -2132772331339792411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 7
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0142e53b80764ccd0800000000000000
+      internalID: -2538791002863426544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 8
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91850b31d0c2a4870800000000000000
+      internalID: 8667788867504461849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 9
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4a4c92728e941a0800000000000000
+      internalID: -6824668505401154372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 11
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f335ecc0b711dad0800000000000000
+      internalID: -2679334255189478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 9
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7897c580b7884670800000000000000
+      internalID: 8523211487027107965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 10
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df255dd945f95420800000000000000
+      internalID: 2619394355887419352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6003efdbd6601550800000000000000
+      internalID: 6129512187391311983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 10
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c033238812cf0a0800000000000000
+      internalID: -6846560464668521374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 8
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210507d9ba0b66110800000000000000
+      internalID: 1253883797396541458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 11
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cffce7ae518c7f80800000000000000
+      internalID: -8107462985629499451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 8
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e7792fb9d6faf0800000000000000
+      internalID: -362863304899041806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 11
+        width: 72
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed529d0baa07650800000000000000
+      internalID: 6228665961187499562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae869f3acd478000800000000000000
+      internalID: 38084652901502637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 11
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735064f6a7f75bf0800000000000000
+      internalID: -335527350779227276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_Arc_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 9
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bca93f4a89f763e0800000000000000
+      internalID: -2060403932068729677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning_Arc_Small_sheet_0: -2295144380489605462
+      Lightning_Arc_Small_sheet_1: 2545369998933887445
+      Lightning_Arc_Small_sheet_10: 2619394355887419352
+      Lightning_Arc_Small_sheet_11: 6129512187391311983
+      Lightning_Arc_Small_sheet_12: -6846560464668521374
+      Lightning_Arc_Small_sheet_13: 1253883797396541458
+      Lightning_Arc_Small_sheet_14: -8107462985629499451
+      Lightning_Arc_Small_sheet_15: -362863304899041806
+      Lightning_Arc_Small_sheet_16: 6228665961187499562
+      Lightning_Arc_Small_sheet_17: 38084652901502637
+      Lightning_Arc_Small_sheet_18: -335527350779227276
+      Lightning_Arc_Small_sheet_19: -2060403932068729677
+      Lightning_Arc_Small_sheet_2: 5191369901402691548
+      Lightning_Arc_Small_sheet_3: -6649861806540541273
+      Lightning_Arc_Small_sheet_4: -2132772331339792411
+      Lightning_Arc_Small_sheet_5: -2538791002863426544
+      Lightning_Arc_Small_sheet_6: 8667788867504461849
+      Lightning_Arc_Small_sheet_7: -6824668505401154372
+      Lightning_Arc_Small_sheet_8: -2679334255189478416
+      Lightning_Arc_Small_sheet_9: 8523211487027107965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

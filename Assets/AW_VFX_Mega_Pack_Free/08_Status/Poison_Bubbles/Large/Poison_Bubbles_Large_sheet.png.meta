@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: dcba0c0854585194cbf7e214d1cc6ce7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6538433612666414310
+    second: Poison_Bubbles_Large_sheet_0
+  - first:
+      213: -5697148245172274347
+    second: Poison_Bubbles_Large_sheet_1
+  - first:
+      213: 6772748909351306406
+    second: Poison_Bubbles_Large_sheet_2
+  - first:
+      213: -7547598700773684147
+    second: Poison_Bubbles_Large_sheet_3
+  - first:
+      213: 5095685340961052812
+    second: Poison_Bubbles_Large_sheet_4
+  - first:
+      213: 4810692587429436114
+    second: Poison_Bubbles_Large_sheet_5
+  - first:
+      213: -4221307621728300309
+    second: Poison_Bubbles_Large_sheet_6
+  - first:
+      213: -3400008784941956819
+    second: Poison_Bubbles_Large_sheet_7
+  - first:
+      213: -5548111850404479420
+    second: Poison_Bubbles_Large_sheet_8
+  - first:
+      213: 1530202528191201232
+    second: Poison_Bubbles_Large_sheet_9
+  - first:
+      213: 7198086383880748017
+    second: Poison_Bubbles_Large_sheet_10
+  - first:
+      213: 9141356518048344281
+    second: Poison_Bubbles_Large_sheet_11
+  - first:
+      213: 8500675087101942582
+    second: Poison_Bubbles_Large_sheet_12
+  - first:
+      213: 7879938303162844016
+    second: Poison_Bubbles_Large_sheet_13
+  - first:
+      213: -8228982244702738941
+    second: Poison_Bubbles_Large_sheet_14
+  - first:
+      213: -1164380665178117137
+    second: Poison_Bubbles_Large_sheet_15
+  - first:
+      213: 3191294465416479268
+    second: Poison_Bubbles_Large_sheet_16
+  - first:
+      213: 2701320076930284120
+    second: Poison_Bubbles_Large_sheet_17
+  - first:
+      213: -9064881950617439026
+    second: Poison_Bubbles_Large_sheet_18
+  - first:
+      213: -8900424570857501669
+    second: Poison_Bubbles_Large_sheet_19
+  - first:
+      213: 5556188208228154672
+    second: Poison_Bubbles_Large_sheet_20
+  - first:
+      213: 2007711393492138851
+    second: Poison_Bubbles_Large_sheet_21
+  - first:
+      213: -8900477192327694861
+    second: Poison_Bubbles_Large_sheet_22
+  - first:
+      213: -1560287795608014724
+    second: Poison_Bubbles_Large_sheet_23
+  - first:
+      213: 7597882142832375766
+    second: Poison_Bubbles_Large_sheet_24
+  - first:
+      213: 6284999851087653841
+    second: Poison_Bubbles_Large_sheet_25
+  - first:
+      213: 2046597083432690433
+    second: Poison_Bubbles_Large_sheet_26
+  - first:
+      213: -6355562255693566524
+    second: Poison_Bubbles_Large_sheet_27
+  - first:
+      213: -3814719989106315225
+    second: Poison_Bubbles_Large_sheet_28
+  - first:
+      213: -2029936601554033862
+    second: Poison_Bubbles_Large_sheet_29
+  - first:
+      213: -2008841985742859283
+    second: Poison_Bubbles_Large_sheet_30
+  - first:
+      213: -5366081457925173531
+    second: Poison_Bubbles_Large_sheet_31
+  - first:
+      213: 7267169592937336658
+    second: Poison_Bubbles_Large_sheet_32
+  - first:
+      213: -6828891153419572994
+    second: Poison_Bubbles_Large_sheet_33
+  - first:
+      213: 1035341178816235749
+    second: Poison_Bubbles_Large_sheet_34
+  - first:
+      213: -6315209234617200364
+    second: Poison_Bubbles_Large_sheet_35
+  - first:
+      213: 5237636013795110818
+    second: Poison_Bubbles_Large_sheet_36
+  - first:
+      213: -4851659876230266852
+    second: Poison_Bubbles_Large_sheet_37
+  - first:
+      213: -3929266932245040203
+    second: Poison_Bubbles_Large_sheet_38
+  - first:
+      213: 7151353660842335673
+    second: Poison_Bubbles_Large_sheet_39
+  - first:
+      213: -2614629372407777989
+    second: Poison_Bubbles_Large_sheet_40
+  - first:
+      213: 2010395170181736950
+    second: Poison_Bubbles_Large_sheet_41
+  - first:
+      213: 8178575694275677473
+    second: Poison_Bubbles_Large_sheet_42
+  - first:
+      213: 3416461802879914429
+    second: Poison_Bubbles_Large_sheet_43
+  - first:
+      213: -1082292349479304787
+    second: Poison_Bubbles_Large_sheet_44
+  - first:
+      213: -5028512376181496691
+    second: Poison_Bubbles_Large_sheet_45
+  - first:
+      213: 4434896317655313371
+    second: Poison_Bubbles_Large_sheet_46
+  - first:
+      213: 7011690802471468343
+    second: Poison_Bubbles_Large_sheet_47
+  - first:
+      213: -5659199509502804142
+    second: Poison_Bubbles_Large_sheet_48
+  - first:
+      213: -3194164619152484376
+    second: Poison_Bubbles_Large_sheet_49
+  - first:
+      213: -370875162416137056
+    second: Poison_Bubbles_Large_sheet_50
+  - first:
+      213: 7123675264600621377
+    second: Poison_Bubbles_Large_sheet_51
+  - first:
+      213: -6834211871176218907
+    second: Poison_Bubbles_Large_sheet_52
+  - first:
+      213: 2843637569042045227
+    second: Poison_Bubbles_Large_sheet_53
+  - first:
+      213: -286631773000797892
+    second: Poison_Bubbles_Large_sheet_54
+  - first:
+      213: 982740700645108385
+    second: Poison_Bubbles_Large_sheet_55
+  - first:
+      213: -9080126941642185625
+    second: Poison_Bubbles_Large_sheet_56
+  - first:
+      213: 5344823437886274401
+    second: Poison_Bubbles_Large_sheet_57
+  - first:
+      213: 407316230325508166
+    second: Poison_Bubbles_Large_sheet_58
+  - first:
+      213: -5321013310889510408
+    second: Poison_Bubbles_Large_sheet_59
+  - first:
+      213: -2048645100509394499
+    second: Poison_Bubbles_Large_sheet_60
+  - first:
+      213: 8044994186827691191
+    second: Poison_Bubbles_Large_sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4a4768abe2dba50800000000000000
+      internalID: 6538433612666414310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b34c51bd9afe0b0800000000000000
+      internalID: -5697148245172274347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48ccedf33adfd50800000000000000
+      internalID: 6772748909351306406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 38
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4f2578fa814790800000000000000
+      internalID: -7547598700773684147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88162bc1d287b640800000000000000
+      internalID: 5095685340961052812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 48
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da165d8b6303c240800000000000000
+      internalID: 4810692587429436114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 53
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25c3f5517ea65c0800000000000000
+      internalID: -4221307621728300309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 57
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c35c260eb0d0d0800000000000000
+      internalID: -3400008784941956819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 61
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e718ecaa52103b0800000000000000
+      internalID: -5548111850404479420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 64
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbd3f871f5c3510800000000000000
+      internalID: 1530202528191201232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 48
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb9c5dd6db4e360800000000000000
+      internalID: 7198086383880748017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 51
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d82977f15f9cde70800000000000000
+      internalID: 9141356518048344281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b59b504f678f570800000000000000
+      internalID: 8500675087101942582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730404132a2b5d60800000000000000
+      internalID: 7879938303162844016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062f795f38cccd80800000000000000
+      internalID: -8228982244702738941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feba9b444f947dfe0800000000000000
+      internalID: -1164380665178117137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 43
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422c1d87861c94c20800000000000000
+      internalID: 3191294465416479268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 47
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7f0a3c440d7520800000000000000
+      internalID: 2701320076930284120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4f89ac4e1133280800000000000000
+      internalID: -9064881950617439026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c41ef52075b7480800000000000000
+      internalID: -8900424570857501669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d37a8ccbb8b1d40800000000000000
+      internalID: 5556188208228154672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7a9400e2dcdb10800000000000000
+      internalID: 2007711393492138851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f577db76272b7480800000000000000
+      internalID: -8900477192327694861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703863448eb85ae0800000000000000
+      internalID: -1560287795608014724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 22
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7bec8bd89117960800000000000000
+      internalID: 7597882142832375766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6671b01ec83750800000000000000
+      internalID: 6284999851087653841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1032b5c3439f66c10800000000000000
+      internalID: 2046597083432690433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd21893dc18cc7a0800000000000000
+      internalID: -6355562255693566524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207cb391646f0bc0800000000000000
+      internalID: -3814719989106315225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33eecb7a6734d3e0800000000000000
+      internalID: -2029936601554033862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 35
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de318e57bd82f14e0800000000000000
+      internalID: -2008841985742859283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4f804859d785b0800000000000000
+      internalID: -5366081457925173531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcc8ddd3c2ad460800000000000000
+      internalID: 7267169592937336658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86e9e4da7ea31a0800000000000000
+      internalID: -6828891153419572994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80da011554e5e00800000000000000
+      internalID: 1035341178816235749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411106819aedb58a0800000000000000
+      internalID: -6315209234617200364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afec015432dfa840800000000000000
+      internalID: 5237636013795110818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10874a3c017bacb0800000000000000
+      internalID: -4851659876230266852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b378d31b807879c0800000000000000
+      internalID: -3929266932245040203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd52b9d346be3360800000000000000
+      internalID: 7151353660842335673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f45e4078f6bbd0800000000000000
+      internalID: -2614629372407777989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e7d871cb56eb10800000000000000
+      internalID: 2010395170181736950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d02f11343208170800000000000000
+      internalID: 8178575694275677473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1195598e5b96f20800000000000000
+      internalID: 3416461802879914429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1c926a7dceaf0f0800000000000000
+      internalID: -1082292349479304787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84eb05d2a2273ab0800000000000000
+      internalID: -5028512376181496691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb688d24baeb8d30800000000000000
+      internalID: 4434896317655313371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d7f24a2a78e4160800000000000000
+      internalID: 7011690802471468343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3503a70c7671b0800000000000000
+      internalID: -5659199509502804142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79b49c33c0ca3d0800000000000000
+      internalID: -3194164619152484376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acbb2831036adaf0800000000000000
+      internalID: -370875162416137056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c1c909e06cd260800000000000000
+      internalID: 7123675264600621377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6a8ca23800821a0800000000000000
+      internalID: -6834211871176218907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29d4b48d41a67720800000000000000
+      internalID: 2843637569042045227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3172fccbeda50cf0800000000000000
+      internalID: -286631773000797892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa2540e57563ad00800000000000000
+      internalID: 982740700645108385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a6f7b7a8ecf180800000000000000
+      internalID: -9080126941642185625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb4624990ac2a40800000000000000
+      internalID: 5344823437886274401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489dc314f317a500800000000000000
+      internalID: 407316230325508166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93e4fe596f726b0800000000000000
+      internalID: -5321013310889510408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90b41a220c193e0800000000000000
+      internalID: -2048645100509394499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Bubbles_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b472f5b69f85af60800000000000000
+      internalID: 8044994186827691191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison_Bubbles_Large_sheet_0: 6538433612666414310
+      Poison_Bubbles_Large_sheet_1: -5697148245172274347
+      Poison_Bubbles_Large_sheet_10: 7198086383880748017
+      Poison_Bubbles_Large_sheet_11: 9141356518048344281
+      Poison_Bubbles_Large_sheet_12: 8500675087101942582
+      Poison_Bubbles_Large_sheet_13: 7879938303162844016
+      Poison_Bubbles_Large_sheet_14: -8228982244702738941
+      Poison_Bubbles_Large_sheet_15: -1164380665178117137
+      Poison_Bubbles_Large_sheet_16: 3191294465416479268
+      Poison_Bubbles_Large_sheet_17: 2701320076930284120
+      Poison_Bubbles_Large_sheet_18: -9064881950617439026
+      Poison_Bubbles_Large_sheet_19: -8900424570857501669
+      Poison_Bubbles_Large_sheet_2: 6772748909351306406
+      Poison_Bubbles_Large_sheet_20: 5556188208228154672
+      Poison_Bubbles_Large_sheet_21: 2007711393492138851
+      Poison_Bubbles_Large_sheet_22: -8900477192327694861
+      Poison_Bubbles_Large_sheet_23: -1560287795608014724
+      Poison_Bubbles_Large_sheet_24: 7597882142832375766
+      Poison_Bubbles_Large_sheet_25: 6284999851087653841
+      Poison_Bubbles_Large_sheet_26: 2046597083432690433
+      Poison_Bubbles_Large_sheet_27: -6355562255693566524
+      Poison_Bubbles_Large_sheet_28: -3814719989106315225
+      Poison_Bubbles_Large_sheet_29: -2029936601554033862
+      Poison_Bubbles_Large_sheet_3: -7547598700773684147
+      Poison_Bubbles_Large_sheet_30: -2008841985742859283
+      Poison_Bubbles_Large_sheet_31: -5366081457925173531
+      Poison_Bubbles_Large_sheet_32: 7267169592937336658
+      Poison_Bubbles_Large_sheet_33: -6828891153419572994
+      Poison_Bubbles_Large_sheet_34: 1035341178816235749
+      Poison_Bubbles_Large_sheet_35: -6315209234617200364
+      Poison_Bubbles_Large_sheet_36: 5237636013795110818
+      Poison_Bubbles_Large_sheet_37: -4851659876230266852
+      Poison_Bubbles_Large_sheet_38: -3929266932245040203
+      Poison_Bubbles_Large_sheet_39: 7151353660842335673
+      Poison_Bubbles_Large_sheet_4: 5095685340961052812
+      Poison_Bubbles_Large_sheet_40: -2614629372407777989
+      Poison_Bubbles_Large_sheet_41: 2010395170181736950
+      Poison_Bubbles_Large_sheet_42: 8178575694275677473
+      Poison_Bubbles_Large_sheet_43: 3416461802879914429
+      Poison_Bubbles_Large_sheet_44: -1082292349479304787
+      Poison_Bubbles_Large_sheet_45: -5028512376181496691
+      Poison_Bubbles_Large_sheet_46: 4434896317655313371
+      Poison_Bubbles_Large_sheet_47: 7011690802471468343
+      Poison_Bubbles_Large_sheet_48: -5659199509502804142
+      Poison_Bubbles_Large_sheet_49: -3194164619152484376
+      Poison_Bubbles_Large_sheet_5: 4810692587429436114
+      Poison_Bubbles_Large_sheet_50: -370875162416137056
+      Poison_Bubbles_Large_sheet_51: 7123675264600621377
+      Poison_Bubbles_Large_sheet_52: -6834211871176218907
+      Poison_Bubbles_Large_sheet_53: 2843637569042045227
+      Poison_Bubbles_Large_sheet_54: -286631773000797892
+      Poison_Bubbles_Large_sheet_55: 982740700645108385
+      Poison_Bubbles_Large_sheet_56: -9080126941642185625
+      Poison_Bubbles_Large_sheet_57: 5344823437886274401
+      Poison_Bubbles_Large_sheet_58: 407316230325508166
+      Poison_Bubbles_Large_sheet_59: -5321013310889510408
+      Poison_Bubbles_Large_sheet_6: -4221307621728300309
+      Poison_Bubbles_Large_sheet_60: -2048645100509394499
+      Poison_Bubbles_Large_sheet_61: 8044994186827691191
+      Poison_Bubbles_Large_sheet_7: -3400008784941956819
+      Poison_Bubbles_Large_sheet_8: -5548111850404479420
+      Poison_Bubbles_Large_sheet_9: 1530202528191201232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

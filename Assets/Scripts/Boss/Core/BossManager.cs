@@ -34,6 +34,10 @@ namespace Athena.Boss.Core
         [SerializeField] private BossGhostTransition _ghostTransition;
         [SerializeField] private Transform _corridorWaypoint;
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onPhaseChangedEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onAllBossDefeatedEvent;
+
         [Header("Player")]
         [SerializeField] private PlayerController _player;
 
@@ -169,6 +173,7 @@ namespace Athena.Boss.Core
                 // บอสตายครบ 3 เฟส -> ชนะเกม
                 _isFightActive = false;
                 OnBossDefeatedAll?.Invoke();
+                _onAllBossDefeatedEvent?.Invoke();
                 UnityEngine.Debug.Log("[BossManager] ALL BOSS PHASES DEFEATED! YOU WIN!");
                 return;
             }
@@ -277,6 +282,7 @@ namespace Athena.Boss.Core
             }
 
             OnPhaseChanged?.Invoke(_currentPhase);
+            _onPhaseChangedEvent?.Invoke();
 
             UnityEngine.Debug.Log($"[BossManager] Switched to Phase {_currentPhase}");
         }

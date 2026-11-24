@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: bcdea4957672b954299a536b55082717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6755651723583222669
+    second: Dust_Land_Large_sheet_0
+  - first:
+      213: 5390706205027814009
+    second: Dust_Land_Large_sheet_1
+  - first:
+      213: 5346681723708997818
+    second: Dust_Land_Large_sheet_2
+  - first:
+      213: 5745302788227448925
+    second: Dust_Land_Large_sheet_3
+  - first:
+      213: -3999389483529271863
+    second: Dust_Land_Large_sheet_4
+  - first:
+      213: 4983515476490744343
+    second: Dust_Land_Large_sheet_5
+  - first:
+      213: 9057889021089516967
+    second: Dust_Land_Large_sheet_6
+  - first:
+      213: -6710566985223089933
+    second: Dust_Land_Large_sheet_7
+  - first:
+      213: 4353147101119983313
+    second: Dust_Land_Large_sheet_8
+  - first:
+      213: -8588699495925323416
+    second: Dust_Land_Large_sheet_9
+  - first:
+      213: -1240474168446659393
+    second: Dust_Land_Large_sheet_10
+  - first:
+      213: -998730440297396580
+    second: Dust_Land_Large_sheet_11
+  - first:
+      213: -8441496823943222640
+    second: Dust_Land_Large_sheet_12
+  - first:
+      213: -6306799440127134656
+    second: Dust_Land_Large_sheet_13
+  - first:
+      213: -684326449049147600
+    second: Dust_Land_Large_sheet_14
+  - first:
+      213: -7806667360334757807
+    second: Dust_Land_Large_sheet_15
+  - first:
+      213: 7264798790515967170
+    second: Dust_Land_Large_sheet_16
+  - first:
+      213: -3829318732469742647
+    second: Dust_Land_Large_sheet_17
+  - first:
+      213: -4053975382617342544
+    second: Dust_Land_Large_sheet_18
+  - first:
+      213: 5056692163389523275
+    second: Dust_Land_Large_sheet_19
+  - first:
+      213: 4885257985999995299
+    second: Dust_Land_Large_sheet_20
+  - first:
+      213: 6079792319250146893
+    second: Dust_Land_Large_sheet_21
+  - first:
+      213: -1194369653342879009
+    second: Dust_Land_Large_sheet_22
+  - first:
+      213: 6206969894210551297
+    second: Dust_Land_Large_sheet_23
+  - first:
+      213: -2322879317025238485
+    second: Dust_Land_Large_sheet_24
+  - first:
+      213: 6264206906263305129
+    second: Dust_Land_Large_sheet_25
+  - first:
+      213: -5281416731122976108
+    second: Dust_Land_Large_sheet_26
+  - first:
+      213: 6731573056415946053
+    second: Dust_Land_Large_sheet_27
+  - first:
+      213: 5383457875794457992
+    second: Dust_Land_Large_sheet_28
+  - first:
+      213: -1731389334209741705
+    second: Dust_Land_Large_sheet_29
+  - first:
+      213: 5547877804493449394
+    second: Dust_Land_Large_sheet_30
+  - first:
+      213: -8074263196238891027
+    second: Dust_Land_Large_sheet_31
+  - first:
+      213: -567359859343010510
+    second: Dust_Land_Large_sheet_32
+  - first:
+      213: -5628764453288992764
+    second: Dust_Land_Large_sheet_33
+  - first:
+      213: 5381619858430096090
+    second: Dust_Land_Large_sheet_34
+  - first:
+      213: 5805013105423711176
+    second: Dust_Land_Large_sheet_35
+  - first:
+      213: -4332950012489588673
+    second: Dust_Land_Large_sheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c0195ec8a1f32a0800000000000000
+      internalID: -6755651723583222669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a4d277bb2afca40800000000000000
+      internalID: 5390706205027814009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 13
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab08fb423ba333a40800000000000000
+      internalID: 5346681723708997818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50cb5b227a6bbf40800000000000000
+      internalID: 5745302788227448925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50ec354705f78c0800000000000000
+      internalID: -3999389483529271863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 13
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71274ec0ce0092540800000000000000
+      internalID: 4983515476490744343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 13
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad83fce21614bd70800000000000000
+      internalID: 9057889021089516967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 13
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0505c81e64fd2a0800000000000000
+      internalID: -6710566985223089933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 13
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2749793c796c30800000000000000
+      internalID: 4353147101119983313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696bc6305fcec880800000000000000
+      internalID: -8588699495925323416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 12
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb450bce053f8cee0800000000000000
+      internalID: -1240474168446659393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9644bfb4fbc322f0800000000000000
+      internalID: -998730440297396580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 12
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa6441d57c9da80800000000000000
+      internalID: -8441496823943222640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f695f25fb978a0800000000000000
+      internalID: -6306799440127134656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037650668b8c086f0800000000000000
+      internalID: -684326449049147600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 13
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504c93b56529a390800000000000000
+      internalID: -7806667360334757807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 13
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c444696200c1d460800000000000000
+      internalID: 7264798790515967170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 15
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35463c6e68bdac0800000000000000
+      internalID: -3829318732469742647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 15
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3aee4ed26db7c0800000000000000
+      internalID: -4053975382617342544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 17
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4585592bbafc2640800000000000000
+      internalID: 5056692163389523275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 20
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18bab414cebc340800000000000000
+      internalID: 4885257985999995299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 17
+        width: 109
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ad09f6e2cf5450800000000000000
+      internalID: 6079792319250146893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2cdf9d02fbc6fe0800000000000000
+      internalID: -1194369653342879009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 12
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb6fb9b36932650800000000000000
+      internalID: 6206969894210551297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 12
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22db9c719973cfd0800000000000000
+      internalID: -2322879317025238485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 13
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7f57fdfeeee650800000000000000
+      internalID: 6264206906263305129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 15
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3c961773a4b6b0800000000000000
+      internalID: -5281416731122976108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 15
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455347870a5b6d50800000000000000
+      internalID: 6731573056415946053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 15
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f10e4a62e5ba40800000000000000
+      internalID: 5383457875794457992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 15
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c3786e29ed8f7e0800000000000000
+      internalID: -1731389334209741705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b82b1228750efc40800000000000000
+      internalID: 5547877804493449394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 16
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7bb2df66472ff80800000000000000
+      internalID: -8074263196238891027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2355b04c6355028f0800000000000000
+      internalID: -567359859343010510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 12
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002d5d5d8c92e1b0800000000000000
+      internalID: -5628764453288992764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 12
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2f9e98fba5faa40800000000000000
+      internalID: 5381619858430096090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb7441c9ac8f8050800000000000000
+      internalID: 5805013105423711176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Land_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a80cabe44ed3c0800000000000000
+      internalID: -4332950012489588673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust_Land_Large_sheet_0: -6755651723583222669
+      Dust_Land_Large_sheet_1: 5390706205027814009
+      Dust_Land_Large_sheet_10: -1240474168446659393
+      Dust_Land_Large_sheet_11: -998730440297396580
+      Dust_Land_Large_sheet_12: -8441496823943222640
+      Dust_Land_Large_sheet_13: -6306799440127134656
+      Dust_Land_Large_sheet_14: -684326449049147600
+      Dust_Land_Large_sheet_15: -7806667360334757807
+      Dust_Land_Large_sheet_16: 7264798790515967170
+      Dust_Land_Large_sheet_17: -3829318732469742647
+      Dust_Land_Large_sheet_18: -4053975382617342544
+      Dust_Land_Large_sheet_19: 5056692163389523275
+      Dust_Land_Large_sheet_2: 5346681723708997818
+      Dust_Land_Large_sheet_20: 4885257985999995299
+      Dust_Land_Large_sheet_21: 6079792319250146893
+      Dust_Land_Large_sheet_22: -1194369653342879009
+      Dust_Land_Large_sheet_23: 6206969894210551297
+      Dust_Land_Large_sheet_24: -2322879317025238485
+      Dust_Land_Large_sheet_25: 6264206906263305129
+      Dust_Land_Large_sheet_26: -5281416731122976108
+      Dust_Land_Large_sheet_27: 6731573056415946053
+      Dust_Land_Large_sheet_28: 5383457875794457992
+      Dust_Land_Large_sheet_29: -1731389334209741705
+      Dust_Land_Large_sheet_3: 5745302788227448925
+      Dust_Land_Large_sheet_30: 5547877804493449394
+      Dust_Land_Large_sheet_31: -8074263196238891027
+      Dust_Land_Large_sheet_32: -567359859343010510
+      Dust_Land_Large_sheet_33: -5628764453288992764
+      Dust_Land_Large_sheet_34: 5381619858430096090
+      Dust_Land_Large_sheet_35: 5805013105423711176
+      Dust_Land_Large_sheet_36: -4332950012489588673
+      Dust_Land_Large_sheet_4: -3999389483529271863
+      Dust_Land_Large_sheet_5: 4983515476490744343
+      Dust_Land_Large_sheet_6: 9057889021089516967
+      Dust_Land_Large_sheet_7: -6710566985223089933
+      Dust_Land_Large_sheet_8: 4353147101119983313
+      Dust_Land_Large_sheet_9: -8588699495925323416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

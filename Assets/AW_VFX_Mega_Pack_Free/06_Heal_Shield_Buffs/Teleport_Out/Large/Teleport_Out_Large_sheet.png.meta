@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 8378b709fd3ed0d4988329ed3fe77a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1131815910457285081
+    second: Teleport_Out_Large_sheet_0
+  - first:
+      213: 2994632580248806412
+    second: Teleport_Out_Large_sheet_1
+  - first:
+      213: -7600779709603004127
+    second: Teleport_Out_Large_sheet_2
+  - first:
+      213: -9060457665236110033
+    second: Teleport_Out_Large_sheet_3
+  - first:
+      213: -2126658784698748270
+    second: Teleport_Out_Large_sheet_4
+  - first:
+      213: -7015889688285033397
+    second: Teleport_Out_Large_sheet_5
+  - first:
+      213: 4195684122228219448
+    second: Teleport_Out_Large_sheet_6
+  - first:
+      213: -6014358727026634944
+    second: Teleport_Out_Large_sheet_7
+  - first:
+      213: 8280980279818358347
+    second: Teleport_Out_Large_sheet_8
+  - first:
+      213: 7993388151430639266
+    second: Teleport_Out_Large_sheet_9
+  - first:
+      213: -513127994127496669
+    second: Teleport_Out_Large_sheet_10
+  - first:
+      213: 3354135779561777953
+    second: Teleport_Out_Large_sheet_11
+  - first:
+      213: 6114139335193848716
+    second: Teleport_Out_Large_sheet_12
+  - first:
+      213: 3230813860576885128
+    second: Teleport_Out_Large_sheet_13
+  - first:
+      213: -536101777636526238
+    second: Teleport_Out_Large_sheet_14
+  - first:
+      213: -1189111898597705037
+    second: Teleport_Out_Large_sheet_15
+  - first:
+      213: 156818967455996820
+    second: Teleport_Out_Large_sheet_16
+  - first:
+      213: 4467122346931804652
+    second: Teleport_Out_Large_sheet_17
+  - first:
+      213: -9145231792428682984
+    second: Teleport_Out_Large_sheet_18
+  - first:
+      213: 4172770481633324026
+    second: Teleport_Out_Large_sheet_19
+  - first:
+      213: -7151548553458734030
+    second: Teleport_Out_Large_sheet_20
+  - first:
+      213: 3431646207440889283
+    second: Teleport_Out_Large_sheet_21
+  - first:
+      213: 697061518186259796
+    second: Teleport_Out_Large_sheet_22
+  - first:
+      213: -6104309604043479890
+    second: Teleport_Out_Large_sheet_23
+  - first:
+      213: 8021377423919853310
+    second: Teleport_Out_Large_sheet_24
+  - first:
+      213: -2035945570343287650
+    second: Teleport_Out_Large_sheet_25
+  - first:
+      213: 4412267279838526675
+    second: Teleport_Out_Large_sheet_26
+  - first:
+      213: 7853431122402455757
+    second: Teleport_Out_Large_sheet_27
+  - first:
+      213: 160094281220215428
+    second: Teleport_Out_Large_sheet_28
+  - first:
+      213: 73664089761511555
+    second: Teleport_Out_Large_sheet_29
+  - first:
+      213: 4582952811083367693
+    second: Teleport_Out_Large_sheet_30
+  - first:
+      213: -1626620606409974128
+    second: Teleport_Out_Large_sheet_31
+  - first:
+      213: 368194737932867258
+    second: Teleport_Out_Large_sheet_32
+  - first:
+      213: 4825976881908805853
+    second: Teleport_Out_Large_sheet_33
+  - first:
+      213: 4326620310395509519
+    second: Teleport_Out_Large_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726ee021d6bfa40f0800000000000000
+      internalID: -1131815910457285081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 43
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04aa8a27721f8920800000000000000
+      internalID: 2994632580248806412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121cd11ff1b948690800000000000000
+      internalID: -7600779709603004127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f22102c9c24280800000000000000
+      internalID: -9060457665236110033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29231935a179c72e0800000000000000
+      internalID: -2126658784698748270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 23
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc172108d82ae90800000000000000
+      internalID: -7015889688285033397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 26
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed82fba701a3a30800000000000000
+      internalID: 4195684122228219448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 42
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8ecb6a94b88ca0800000000000000
+      internalID: -6014358727026634944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 42
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8692a0b3fbe270800000000000000
+      internalID: 8280980279818358347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 57
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aee6d54c283eee60800000000000000
+      internalID: 7993388151430639266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac8b9dec001e8f0800000000000000
+      internalID: -513127994127496669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 89
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b253578b84c8e20800000000000000
+      internalID: 3354135779561777953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be87dc459c9d450800000000000000
+      internalID: 6114139335193848716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 36
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f71fa61826dc20800000000000000
+      internalID: 3230813860576885128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f48c06426f88f0800000000000000
+      internalID: -536101777636526238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab4e5470d6f7fe0800000000000000
+      internalID: -1189111898597705037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 5
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b124125022d2200800000000000000
+      internalID: 156818967455996820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce954115b186efd30800000000000000
+      internalID: 4467122346931804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fda7632c951180800000000000000
+      internalID: -9145231792428682984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb6dfe05a8a8e930800000000000000
+      internalID: 4172770481633324026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c222d2b7890cc90800000000000000
+      internalID: -7151548553458734030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5a4554b08af9f20800000000000000
+      internalID: 3431646207440889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4552612f1c57ca900800000000000000
+      internalID: 697061518186259796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 30
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4abf3d1c2294ba0800000000000000
+      internalID: -6104309604043479890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 9
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea41a9448a15f60800000000000000
+      internalID: 8021377423919853310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 19
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9488a96a4edeb3e0800000000000000
+      internalID: -2035945570343287650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 16
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcbadcb6b58b3d30800000000000000
+      internalID: 4412267279838526675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 16
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0bbce1ffdfcfc60800000000000000
+      internalID: 7853431122402455757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 29
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d3ba86e4c83200800000000000000
+      internalID: 160094281220215428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ffee6915b50100800000000000000
+      internalID: 73664089761511555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 14
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d058007dc4be99f30800000000000000
+      internalID: 4582952811083367693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 20
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5a9a3d251d69e0800000000000000
+      internalID: -1626620606409974128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab618a2d9271c1500800000000000000
+      internalID: 368194737932867258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0fb6ca76059f240800000000000000
+      internalID: 4825976881908805853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Out_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5d17bf3e3b0c30800000000000000
+      internalID: 4326620310395509519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Teleport_Out_Large_sheet_0: -1131815910457285081
+      Teleport_Out_Large_sheet_1: 2994632580248806412
+      Teleport_Out_Large_sheet_10: -513127994127496669
+      Teleport_Out_Large_sheet_11: 3354135779561777953
+      Teleport_Out_Large_sheet_12: 6114139335193848716
+      Teleport_Out_Large_sheet_13: 3230813860576885128
+      Teleport_Out_Large_sheet_14: -536101777636526238
+      Teleport_Out_Large_sheet_15: -1189111898597705037
+      Teleport_Out_Large_sheet_16: 156818967455996820
+      Teleport_Out_Large_sheet_17: 4467122346931804652
+      Teleport_Out_Large_sheet_18: -9145231792428682984
+      Teleport_Out_Large_sheet_19: 4172770481633324026
+      Teleport_Out_Large_sheet_2: -7600779709603004127
+      Teleport_Out_Large_sheet_20: -7151548553458734030
+      Teleport_Out_Large_sheet_21: 3431646207440889283
+      Teleport_Out_Large_sheet_22: 697061518186259796
+      Teleport_Out_Large_sheet_23: -6104309604043479890
+      Teleport_Out_Large_sheet_24: 8021377423919853310
+      Teleport_Out_Large_sheet_25: -2035945570343287650
+      Teleport_Out_Large_sheet_26: 4412267279838526675
+      Teleport_Out_Large_sheet_27: 7853431122402455757
+      Teleport_Out_Large_sheet_28: 160094281220215428
+      Teleport_Out_Large_sheet_29: 73664089761511555
+      Teleport_Out_Large_sheet_3: -9060457665236110033
+      Teleport_Out_Large_sheet_30: 4582952811083367693
+      Teleport_Out_Large_sheet_31: -1626620606409974128
+      Teleport_Out_Large_sheet_32: 368194737932867258
+      Teleport_Out_Large_sheet_33: 4825976881908805853
+      Teleport_Out_Large_sheet_34: 4326620310395509519
+      Teleport_Out_Large_sheet_4: -2126658784698748270
+      Teleport_Out_Large_sheet_5: -7015889688285033397
+      Teleport_Out_Large_sheet_6: 4195684122228219448
+      Teleport_Out_Large_sheet_7: -6014358727026634944
+      Teleport_Out_Large_sheet_8: 8280980279818358347
+      Teleport_Out_Large_sheet_9: 7993388151430639266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

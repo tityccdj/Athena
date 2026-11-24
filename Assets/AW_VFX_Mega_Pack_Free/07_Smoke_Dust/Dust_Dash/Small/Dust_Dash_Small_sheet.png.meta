@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 1376bc3139ee9df4a91a757edcf487e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3168497420451495946
+    second: Dust_Dash_Small_sheet_0
+  - first:
+      213: -1776907751932697752
+    second: Dust_Dash_Small_sheet_1
+  - first:
+      213: -8378750730082632091
+    second: Dust_Dash_Small_sheet_2
+  - first:
+      213: -6544526761903949569
+    second: Dust_Dash_Small_sheet_3
+  - first:
+      213: -9141080704499604731
+    second: Dust_Dash_Small_sheet_4
+  - first:
+      213: -8861669619716321041
+    second: Dust_Dash_Small_sheet_5
+  - first:
+      213: -2983255571570604688
+    second: Dust_Dash_Small_sheet_6
+  - first:
+      213: 606420779269499110
+    second: Dust_Dash_Small_sheet_7
+  - first:
+      213: -5125427786070200612
+    second: Dust_Dash_Small_sheet_8
+  - first:
+      213: -4086227045399012424
+    second: Dust_Dash_Small_sheet_9
+  - first:
+      213: 7357820717141647550
+    second: Dust_Dash_Small_sheet_10
+  - first:
+      213: 1751267128661308293
+    second: Dust_Dash_Small_sheet_11
+  - first:
+      213: -1983969337913141563
+    second: Dust_Dash_Small_sheet_12
+  - first:
+      213: 2288086492693749914
+    second: Dust_Dash_Small_sheet_13
+  - first:
+      213: -8256928433593034025
+    second: Dust_Dash_Small_sheet_14
+  - first:
+      213: 7227935549919430383
+    second: Dust_Dash_Small_sheet_15
+  - first:
+      213: -8364116613951987234
+    second: Dust_Dash_Small_sheet_16
+  - first:
+      213: 7187743149626657840
+    second: Dust_Dash_Small_sheet_17
+  - first:
+      213: -1125745463786344536
+    second: Dust_Dash_Small_sheet_18
+  - first:
+      213: -1814701330069077696
+    second: Dust_Dash_Small_sheet_19
+  - first:
+      213: -3539637784738510687
+    second: Dust_Dash_Small_sheet_20
+  - first:
+      213: -2611157098785093123
+    second: Dust_Dash_Small_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff3f3e226c3704d0800000000000000
+      internalID: -3168497420451495946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e96760d72757e0800000000000000
+      internalID: -1776907751932697752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e31ef7a92b8bb80800000000000000
+      internalID: -8378750730082632091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff87dad959b2d25a0800000000000000
+      internalID: -6544526761903949569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503af11e78b542180800000000000000
+      internalID: -9141080704499604731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe010f79e66050580800000000000000
+      internalID: -8861669619716321041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07544561dd85996d0800000000000000
+      internalID: -2983255571570604688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e826cc5c707a6800800000000000000
+      internalID: 606420779269499110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde6e519592ded8b0800000000000000
+      internalID: -5125427786070200612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd567e62eca47c0800000000000000
+      internalID: -4086227045399012424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ec3675fa3c1660800000000000000
+      internalID: 7357820717141647550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583fca6cc20cd4810800000000000000
+      internalID: 1751267128661308293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69b6016668774e0800000000000000
+      internalID: -1983969337913141563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a906164da8ae0cf10800000000000000
+      internalID: 2288086492693749914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da5dd3365f796d80800000000000000
+      internalID: -8256928433593034025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68d506619ce4460800000000000000
+      internalID: 7227935549919430383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 6
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e27d2140bceb80800000000000000
+      internalID: -8364116613951987234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c8e32ff4effb360800000000000000
+      internalID: 7187743149626657840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 5
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afe183177c8060f0800000000000000
+      internalID: -1125745463786344536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041cdc741c2e0d6e0800000000000000
+      internalID: -1814701330069077696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84c17403ea0eec0800000000000000
+      internalID: -3539637784738510687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Dash_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 5
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9cc22047e43cbd0800000000000000
+      internalID: -2611157098785093123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust_Dash_Small_sheet_0: -3168497420451495946
+      Dust_Dash_Small_sheet_1: -1776907751932697752
+      Dust_Dash_Small_sheet_10: 7357820717141647550
+      Dust_Dash_Small_sheet_11: 1751267128661308293
+      Dust_Dash_Small_sheet_12: -1983969337913141563
+      Dust_Dash_Small_sheet_13: 2288086492693749914
+      Dust_Dash_Small_sheet_14: -8256928433593034025
+      Dust_Dash_Small_sheet_15: 7227935549919430383
+      Dust_Dash_Small_sheet_16: -8364116613951987234
+      Dust_Dash_Small_sheet_17: 7187743149626657840
+      Dust_Dash_Small_sheet_18: -1125745463786344536
+      Dust_Dash_Small_sheet_19: -1814701330069077696
+      Dust_Dash_Small_sheet_2: -8378750730082632091
+      Dust_Dash_Small_sheet_20: -3539637784738510687
+      Dust_Dash_Small_sheet_21: -2611157098785093123
+      Dust_Dash_Small_sheet_3: -6544526761903949569
+      Dust_Dash_Small_sheet_4: -9141080704499604731
+      Dust_Dash_Small_sheet_5: -8861669619716321041
+      Dust_Dash_Small_sheet_6: -2983255571570604688
+      Dust_Dash_Small_sheet_7: 606420779269499110
+      Dust_Dash_Small_sheet_8: -5125427786070200612
+      Dust_Dash_Small_sheet_9: -4086227045399012424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

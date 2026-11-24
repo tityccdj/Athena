@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 458249e0cc91b3f44b4e8e7201f1e58d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4081785666931348114
+    second: ice_impact_arcane_05_0
+  - first:
+      213: 4614227986849716623
+    second: ice_impact_arcane_05_1
+  - first:
+      213: -665070509353437907
+    second: ice_impact_arcane_05_2
+  - first:
+      213: 4405193050226960829
+    second: ice_impact_arcane_05_3
+  - first:
+      213: 7139233300220767130
+    second: ice_impact_arcane_05_4
+  - first:
+      213: -3955624818105389849
+    second: ice_impact_arcane_05_5
+  - first:
+      213: 8072463027284169021
+    second: ice_impact_arcane_05_6
+  - first:
+      213: -2659638648961198126
+    second: ice_impact_arcane_05_7
+  - first:
+      213: -7775691147383173096
+    second: ice_impact_arcane_05_8
+  - first:
+      213: 6852771300398521053
+    second: ice_impact_arcane_05_9
+  - first:
+      213: -387789794052534455
+    second: ice_impact_arcane_05_10
+  - first:
+      213: -1438727398212941058
+    second: ice_impact_arcane_05_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da649ef859a57c0800000000000000
+      internalID: -4081785666931348114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d7d428e7090040800000000000000
+      internalID: 4614227986849716623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 61
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25766b35e135c6f0800000000000000
+      internalID: -665070509353437907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92ccd4db3622d30800000000000000
+      internalID: 4405193050226960829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6c4c7cd6a31360800000000000000
+      internalID: 7139233300220767130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eceb1c8f2cca19c0800000000000000
+      internalID: -3955624818105389849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315fb38a56270070800000000000000
+      internalID: 8072463027284169021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d794c97db0171bd0800000000000000
+      internalID: -2659638648961198126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810931d4912371490800000000000000
+      internalID: -7775691147383173096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddade3fa03fe91f50800000000000000
+      internalID: 6852771300398521053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0af5ac3b4e9af0800000000000000
+      internalID: -387789794052534455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_arcane_05_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa45e4dd0d980ce0800000000000000
+      internalID: -1438727398212941058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice_impact_arcane_05_0: -4081785666931348114
+      ice_impact_arcane_05_1: 4614227986849716623
+      ice_impact_arcane_05_10: -387789794052534455
+      ice_impact_arcane_05_11: -1438727398212941058
+      ice_impact_arcane_05_2: -665070509353437907
+      ice_impact_arcane_05_3: 4405193050226960829
+      ice_impact_arcane_05_4: 7139233300220767130
+      ice_impact_arcane_05_5: -3955624818105389849
+      ice_impact_arcane_05_6: 8072463027284169021
+      ice_impact_arcane_05_7: -2659638648961198126
+      ice_impact_arcane_05_8: -7775691147383173096
+      ice_impact_arcane_05_9: 6852771300398521053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

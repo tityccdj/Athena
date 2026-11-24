@@ -19,6 +19,10 @@ namespace Athena.Boss.Core
         [Header("Phase HP Settings (GDD: Phase 1 = 120 HP)")]
         [SerializeField] private int _maxHealth = 120;
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDamagedEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDefeatedEvent;
+
         [Header("Visual Feedback")]
         [SerializeField] private SpriteRenderer _spriteRenderer;
         [SerializeField] private Color _flashColor = Color.red;
@@ -67,6 +71,7 @@ namespace Athena.Boss.Core
 
             OnDamaged?.Invoke(damageToTake);
             OnHealthChanged?.Invoke(_currentHealth, _maxHealth);
+            _onDamagedEvent?.Invoke();
 
             TriggerHitFlash();
 
@@ -76,6 +81,7 @@ namespace Athena.Boss.Core
             {
                 _isInvulnerable = true; // GDD: เมื่อ HP หมดหลอดเฟสนี้ บอสจะติด I-Frame
                 OnDefeated?.Invoke();
+                _onDefeatedEvent?.Invoke();
                 UnityEngine.Debug.Log($"[BossHealth] {gameObject.name} DEFEATED!");
             }
         }

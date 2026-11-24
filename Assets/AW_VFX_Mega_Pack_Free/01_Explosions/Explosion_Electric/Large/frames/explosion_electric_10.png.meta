@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0008bc009d473ff4e8851f281376f33e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4951611742335608904
+    second: explosion_electric_10_0
+  - first:
+      213: 1008103923629324172
+    second: explosion_electric_10_1
+  - first:
+      213: 4731982620162072295
+    second: explosion_electric_10_2
+  - first:
+      213: -5077884229285932682
+    second: explosion_electric_10_3
+  - first:
+      213: 7571238804361012433
+    second: explosion_electric_10_4
+  - first:
+      213: -7503954870279740475
+    second: explosion_electric_10_5
+  - first:
+      213: 6430715205717601736
+    second: explosion_electric_10_6
+  - first:
+      213: 4055299780763868600
+    second: explosion_electric_10_7
+  - first:
+      213: -8695608856038125686
+    second: explosion_electric_10_8
+  - first:
+      213: 5511996176549085199
+    second: explosion_electric_10_9
+  - first:
+      213: -5370014674689163056
+    second: explosion_electric_10_10
+  - first:
+      213: 7408734494321140309
+    second: explosion_electric_10_11
+  - first:
+      213: -6834898484086965925
+    second: explosion_electric_10_12
+  - first:
+      213: -1089119549737232850
+    second: explosion_electric_10_13
+  - first:
+      213: -5758644843037566819
+    second: explosion_electric_10_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_electric_10_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 83
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848219715a8a7b440800000000000000
+      internalID: 4951611742335608904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c877a986d218dfd00800000000000000
+      internalID: 1008103923629324172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee15163f116ba140800000000000000
+      internalID: 4731982620162072295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719ade723bb789b0800000000000000
+      internalID: -5077884229285932682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d467931491721960800000000000000
+      internalID: 7571238804361012433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e96a9dc89cd790800000000000000
+      internalID: -7503954870279740475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd2080886d7e3950800000000000000
+      internalID: 6430715205717601736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd562a2aa1574830800000000000000
+      internalID: 4055299780763868600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 39
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4b1611ddf25780800000000000000
+      internalID: -8695608856038125686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00058a915b8e7c40800000000000000
+      internalID: 5511996176549085199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 26
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0848cda10e975b0800000000000000
+      internalID: -5370014674689163056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 39
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552e139f4cc11d660800000000000000
+      internalID: 7408734494321140309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59f324aa009521a0800000000000000
+      internalID: -6834898484086965925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 19
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269af73a8ba2e0f0800000000000000
+      internalID: -1089119549737232850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_electric_10_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985c1f960f2510b0800000000000000
+      internalID: -5758644843037566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion_electric_10_0: 4951611742335608904
+      explosion_electric_10_1: 1008103923629324172
+      explosion_electric_10_10: -5370014674689163056
+      explosion_electric_10_11: 7408734494321140309
+      explosion_electric_10_12: -6834898484086965925
+      explosion_electric_10_13: -1089119549737232850
+      explosion_electric_10_14: -5758644843037566819
+      explosion_electric_10_2: 4731982620162072295
+      explosion_electric_10_3: -5077884229285932682
+      explosion_electric_10_4: 7571238804361012433
+      explosion_electric_10_5: -7503954870279740475
+      explosion_electric_10_6: 6430715205717601736
+      explosion_electric_10_7: 4055299780763868600
+      explosion_electric_10_8: -8695608856038125686
+      explosion_electric_10_9: 5511996176549085199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

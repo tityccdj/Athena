@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 352cc82df0e88444298892d27063fc25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1800625267478922575
+    second: Text_Critical_Small_sheet_0
+  - first:
+      213: -2888495469219930462
+    second: Text_Critical_Small_sheet_1
+  - first:
+      213: -6141839823539073511
+    second: Text_Critical_Small_sheet_2
+  - first:
+      213: 7027000968848687469
+    second: Text_Critical_Small_sheet_3
+  - first:
+      213: 8995214726921663630
+    second: Text_Critical_Small_sheet_4
+  - first:
+      213: 4470690956745754620
+    second: Text_Critical_Small_sheet_5
+  - first:
+      213: 6918706583175986630
+    second: Text_Critical_Small_sheet_6
+  - first:
+      213: 8060017989806685019
+    second: Text_Critical_Small_sheet_7
+  - first:
+      213: -4162735908016503119
+    second: Text_Critical_Small_sheet_8
+  - first:
+      213: 8341423446509236256
+    second: Text_Critical_Small_sheet_9
+  - first:
+      213: -7127906449141408550
+    second: Text_Critical_Small_sheet_10
+  - first:
+      213: -4334082752546239623
+    second: Text_Critical_Small_sheet_11
+  - first:
+      213: 3351092963358761041
+    second: Text_Critical_Small_sheet_12
+  - first:
+      213: -8028331452020231648
+    second: Text_Critical_Small_sheet_13
+  - first:
+      213: -401685704837090678
+    second: Text_Critical_Small_sheet_14
+  - first:
+      213: -7194007061170192765
+    second: Text_Critical_Small_sheet_15
+  - first:
+      213: -5170670285964174114
+    second: Text_Critical_Small_sheet_16
+  - first:
+      213: 335319785737777113
+    second: Text_Critical_Small_sheet_17
+  - first:
+      213: -7541072225208467920
+    second: Text_Critical_Small_sheet_18
+  - first:
+      213: 3136245314768950214
+    second: Text_Critical_Small_sheet_19
+  - first:
+      213: 6485148504883282749
+    second: Text_Critical_Small_sheet_20
+  - first:
+      213: -2857531098498620078
+    second: Text_Critical_Small_sheet_21
+  - first:
+      213: -3424154124855300314
+    second: Text_Critical_Small_sheet_22
+  - first:
+      213: 6696242450395812231
+    second: Text_Critical_Small_sheet_23
+  - first:
+      213: -19260184880932921
+    second: Text_Critical_Small_sheet_24
+  - first:
+      213: -7554530734507523519
+    second: Text_Critical_Small_sheet_25
+  - first:
+      213: 8840575225544725177
+    second: Text_Critical_Small_sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba735efbd4e207e0800000000000000
+      internalID: -1800625267478922575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae12d5bca00ae7d0800000000000000
+      internalID: -2888495469219930462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0b9aa83dc3caa0800000000000000
+      internalID: -6141839823539073511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d614d88862ce48160800000000000000
+      internalID: 7027000968848687469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84378ca22c65dc70800000000000000
+      internalID: 8995214726921663630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c1690db51b0e30800000000000000
+      internalID: 4470690956745754620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd7c530bfe240060800000000000000
+      internalID: 6918706583175986630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b7fad68afeadf60800000000000000
+      internalID: 8060017989806685019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6c9ec2fbdfa36c0800000000000000
+      internalID: -4162735908016503119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203c4a0e60b2c370800000000000000
+      internalID: 8341423446509236256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd5ba89d6941d90800000000000000
+      internalID: -7127906449141408550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b855313be3ad3c0800000000000000
+      internalID: -4334082752546239623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506f4a9b49718e20800000000000000
+      internalID: 3351092963358761041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fc3f8413a59090800000000000000
+      internalID: -8028331452020231648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8235dbcafcec6af0800000000000000
+      internalID: -401685704837090678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7c4f71b0c92c90800000000000000
+      internalID: -7194007061170192765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc107235c61e38b0800000000000000
+      internalID: -5170670285964174114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df6f0b819b47a400800000000000000
+      internalID: 335319785737777113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e72e6f3cab85790800000000000000
+      internalID: -7541072225208467920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3594b4f7e268b20800000000000000
+      internalID: 3136245314768950214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3349359430eff950800000000000000
+      internalID: 6485148504883282749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ab531b920858d0800000000000000
+      internalID: -2857531098498620078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fafc327f5fa70d0800000000000000
+      internalID: -3424154124855300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 6
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781dbb9c705ddec50800000000000000
+      internalID: 6696242450395812231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 6
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c71dd1c6f29bbff0800000000000000
+      internalID: -19260184880932921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 4
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14288e4925ae82790800000000000000
+      internalID: -7554530734507523519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Critical_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b256b8045800ba70800000000000000
+      internalID: 8840575225544725177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Critical_Small_sheet_0: -1800625267478922575
+      Text_Critical_Small_sheet_1: -2888495469219930462
+      Text_Critical_Small_sheet_10: -7127906449141408550
+      Text_Critical_Small_sheet_11: -4334082752546239623
+      Text_Critical_Small_sheet_12: 3351092963358761041
+      Text_Critical_Small_sheet_13: -8028331452020231648
+      Text_Critical_Small_sheet_14: -401685704837090678
+      Text_Critical_Small_sheet_15: -7194007061170192765
+      Text_Critical_Small_sheet_16: -5170670285964174114
+      Text_Critical_Small_sheet_17: 335319785737777113
+      Text_Critical_Small_sheet_18: -7541072225208467920
+      Text_Critical_Small_sheet_19: 3136245314768950214
+      Text_Critical_Small_sheet_2: -6141839823539073511
+      Text_Critical_Small_sheet_20: 6485148504883282749
+      Text_Critical_Small_sheet_21: -2857531098498620078
+      Text_Critical_Small_sheet_22: -3424154124855300314
+      Text_Critical_Small_sheet_23: 6696242450395812231
+      Text_Critical_Small_sheet_24: -19260184880932921
+      Text_Critical_Small_sheet_25: -7554530734507523519
+      Text_Critical_Small_sheet_26: 8840575225544725177
+      Text_Critical_Small_sheet_3: 7027000968848687469
+      Text_Critical_Small_sheet_4: 8995214726921663630
+      Text_Critical_Small_sheet_5: 4470690956745754620
+      Text_Critical_Small_sheet_6: 6918706583175986630
+      Text_Critical_Small_sheet_7: 8060017989806685019
+      Text_Critical_Small_sheet_8: -4162735908016503119
+      Text_Critical_Small_sheet_9: 8341423446509236256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

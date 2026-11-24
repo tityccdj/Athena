@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: f9974a5307ce8f3429300065e6d8d12e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6139314579309163222
+    second: Heal_Aura_Small_sheet_0
+  - first:
+      213: 7627209221907430701
+    second: Heal_Aura_Small_sheet_1
+  - first:
+      213: -1203589001339823765
+    second: Heal_Aura_Small_sheet_2
+  - first:
+      213: -4343669917342735490
+    second: Heal_Aura_Small_sheet_3
+  - first:
+      213: -8699239679919662736
+    second: Heal_Aura_Small_sheet_4
+  - first:
+      213: 2593886244357646886
+    second: Heal_Aura_Small_sheet_5
+  - first:
+      213: -3430544000912116480
+    second: Heal_Aura_Small_sheet_6
+  - first:
+      213: -5924299122654645725
+    second: Heal_Aura_Small_sheet_7
+  - first:
+      213: -4495492329401062046
+    second: Heal_Aura_Small_sheet_8
+  - first:
+      213: -4868445303206393130
+    second: Heal_Aura_Small_sheet_9
+  - first:
+      213: -5326948154072776433
+    second: Heal_Aura_Small_sheet_10
+  - first:
+      213: 7874146771770293137
+    second: Heal_Aura_Small_sheet_11
+  - first:
+      213: 1181101107507374204
+    second: Heal_Aura_Small_sheet_12
+  - first:
+      213: 5386348530365720615
+    second: Heal_Aura_Small_sheet_13
+  - first:
+      213: 412018115688243884
+    second: Heal_Aura_Small_sheet_14
+  - first:
+      213: 7451452827776210246
+    second: Heal_Aura_Small_sheet_15
+  - first:
+      213: 6083130437182526489
+    second: Heal_Aura_Small_sheet_16
+  - first:
+      213: -2191716341798326424
+    second: Heal_Aura_Small_sheet_17
+  - first:
+      213: -3321369483046476059
+    second: Heal_Aura_Small_sheet_18
+  - first:
+      213: -1768413737033567956
+    second: Heal_Aura_Small_sheet_19
+  - first:
+      213: -5637909906856095238
+    second: Heal_Aura_Small_sheet_20
+  - first:
+      213: -6135719169729955954
+    second: Heal_Aura_Small_sheet_21
+  - first:
+      213: 6161349952447005341
+    second: Heal_Aura_Small_sheet_22
+  - first:
+      213: 76854906582394436
+    second: Heal_Aura_Small_sheet_23
+  - first:
+      213: -7467569299660230537
+    second: Heal_Aura_Small_sheet_24
+  - first:
+      213: 5095553523258521272
+    second: Heal_Aura_Small_sheet_25
+  - first:
+      213: -5006803296315003348
+    second: Heal_Aura_Small_sheet_26
+  - first:
+      213: -2222219834416915748
+    second: Heal_Aura_Small_sheet_27
+  - first:
+      213: -1794937647800871018
+    second: Heal_Aura_Small_sheet_28
+  - first:
+      213: -8010669476932894256
+    second: Heal_Aura_Small_sheet_29
+  - first:
+      213: -8654602505789102682
+    second: Heal_Aura_Small_sheet_30
+  - first:
+      213: -4488124325073563050
+    second: Heal_Aura_Small_sheet_31
+  - first:
+      213: -441491132885640645
+    second: Heal_Aura_Small_sheet_32
+  - first:
+      213: 4357017256079802296
+    second: Heal_Aura_Small_sheet_33
+  - first:
+      213: 7595180328786811903
+    second: Heal_Aura_Small_sheet_34
+  - first:
+      213: 394555513056083577
+    second: Heal_Aura_Small_sheet_35
+  - first:
+      213: -5079953440528715367
+    second: Heal_Aura_Small_sheet_36
+  - first:
+      213: 887555756553922795
+    second: Heal_Aura_Small_sheet_37
+  - first:
+      213: -2988844718323559422
+    second: Heal_Aura_Small_sheet_38
+  - first:
+      213: -4834794643243184124
+    second: Heal_Aura_Small_sheet_39
+  - first:
+      213: -960895557270304569
+    second: Heal_Aura_Small_sheet_40
+  - first:
+      213: 5463115529190816951
+    second: Heal_Aura_Small_sheet_41
+  - first:
+      213: 5935397677139914485
+    second: Heal_Aura_Small_sheet_42
+  - first:
+      213: -3308784651742135647
+    second: Heal_Aura_Small_sheet_43
+  - first:
+      213: -2870425892438810201
+    second: Heal_Aura_Small_sheet_44
+  - first:
+      213: -9045369451006111885
+    second: Heal_Aura_Small_sheet_45
+  - first:
+      213: 6398463249773234499
+    second: Heal_Aura_Small_sheet_46
+  - first:
+      213: 3248356961299318091
+    second: Heal_Aura_Small_sheet_47
+  - first:
+      213: 2765226378242501856
+    second: Heal_Aura_Small_sheet_48
+  - first:
+      213: 1515258362578652422
+    second: Heal_Aura_Small_sheet_49
+  - first:
+      213: -4461587036054763738
+    second: Heal_Aura_Small_sheet_50
+  - first:
+      213: -7917310157421026501
+    second: Heal_Aura_Small_sheet_51
+  - first:
+      213: 6561595730785679128
+    second: Heal_Aura_Small_sheet_52
+  - first:
+      213: 8249853302242097737
+    second: Heal_Aura_Small_sheet_53
+  - first:
+      213: -8394533137869787730
+    second: Heal_Aura_Small_sheet_54
+  - first:
+      213: -1462830961891786922
+    second: Heal_Aura_Small_sheet_55
+  - first:
+      213: 4236646197095022813
+    second: Heal_Aura_Small_sheet_56
+  - first:
+      213: 4790690535983832580
+    second: Heal_Aura_Small_sheet_57
+  - first:
+      213: -6987687629989355938
+    second: Heal_Aura_Small_sheet_58
+  - first:
+      213: -1589241454716431981
+    second: Heal_Aura_Small_sheet_59
+  - first:
+      213: -3511910184362618016
+    second: Heal_Aura_Small_sheet_60
+  - first:
+      213: 498474339742374215
+    second: Heal_Aura_Small_sheet_61
+  - first:
+      213: 4227058719419545193
+    second: Heal_Aura_Small_sheet_62
+  - first:
+      213: 4633433421333296620
+    second: Heal_Aura_Small_sheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27918151a333550800000000000000
+      internalID: 6139314579309163222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d306b606a49d960800000000000000
+      internalID: 7627209221907430701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69929f1e2efb4fe0800000000000000
+      internalID: -1203589001339823765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e736c33593f28b3c0800000000000000
+      internalID: -4343669917342735490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d7660a97164780800000000000000
+      internalID: -8699239679919662736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aa5b6dbc55ff320800000000000000
+      internalID: 2593886244357646886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 37
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005394f28624460d0800000000000000
+      internalID: -3430544000912116480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f2031659a8cda0800000000000000
+      internalID: -5924299122654645725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 26
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d6e876b8dcc91c0800000000000000
+      internalID: -4495492329401062046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 28
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac6f57acecf6cb0800000000000000
+      internalID: -4868445303206393130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c19390e0e216b0800000000000000
+      internalID: -5326948154072776433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b38a815c6964d60800000000000000
+      internalID: 7874146771770293137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 30
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c782cc4133d146010800000000000000
+      internalID: 1181101107507374204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72865e4437720ca40800000000000000
+      internalID: 5386348530365720615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2af921b48c7b500800000000000000
+      internalID: 412018115688243884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6455e2c0ed0e86760800000000000000
+      internalID: 7451452827776210246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 35
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91491ae17ee9b6450800000000000000
+      internalID: 6083130437182526489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 28
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f21be69957591e0800000000000000
+      internalID: -2191716341798326424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e621337d0028e1d0800000000000000
+      internalID: -3321369483046476059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21713c53155577e0800000000000000
+      internalID: -1768413737033567956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1df268fce12c1b0800000000000000
+      internalID: -5637909906856095238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 29
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87f0be6ceb89daa0800000000000000
+      internalID: -6135719169729955954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9249743323818550800000000000000
+      internalID: 6161349952447005341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 30
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446e61e512b011100800000000000000
+      internalID: 76854906582394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 31
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b32e694ddd5890800000000000000
+      internalID: -7467569299660230537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b670d79eea07b640800000000000000
+      internalID: 5095553523258521272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea3eedde2448ab0800000000000000
+      internalID: -5006803296315003348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda90cc95d61921e0800000000000000
+      internalID: -2222219834416915748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979ad428b91717e0800000000000000
+      internalID: -1794937647800871018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c9569d8264d090800000000000000
+      internalID: -8010669476932894256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52c3200eca4e780800000000000000
+      internalID: -8654602505789102682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652533894baf6b1c0800000000000000
+      internalID: -4488124325073563050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3adddc57228fd9f0800000000000000
+      internalID: -441491132885640645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf32e42c1c377c30800000000000000
+      internalID: 4357017256079802296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb5f5e9440876960800000000000000
+      internalID: 7595180328786811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e31ef062eb97500800000000000000
+      internalID: 394555513056083577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99133c5b2416089b0800000000000000
+      internalID: -5079953440528715367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8efb3124b315c00800000000000000
+      internalID: 887555756553922795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049583709d7586d0800000000000000
+      internalID: -2988844718323559422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400578743eb57ecb0800000000000000
+      internalID: -4834794643243184124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c807aae4963aa2f0800000000000000
+      internalID: -960895557270304569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 27
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb65401a2e0db40800000000000000
+      internalID: 5463115529190816951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6a928db4ce5250800000000000000
+      internalID: 5935397677139914485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa35a2d3e5d412d0800000000000000
+      internalID: -3308784651742135647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e917ebd23a28d0800000000000000
+      internalID: -2870425892438810201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4c92a864687280800000000000000
+      internalID: -9045369451006111885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490027dc68ebc850800000000000000
+      internalID: 6398463249773234499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c9ed127b741d20800000000000000
+      internalID: 3248356961299318091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec2fae7dbe006620800000000000000
+      internalID: 2765226378242501856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 25
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc07cd377470510800000000000000
+      internalID: 1515258362578652422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c77daa324512c0800000000000000
+      internalID: -4461587036054763738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e35a0c50102290800000000000000
+      internalID: -7917310157421026501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81733356d887f0b50800000000000000
+      internalID: 6561595730785679128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a39396edd5d7270800000000000000
+      internalID: 8249853302242097737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eada6065690a08b80800000000000000
+      internalID: -8394533137869787730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3ff59dfaf2bbe0800000000000000
+      internalID: -1462830961891786922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cbd005479bca30800000000000000
+      internalID: 4236646197095022813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e542a09a3fb7240800000000000000
+      internalID: 4790690535983832580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed7157f1fb60f90800000000000000
+      internalID: -6987687629989355938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3915d4d2151e1f9e0800000000000000
+      internalID: -1589241454716431981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 27
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635df15b40334fc0800000000000000
+      internalID: -3511910184362618016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ddfd55cfeae600800000000000000
+      internalID: 498474339742374215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96638b7628789aa30800000000000000
+      internalID: 4227058719419545193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heal_Aura_Small_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce57ef0d5234d4040800000000000000
+      internalID: 4633433421333296620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Heal_Aura_Small_sheet_0: 6139314579309163222
+      Heal_Aura_Small_sheet_1: 7627209221907430701
+      Heal_Aura_Small_sheet_10: -5326948154072776433
+      Heal_Aura_Small_sheet_11: 7874146771770293137
+      Heal_Aura_Small_sheet_12: 1181101107507374204
+      Heal_Aura_Small_sheet_13: 5386348530365720615
+      Heal_Aura_Small_sheet_14: 412018115688243884
+      Heal_Aura_Small_sheet_15: 7451452827776210246
+      Heal_Aura_Small_sheet_16: 6083130437182526489
+      Heal_Aura_Small_sheet_17: -2191716341798326424
+      Heal_Aura_Small_sheet_18: -3321369483046476059
+      Heal_Aura_Small_sheet_19: -1768413737033567956
+      Heal_Aura_Small_sheet_2: -1203589001339823765
+      Heal_Aura_Small_sheet_20: -5637909906856095238
+      Heal_Aura_Small_sheet_21: -6135719169729955954
+      Heal_Aura_Small_sheet_22: 6161349952447005341
+      Heal_Aura_Small_sheet_23: 76854906582394436
+      Heal_Aura_Small_sheet_24: -7467569299660230537
+      Heal_Aura_Small_sheet_25: 5095553523258521272
+      Heal_Aura_Small_sheet_26: -5006803296315003348
+      Heal_Aura_Small_sheet_27: -2222219834416915748
+      Heal_Aura_Small_sheet_28: -1794937647800871018
+      Heal_Aura_Small_sheet_29: -8010669476932894256
+      Heal_Aura_Small_sheet_3: -4343669917342735490
+      Heal_Aura_Small_sheet_30: -8654602505789102682
+      Heal_Aura_Small_sheet_31: -4488124325073563050
+      Heal_Aura_Small_sheet_32: -441491132885640645
+      Heal_Aura_Small_sheet_33: 4357017256079802296
+      Heal_Aura_Small_sheet_34: 7595180328786811903
+      Heal_Aura_Small_sheet_35: 394555513056083577
+      Heal_Aura_Small_sheet_36: -5079953440528715367
+      Heal_Aura_Small_sheet_37: 887555756553922795
+      Heal_Aura_Small_sheet_38: -2988844718323559422
+      Heal_Aura_Small_sheet_39: -4834794643243184124
+      Heal_Aura_Small_sheet_4: -8699239679919662736
+      Heal_Aura_Small_sheet_40: -960895557270304569
+      Heal_Aura_Small_sheet_41: 5463115529190816951
+      Heal_Aura_Small_sheet_42: 5935397677139914485
+      Heal_Aura_Small_sheet_43: -3308784651742135647
+      Heal_Aura_Small_sheet_44: -2870425892438810201
+      Heal_Aura_Small_sheet_45: -9045369451006111885
+      Heal_Aura_Small_sheet_46: 6398463249773234499
+      Heal_Aura_Small_sheet_47: 3248356961299318091
+      Heal_Aura_Small_sheet_48: 2765226378242501856
+      Heal_Aura_Small_sheet_49: 1515258362578652422
+      Heal_Aura_Small_sheet_5: 2593886244357646886
+      Heal_Aura_Small_sheet_50: -4461587036054763738
+      Heal_Aura_Small_sheet_51: -7917310157421026501
+      Heal_Aura_Small_sheet_52: 6561595730785679128
+      Heal_Aura_Small_sheet_53: 8249853302242097737
+      Heal_Aura_Small_sheet_54: -8394533137869787730
+      Heal_Aura_Small_sheet_55: -1462830961891786922
+      Heal_Aura_Small_sheet_56: 4236646197095022813
+      Heal_Aura_Small_sheet_57: 4790690535983832580
+      Heal_Aura_Small_sheet_58: -6987687629989355938
+      Heal_Aura_Small_sheet_59: -1589241454716431981
+      Heal_Aura_Small_sheet_6: -3430544000912116480
+      Heal_Aura_Small_sheet_60: -3511910184362618016
+      Heal_Aura_Small_sheet_61: 498474339742374215
+      Heal_Aura_Small_sheet_62: 4227058719419545193
+      Heal_Aura_Small_sheet_63: 4633433421333296620
+      Heal_Aura_Small_sheet_7: -5924299122654645725
+      Heal_Aura_Small_sheet_8: -4495492329401062046
+      Heal_Aura_Small_sheet_9: -4868445303206393130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

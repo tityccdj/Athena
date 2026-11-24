@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 267b07b7198fc594ea6ebc6db1bbbe84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -130067931468029392
+    second: Ice_Impact_Arcane_Small_sheet_0
+  - first:
+      213: 4430562990037198065
+    second: Ice_Impact_Arcane_Small_sheet_1
+  - first:
+      213: 2237497705675613895
+    second: Ice_Impact_Arcane_Small_sheet_2
+  - first:
+      213: 6066137869218121135
+    second: Ice_Impact_Arcane_Small_sheet_3
+  - first:
+      213: 1228301779949232914
+    second: Ice_Impact_Arcane_Small_sheet_4
+  - first:
+      213: 3633574863442543183
+    second: Ice_Impact_Arcane_Small_sheet_5
+  - first:
+      213: 1781200992601977799
+    second: Ice_Impact_Arcane_Small_sheet_6
+  - first:
+      213: 7428930966590521812
+    second: Ice_Impact_Arcane_Small_sheet_7
+  - first:
+      213: -2234295624924441478
+    second: Ice_Impact_Arcane_Small_sheet_8
+  - first:
+      213: -7092123699034230174
+    second: Ice_Impact_Arcane_Small_sheet_9
+  - first:
+      213: -5393208474697141089
+    second: Ice_Impact_Arcane_Small_sheet_10
+  - first:
+      213: -421192667286778667
+    second: Ice_Impact_Arcane_Small_sheet_11
+  - first:
+      213: 6448475305609545445
+    second: Ice_Impact_Arcane_Small_sheet_12
+  - first:
+      213: 1885159874158267864
+    second: Ice_Impact_Arcane_Small_sheet_13
+  - first:
+      213: 104356082590622141
+    second: Ice_Impact_Arcane_Small_sheet_14
+  - first:
+      213: 3525457207299360845
+    second: Ice_Impact_Arcane_Small_sheet_15
+  - first:
+      213: -3455626335933483996
+    second: Ice_Impact_Arcane_Small_sheet_16
+  - first:
+      213: -652465922351859462
+    second: Ice_Impact_Arcane_Small_sheet_17
+  - first:
+      213: 3953594922228639067
+    second: Ice_Impact_Arcane_Small_sheet_18
+  - first:
+      213: -2607855548328175423
+    second: Ice_Impact_Arcane_Small_sheet_19
+  - first:
+      213: 4432940771339322984
+    second: Ice_Impact_Arcane_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ad2cc7e7e13ef0800000000000000
+      internalID: -130067931468029392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4e828b0958c7d30800000000000000
+      internalID: 4430562990037198065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6eb8cfe403d0f10800000000000000
+      internalID: 2237497705675613895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa58a4590404f2450800000000000000
+      internalID: 6066137869218121135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213aad606fdcb0110800000000000000
+      internalID: 1228301779949232914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f420848361d0d6230800000000000000
+      internalID: 3633574863442543183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 24
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c33d959dd818b810800000000000000
+      internalID: 1781200992601977799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1078c9a5dd81760800000000000000
+      internalID: 7428930966590521812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745b2987ff2ef0e0800000000000000
+      internalID: -2234295624924441478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2627fe74217b39d90800000000000000
+      internalID: -7092123699034230174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fc0a77797725b0800000000000000
+      internalID: -5393208474697141089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 27
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4f5c208f972af0800000000000000
+      internalID: -421192667286778667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 24
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e64cbdff169d7950800000000000000
+      internalID: 6448475305609545445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd0604eaee692a10800000000000000
+      internalID: 1885159874158267864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db127f0ed4fb27100800000000000000
+      internalID: 104356082590622141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d484befb6a0fce030800000000000000
+      internalID: 3525457207299360845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424333af7262b00d0800000000000000
+      internalID: -3455626335933483996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87b2653b9f1f6f0800000000000000
+      internalID: -652465922351859462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55e93d72adfdd630800000000000000
+      internalID: 3953594922228639067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c81e5022390fcbd0800000000000000
+      internalID: -2607855548328175423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Arcane_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866c6021528f48d30800000000000000
+      internalID: 4432940771339322984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Impact_Arcane_Small_sheet_0: -130067931468029392
+      Ice_Impact_Arcane_Small_sheet_1: 4430562990037198065
+      Ice_Impact_Arcane_Small_sheet_10: -5393208474697141089
+      Ice_Impact_Arcane_Small_sheet_11: -421192667286778667
+      Ice_Impact_Arcane_Small_sheet_12: 6448475305609545445
+      Ice_Impact_Arcane_Small_sheet_13: 1885159874158267864
+      Ice_Impact_Arcane_Small_sheet_14: 104356082590622141
+      Ice_Impact_Arcane_Small_sheet_15: 3525457207299360845
+      Ice_Impact_Arcane_Small_sheet_16: -3455626335933483996
+      Ice_Impact_Arcane_Small_sheet_17: -652465922351859462
+      Ice_Impact_Arcane_Small_sheet_18: 3953594922228639067
+      Ice_Impact_Arcane_Small_sheet_19: -2607855548328175423
+      Ice_Impact_Arcane_Small_sheet_2: 2237497705675613895
+      Ice_Impact_Arcane_Small_sheet_20: 4432940771339322984
+      Ice_Impact_Arcane_Small_sheet_3: 6066137869218121135
+      Ice_Impact_Arcane_Small_sheet_4: 1228301779949232914
+      Ice_Impact_Arcane_Small_sheet_5: 3633574863442543183
+      Ice_Impact_Arcane_Small_sheet_6: 1781200992601977799
+      Ice_Impact_Arcane_Small_sheet_7: 7428930966590521812
+      Ice_Impact_Arcane_Small_sheet_8: -2234295624924441478
+      Ice_Impact_Arcane_Small_sheet_9: -7092123699034230174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

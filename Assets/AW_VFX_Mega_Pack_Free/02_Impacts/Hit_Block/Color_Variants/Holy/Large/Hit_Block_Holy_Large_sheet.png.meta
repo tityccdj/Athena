@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 813f303ef13eae34a8e37ed598a3f12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9098185768655853766
+    second: Hit_Block_Holy_Large_sheet_0
+  - first:
+      213: -5078405318748663829
+    second: Hit_Block_Holy_Large_sheet_1
+  - first:
+      213: 3999002495708428842
+    second: Hit_Block_Holy_Large_sheet_2
+  - first:
+      213: -7653748263193458045
+    second: Hit_Block_Holy_Large_sheet_3
+  - first:
+      213: -5148373939001426816
+    second: Hit_Block_Holy_Large_sheet_4
+  - first:
+      213: -1243097768232968012
+    second: Hit_Block_Holy_Large_sheet_5
+  - first:
+      213: -3986801364855395597
+    second: Hit_Block_Holy_Large_sheet_6
+  - first:
+      213: 4213533743981744363
+    second: Hit_Block_Holy_Large_sheet_7
+  - first:
+      213: 8754682885685391444
+    second: Hit_Block_Holy_Large_sheet_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37e0c66f30ccb180800000000000000
+      internalID: -9098185768655853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 15
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0886e441e589b0800000000000000
+      internalID: -5078405318748663829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af99c059f4f7730800000000000000
+      internalID: 3999002495708428842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4714818c68c590800000000000000
+      internalID: -7653748263193458045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 11
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf0f20e2d4d88b0800000000000000
+      internalID: -5148373939001426816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a46f7a21afbee0800000000000000
+      internalID: -1243097768232968012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 22
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa60c918490ca8c0800000000000000
+      internalID: -3986801364855395597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0572bad9a797a30800000000000000
+      internalID: 4213533743981744363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Holy_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450387243b1ee7970800000000000000
+      internalID: 8754682885685391444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Block_Holy_Large_sheet_0: -9098185768655853766
+      Hit_Block_Holy_Large_sheet_1: -5078405318748663829
+      Hit_Block_Holy_Large_sheet_2: 3999002495708428842
+      Hit_Block_Holy_Large_sheet_3: -7653748263193458045
+      Hit_Block_Holy_Large_sheet_4: -5148373939001426816
+      Hit_Block_Holy_Large_sheet_5: -1243097768232968012
+      Hit_Block_Holy_Large_sheet_6: -3986801364855395597
+      Hit_Block_Holy_Large_sheet_7: 4213533743981744363
+      Hit_Block_Holy_Large_sheet_8: 8754682885685391444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -251,6 +251,8 @@ Transform:
   - {fileID: 1933082758}
   - {fileID: 1593848831}
   - {fileID: 527837945}
+  - {fileID: 683961581}
+  - {fileID: 1976208063}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &279934087
@@ -290,6 +292,27 @@ MonoBehaviour:
   _knockbackStunDuration: 0.2
   _healAmount: 2
   _healCooldown: 30
+  _onDamagedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onHealedEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1976208064}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleEventTrigger, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Heal
+          m_BoolArgument: 0
+        m_CallState: 2
+  _onDeathEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _spriteRenderer: {fileID: 1453037744}
   _flashInterval: 0.1
 --- !u!114 &279934089
@@ -313,6 +336,15 @@ MonoBehaviour:
   _hit2Knockback: 7
   _attack1LockDuration: 0.35
   _attack2LockDuration: 0.4
+  _onAttack1Event:
+    m_PersistentCalls:
+      m_Calls: []
+  _onAttack2Event:
+    m_PersistentCalls:
+      m_Calls: []
+  _onDashAttackEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _projectilePrefab: {fileID: 6660138297621625085, guid: c2c963801e1060a46af8e0ec1193f1a5, type: 3}
   _projectileSpawnPoint: {fileID: 1593848831}
   _hitbox: {fileID: 527837946}
@@ -331,6 +363,24 @@ MonoBehaviour:
   _dashSpeed: 22
   _dashDuration: 0.22
   _dashCooldown: 0.8
+  _onDashStartedEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 683961580}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleEventTrigger, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_dash
+          m_BoolArgument: 0
+        m_CallState: 2
+  _onDashEndedEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _enemyLayer:
     serializedVersion: 2
     m_Bits: 256
@@ -358,6 +408,12 @@ MonoBehaviour:
   _wallJumpForceY: 13
   _wallJumpForceX: 7
   _wallJumpInputLockDuration: 0.2
+  _onJumpEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onLandEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _visualTransform: {fileID: 1453037743}
 --- !u!114 &279934092
 MonoBehaviour:
@@ -510,6 +566,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!61 &402280577
 BoxCollider2D:
@@ -1465,6 +1524,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!61 &527777068
 BoxCollider2D:
@@ -1561,6 +1623,15 @@ MonoBehaviour:
   _targetLayers:
     serializedVersion: 2
     m_Bits: 256
+  _hitParticleName: Player_hit
+  _hitParticlePrefab: {fileID: 0}
+  _particleOffset: {x: 0, y: 0, z: 0}
+  _onHitTargetEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onHitPositionEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &573584200
 GameObject:
   m_ObjectHideFlags: 0
@@ -1987,6 +2058,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!61 &644259113
 BoxCollider2D:
@@ -2266,6 +2340,55 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &683961579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 683961581}
+  - component: {fileID: 683961580}
+  m_Layer: 0
+  m_Name: ParticlePlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &683961580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683961579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbebbd9a6c75d748b7072f12c1994c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _particleName: Player_dash
+  _directPrefab: {fileID: 0}
+  _customSpawnPoint: {fileID: 0}
+  _offset: {x: 0, y: -0.5, z: 0}
+  _parentToThis: 0
+--- !u!4 &683961581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683961579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 279934086}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &707286097
 GameObject:
@@ -13270,7 +13393,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 40
+  _maxHealth: 30
+  _onDamagedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onDefeatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _spriteRenderer: {fileID: 0}
   _flashColor: {r: 1, g: 0, b: 0, a: 1}
   _flashDuration: 0.1
@@ -13415,6 +13544,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!1 &915390542
 GameObject:
@@ -14414,7 +14546,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 60
+  _maxHealth: 50
+  _onDamagedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onDefeatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _spriteRenderer: {fileID: 0}
   _flashColor: {r: 1, g: 0, b: 0, a: 1}
   _flashDuration: 0.1
@@ -14555,6 +14693,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!1 &956236253
 GameObject:
@@ -15892,6 +16033,68 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1372409222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1372409224}
+  - component: {fileID: 1372409223}
+  m_Layer: 0
+  m_Name: ParticleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1372409223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372409222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff323fbf0bdb9b14ba9d51a85f2bff0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _particlePresets:
+  - Name: Player_hit
+    Prefab: {fileID: 5685173460331489059, guid: c19bd65d43ac6d04aa708c03f396d1e6, type: 3}
+    PrewarmCount: 0
+    CustomDuration: 0
+  - Name: Player_dash
+    Prefab: {fileID: 7906921348837728387, guid: 42e5290cd70a04746b7d6d766cd1404a, type: 3}
+    PrewarmCount: 0
+    CustomDuration: 0
+  - Name: Player_pPtjOH
+    Prefab: {fileID: 3866779600986043190, guid: 5b3e54164bd9cef41a00e41538e23287, type: 3}
+    PrewarmCount: 0
+    CustomDuration: 0
+  - Name: Player_Heal
+    Prefab: {fileID: 5572255165928570106, guid: 9cc5cb82df6ed2549bf5f568a0798996, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
+  _dontDestroyOnLoad: 0
+--- !u!4 &1372409224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372409222}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 42.365574, y: 5.3245916, z: -0.03464867}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1400891318
 GameObject:
   m_ObjectHideFlags: 0
@@ -15931,6 +16134,12 @@ MonoBehaviour:
   _room3Gate: {fileID: 930160118}
   _ghostTransition: {fileID: 2050000012}
   _corridorWaypoint: {fileID: 0}
+  _onPhaseChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onAllBossDefeatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _player: {fileID: 0}
 --- !u!4 &1400891320
 Transform:
@@ -17305,6 +17514,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!61 &1842245207
 BoxCollider2D:
@@ -22799,6 +23011,55 @@ MonoBehaviour:
   _room3Name: Room3_Boss
   _useSmoothLerp: 1
   _lerpSpeed: 6
+--- !u!1 &1976208062
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1976208063}
+  - component: {fileID: 1976208064}
+  m_Layer: 0
+  m_Name: HealParticel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1976208063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976208062}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 279934086}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1976208064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976208062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbebbd9a6c75d748b7072f12c1994c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _particleName: Player_Heal
+  _directPrefab: {fileID: 0}
+  _customSpawnPoint: {fileID: 1976208063}
+  _offset: {x: 0, y: 0, z: 0}
+  _parentToThis: 0
 --- !u!1 &1991248212
 GameObject:
   m_ObjectHideFlags: 0
@@ -23162,7 +23423,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 20
+  _maxHealth: 15
+  _onDamagedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _onDefeatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _spriteRenderer: {fileID: 0}
   _flashColor: {r: 1, g: 0, b: 0, a: 1}
   _flashDuration: 0.1
@@ -23394,6 +23661,9 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 1
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
 --- !u!60 &2050000043
 PolygonCollider2D:
@@ -23478,3 +23748,4 @@ SceneRoots:
   - {fileID: 462117024}
   - {fileID: 979817394}
   - {fileID: 1799310308}
+  - {fileID: 1372409224}

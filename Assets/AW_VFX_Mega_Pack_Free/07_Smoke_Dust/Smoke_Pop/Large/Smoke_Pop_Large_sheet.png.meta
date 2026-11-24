@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 97a196f3259e9ef46b4bc386cae31e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4597874805971176171
+    second: Smoke_Pop_Large_sheet_0
+  - first:
+      213: -2547029555789661233
+    second: Smoke_Pop_Large_sheet_1
+  - first:
+      213: -3479518042494120529
+    second: Smoke_Pop_Large_sheet_2
+  - first:
+      213: 7730980396898346036
+    second: Smoke_Pop_Large_sheet_3
+  - first:
+      213: 5413961449703918941
+    second: Smoke_Pop_Large_sheet_4
+  - first:
+      213: -8976212063200301620
+    second: Smoke_Pop_Large_sheet_5
+  - first:
+      213: 4799114135919986103
+    second: Smoke_Pop_Large_sheet_6
+  - first:
+      213: 661111850117741994
+    second: Smoke_Pop_Large_sheet_7
+  - first:
+      213: 6330870351899197421
+    second: Smoke_Pop_Large_sheet_8
+  - first:
+      213: 6464373403703730405
+    second: Smoke_Pop_Large_sheet_9
+  - first:
+      213: -8042362411416085795
+    second: Smoke_Pop_Large_sheet_10
+  - first:
+      213: 117370575103664280
+    second: Smoke_Pop_Large_sheet_11
+  - first:
+      213: -7881955072802846028
+    second: Smoke_Pop_Large_sheet_12
+  - first:
+      213: 7274225306004127184
+    second: Smoke_Pop_Large_sheet_13
+  - first:
+      213: -696393822283235730
+    second: Smoke_Pop_Large_sheet_14
+  - first:
+      213: 7374048546360075376
+    second: Smoke_Pop_Large_sheet_15
+  - first:
+      213: -3612293848845484116
+    second: Smoke_Pop_Large_sheet_16
+  - first:
+      213: 451221041926190095
+    second: Smoke_Pop_Large_sheet_17
+  - first:
+      213: -2408526564144402342
+    second: Smoke_Pop_Large_sheet_18
+  - first:
+      213: -6776537130104207210
+    second: Smoke_Pop_Large_sheet_19
+  - first:
+      213: 7215992022133644946
+    second: Smoke_Pop_Large_sheet_20
+  - first:
+      213: 904372164169111217
+    second: Smoke_Pop_Large_sheet_21
+  - first:
+      213: 6870946745345735269
+    second: Smoke_Pop_Large_sheet_22
+  - first:
+      213: -7304374979230815096
+    second: Smoke_Pop_Large_sheet_23
+  - first:
+      213: 1547011455040540112
+    second: Smoke_Pop_Large_sheet_24
+  - first:
+      213: 2291455387212699969
+    second: Smoke_Pop_Large_sheet_25
+  - first:
+      213: 5670519947734192359
+    second: Smoke_Pop_Large_sheet_26
+  - first:
+      213: -4778552957393134070
+    second: Smoke_Pop_Large_sheet_27
+  - first:
+      213: 373417295859609722
+    second: Smoke_Pop_Large_sheet_28
+  - first:
+      213: -5667216786748760049
+    second: Smoke_Pop_Large_sheet_29
+  - first:
+      213: 1054956297157324078
+    second: Smoke_Pop_Large_sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515be5c79311130c0800000000000000
+      internalID: -4597874805971176171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb7cbe1d1227acd0800000000000000
+      internalID: -2547029555789661233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad439f86c446bfc0800000000000000
+      internalID: -3479518042494120529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43462a2e5b5f94b60800000000000000
+      internalID: 7730980396898346036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc24d0141422b40800000000000000
+      internalID: 5413961449703918941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdae50cfa61e6380800000000000000
+      internalID: -8976212063200301620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5011c31e0e99240800000000000000
+      internalID: 4799114135919986103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb11799bdbc2900800000000000000
+      internalID: 661111850117741994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff00cea05cbd750800000000000000
+      internalID: 6330870351899197421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06e376c5116b950800000000000000
+      internalID: 6464373403703730405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 21
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda17904ff9c36090800000000000000
+      internalID: -8042362411416085795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890232c8aebf0a100800000000000000
+      internalID: 117370575103664280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8ff52f9bad9290800000000000000
+      internalID: -7881955072802846028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 21
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd7884106d33f460800000000000000
+      internalID: 7274225306004127184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 13
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef70f1289e556f0800000000000000
+      internalID: -696393822283235730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07427426512e55660800000000000000
+      internalID: 7374048546360075376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 23
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7c3b12ed8eddc0800000000000000
+      internalID: -3612293848845484116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04313f952f034600800000000000000
+      internalID: 451221041926190095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50b410d9d1339ed0800000000000000
+      internalID: -2408526564144402342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 23
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698c4e04267e4f1a0800000000000000
+      internalID: -6776537130104207210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 14
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e145d138a542460800000000000000
+      internalID: 7215992022133644946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 18
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61d0611b9fc8c00800000000000000
+      internalID: 904372164169111217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 25
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a75fa39a18a5f50800000000000000
+      internalID: 6870946745345735269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c22b818a5a1aa90800000000000000
+      internalID: -7304374979230815096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddc621d8b6187510800000000000000
+      internalID: 1547011455040540112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 26
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d775b882eccf10800000000000000
+      internalID: 2291455387212699969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0967849dbb1be40800000000000000
+      internalID: 5670519947734192359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e9032376b2fadb0800000000000000
+      internalID: -4778552957393134070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 27
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70f2b85d05ae2500800000000000000
+      internalID: 373417295859609722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 17
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a5b0db500a51b0800000000000000
+      internalID: -5667216786748760049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Pop_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 17
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2daf91b925f3ae00800000000000000
+      internalID: 1054956297157324078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Smoke_Pop_Large_sheet_0: -4597874805971176171
+      Smoke_Pop_Large_sheet_1: -2547029555789661233
+      Smoke_Pop_Large_sheet_10: -8042362411416085795
+      Smoke_Pop_Large_sheet_11: 117370575103664280
+      Smoke_Pop_Large_sheet_12: -7881955072802846028
+      Smoke_Pop_Large_sheet_13: 7274225306004127184
+      Smoke_Pop_Large_sheet_14: -696393822283235730
+      Smoke_Pop_Large_sheet_15: 7374048546360075376
+      Smoke_Pop_Large_sheet_16: -3612293848845484116
+      Smoke_Pop_Large_sheet_17: 451221041926190095
+      Smoke_Pop_Large_sheet_18: -2408526564144402342
+      Smoke_Pop_Large_sheet_19: -6776537130104207210
+      Smoke_Pop_Large_sheet_2: -3479518042494120529
+      Smoke_Pop_Large_sheet_20: 7215992022133644946
+      Smoke_Pop_Large_sheet_21: 904372164169111217
+      Smoke_Pop_Large_sheet_22: 6870946745345735269
+      Smoke_Pop_Large_sheet_23: -7304374979230815096
+      Smoke_Pop_Large_sheet_24: 1547011455040540112
+      Smoke_Pop_Large_sheet_25: 2291455387212699969
+      Smoke_Pop_Large_sheet_26: 5670519947734192359
+      Smoke_Pop_Large_sheet_27: -4778552957393134070
+      Smoke_Pop_Large_sheet_28: 373417295859609722
+      Smoke_Pop_Large_sheet_29: -5667216786748760049
+      Smoke_Pop_Large_sheet_3: 7730980396898346036
+      Smoke_Pop_Large_sheet_30: 1054956297157324078
+      Smoke_Pop_Large_sheet_4: 5413961449703918941
+      Smoke_Pop_Large_sheet_5: -8976212063200301620
+      Smoke_Pop_Large_sheet_6: 4799114135919986103
+      Smoke_Pop_Large_sheet_7: 661111850117741994
+      Smoke_Pop_Large_sheet_8: 6330870351899197421
+      Smoke_Pop_Large_sheet_9: 6464373403703730405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

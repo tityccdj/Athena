@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 31a989cc8113a1a44abeaa6ab277d228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8235255943244188200
+    second: Icon_Dots_Small_sheet_0
+  - first:
+      213: 5594190251268445495
+    second: Icon_Dots_Small_sheet_1
+  - first:
+      213: -3523456444129555617
+    second: Icon_Dots_Small_sheet_2
+  - first:
+      213: -7688712496991244880
+    second: Icon_Dots_Small_sheet_3
+  - first:
+      213: -3191069124602827947
+    second: Icon_Dots_Small_sheet_4
+  - first:
+      213: 2260743116605501434
+    second: Icon_Dots_Small_sheet_5
+  - first:
+      213: 4810902823948441451
+    second: Icon_Dots_Small_sheet_6
+  - first:
+      213: 822363088025893083
+    second: Icon_Dots_Small_sheet_7
+  - first:
+      213: 2308884210580111768
+    second: Icon_Dots_Small_sheet_8
+  - first:
+      213: 109061681675932398
+    second: Icon_Dots_Small_sheet_9
+  - first:
+      213: 5152732310038789559
+    second: Icon_Dots_Small_sheet_10
+  - first:
+      213: 330100809435754987
+    second: Icon_Dots_Small_sheet_11
+  - first:
+      213: 6911272851606035173
+    second: Icon_Dots_Small_sheet_12
+  - first:
+      213: 5277903470148839115
+    second: Icon_Dots_Small_sheet_13
+  - first:
+      213: 5404565989946334294
+    second: Icon_Dots_Small_sheet_14
+  - first:
+      213: -5398828027694130197
+    second: Icon_Dots_Small_sheet_15
+  - first:
+      213: 3672199811218596487
+    second: Icon_Dots_Small_sheet_16
+  - first:
+      213: 5104716743645416454
+    second: Icon_Dots_Small_sheet_17
+  - first:
+      213: -5481053756211753668
+    second: Icon_Dots_Small_sheet_18
+  - first:
+      213: -8338894803204346686
+    second: Icon_Dots_Small_sheet_19
+  - first:
+      213: 1747472353734428002
+    second: Icon_Dots_Small_sheet_20
+  - first:
+      213: 8167167707129515885
+    second: Icon_Dots_Small_sheet_21
+  - first:
+      213: -8250751089816364427
+    second: Icon_Dots_Small_sheet_22
+  - first:
+      213: -2434918495097102478
+    second: Icon_Dots_Small_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8e7be5a1894270800000000000000
+      internalID: 8235255943244188200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7351fcce46e82ad40800000000000000
+      internalID: 5594190251268445495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc81a380b2a1fc0800000000000000
+      internalID: -3523456444129555617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdeab478b43c4590800000000000000
+      internalID: -7688712496991244880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55be456c98b07b3d0800000000000000
+      internalID: -3191069124602827947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2ea9f2e5cf5f10800000000000000
+      internalID: 2260743116605501434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67de5e01a2c3c240800000000000000
+      internalID: 4810902823948441451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83d2a1fde996b00800000000000000
+      internalID: 822363088025893083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c22fd4fdca0020800000000000000
+      internalID: 2308884210580111768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee296ea8507738100800000000000000
+      internalID: 109061681675932398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3a825cbe228740800000000000000
+      internalID: 5152732310038789559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1bc7eefe0c49400800000000000000
+      internalID: 330100809435754987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea57c18a06c9ef50800000000000000
+      internalID: 6911272851606035173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e5091e31ee3940800000000000000
+      internalID: 5277903470148839115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c98eb1220e00b40800000000000000
+      internalID: 5404565989946334294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5ed553828315b0800000000000000
+      internalID: -5398828027694130197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e0fba54646f230800000000000000
+      internalID: 3672199811218596487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c49f715d897d640800000000000000
+      internalID: 5104716743645416454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8d2a06a26fe3b0800000000000000
+      internalID: -5481053756211753668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc67ab9b5b464c80800000000000000
+      internalID: -8338894803204346686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650823e8d4404810800000000000000
+      internalID: 1747472353734428002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0f7412cb975170800000000000000
+      internalID: 8167167707129515885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a145129917f7d80800000000000000
+      internalID: -8250751089816364427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dots_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f55ba878e653ed0800000000000000
+      internalID: -2434918495097102478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icon_Dots_Small_sheet_0: 8235255943244188200
+      Icon_Dots_Small_sheet_1: 5594190251268445495
+      Icon_Dots_Small_sheet_10: 5152732310038789559
+      Icon_Dots_Small_sheet_11: 330100809435754987
+      Icon_Dots_Small_sheet_12: 6911272851606035173
+      Icon_Dots_Small_sheet_13: 5277903470148839115
+      Icon_Dots_Small_sheet_14: 5404565989946334294
+      Icon_Dots_Small_sheet_15: -5398828027694130197
+      Icon_Dots_Small_sheet_16: 3672199811218596487
+      Icon_Dots_Small_sheet_17: 5104716743645416454
+      Icon_Dots_Small_sheet_18: -5481053756211753668
+      Icon_Dots_Small_sheet_19: -8338894803204346686
+      Icon_Dots_Small_sheet_2: -3523456444129555617
+      Icon_Dots_Small_sheet_20: 1747472353734428002
+      Icon_Dots_Small_sheet_21: 8167167707129515885
+      Icon_Dots_Small_sheet_22: -8250751089816364427
+      Icon_Dots_Small_sheet_23: -2434918495097102478
+      Icon_Dots_Small_sheet_3: -7688712496991244880
+      Icon_Dots_Small_sheet_4: -3191069124602827947
+      Icon_Dots_Small_sheet_5: 2260743116605501434
+      Icon_Dots_Small_sheet_6: 4810902823948441451
+      Icon_Dots_Small_sheet_7: 822363088025893083
+      Icon_Dots_Small_sheet_8: 2308884210580111768
+      Icon_Dots_Small_sheet_9: 109061681675932398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

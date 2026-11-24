@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3dbb7317c9f47824e99b2343d9becb13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5554243712086898829
+    second: Fire_ChargeBurst_Max_Large_sheet_0
+  - first:
+      213: -6309317738650743148
+    second: Fire_ChargeBurst_Max_Large_sheet_1
+  - first:
+      213: -3158124844695056332
+    second: Fire_ChargeBurst_Max_Large_sheet_2
+  - first:
+      213: 7034900625857018616
+    second: Fire_ChargeBurst_Max_Large_sheet_3
+  - first:
+      213: -3320126778859537886
+    second: Fire_ChargeBurst_Max_Large_sheet_4
+  - first:
+      213: -1461360021965038192
+    second: Fire_ChargeBurst_Max_Large_sheet_5
+  - first:
+      213: -3402754738133035429
+    second: Fire_ChargeBurst_Max_Large_sheet_6
+  - first:
+      213: -7751995652310480110
+    second: Fire_ChargeBurst_Max_Large_sheet_7
+  - first:
+      213: -1259457850952114141
+    second: Fire_ChargeBurst_Max_Large_sheet_8
+  - first:
+      213: 4192160005456341861
+    second: Fire_ChargeBurst_Max_Large_sheet_9
+  - first:
+      213: 2225976947946747692
+    second: Fire_ChargeBurst_Max_Large_sheet_10
+  - first:
+      213: -3778012974598943145
+    second: Fire_ChargeBurst_Max_Large_sheet_11
+  - first:
+      213: 7300288504459251162
+    second: Fire_ChargeBurst_Max_Large_sheet_12
+  - first:
+      213: -7279971663317545143
+    second: Fire_ChargeBurst_Max_Large_sheet_13
+  - first:
+      213: -8930896765722639392
+    second: Fire_ChargeBurst_Max_Large_sheet_14
+  - first:
+      213: 1082684274763267435
+    second: Fire_ChargeBurst_Max_Large_sheet_15
+  - first:
+      213: -1660648371453348928
+    second: Fire_ChargeBurst_Max_Large_sheet_16
+  - first:
+      213: 1435300515469781316
+    second: Fire_ChargeBurst_Max_Large_sheet_17
+  - first:
+      213: 5712539580453320790
+    second: Fire_ChargeBurst_Max_Large_sheet_18
+  - first:
+      213: 1198873649321204012
+    second: Fire_ChargeBurst_Max_Large_sheet_19
+  - first:
+      213: -4298439320431451746
+    second: Fire_ChargeBurst_Max_Large_sheet_20
+  - first:
+      213: -5883352899438808471
+    second: Fire_ChargeBurst_Max_Large_sheet_21
+  - first:
+      213: -586125084029131880
+    second: Fire_ChargeBurst_Max_Large_sheet_22
+  - first:
+      213: -5540462541942671718
+    second: Fire_ChargeBurst_Max_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 154
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88f2ee7a33a41d40800000000000000
+      internalID: 5554243712086898829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ec6a4e1fcc078a0800000000000000
+      internalID: -6309317738650743148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 67
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4309d9baf261c24d0800000000000000
+      internalID: -3158124844695056332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 146
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa7162c8dcf0a160800000000000000
+      internalID: 7034900625857018616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 109
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab0d0194a8ce1d0800000000000000
+      internalID: -3320126778859537886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 107
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d11d97dc438bbe0800000000000000
+      internalID: -1461360021965038192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 75
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569dcf189cf6c0d0800000000000000
+      internalID: -3402754738133035429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 137
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b49aba6016b6490800000000000000
+      internalID: -7751995652310480110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 139
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202c68e1c1858ee0800000000000000
+      internalID: -1259457850952114141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 144
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b23de505b8d2a30800000000000000
+      internalID: 4192160005456341861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f29c8d3244ee10800000000000000
+      internalID: 2225976947946747692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 130
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8634673dc19bc0800000000000000
+      internalID: -3778012974598943145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 133
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add492a57b5df4560800000000000000
+      internalID: 7300288504459251162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4c09d75858fa90800000000000000
+      internalID: -7279971663317545143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ca61a5b41f0480800000000000000
+      internalID: -8930896765722639392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 76
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7a219c97760f00800000000000000
+      internalID: 1082684274763267435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 53
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c331baca1134f8e0800000000000000
+      internalID: -1660648371453348928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 51
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e28ad6363be310800000000000000
+      internalID: 1435300515469781316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658774a6b74074f40800000000000000
+      internalID: 5712539580453320790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 91
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29dd5e6b3143a010800000000000000
+      internalID: 1198873649321204012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ac115630e854c0800000000000000
+      internalID: -4298439320431451746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 62
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9627fa495b12a5ea0800000000000000
+      internalID: -5883352899438808471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 58
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8936f7c675aadd7f0800000000000000
+      internalID: -586125084029131880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeBurst_Max_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 39
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9636283ca25c13b0800000000000000
+      internalID: -5540462541942671718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_ChargeBurst_Max_Large_sheet_0: 5554243712086898829
+      Fire_ChargeBurst_Max_Large_sheet_1: -6309317738650743148
+      Fire_ChargeBurst_Max_Large_sheet_10: 2225976947946747692
+      Fire_ChargeBurst_Max_Large_sheet_11: -3778012974598943145
+      Fire_ChargeBurst_Max_Large_sheet_12: 7300288504459251162
+      Fire_ChargeBurst_Max_Large_sheet_13: -7279971663317545143
+      Fire_ChargeBurst_Max_Large_sheet_14: -8930896765722639392
+      Fire_ChargeBurst_Max_Large_sheet_15: 1082684274763267435
+      Fire_ChargeBurst_Max_Large_sheet_16: -1660648371453348928
+      Fire_ChargeBurst_Max_Large_sheet_17: 1435300515469781316
+      Fire_ChargeBurst_Max_Large_sheet_18: 5712539580453320790
+      Fire_ChargeBurst_Max_Large_sheet_19: 1198873649321204012
+      Fire_ChargeBurst_Max_Large_sheet_2: -3158124844695056332
+      Fire_ChargeBurst_Max_Large_sheet_20: -4298439320431451746
+      Fire_ChargeBurst_Max_Large_sheet_21: -5883352899438808471
+      Fire_ChargeBurst_Max_Large_sheet_22: -586125084029131880
+      Fire_ChargeBurst_Max_Large_sheet_23: -5540462541942671718
+      Fire_ChargeBurst_Max_Large_sheet_3: 7034900625857018616
+      Fire_ChargeBurst_Max_Large_sheet_4: -3320126778859537886
+      Fire_ChargeBurst_Max_Large_sheet_5: -1461360021965038192
+      Fire_ChargeBurst_Max_Large_sheet_6: -3402754738133035429
+      Fire_ChargeBurst_Max_Large_sheet_7: -7751995652310480110
+      Fire_ChargeBurst_Max_Large_sheet_8: -1259457850952114141
+      Fire_ChargeBurst_Max_Large_sheet_9: 4192160005456341861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

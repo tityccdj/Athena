@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 07ba042b0f002c540b5160fd2f605a75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2346601732937230506
+    second: Chest_Burst_Small_sheet_0
+  - first:
+      213: 6571290428625990252
+    second: Chest_Burst_Small_sheet_1
+  - first:
+      213: 8582980065813068920
+    second: Chest_Burst_Small_sheet_2
+  - first:
+      213: 221788953399804033
+    second: Chest_Burst_Small_sheet_3
+  - first:
+      213: -5902071515832336086
+    second: Chest_Burst_Small_sheet_4
+  - first:
+      213: 8408214897825990506
+    second: Chest_Burst_Small_sheet_5
+  - first:
+      213: 3273758489406700107
+    second: Chest_Burst_Small_sheet_6
+  - first:
+      213: -8543773066333651273
+    second: Chest_Burst_Small_sheet_7
+  - first:
+      213: -5361443017480308642
+    second: Chest_Burst_Small_sheet_8
+  - first:
+      213: 412597388820585715
+    second: Chest_Burst_Small_sheet_9
+  - first:
+      213: -3634971682014029529
+    second: Chest_Burst_Small_sheet_10
+  - first:
+      213: 736172392330805944
+    second: Chest_Burst_Small_sheet_11
+  - first:
+      213: -411563934230883902
+    second: Chest_Burst_Small_sheet_12
+  - first:
+      213: 7637157635431059078
+    second: Chest_Burst_Small_sheet_13
+  - first:
+      213: -5237556105962089501
+    second: Chest_Burst_Small_sheet_14
+  - first:
+      213: -7806486871635089812
+    second: Chest_Burst_Small_sheet_15
+  - first:
+      213: -3898076253783779344
+    second: Chest_Burst_Small_sheet_16
+  - first:
+      213: 8976680249528591820
+    second: Chest_Burst_Small_sheet_17
+  - first:
+      213: -7565247850595781642
+    second: Chest_Burst_Small_sheet_18
+  - first:
+      213: 7385464601282529761
+    second: Chest_Burst_Small_sheet_19
+  - first:
+      213: -7990499463835367640
+    second: Chest_Burst_Small_sheet_20
+  - first:
+      213: -972598420182715242
+    second: Chest_Burst_Small_sheet_21
+  - first:
+      213: -8976288937610255539
+    second: Chest_Burst_Small_sheet_22
+  - first:
+      213: -1222555930594178627
+    second: Chest_Burst_Small_sheet_23
+  - first:
+      213: -2368503017683566570
+    second: Chest_Burst_Small_sheet_24
+  - first:
+      213: 2363459213846851059
+    second: Chest_Burst_Small_sheet_25
+  - first:
+      213: -3088252476771177895
+    second: Chest_Burst_Small_sheet_26
+  - first:
+      213: -9215353831720161440
+    second: Chest_Burst_Small_sheet_27
+  - first:
+      213: 7746083857455226263
+    second: Chest_Burst_Small_sheet_28
+  - first:
+      213: -7836178494185857436
+    second: Chest_Burst_Small_sheet_29
+  - first:
+      213: 1299952514205485449
+    second: Chest_Burst_Small_sheet_30
+  - first:
+      213: 5126992502897678128
+    second: Chest_Burst_Small_sheet_31
+  - first:
+      213: 5186858741281690822
+    second: Chest_Burst_Small_sheet_32
+  - first:
+      213: 8236255747715419066
+    second: Chest_Burst_Small_sheet_33
+  - first:
+      213: -647289437847516126
+    second: Chest_Burst_Small_sheet_34
+  - first:
+      213: 2304621290686527436
+    second: Chest_Burst_Small_sheet_35
+  - first:
+      213: 6267024884345645385
+    second: Chest_Burst_Small_sheet_36
+  - first:
+      213: -5985337193318375881
+    second: Chest_Burst_Small_sheet_37
+  - first:
+      213: -5341034001616553658
+    second: Chest_Burst_Small_sheet_38
+  - first:
+      213: -3941551146143438790
+    second: Chest_Burst_Small_sheet_39
+  - first:
+      213: 3629606680661067412
+    second: Chest_Burst_Small_sheet_40
+  - first:
+      213: 3390849158366672075
+    second: Chest_Burst_Small_sheet_41
+  - first:
+      213: -6460124095181821967
+    second: Chest_Burst_Small_sheet_42
+  - first:
+      213: 1933303874109055366
+    second: Chest_Burst_Small_sheet_43
+  - first:
+      213: -5884964142298770553
+    second: Chest_Burst_Small_sheet_44
+  - first:
+      213: -7461842130192290655
+    second: Chest_Burst_Small_sheet_45
+  - first:
+      213: -3530200870489438429
+    second: Chest_Burst_Small_sheet_46
+  - first:
+      213: 9213400419518836553
+    second: Chest_Burst_Small_sheet_47
+  - first:
+      213: 1378666697737033197
+    second: Chest_Burst_Small_sheet_48
+  - first:
+      213: 5573744160102192165
+    second: Chest_Burst_Small_sheet_49
+  - first:
+      213: -6079390463579055895
+    second: Chest_Burst_Small_sheet_50
+  - first:
+      213: 4059396168318789077
+    second: Chest_Burst_Small_sheet_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657d5fe18223f6fd0800000000000000
+      internalID: -2346601732937230506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623d2224d9e13b50800000000000000
+      internalID: 6571290428625990252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cfb0135eedc1770800000000000000
+      internalID: 8582980065813068920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1804086c0e3f31300800000000000000
+      internalID: 221788953399804033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ccd31a31a71ea0800000000000000
+      internalID: -5902071515832336086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 23
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c014a6eaffa470800000000000000
+      internalID: 8408214897825990506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a7181400abe6d20800000000000000
+      internalID: 3273758489406700107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 22
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bef1abb9ab6e6980800000000000000
+      internalID: -8543773066333651273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 27
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5876935bf35895b0800000000000000
+      internalID: -5361443017480308642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc97eb9327d9b500800000000000000
+      internalID: 412597388820585715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 22
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72913fc938cfd8dc0800000000000000
+      internalID: -3634971682014029529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c352f3e8673a00800000000000000
+      internalID: 736172392330805944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 28
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15ec948c4d94af0800000000000000
+      internalID: -411563934230883902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ec781f762acf960800000000000000
+      internalID: 7637157635431059078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 28
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e393fca8767057b0800000000000000
+      internalID: -5237556105962089501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a0700d89c9a390800000000000000
+      internalID: -7806486871635089812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 28
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f715d1dc4047e9c0800000000000000
+      internalID: -3898076253783779344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 23
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5aa6f5023939c70800000000000000
+      internalID: 8976680249528591820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3737b8927d20790800000000000000
+      internalID: -7565247850595781642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9caaccce07e7660800000000000000
+      internalID: 7385464601282529761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827c428b21b0c1190800000000000000
+      internalID: -7990499463835367640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69437efc3e2a082f0800000000000000
+      internalID: -972598420182715242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 15
+        width: 199
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e87805c0dd6380800000000000000
+      internalID: -8976288937610255539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db903e6cbdb980fe0800000000000000
+      internalID: -1222555930594178627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c785ed03612fd0800000000000000
+      internalID: -2368503017683566570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 13
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd277202a1bcc020800000000000000
+      internalID: 2363459213846851059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a65511cb25425d0800000000000000
+      internalID: -3088252476771177895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 13
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe8ccd38c7c1080800000000000000
+      internalID: -9215353831720161440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d91045a3e9f7b60800000000000000
+      internalID: 7746083857455226263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1f796d2d404390800000000000000
+      internalID: -7836178494185857436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989081a9ceb5a0210800000000000000
+      internalID: 1299952514205485449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379e45748cb62740800000000000000
+      internalID: 5126992502897678128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c499364b8c6bf740800000000000000
+      internalID: 5186858741281690822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc8d907fe0d4270800000000000000
+      internalID: 8236255747715419066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c8c3e8fad5407f0800000000000000
+      internalID: -647289437847516126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc73c2d7ad8abff10800000000000000
+      internalID: 2304621290686527436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a4fd9de1f8f650800000000000000
+      internalID: 6267024884345645385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e135bc88fcfeca0800000000000000
+      internalID: -5985337193318375881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649bc50afd5d0e5b0800000000000000
+      internalID: -5341034001616553658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 19
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382616ad1ccc49c0800000000000000
+      internalID: -3941551146143438790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496003bab04fe5230800000000000000
+      internalID: 3629606680661067412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b0631857be0f20800000000000000
+      internalID: 3390849158366672075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7eeb5dc570956a0800000000000000
+      internalID: -6460124095181821967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681282361a974da10800000000000000
+      internalID: 1933303874109055366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783de5eda48645ea0800000000000000
+      internalID: -5884964142298770553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac28dbfd16327890800000000000000
+      internalID: -7461842130192290655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 21
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c3b81305320fc0800000000000000
+      internalID: -3530200870489438429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 18
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94feadaedd29cdf70800000000000000
+      internalID: 9213400419518836553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d64e9e02022310800000000000000
+      internalID: 1378666697737033197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5249ccb58cae95d40800000000000000
+      internalID: 5573744160102192165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81977559aa1aba0800000000000000
+      internalID: -6079390463579055895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Burst_Small_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52937be4fd55830800000000000000
+      internalID: 4059396168318789077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chest_Burst_Small_sheet_0: -2346601732937230506
+      Chest_Burst_Small_sheet_1: 6571290428625990252
+      Chest_Burst_Small_sheet_10: -3634971682014029529
+      Chest_Burst_Small_sheet_11: 736172392330805944
+      Chest_Burst_Small_sheet_12: -411563934230883902
+      Chest_Burst_Small_sheet_13: 7637157635431059078
+      Chest_Burst_Small_sheet_14: -5237556105962089501
+      Chest_Burst_Small_sheet_15: -7806486871635089812
+      Chest_Burst_Small_sheet_16: -3898076253783779344
+      Chest_Burst_Small_sheet_17: 8976680249528591820
+      Chest_Burst_Small_sheet_18: -7565247850595781642
+      Chest_Burst_Small_sheet_19: 7385464601282529761
+      Chest_Burst_Small_sheet_2: 8582980065813068920
+      Chest_Burst_Small_sheet_20: -7990499463835367640
+      Chest_Burst_Small_sheet_21: -972598420182715242
+      Chest_Burst_Small_sheet_22: -8976288937610255539
+      Chest_Burst_Small_sheet_23: -1222555930594178627
+      Chest_Burst_Small_sheet_24: -2368503017683566570
+      Chest_Burst_Small_sheet_25: 2363459213846851059
+      Chest_Burst_Small_sheet_26: -3088252476771177895
+      Chest_Burst_Small_sheet_27: -9215353831720161440
+      Chest_Burst_Small_sheet_28: 7746083857455226263
+      Chest_Burst_Small_sheet_29: -7836178494185857436
+      Chest_Burst_Small_sheet_3: 221788953399804033
+      Chest_Burst_Small_sheet_30: 1299952514205485449
+      Chest_Burst_Small_sheet_31: 5126992502897678128
+      Chest_Burst_Small_sheet_32: 5186858741281690822
+      Chest_Burst_Small_sheet_33: 8236255747715419066
+      Chest_Burst_Small_sheet_34: -647289437847516126
+      Chest_Burst_Small_sheet_35: 2304621290686527436
+      Chest_Burst_Small_sheet_36: 6267024884345645385
+      Chest_Burst_Small_sheet_37: -5985337193318375881
+      Chest_Burst_Small_sheet_38: -5341034001616553658
+      Chest_Burst_Small_sheet_39: -3941551146143438790
+      Chest_Burst_Small_sheet_4: -5902071515832336086
+      Chest_Burst_Small_sheet_40: 3629606680661067412
+      Chest_Burst_Small_sheet_41: 3390849158366672075
+      Chest_Burst_Small_sheet_42: -6460124095181821967
+      Chest_Burst_Small_sheet_43: 1933303874109055366
+      Chest_Burst_Small_sheet_44: -5884964142298770553
+      Chest_Burst_Small_sheet_45: -7461842130192290655
+      Chest_Burst_Small_sheet_46: -3530200870489438429
+      Chest_Burst_Small_sheet_47: 9213400419518836553
+      Chest_Burst_Small_sheet_48: 1378666697737033197
+      Chest_Burst_Small_sheet_49: 5573744160102192165
+      Chest_Burst_Small_sheet_5: 8408214897825990506
+      Chest_Burst_Small_sheet_50: -6079390463579055895
+      Chest_Burst_Small_sheet_51: 4059396168318789077
+      Chest_Burst_Small_sheet_6: 3273758489406700107
+      Chest_Burst_Small_sheet_7: -8543773066333651273
+      Chest_Burst_Small_sheet_8: -5361443017480308642
+      Chest_Burst_Small_sheet_9: 412597388820585715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

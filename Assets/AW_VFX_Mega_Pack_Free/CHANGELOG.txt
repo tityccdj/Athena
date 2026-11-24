@@ -1,0 +1,16 @@
+AW - VFX MEGA PACK (FREE) - CHANGELOG
+
+v1.1 (2026-11)
+- NEW: 68 colour variants of the 17 most used effects (all Impacts and 7 Explosions), 4 colours each,
+  in Small and Large: Fire, Frost, Toxic, Arcane, Blood and Holy (each effect gets the 4 that differ from
+  its original colour).
+  A variant is the same animation in another colour: same frames, cell size, timing and pivot as the
+  original, so one import setup serves every colour. Brightness steps are kept 1 to 1, so every colour
+  reads as clearly as the original. Smoke, dust and white cores stay neutral.
+  Folder: <Category>/<Effect>/Color_Variants/<Colour>/<Small|Large>/
+- effects.json: new "variants" entry for those effects (sheet, frame size, frames, pivot).
+- Nothing from v1.0 changed: every v1.0 file keeps its name, size, pixels and pivot.
+  You can copy v1.1 over v1.0 safely.
+
+v1.0 (2026-11-12)
+- First release: 114 effects, 10 categories, Small + Large, 15 fps.

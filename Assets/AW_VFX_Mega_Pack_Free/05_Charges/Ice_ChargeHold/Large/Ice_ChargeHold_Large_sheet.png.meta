@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: b8bafc0f8d5a6be4e937ae29121d26d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2976958351635064456
+    second: Ice_ChargeHold_Large_sheet_0
+  - first:
+      213: -6913676186331021034
+    second: Ice_ChargeHold_Large_sheet_1
+  - first:
+      213: -4475153305322651590
+    second: Ice_ChargeHold_Large_sheet_2
+  - first:
+      213: 1535567738075871990
+    second: Ice_ChargeHold_Large_sheet_3
+  - first:
+      213: -8742418184858193705
+    second: Ice_ChargeHold_Large_sheet_4
+  - first:
+      213: 5335791941326990550
+    second: Ice_ChargeHold_Large_sheet_5
+  - first:
+      213: 234521595479011015
+    second: Ice_ChargeHold_Large_sheet_6
+  - first:
+      213: 9094592919979343785
+    second: Ice_ChargeHold_Large_sheet_7
+  - first:
+      213: 3960200528240108370
+    second: Ice_ChargeHold_Large_sheet_8
+  - first:
+      213: 3164002296563502461
+    second: Ice_ChargeHold_Large_sheet_9
+  - first:
+      213: 8221661776305811207
+    second: Ice_ChargeHold_Large_sheet_10
+  - first:
+      213: -2466786337729813320
+    second: Ice_ChargeHold_Large_sheet_11
+  - first:
+      213: -5646640470729741211
+    second: Ice_ChargeHold_Large_sheet_12
+  - first:
+      213: -8773694957292164087
+    second: Ice_ChargeHold_Large_sheet_13
+  - first:
+      213: 3601294761802037337
+    second: Ice_ChargeHold_Large_sheet_14
+  - first:
+      213: -4391183954689074227
+    second: Ice_ChargeHold_Large_sheet_15
+  - first:
+      213: 276263382068066627
+    second: Ice_ChargeHold_Large_sheet_16
+  - first:
+      213: -470449466125169445
+    second: Ice_ChargeHold_Large_sheet_17
+  - first:
+      213: 3082580657843877057
+    second: Ice_ChargeHold_Large_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886275429d7405920800000000000000
+      internalID: 2976958351635064456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61189a58320bd00a0800000000000000
+      internalID: -6913676186331021034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3004d877cf05e1c0800000000000000
+      internalID: -4475153305322651590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faff84d8be6f4510800000000000000
+      internalID: 1535567738075871990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 12
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0bc9deaf0bca680800000000000000
+      internalID: -8742418184858193705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 10
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcef2a108a8c0a40800000000000000
+      internalID: 5335791941326990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce2fa60620314300800000000000000
+      internalID: 234521595479011015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 77
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afb624531c763e70800000000000000
+      internalID: 9094592919979343785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e01df56575f630800000000000000
+      internalID: 3960200528240108370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 69
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d003b335bc8eb20800000000000000
+      internalID: 3164002296563502461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 61
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f6d1843d5391270800000000000000
+      internalID: 8221661776305811207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e3da35e634cdd0800000000000000
+      internalID: -2466786337729813320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c2fc7b86a13a1b0800000000000000
+      internalID: -5646640470729741211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 49
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce6fedbe29d3680800000000000000
+      internalID: -8773694957292164087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9587fa0618e5af130800000000000000
+      internalID: 3601294761802037337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdc5d65716f03c0800000000000000
+      internalID: -4391183954689074227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497d90151c75d300800000000000000
+      internalID: 276263382068066627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc46def3b0a879f0800000000000000
+      internalID: -470449466125169445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeHold_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 11
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4364ea6c687ca20800000000000000
+      internalID: 3082580657843877057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_ChargeHold_Large_sheet_0: 2976958351635064456
+      Ice_ChargeHold_Large_sheet_1: -6913676186331021034
+      Ice_ChargeHold_Large_sheet_10: 8221661776305811207
+      Ice_ChargeHold_Large_sheet_11: -2466786337729813320
+      Ice_ChargeHold_Large_sheet_12: -5646640470729741211
+      Ice_ChargeHold_Large_sheet_13: -8773694957292164087
+      Ice_ChargeHold_Large_sheet_14: 3601294761802037337
+      Ice_ChargeHold_Large_sheet_15: -4391183954689074227
+      Ice_ChargeHold_Large_sheet_16: 276263382068066627
+      Ice_ChargeHold_Large_sheet_17: -470449466125169445
+      Ice_ChargeHold_Large_sheet_18: 3082580657843877057
+      Ice_ChargeHold_Large_sheet_2: -4475153305322651590
+      Ice_ChargeHold_Large_sheet_3: 1535567738075871990
+      Ice_ChargeHold_Large_sheet_4: -8742418184858193705
+      Ice_ChargeHold_Large_sheet_5: 5335791941326990550
+      Ice_ChargeHold_Large_sheet_6: 234521595479011015
+      Ice_ChargeHold_Large_sheet_7: 9094592919979343785
+      Ice_ChargeHold_Large_sheet_8: 3960200528240108370
+      Ice_ChargeHold_Large_sheet_9: 3164002296563502461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

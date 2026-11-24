@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 7abea3e89caa73a4b9927f3283cb245e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8620122142667056802
+    second: Hit_Critical_Toxic_Small_sheet_0
+  - first:
+      213: -3078154466674989316
+    second: Hit_Critical_Toxic_Small_sheet_1
+  - first:
+      213: 7760110824350848065
+    second: Hit_Critical_Toxic_Small_sheet_2
+  - first:
+      213: 3298761973702060605
+    second: Hit_Critical_Toxic_Small_sheet_3
+  - first:
+      213: -5714644000780313618
+    second: Hit_Critical_Toxic_Small_sheet_4
+  - first:
+      213: -8381646791013153704
+    second: Hit_Critical_Toxic_Small_sheet_5
+  - first:
+      213: -828472878178210975
+    second: Hit_Critical_Toxic_Small_sheet_6
+  - first:
+      213: -994873416729930809
+    second: Hit_Critical_Toxic_Small_sheet_7
+  - first:
+      213: -4894325676274714315
+    second: Hit_Critical_Toxic_Small_sheet_8
+  - first:
+      213: -4059886957685657973
+    second: Hit_Critical_Toxic_Small_sheet_9
+  - first:
+      213: 507627103380524438
+    second: Hit_Critical_Toxic_Small_sheet_10
+  - first:
+      213: 7617297939715436932
+    second: Hit_Critical_Toxic_Small_sheet_11
+  - first:
+      213: 1527725841748737943
+    second: Hit_Critical_Toxic_Small_sheet_12
+  - first:
+      213: 4066864826560033019
+    second: Hit_Critical_Toxic_Small_sheet_13
+  - first:
+      213: 2464110562670790822
+    second: Hit_Critical_Toxic_Small_sheet_14
+  - first:
+      213: 1670790039971557095
+    second: Hit_Critical_Toxic_Small_sheet_15
+  - first:
+      213: 3221717007083651129
+    second: Hit_Critical_Toxic_Small_sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6262ada63d0a770800000000000000
+      internalID: 8620122142667056802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf62e0242d23845d0800000000000000
+      internalID: -3078154466674989316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144981f0ea371bb60800000000000000
+      internalID: 7760110824350848065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 30
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae319998e87cd20800000000000000
+      internalID: 3298761973702060605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb1cab0f8181b0b0800000000000000
+      internalID: -5714644000780313618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 33
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8544ed4c6a86eab80800000000000000
+      internalID: -8381646791013153704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b64268e4ca084f0800000000000000
+      internalID: -828472878178210975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 19
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3555706ef7132f0800000000000000
+      internalID: -994873416729930809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539729a8abcd31cb0800000000000000
+      internalID: -4894325676274714315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea7ea725268a7c0800000000000000
+      internalID: -4059886957685657973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 18
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4b5739247b0700800000000000000
+      internalID: 507627103380524438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481bd053e1416b960800000000000000
+      internalID: 7617297939715436932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f3e9f0f82933510800000000000000
+      internalID: 1527725841748737943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf034a83308607830800000000000000
+      internalID: 4066864826560033019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c7475087423220800000000000000
+      internalID: 2464110562670790822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee3ca60b6df2710800000000000000
+      internalID: 1670790039971557095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Toxic_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 8
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304e0e6c86d5bc20800000000000000
+      internalID: 3221717007083651129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Critical_Toxic_Small_sheet_0: 8620122142667056802
+      Hit_Critical_Toxic_Small_sheet_1: -3078154466674989316
+      Hit_Critical_Toxic_Small_sheet_10: 507627103380524438
+      Hit_Critical_Toxic_Small_sheet_11: 7617297939715436932
+      Hit_Critical_Toxic_Small_sheet_12: 1527725841748737943
+      Hit_Critical_Toxic_Small_sheet_13: 4066864826560033019
+      Hit_Critical_Toxic_Small_sheet_14: 2464110562670790822
+      Hit_Critical_Toxic_Small_sheet_15: 1670790039971557095
+      Hit_Critical_Toxic_Small_sheet_16: 3221717007083651129
+      Hit_Critical_Toxic_Small_sheet_2: 7760110824350848065
+      Hit_Critical_Toxic_Small_sheet_3: 3298761973702060605
+      Hit_Critical_Toxic_Small_sheet_4: -5714644000780313618
+      Hit_Critical_Toxic_Small_sheet_5: -8381646791013153704
+      Hit_Critical_Toxic_Small_sheet_6: -828472878178210975
+      Hit_Critical_Toxic_Small_sheet_7: -994873416729930809
+      Hit_Critical_Toxic_Small_sheet_8: -4894325676274714315
+      Hit_Critical_Toxic_Small_sheet_9: -4059886957685657973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

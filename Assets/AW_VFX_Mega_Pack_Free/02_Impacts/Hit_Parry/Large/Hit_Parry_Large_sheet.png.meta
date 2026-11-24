@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 8264751d0b6cb2a468d6eb2ed0820cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8448591847863920452
+    second: Hit_Parry_Large_sheet_0
+  - first:
+      213: 8871174426473774804
+    second: Hit_Parry_Large_sheet_1
+  - first:
+      213: 5876329469217587952
+    second: Hit_Parry_Large_sheet_2
+  - first:
+      213: -267428666791439989
+    second: Hit_Parry_Large_sheet_3
+  - first:
+      213: 495821612461620066
+    second: Hit_Parry_Large_sheet_4
+  - first:
+      213: 7751257833992593071
+    second: Hit_Parry_Large_sheet_5
+  - first:
+      213: 8134526947933279295
+    second: Hit_Parry_Large_sheet_6
+  - first:
+      213: 853650062596439013
+    second: Hit_Parry_Large_sheet_7
+  - first:
+      213: -503637053400568016
+    second: Hit_Parry_Large_sheet_8
+  - first:
+      213: 2637354638461180834
+    second: Hit_Parry_Large_sheet_9
+  - first:
+      213: -2991258127454825446
+    second: Hit_Parry_Large_sheet_10
+  - first:
+      213: -6220561814950507605
+    second: Hit_Parry_Large_sheet_11
+  - first:
+      213: -6701841222975681960
+    second: Hit_Parry_Large_sheet_12
+  - first:
+      213: -6543781960004084611
+    second: Hit_Parry_Large_sheet_13
+  - first:
+      213: -5747336769269777795
+    second: Hit_Parry_Large_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 13
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a038e58d6f3570800000000000000
+      internalID: 8448591847863920452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4debf7ea32ebc1b70800000000000000
+      internalID: 8871174426473774804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2cfd3a48aec8150800000000000000
+      internalID: 5876329469217587952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 52
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d3216b07e94cf0800000000000000
+      internalID: -267428666791439989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 69
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7cba212381e600800000000000000
+      internalID: 495821612461620066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 52
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae979d9eeff19b60800000000000000
+      internalID: 7751257833992593071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34d76b1925a3e070800000000000000
+      internalID: 8134526947933279295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 9
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebfc878536c8db00800000000000000
+      internalID: 853650062596439013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 24
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa550b4c8b209f0800000000000000
+      internalID: -503637053400568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 6
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab15340214c99420800000000000000
+      internalID: 2637354638461180834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141e89d49aec76d0800000000000000
+      internalID: -2991258127454825446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab048cbcff1ca9a0800000000000000
+      internalID: -6220561814950507605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a07736ae64ef2a0800000000000000
+      internalID: -6701841222975681960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cd8525af0df25a0800000000000000
+      internalID: -6543781960004084611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Parry_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3227b8ab5d30b0800000000000000
+      internalID: -5747336769269777795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Parry_Large_sheet_0: 8448591847863920452
+      Hit_Parry_Large_sheet_1: 8871174426473774804
+      Hit_Parry_Large_sheet_10: -2991258127454825446
+      Hit_Parry_Large_sheet_11: -6220561814950507605
+      Hit_Parry_Large_sheet_12: -6701841222975681960
+      Hit_Parry_Large_sheet_13: -6543781960004084611
+      Hit_Parry_Large_sheet_14: -5747336769269777795
+      Hit_Parry_Large_sheet_2: 5876329469217587952
+      Hit_Parry_Large_sheet_3: -267428666791439989
+      Hit_Parry_Large_sheet_4: 495821612461620066
+      Hit_Parry_Large_sheet_5: 7751257833992593071
+      Hit_Parry_Large_sheet_6: 8134526947933279295
+      Hit_Parry_Large_sheet_7: 853650062596439013
+      Hit_Parry_Large_sheet_8: -503637053400568016
+      Hit_Parry_Large_sheet_9: 2637354638461180834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

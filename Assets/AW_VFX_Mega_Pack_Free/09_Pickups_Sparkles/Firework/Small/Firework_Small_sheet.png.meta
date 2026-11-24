@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 149643f6bae20e94eb40f94fd1cc0011
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8435429905316008348
+    second: Firework_Small_sheet_0
+  - first:
+      213: -2569042733517352485
+    second: Firework_Small_sheet_1
+  - first:
+      213: -3775276573289793969
+    second: Firework_Small_sheet_2
+  - first:
+      213: -399543030924250028
+    second: Firework_Small_sheet_3
+  - first:
+      213: -4969007643477199134
+    second: Firework_Small_sheet_4
+  - first:
+      213: 2255302814625155177
+    second: Firework_Small_sheet_5
+  - first:
+      213: 4247884680118259436
+    second: Firework_Small_sheet_6
+  - first:
+      213: 3647860341611203409
+    second: Firework_Small_sheet_7
+  - first:
+      213: -5963218615266915126
+    second: Firework_Small_sheet_8
+  - first:
+      213: -5557476187267845302
+    second: Firework_Small_sheet_9
+  - first:
+      213: 7990636606212209373
+    second: Firework_Small_sheet_10
+  - first:
+      213: -8832731738356578718
+    second: Firework_Small_sheet_11
+  - first:
+      213: 4200589761337543317
+    second: Firework_Small_sheet_12
+  - first:
+      213: 1197607589045010139
+    second: Firework_Small_sheet_13
+  - first:
+      213: 3531051448290016614
+    second: Firework_Small_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firework_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eaee5a1355fea80800000000000000
+      internalID: -8435429905316008348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd156e7ce3de85cd0800000000000000
+      internalID: -2569042733517352485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 39
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46353875f58b9bc0800000000000000
+      internalID: -3775276573289793969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 43
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f641fab9847af0800000000000000
+      internalID: -399543030924250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6375c00e98a0bb0800000000000000
+      internalID: -4969007643477199134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 49
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cba6f5f17c4f10800000000000000
+      internalID: 2255302814625155177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 47
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec54d3c9483fa30800000000000000
+      internalID: 4247884680118259436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 44
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b88fb47adcf9230800000000000000
+      internalID: 3647860341611203409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 41
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accc40f83446e3da0800000000000000
+      internalID: -5963218615266915126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 40
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43353a3ad0efd2b0800000000000000
+      internalID: -5557476187267845302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf28a38a174ee60800000000000000
+      internalID: 7990636606212209373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 41
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26600f22845db6580800000000000000
+      internalID: -8832731738356578718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 27
+        width: 360
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59acaabd12e7b4a30800000000000000
+      internalID: 4200589761337543317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef65dc1c1ce9010800000000000000
+      internalID: 1197607589045010139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d74fa7590d00130800000000000000
+      internalID: 3531051448290016614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Firework_Small_sheet_0: -8435429905316008348
+      Firework_Small_sheet_1: -2569042733517352485
+      Firework_Small_sheet_10: 7990636606212209373
+      Firework_Small_sheet_11: -8832731738356578718
+      Firework_Small_sheet_12: 4200589761337543317
+      Firework_Small_sheet_13: 1197607589045010139
+      Firework_Small_sheet_14: 3531051448290016614
+      Firework_Small_sheet_2: -3775276573289793969
+      Firework_Small_sheet_3: -399543030924250028
+      Firework_Small_sheet_4: -4969007643477199134
+      Firework_Small_sheet_5: 2255302814625155177
+      Firework_Small_sheet_6: 4247884680118259436
+      Firework_Small_sheet_7: 3647860341611203409
+      Firework_Small_sheet_8: -5963218615266915126
+      Firework_Small_sheet_9: -5557476187267845302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

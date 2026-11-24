@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: d66967d6026bb6240bc3f71c7c956fbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8540171385593057992
+    second: Pickup_Flash_Large_sheet_0
+  - first:
+      213: -8185247963027306994
+    second: Pickup_Flash_Large_sheet_1
+  - first:
+      213: 4067517697489963013
+    second: Pickup_Flash_Large_sheet_2
+  - first:
+      213: 7306719003147487618
+    second: Pickup_Flash_Large_sheet_3
+  - first:
+      213: 9078823280198703525
+    second: Pickup_Flash_Large_sheet_4
+  - first:
+      213: -360897621474382710
+    second: Pickup_Flash_Large_sheet_5
+  - first:
+      213: 1704485947032389635
+    second: Pickup_Flash_Large_sheet_6
+  - first:
+      213: 2440342330067226506
+    second: Pickup_Flash_Large_sheet_7
+  - first:
+      213: 7652885718817191835
+    second: Pickup_Flash_Large_sheet_8
+  - first:
+      213: -4614134304455736455
+    second: Pickup_Flash_Large_sheet_9
+  - first:
+      213: 8952927191983769394
+    second: Pickup_Flash_Large_sheet_10
+  - first:
+      213: -2008945523973957229
+    second: Pickup_Flash_Large_sheet_11
+  - first:
+      213: -1184098648275922831
+    second: Pickup_Flash_Large_sheet_12
+  - first:
+      213: -7823795139817949593
+    second: Pickup_Flash_Large_sheet_13
+  - first:
+      213: 6359029017470548218
+    second: Pickup_Flash_Large_sheet_14
+  - first:
+      213: 7475766013405457874
+    second: Pickup_Flash_Large_sheet_15
+  - first:
+      213: -8048258022798250432
+    second: Pickup_Flash_Large_sheet_16
+  - first:
+      213: 2061898406395960564
+    second: Pickup_Flash_Large_sheet_17
+  - first:
+      213: -1213812056856360473
+    second: Pickup_Flash_Large_sheet_18
+  - first:
+      213: -4850587576788199322
+    second: Pickup_Flash_Large_sheet_19
+  - first:
+      213: -1177578407080525421
+    second: Pickup_Flash_Large_sheet_20
+  - first:
+      213: -6474804798948331628
+    second: Pickup_Flash_Large_sheet_21
+  - first:
+      213: 3190122451807294889
+    second: Pickup_Flash_Large_sheet_22
+  - first:
+      213: -1934713559917961052
+    second: Pickup_Flash_Large_sheet_23
+  - first:
+      213: 4663742809777659304
+    second: Pickup_Flash_Large_sheet_24
+  - first:
+      213: -5994473922022070598
+    second: Pickup_Flash_Large_sheet_25
+  - first:
+      213: 8964088776817419515
+    second: Pickup_Flash_Large_sheet_26
+  - first:
+      213: -1419599222931675588
+    second: Pickup_Flash_Large_sheet_27
+  - first:
+      213: 1952178003925345371
+    second: Pickup_Flash_Large_sheet_28
+  - first:
+      213: 5387413389798882881
+    second: Pickup_Flash_Large_sheet_29
+  - first:
+      213: -7624729806873979752
+    second: Pickup_Flash_Large_sheet_30
+  - first:
+      213: -6773829281403349044
+    second: Pickup_Flash_Large_sheet_31
+  - first:
+      213: -1054008857381389981
+    second: Pickup_Flash_Large_sheet_32
+  - first:
+      213: -223529957192077247
+    second: Pickup_Flash_Large_sheet_33
+  - first:
+      213: -987927364952134874
+    second: Pickup_Flash_Large_sheet_34
+  - first:
+      213: -7347205598423605231
+    second: Pickup_Flash_Large_sheet_35
+  - first:
+      213: -6901474732940584333
+    second: Pickup_Flash_Large_sheet_36
+  - first:
+      213: 2432808932303710583
+    second: Pickup_Flash_Large_sheet_37
+  - first:
+      213: -2321822662872366305
+    second: Pickup_Flash_Large_sheet_38
+  - first:
+      213: -3469350539923683739
+    second: Pickup_Flash_Large_sheet_39
+  - first:
+      213: -6340906626553772758
+    second: Pickup_Flash_Large_sheet_40
+  - first:
+      213: 6860246410448203718
+    second: Pickup_Flash_Large_sheet_41
+  - first:
+      213: 5697827507199231748
+    second: Pickup_Flash_Large_sheet_42
+  - first:
+      213: -2235627582655290482
+    second: Pickup_Flash_Large_sheet_43
+  - first:
+      213: -4387245861476279128
+    second: Pickup_Flash_Large_sheet_44
+  - first:
+      213: -415204992678489326
+    second: Pickup_Flash_Large_sheet_45
+  - first:
+      213: 4026182055125205113
+    second: Pickup_Flash_Large_sheet_46
+  - first:
+      213: -2202292245629851404
+    second: Pickup_Flash_Large_sheet_47
+  - first:
+      213: -8519830602532193095
+    second: Pickup_Flash_Large_sheet_48
+  - first:
+      213: -1056046698743386439
+    second: Pickup_Flash_Large_sheet_49
+  - first:
+      213: 1569443113040014715
+    second: Pickup_Flash_Large_sheet_50
+  - first:
+      213: 5398551353377514973
+    second: Pickup_Flash_Large_sheet_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 11
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d25c06f573b7980800000000000000
+      internalID: -8540171385593057992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06844d4858286e80800000000000000
+      internalID: -8185247963027306994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 34
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50801849bc9b27830800000000000000
+      internalID: 4067517697489963013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 50
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c330883ea66560800000000000000
+      internalID: 7306719003147487618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 30
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95ac2fba57efd70800000000000000
+      internalID: 9078823280198703525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 34
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6cbf7685ddfaf0800000000000000
+      internalID: -360897621474382710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 19
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c28520fc87a710800000000000000
+      internalID: 1704485947032389635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f81027b66ddd120800000000000000
+      internalID: 2440342330067226506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 27
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9732c8b303843a60800000000000000
+      internalID: 7652885718817191835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c8fcfb4d47ffb0800000000000000
+      internalID: -4614134304455736455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c022b8df2f3c70800000000000000
+      internalID: 8952927191983769394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 13
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399db6690bace14e0800000000000000
+      internalID: -2008945523973957229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705e729d8c319fe0800000000000000
+      internalID: -1184098648275922831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76639b7c5cb4c6390800000000000000
+      internalID: -7823795139817949593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8bbb6233fcf3850800000000000000
+      internalID: 6359029017470548218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd68f4b4914fb760800000000000000
+      internalID: 7475766013405457874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 16
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2c6248f7de4090800000000000000
+      internalID: -8048258022798250432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcdc2c1da55d9c10800000000000000
+      internalID: 2061898406395960564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e98df68d5ca72fe0800000000000000
+      internalID: -1213812056856360473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668dd956c404facb0800000000000000
+      internalID: -4850587576788199322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 25
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918bc68da668afe0800000000000000
+      internalID: -1177578407080525421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa0b0275fd426a0800000000000000
+      internalID: -6474804798948331628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5d8f9c777954c20800000000000000
+      internalID: 3190122451807294889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 29
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a065fe84448625e0800000000000000
+      internalID: -1934713559917961052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 13
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad549c3061f8b040800000000000000
+      internalID: 4663742809777659304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 29
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6288e5ab95fcca0800000000000000
+      internalID: -5994473922022070598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 25
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4a44daf37d66c70800000000000000
+      internalID: 8964088776817419515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 7
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36acb137029c4ce0800000000000000
+      internalID: -1419599222931675588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 11
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542d4e2d87871b10800000000000000
+      internalID: 1952178003925345371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e352d2fefe3ca40800000000000000
+      internalID: 5387413389798882881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 9
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89491f063a48f2690800000000000000
+      internalID: -7624729806873979752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc750d868268ef1a0800000000000000
+      internalID: -6773829281403349044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369baa157886f51f0800000000000000
+      internalID: -1054008857381389981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 12
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14078e030bcd5ecf0800000000000000
+      internalID: -223529957192077247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be32cbb4d2a42f0800000000000000
+      internalID: -987927364952134874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11023367f6b790a90800000000000000
+      internalID: -7347205598423605231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 17
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a1eb4cb490930a0800000000000000
+      internalID: -6901474732940584333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7792c5895d213c120800000000000000
+      internalID: 2432808932303710583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138a04f69a37cfd0800000000000000
+      internalID: -2321822662872366305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660a8ab0146adfc0800000000000000
+      internalID: -3469350539923683739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25875ac4039008a0800000000000000
+      internalID: -6340906626553772758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 11
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe96e53cd743f50800000000000000
+      internalID: 6860246410448203718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074f0eedefb21f40800000000000000
+      internalID: 5697827507199231748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8324c5fe8479f0e0800000000000000
+      internalID: -2235627582655290482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 99
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5764322f5d13c0800000000000000
+      internalID: -4387245861476279128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131e6e4245ec3af0800000000000000
+      internalID: -415204992678489326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704acc5f3fdfd730800000000000000
+      internalID: 4026182055125205113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a2afeed2ef61e0800000000000000
+      internalID: -2202292245629851404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcf09df43b73c980800000000000000
+      internalID: -8519830602532193095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be2d276f1b2851f0800000000000000
+      internalID: -1056046698743386439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7deeef2238c7c510800000000000000
+      internalID: 1569443113040014715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Flash_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd565c76ad18bea40800000000000000
+      internalID: 5398551353377514973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pickup_Flash_Large_sheet_0: -8540171385593057992
+      Pickup_Flash_Large_sheet_1: -8185247963027306994
+      Pickup_Flash_Large_sheet_10: 8952927191983769394
+      Pickup_Flash_Large_sheet_11: -2008945523973957229
+      Pickup_Flash_Large_sheet_12: -1184098648275922831
+      Pickup_Flash_Large_sheet_13: -7823795139817949593
+      Pickup_Flash_Large_sheet_14: 6359029017470548218
+      Pickup_Flash_Large_sheet_15: 7475766013405457874
+      Pickup_Flash_Large_sheet_16: -8048258022798250432
+      Pickup_Flash_Large_sheet_17: 2061898406395960564
+      Pickup_Flash_Large_sheet_18: -1213812056856360473
+      Pickup_Flash_Large_sheet_19: -4850587576788199322
+      Pickup_Flash_Large_sheet_2: 4067517697489963013
+      Pickup_Flash_Large_sheet_20: -1177578407080525421
+      Pickup_Flash_Large_sheet_21: -6474804798948331628
+      Pickup_Flash_Large_sheet_22: 3190122451807294889
+      Pickup_Flash_Large_sheet_23: -1934713559917961052
+      Pickup_Flash_Large_sheet_24: 4663742809777659304
+      Pickup_Flash_Large_sheet_25: -5994473922022070598
+      Pickup_Flash_Large_sheet_26: 8964088776817419515
+      Pickup_Flash_Large_sheet_27: -1419599222931675588
+      Pickup_Flash_Large_sheet_28: 1952178003925345371
+      Pickup_Flash_Large_sheet_29: 5387413389798882881
+      Pickup_Flash_Large_sheet_3: 7306719003147487618
+      Pickup_Flash_Large_sheet_30: -7624729806873979752
+      Pickup_Flash_Large_sheet_31: -6773829281403349044
+      Pickup_Flash_Large_sheet_32: -1054008857381389981
+      Pickup_Flash_Large_sheet_33: -223529957192077247
+      Pickup_Flash_Large_sheet_34: -987927364952134874
+      Pickup_Flash_Large_sheet_35: -7347205598423605231
+      Pickup_Flash_Large_sheet_36: -6901474732940584333
+      Pickup_Flash_Large_sheet_37: 2432808932303710583
+      Pickup_Flash_Large_sheet_38: -2321822662872366305
+      Pickup_Flash_Large_sheet_39: -3469350539923683739
+      Pickup_Flash_Large_sheet_4: 9078823280198703525
+      Pickup_Flash_Large_sheet_40: -6340906626553772758
+      Pickup_Flash_Large_sheet_41: 6860246410448203718
+      Pickup_Flash_Large_sheet_42: 5697827507199231748
+      Pickup_Flash_Large_sheet_43: -2235627582655290482
+      Pickup_Flash_Large_sheet_44: -4387245861476279128
+      Pickup_Flash_Large_sheet_45: -415204992678489326
+      Pickup_Flash_Large_sheet_46: 4026182055125205113
+      Pickup_Flash_Large_sheet_47: -2202292245629851404
+      Pickup_Flash_Large_sheet_48: -8519830602532193095
+      Pickup_Flash_Large_sheet_49: -1056046698743386439
+      Pickup_Flash_Large_sheet_5: -360897621474382710
+      Pickup_Flash_Large_sheet_50: 1569443113040014715
+      Pickup_Flash_Large_sheet_51: 5398551353377514973
+      Pickup_Flash_Large_sheet_6: 1704485947032389635
+      Pickup_Flash_Large_sheet_7: 2440342330067226506
+      Pickup_Flash_Large_sheet_8: 7652885718817191835
+      Pickup_Flash_Large_sheet_9: -4614134304455736455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 37e763e7fc9f5614c81565a2dbf27f2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045137341773877756
+    second: Hit_Heavy_Arcane_Large_sheet_0
+  - first:
+      213: 2886589108451177387
+    second: Hit_Heavy_Arcane_Large_sheet_1
+  - first:
+      213: 3117385356858679721
+    second: Hit_Heavy_Arcane_Large_sheet_2
+  - first:
+      213: 1982013276669203622
+    second: Hit_Heavy_Arcane_Large_sheet_3
+  - first:
+      213: 7901800929890153848
+    second: Hit_Heavy_Arcane_Large_sheet_4
+  - first:
+      213: 6926744079811720558
+    second: Hit_Heavy_Arcane_Large_sheet_5
+  - first:
+      213: -3766980237255206207
+    second: Hit_Heavy_Arcane_Large_sheet_6
+  - first:
+      213: -9001312492796676378
+    second: Hit_Heavy_Arcane_Large_sheet_7
+  - first:
+      213: 1996296733590518947
+    second: Hit_Heavy_Arcane_Large_sheet_8
+  - first:
+      213: -1617903782276863335
+    second: Hit_Heavy_Arcane_Large_sheet_9
+  - first:
+      213: -3017758256190351984
+    second: Hit_Heavy_Arcane_Large_sheet_10
+  - first:
+      213: -1441612706034853364
+    second: Hit_Heavy_Arcane_Large_sheet_11
+  - first:
+      213: -3178777907256075847
+    second: Hit_Heavy_Arcane_Large_sheet_12
+  - first:
+      213: -340840367293674306
+    second: Hit_Heavy_Arcane_Large_sheet_13
+  - first:
+      213: -2682881711639353989
+    second: Hit_Heavy_Arcane_Large_sheet_14
+  - first:
+      213: 510145849324945485
+    second: Hit_Heavy_Arcane_Large_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1954ae51b55c160800000000000000
+      internalID: 7045137341773877756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba37eb510893f0820800000000000000
+      internalID: 2886589108451177387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e097277d234b20800000000000000
+      internalID: 3117385356858679721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 74
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d9ffe296818b10800000000000000
+      internalID: 1982013276669203622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87534f78416d8ad60800000000000000
+      internalID: 7901800929890153848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b7378a0db02060800000000000000
+      internalID: 6926744079811720558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca9c7abe6ff8bbc0800000000000000
+      internalID: -3766980237255206207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 28
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e671929af9e41380800000000000000
+      internalID: -9001312492796676378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac7fe76d4544bb10800000000000000
+      internalID: 1996296733590518947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 19
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a60a0051d0c89e0800000000000000
+      internalID: -1617903782276863335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09595c1dad4ce16d0800000000000000
+      internalID: -3017758256190351984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 13
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5a11c1ec5efbe0800000000000000
+      internalID: -1441612706034853364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 16
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95422d556b2e3d0800000000000000
+      internalID: -3178777907256075847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc856ed77154bf0800000000000000
+      internalID: -340840367293674306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75285b3c4d74cad0800000000000000
+      internalID: -2682881711639353989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Arcane_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 18
+        width: 113
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4047a472f6641700800000000000000
+      internalID: 510145849324945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Heavy_Arcane_Large_sheet_0: 7045137341773877756
+      Hit_Heavy_Arcane_Large_sheet_1: 2886589108451177387
+      Hit_Heavy_Arcane_Large_sheet_10: -3017758256190351984
+      Hit_Heavy_Arcane_Large_sheet_11: -1441612706034853364
+      Hit_Heavy_Arcane_Large_sheet_12: -3178777907256075847
+      Hit_Heavy_Arcane_Large_sheet_13: -340840367293674306
+      Hit_Heavy_Arcane_Large_sheet_14: -2682881711639353989
+      Hit_Heavy_Arcane_Large_sheet_15: 510145849324945485
+      Hit_Heavy_Arcane_Large_sheet_2: 3117385356858679721
+      Hit_Heavy_Arcane_Large_sheet_3: 1982013276669203622
+      Hit_Heavy_Arcane_Large_sheet_4: 7901800929890153848
+      Hit_Heavy_Arcane_Large_sheet_5: 6926744079811720558
+      Hit_Heavy_Arcane_Large_sheet_6: -3766980237255206207
+      Hit_Heavy_Arcane_Large_sheet_7: -9001312492796676378
+      Hit_Heavy_Arcane_Large_sheet_8: 1996296733590518947
+      Hit_Heavy_Arcane_Large_sheet_9: -1617903782276863335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

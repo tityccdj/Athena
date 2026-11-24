@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 7c74f5727efdca84f9b6499b6f4ee5ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -901450375383813332
+    second: Thrust_Stab_Large_sheet_0
+  - first:
+      213: 42791370832968214
+    second: Thrust_Stab_Large_sheet_1
+  - first:
+      213: 7470127704103088282
+    second: Thrust_Stab_Large_sheet_2
+  - first:
+      213: -7770568168121867221
+    second: Thrust_Stab_Large_sheet_3
+  - first:
+      213: 5115068390773510180
+    second: Thrust_Stab_Large_sheet_4
+  - first:
+      213: -5223195786034012827
+    second: Thrust_Stab_Large_sheet_5
+  - first:
+      213: -2918945753050763854
+    second: Thrust_Stab_Large_sheet_6
+  - first:
+      213: -1567828966009998062
+    second: Thrust_Stab_Large_sheet_7
+  - first:
+      213: 5100615166112229257
+    second: Thrust_Stab_Large_sheet_8
+  - first:
+      213: -5676779042342011866
+    second: Thrust_Stab_Large_sheet_9
+  - first:
+      213: 3249962227405981116
+    second: Thrust_Stab_Large_sheet_10
+  - first:
+      213: 4859545752985485284
+    second: Thrust_Stab_Large_sheet_11
+  - first:
+      213: 1557540158022899190
+    second: Thrust_Stab_Large_sheet_12
+  - first:
+      213: 314362020889657772
+    second: Thrust_Stab_Large_sheet_13
+  - first:
+      213: 6925879701286415637
+    second: Thrust_Stab_Large_sheet_14
+  - first:
+      213: 83269964805396172
+    second: Thrust_Stab_Large_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23fa90e8a76d73f0800000000000000
+      internalID: -901450375383813332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 112
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a73f96686089000800000000000000
+      internalID: 42791370832968214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 104
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907ed581993ba760800000000000000
+      internalID: 7470127704103088282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 95
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24632cdb65692490800000000000000
+      internalID: -7770568168121867221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42052e1c99f5cf640800000000000000
+      internalID: 5115068390773510180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4
+        width: 87
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d10253b1b7387b0800000000000000
+      internalID: -5223195786034012827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd26c68d42dd77d0800000000000000
+      internalID: -2918945753050763854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f764bcd3fd3ae0800000000000000
+      internalID: -1567828966009998062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 6
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e618287609c640800000000000000
+      internalID: 5100615166112229257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 7
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c72d0b9870831b0800000000000000
+      internalID: -5676779042342011866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 9
+        width: 159
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb588f14d6f2a1d20800000000000000
+      internalID: 3249962227405981116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 14
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef35788d13907340800000000000000
+      internalID: 4859545752985485284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55c52858e7d9510800000000000000
+      internalID: 1557540158022899190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 10
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1800aa796dc5400800000000000000
+      internalID: 314362020889657772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de348b4eaad1060800000000000000
+      internalID: 6925879701286415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrust_Stab_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc65fa08795d72100800000000000000
+      internalID: 83269964805396172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thrust_Stab_Large_sheet_0: -901450375383813332
+      Thrust_Stab_Large_sheet_1: 42791370832968214
+      Thrust_Stab_Large_sheet_10: 3249962227405981116
+      Thrust_Stab_Large_sheet_11: 4859545752985485284
+      Thrust_Stab_Large_sheet_12: 1557540158022899190
+      Thrust_Stab_Large_sheet_13: 314362020889657772
+      Thrust_Stab_Large_sheet_14: 6925879701286415637
+      Thrust_Stab_Large_sheet_15: 83269964805396172
+      Thrust_Stab_Large_sheet_2: 7470127704103088282
+      Thrust_Stab_Large_sheet_3: -7770568168121867221
+      Thrust_Stab_Large_sheet_4: 5115068390773510180
+      Thrust_Stab_Large_sheet_5: -5223195786034012827
+      Thrust_Stab_Large_sheet_6: -2918945753050763854
+      Thrust_Stab_Large_sheet_7: -1567828966009998062
+      Thrust_Stab_Large_sheet_8: 5100615166112229257
+      Thrust_Stab_Large_sheet_9: -5676779042342011866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

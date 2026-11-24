@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 58221b5fdbadee243950a5004734ad3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1229788264541667861
+    second: magic_sparkle_burst_04_0
+  - first:
+      213: -2750679903590287177
+    second: magic_sparkle_burst_04_1
+  - first:
+      213: 2118802679286712706
+    second: magic_sparkle_burst_04_2
+  - first:
+      213: 7047279573719946624
+    second: magic_sparkle_burst_04_3
+  - first:
+      213: -3980380600267653931
+    second: magic_sparkle_burst_04_4
+  - first:
+      213: 9119075363533921455
+    second: magic_sparkle_burst_04_5
+  - first:
+      213: -5840954647574385495
+    second: magic_sparkle_burst_04_6
+  - first:
+      213: -1457007478912532633
+    second: magic_sparkle_burst_04_7
+  - first:
+      213: 4963810751578293466
+    second: magic_sparkle_burst_04_8
+  - first:
+      213: 2515365837027026951
+    second: magic_sparkle_burst_04_9
+  - first:
+      213: 8160146583007618737
+    second: magic_sparkle_burst_04_10
+  - first:
+      213: 6789702467004042509
+    second: magic_sparkle_burst_04_11
+  - first:
+      213: -5895807608142219009
+    second: magic_sparkle_burst_04_12
+  - first:
+      213: -7882053874029476584
+    second: magic_sparkle_burst_04_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbc0fc61aeeeee0800000000000000
+      internalID: -1229788264541667861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f1bf833f93d9d0800000000000000
+      internalID: -2750679903590287177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c7089fcf776d10800000000000000
+      internalID: 2118802679286712706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08591782f67fcc160800000000000000
+      internalID: 7047279573719946624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcb03adee8d2c8c0800000000000000
+      internalID: -3980380600267653931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 60
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac947b6ab67d8e70800000000000000
+      internalID: 9119075363533921455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac692ad1b2c0fea0800000000000000
+      internalID: -5840954647574385495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 37
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb450ea6ba7cbe0800000000000000
+      internalID: -1457007478912532633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c614449ff2e440800000000000000
+      internalID: 4963810751578293466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708262cd6ef58e220800000000000000
+      internalID: 2515365837027026951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6694b351aae3170800000000000000
+      internalID: 8160146583007618737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8e5c9b6ed93e50800000000000000
+      internalID: 6789702467004042509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff833acb732ed2ea0800000000000000
+      internalID: -5895807608142219009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_sparkle_burst_04_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8154bf133c15d9290800000000000000
+      internalID: -7882053874029476584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_sparkle_burst_04_0: -1229788264541667861
+      magic_sparkle_burst_04_1: -2750679903590287177
+      magic_sparkle_burst_04_10: 8160146583007618737
+      magic_sparkle_burst_04_11: 6789702467004042509
+      magic_sparkle_burst_04_12: -5895807608142219009
+      magic_sparkle_burst_04_13: -7882053874029476584
+      magic_sparkle_burst_04_2: 2118802679286712706
+      magic_sparkle_burst_04_3: 7047279573719946624
+      magic_sparkle_burst_04_4: -3980380600267653931
+      magic_sparkle_burst_04_5: 9119075363533921455
+      magic_sparkle_burst_04_6: -5840954647574385495
+      magic_sparkle_burst_04_7: -1457007478912532633
+      magic_sparkle_burst_04_8: 4963810751578293466
+      magic_sparkle_burst_04_9: 2515365837027026951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

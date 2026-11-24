@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0b41e8e426df99f41b799bab2633deaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9115564112028702454
+    second: Hit_Spark_Small_Blood_Large_sheet_0
+  - first:
+      213: 6114981970787269697
+    second: Hit_Spark_Small_Blood_Large_sheet_1
+  - first:
+      213: -3549794046815606514
+    second: Hit_Spark_Small_Blood_Large_sheet_2
+  - first:
+      213: 2212236270501037829
+    second: Hit_Spark_Small_Blood_Large_sheet_3
+  - first:
+      213: 4448272236499010373
+    second: Hit_Spark_Small_Blood_Large_sheet_4
+  - first:
+      213: -2416348998390509218
+    second: Hit_Spark_Small_Blood_Large_sheet_5
+  - first:
+      213: 2697908664504457591
+    second: Hit_Spark_Small_Blood_Large_sheet_6
+  - first:
+      213: -4367357123616746053
+    second: Hit_Spark_Small_Blood_Large_sheet_7
+  - first:
+      213: 3502864850020016998
+    second: Hit_Spark_Small_Blood_Large_sheet_8
+  - first:
+      213: 7460622715058180555
+    second: Hit_Spark_Small_Blood_Large_sheet_9
+  - first:
+      213: 858152110109810467
+    second: Hit_Spark_Small_Blood_Large_sheet_10
+  - first:
+      213: -1214989556815301035
+    second: Hit_Spark_Small_Blood_Large_sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ea378cb20f7180800000000000000
+      internalID: -9115564112028702454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c71b034b7ccd450800000000000000
+      internalID: 6114981970787269697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0962cd3f199cbec0800000000000000
+      internalID: -3549794046815606514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070376ca2173be10800000000000000
+      internalID: 2212236270501037829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54381c8f7007bbd30800000000000000
+      internalID: 4448272236499010373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5110996367677ed0800000000000000
+      internalID: -2416348998390509218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799c30e2a5e07520800000000000000
+      internalID: 2697908664504457591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55d87d5d70463c0800000000000000
+      internalID: -4367357123616746053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66325a9a50dac9030800000000000000
+      internalID: 3502864850020016998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1d04ec4d4798760800000000000000
+      internalID: 7460622715058180555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd8562cc4c8eb00800000000000000
+      internalID: 858152110109810467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Spark_Small_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f6347f6d732fe0800000000000000
+      internalID: -1214989556815301035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Spark_Small_Blood_Large_sheet_0: -9115564112028702454
+      Hit_Spark_Small_Blood_Large_sheet_1: 6114981970787269697
+      Hit_Spark_Small_Blood_Large_sheet_10: 858152110109810467
+      Hit_Spark_Small_Blood_Large_sheet_11: -1214989556815301035
+      Hit_Spark_Small_Blood_Large_sheet_2: -3549794046815606514
+      Hit_Spark_Small_Blood_Large_sheet_3: 2212236270501037829
+      Hit_Spark_Small_Blood_Large_sheet_4: 4448272236499010373
+      Hit_Spark_Small_Blood_Large_sheet_5: -2416348998390509218
+      Hit_Spark_Small_Blood_Large_sheet_6: 2697908664504457591
+      Hit_Spark_Small_Blood_Large_sheet_7: -4367357123616746053
+      Hit_Spark_Small_Blood_Large_sheet_8: 3502864850020016998
+      Hit_Spark_Small_Blood_Large_sheet_9: 7460622715058180555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

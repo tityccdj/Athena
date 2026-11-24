@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cadfe3528d23d8649bb92c830b7ed63c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6860006025738755691
+    second: Text_Victory_Large_sheet_0
+  - first:
+      213: 1352004291038414265
+    second: Text_Victory_Large_sheet_1
+  - first:
+      213: -3596308593424427603
+    second: Text_Victory_Large_sheet_2
+  - first:
+      213: 6357406075823413113
+    second: Text_Victory_Large_sheet_3
+  - first:
+      213: -685428805651820976
+    second: Text_Victory_Large_sheet_4
+  - first:
+      213: -8554527393497071307
+    second: Text_Victory_Large_sheet_5
+  - first:
+      213: -3739117483036473397
+    second: Text_Victory_Large_sheet_6
+  - first:
+      213: -6237430188576905215
+    second: Text_Victory_Large_sheet_7
+  - first:
+      213: -4766277225645152159
+    second: Text_Victory_Large_sheet_8
+  - first:
+      213: -989880020994200641
+    second: Text_Victory_Large_sheet_9
+  - first:
+      213: 1806189246276877269
+    second: Text_Victory_Large_sheet_10
+  - first:
+      213: 8498193443085923994
+    second: Text_Victory_Large_sheet_11
+  - first:
+      213: -6568436937274599341
+    second: Text_Victory_Large_sheet_12
+  - first:
+      213: -6783983002090240764
+    second: Text_Victory_Large_sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 104
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5916dce8ddc5cc0a0800000000000000
+      internalID: -6860006025738755691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5062e4db843c210800000000000000
+      internalID: 1352004291038414265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5904a6368571ec0800000000000000
+      internalID: -3596308593424427603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9775d5a942b0a3850800000000000000
+      internalID: 6357406075823413113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8d40022edc76f0800000000000000
+      internalID: -685428805651820976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314241d8a6384980800000000000000
+      internalID: -8554527393497071307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7882ab57cfb1cc0800000000000000
+      internalID: -3739117483036473397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10863927a423079a0800000000000000
+      internalID: -6237430188576905215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168e268bd18caddb0800000000000000
+      internalID: -4766277225645152159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb62629d5d3342f0800000000000000
+      internalID: -989880020994200641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb675cc8fd01910800000000000000
+      internalID: 1806189246276877269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96b0bf39e5afe570800000000000000
+      internalID: 8498193443085923994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 13
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585138186938d4a0800000000000000
+      internalID: -6568436937274599341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 11
+        width: 208
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058f1617637ad1a0800000000000000
+      internalID: -6783983002090240764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Victory_Large_sheet_0: -6860006025738755691
+      Text_Victory_Large_sheet_1: 1352004291038414265
+      Text_Victory_Large_sheet_10: 1806189246276877269
+      Text_Victory_Large_sheet_11: 8498193443085923994
+      Text_Victory_Large_sheet_12: -6568436937274599341
+      Text_Victory_Large_sheet_13: -6783983002090240764
+      Text_Victory_Large_sheet_2: -3596308593424427603
+      Text_Victory_Large_sheet_3: 6357406075823413113
+      Text_Victory_Large_sheet_4: -685428805651820976
+      Text_Victory_Large_sheet_5: -8554527393497071307
+      Text_Victory_Large_sheet_6: -3739117483036473397
+      Text_Victory_Large_sheet_7: -6237430188576905215
+      Text_Victory_Large_sheet_8: -4766277225645152159
+      Text_Victory_Large_sheet_9: -989880020994200641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

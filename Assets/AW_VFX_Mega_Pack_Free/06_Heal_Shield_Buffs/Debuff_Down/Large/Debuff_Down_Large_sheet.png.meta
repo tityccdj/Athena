@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: cbac8358031115e499b878477e83da7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3671014640523898731
+    second: Debuff_Down_Large_sheet_0
+  - first:
+      213: 4169464160463923859
+    second: Debuff_Down_Large_sheet_1
+  - first:
+      213: 7582845651212589425
+    second: Debuff_Down_Large_sheet_2
+  - first:
+      213: -503983561067189194
+    second: Debuff_Down_Large_sheet_3
+  - first:
+      213: 5312412864656403794
+    second: Debuff_Down_Large_sheet_4
+  - first:
+      213: -488433085556369297
+    second: Debuff_Down_Large_sheet_5
+  - first:
+      213: -9032152722796472890
+    second: Debuff_Down_Large_sheet_6
+  - first:
+      213: -855347316929743279
+    second: Debuff_Down_Large_sheet_7
+  - first:
+      213: 2281371899651108574
+    second: Debuff_Down_Large_sheet_8
+  - first:
+      213: 5408448919452476749
+    second: Debuff_Down_Large_sheet_9
+  - first:
+      213: 3072460972062006748
+    second: Debuff_Down_Large_sheet_10
+  - first:
+      213: 6642270605779646222
+    second: Debuff_Down_Large_sheet_11
+  - first:
+      213: -2501806966539890692
+    second: Debuff_Down_Large_sheet_12
+  - first:
+      213: 956062518424190113
+    second: Debuff_Down_Large_sheet_13
+  - first:
+      213: 5748337913270828961
+    second: Debuff_Down_Large_sheet_14
+  - first:
+      213: -7294660266462789057
+    second: Debuff_Down_Large_sheet_15
+  - first:
+      213: 4022439233967085319
+    second: Debuff_Down_Large_sheet_16
+  - first:
+      213: 8591529457034402863
+    second: Debuff_Down_Large_sheet_17
+  - first:
+      213: -2795958419642949724
+    second: Debuff_Down_Large_sheet_18
+  - first:
+      213: 3719911258882760950
+    second: Debuff_Down_Large_sheet_19
+  - first:
+      213: -5377339583239568244
+    second: Debuff_Down_Large_sheet_20
+  - first:
+      213: 7236447576194546149
+    second: Debuff_Down_Large_sheet_21
+  - first:
+      213: -4847620170029587151
+    second: Debuff_Down_Large_sheet_22
+  - first:
+      213: 6537539928887144293
+    second: Debuff_Down_Large_sheet_23
+  - first:
+      213: 4210401156717994677
+    second: Debuff_Down_Large_sheet_24
+  - first:
+      213: -3148314589991661801
+    second: Debuff_Down_Large_sheet_25
+  - first:
+      213: -1461072668179490581
+    second: Debuff_Down_Large_sheet_26
+  - first:
+      213: 1645026493435169326
+    second: Debuff_Down_Large_sheet_27
+  - first:
+      213: -161191790743964179
+    second: Debuff_Down_Large_sheet_28
+  - first:
+      213: 5942772712212236683
+    second: Debuff_Down_Large_sheet_29
+  - first:
+      213: -5585417780318334647
+    second: Debuff_Down_Large_sheet_30
+  - first:
+      213: -6283770701110205261
+    second: Debuff_Down_Large_sheet_31
+  - first:
+      213: 8524363036917482386
+    second: Debuff_Down_Large_sheet_32
+  - first:
+      213: -1443651016317357624
+    second: Debuff_Down_Large_sheet_33
+  - first:
+      213: 6836066359060003054
+    second: Debuff_Down_Large_sheet_34
+  - first:
+      213: -254293239103080832
+    second: Debuff_Down_Large_sheet_35
+  - first:
+      213: -7228196476824218793
+    second: Debuff_Down_Large_sheet_36
+  - first:
+      213: -3582241897760025876
+    second: Debuff_Down_Large_sheet_37
+  - first:
+      213: 1439398407161671535
+    second: Debuff_Down_Large_sheet_38
+  - first:
+      213: 5225448984350132517
+    second: Debuff_Down_Large_sheet_39
+  - first:
+      213: -64620815992382192
+    second: Debuff_Down_Large_sheet_40
+  - first:
+      213: 2702156220969183834
+    second: Debuff_Down_Large_sheet_41
+  - first:
+      213: 1558997162461730296
+    second: Debuff_Down_Large_sheet_42
+  - first:
+      213: -1197544451967767585
+    second: Debuff_Down_Large_sheet_43
+  - first:
+      213: 8285728434211930667
+    second: Debuff_Down_Large_sheet_44
+  - first:
+      213: -186331072460186295
+    second: Debuff_Down_Large_sheet_45
+  - first:
+      213: 3728061517989082902
+    second: Debuff_Down_Large_sheet_46
+  - first:
+      213: 8847803673570351330
+    second: Debuff_Down_Large_sheet_47
+  - first:
+      213: -4090076490222593307
+    second: Debuff_Down_Large_sheet_48
+  - first:
+      213: 1665078712607296533
+    second: Debuff_Down_Large_sheet_49
+  - first:
+      213: 6538214904792189738
+    second: Debuff_Down_Large_sheet_50
+  - first:
+      213: 3408639248469882066
+    second: Debuff_Down_Large_sheet_51
+  - first:
+      213: -1998949411945390450
+    second: Debuff_Down_Large_sheet_52
+  - first:
+      213: -8167415351774925342
+    second: Debuff_Down_Large_sheet_53
+  - first:
+      213: -8184054734284782399
+    second: Debuff_Down_Large_sheet_54
+  - first:
+      213: -4776266617905997984
+    second: Debuff_Down_Large_sheet_55
+  - first:
+      213: 1607088213331098798
+    second: Debuff_Down_Large_sheet_56
+  - first:
+      213: -8944294328745638846
+    second: Debuff_Down_Large_sheet_57
+  - first:
+      213: -8591678640790202916
+    second: Debuff_Down_Large_sheet_58
+  - first:
+      213: -2569065302192720909
+    second: Debuff_Down_Large_sheet_59
+  - first:
+      213: -2228773613710507609
+    second: Debuff_Down_Large_sheet_60
+  - first:
+      213: 1230482225873671697
+    second: Debuff_Down_Large_sheet_61
+  - first:
+      213: 5735782601982417269
+    second: Debuff_Down_Large_sheet_62
+  - first:
+      213: -3767085646019502116
+    second: Debuff_Down_Large_sheet_63
+  - first:
+      213: 8784702084791557515
+    second: Debuff_Down_Large_sheet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590905262afed0dc0800000000000000
+      internalID: -3671014640523898731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aac2c2099ecd930800000000000000
+      internalID: 4169464160463923859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 69
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795423b1fdab3960800000000000000
+      internalID: 7582845651212589425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c24f51f9d7109f0800000000000000
+      internalID: -503983561067189194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 59
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d6f02aa5b79b940800000000000000
+      internalID: 5312412864656403794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 40
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f685dde42bcb839f0800000000000000
+      internalID: -488433085556369297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c593a8f3f857a280800000000000000
+      internalID: -9032152722796472890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 55
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b1d6a5223124f0800000000000000
+      internalID: -855347316929743279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede234fc7af09af10800000000000000
+      internalID: 2281371899651108574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 64
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456fc513abae0b40800000000000000
+      internalID: 5408448919452476749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 61
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd10ab9f293aa20800000000000000
+      internalID: 3072460972062006748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07b3877ce51e2c50800000000000000
+      internalID: 6642270605779646222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 78
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffcacea1dbc74dd0800000000000000
+      internalID: -2501806966539890692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 48
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac3db98bcd944d00800000000000000
+      internalID: 956062518424190113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affa6940e236cf40800000000000000
+      internalID: 5748337913270828961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32445ce22924ca90800000000000000
+      internalID: -7294660266462789057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707d337eb2392d730800000000000000
+      internalID: 4022439233967085319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c17d3758e3b3770800000000000000
+      internalID: 8591529457034402863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 20
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af5b6681a2c239d0800000000000000
+      internalID: -2795958419642949724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 13
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0eeadb497cf9330800000000000000
+      internalID: 3719911258882760950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 73
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84cb50b32adf55b0800000000000000
+      internalID: -5377339583239568244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 13
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ffceeab60d6460800000000000000
+      internalID: 7236447576194546149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 13
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1352e5f932bc9bcb0800000000000000
+      internalID: -4847620170029587151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 46
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f204e8de10aba50800000000000000
+      internalID: 6537539928887144293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 58
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e11c5b895e6a30800000000000000
+      internalID: 4210401156717994677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f0e569f80fe44d0800000000000000
+      internalID: -3148314589991661801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 13
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8112e362a39bbe0800000000000000
+      internalID: -1461072668179490581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4f4b41ee44d610800000000000000
+      internalID: 1645026493435169326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 22
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de53ffb9be453cdf0800000000000000
+      internalID: -161191790743964179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898b4cab48f87250800000000000000
+      internalID: 5942772712212236683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 35
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94199f12f1c9c72b0800000000000000
+      internalID: -5585417780318334647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 53
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a15617df8bc8a0800000000000000
+      internalID: -6283770701110205261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293cfef940f9c4670800000000000000
+      internalID: 8524363036917482386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 13
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1b5c8ac0f17fbe0800000000000000
+      internalID: -1443651016317357624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 13
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f4c072269ede50800000000000000
+      internalID: 6836066359060003054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0863a7675a1987cf0800000000000000
+      internalID: -254293239103080832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 33
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539928d99940bb90800000000000000
+      internalID: -7228196476824218793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 36
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21e7839f1594ec0800000000000000
+      internalID: -3582241897760025876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 32
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f622d9935c9f310800000000000000
+      internalID: 1439398407161671535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 41
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298d186a26848840800000000000000
+      internalID: 5225448984350132517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 42
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d9da1d5bb6a1ff0800000000000000
+      internalID: -64620815992382192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 32
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aea7e24ccff7520800000000000000
+      internalID: 2702156220969183834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 29
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59f5ac8aba2a510800000000000000
+      internalID: 1558997162461730296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 26
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba8b17aa7716fe0800000000000000
+      internalID: -1197544451967767585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b224e8a7c12dcf270800000000000000
+      internalID: 8285728434211930667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d946770e40a6df0800000000000000
+      internalID: -186331072460186295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617fa80d23cbcb330800000000000000
+      internalID: 3728061517989082902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e89e8d3096b9ca70800000000000000
+      internalID: 8847803673570351330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1b103a112d37c0800000000000000
+      internalID: -4090076490222593307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc504644c8b1710800000000000000
+      internalID: 1665078712607296533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 27
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b8d41a0d76cba50800000000000000
+      internalID: 6538214904792189738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 13
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d47084365bed4f20800000000000000
+      internalID: 3408639248469882066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 27
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed409c91e4244e0800000000000000
+      internalID: -1998949411945390450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 13
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2268a20387ae80800000000000000
+      internalID: -8167415351774925342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 13
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40a9484956c6e80800000000000000
+      internalID: -8184054734284782399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067182711da47bdb0800000000000000
+      internalID: -4776266617905997984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 13
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac315e17368d4610800000000000000
+      internalID: 1607088213331098798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 23
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244439862bb7fd380800000000000000
+      internalID: -8944294328745638846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 14
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5936ffbc934c880800000000000000
+      internalID: -8591678640790202916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 14
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3750a18b8d85cd0800000000000000
+      internalID: -2569065302192720909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 13
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18506f43ec111e0800000000000000
+      internalID: -2228773613710507609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d1a7a01d831110800000000000000
+      internalID: 1230482225873671697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579170413e7999f40800000000000000
+      internalID: 5735782601982417269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 13
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd886509f98bbc0800000000000000
+      internalID: -3767085646019502116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debuff_Down_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 13
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d52a5b00889e970800000000000000
+      internalID: 8784702084791557515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Debuff_Down_Large_sheet_0: -3671014640523898731
+      Debuff_Down_Large_sheet_1: 4169464160463923859
+      Debuff_Down_Large_sheet_10: 3072460972062006748
+      Debuff_Down_Large_sheet_11: 6642270605779646222
+      Debuff_Down_Large_sheet_12: -2501806966539890692
+      Debuff_Down_Large_sheet_13: 956062518424190113
+      Debuff_Down_Large_sheet_14: 5748337913270828961
+      Debuff_Down_Large_sheet_15: -7294660266462789057
+      Debuff_Down_Large_sheet_16: 4022439233967085319
+      Debuff_Down_Large_sheet_17: 8591529457034402863
+      Debuff_Down_Large_sheet_18: -2795958419642949724
+      Debuff_Down_Large_sheet_19: 3719911258882760950
+      Debuff_Down_Large_sheet_2: 7582845651212589425
+      Debuff_Down_Large_sheet_20: -5377339583239568244
+      Debuff_Down_Large_sheet_21: 7236447576194546149
+      Debuff_Down_Large_sheet_22: -4847620170029587151
+      Debuff_Down_Large_sheet_23: 6537539928887144293
+      Debuff_Down_Large_sheet_24: 4210401156717994677
+      Debuff_Down_Large_sheet_25: -3148314589991661801
+      Debuff_Down_Large_sheet_26: -1461072668179490581
+      Debuff_Down_Large_sheet_27: 1645026493435169326
+      Debuff_Down_Large_sheet_28: -161191790743964179
+      Debuff_Down_Large_sheet_29: 5942772712212236683
+      Debuff_Down_Large_sheet_3: -503983561067189194
+      Debuff_Down_Large_sheet_30: -5585417780318334647
+      Debuff_Down_Large_sheet_31: -6283770701110205261
+      Debuff_Down_Large_sheet_32: 8524363036917482386
+      Debuff_Down_Large_sheet_33: -1443651016317357624
+      Debuff_Down_Large_sheet_34: 6836066359060003054
+      Debuff_Down_Large_sheet_35: -254293239103080832
+      Debuff_Down_Large_sheet_36: -7228196476824218793
+      Debuff_Down_Large_sheet_37: -3582241897760025876
+      Debuff_Down_Large_sheet_38: 1439398407161671535
+      Debuff_Down_Large_sheet_39: 5225448984350132517
+      Debuff_Down_Large_sheet_4: 5312412864656403794
+      Debuff_Down_Large_sheet_40: -64620815992382192
+      Debuff_Down_Large_sheet_41: 2702156220969183834
+      Debuff_Down_Large_sheet_42: 1558997162461730296
+      Debuff_Down_Large_sheet_43: -1197544451967767585
+      Debuff_Down_Large_sheet_44: 8285728434211930667
+      Debuff_Down_Large_sheet_45: -186331072460186295
+      Debuff_Down_Large_sheet_46: 3728061517989082902
+      Debuff_Down_Large_sheet_47: 8847803673570351330
+      Debuff_Down_Large_sheet_48: -4090076490222593307
+      Debuff_Down_Large_sheet_49: 1665078712607296533
+      Debuff_Down_Large_sheet_5: -488433085556369297
+      Debuff_Down_Large_sheet_50: 6538214904792189738
+      Debuff_Down_Large_sheet_51: 3408639248469882066
+      Debuff_Down_Large_sheet_52: -1998949411945390450
+      Debuff_Down_Large_sheet_53: -8167415351774925342
+      Debuff_Down_Large_sheet_54: -8184054734284782399
+      Debuff_Down_Large_sheet_55: -4776266617905997984
+      Debuff_Down_Large_sheet_56: 1607088213331098798
+      Debuff_Down_Large_sheet_57: -8944294328745638846
+      Debuff_Down_Large_sheet_58: -8591678640790202916
+      Debuff_Down_Large_sheet_59: -2569065302192720909
+      Debuff_Down_Large_sheet_6: -9032152722796472890
+      Debuff_Down_Large_sheet_60: -2228773613710507609
+      Debuff_Down_Large_sheet_61: 1230482225873671697
+      Debuff_Down_Large_sheet_62: 5735782601982417269
+      Debuff_Down_Large_sheet_63: -3767085646019502116
+      Debuff_Down_Large_sheet_64: 8784702084791557515
+      Debuff_Down_Large_sheet_7: -855347316929743279
+      Debuff_Down_Large_sheet_8: 2281371899651108574
+      Debuff_Down_Large_sheet_9: 5408448919452476749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

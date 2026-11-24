@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 5e576871b939f8a4c8871a490cb46295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8461043985638163641
+    second: Teleport_In_Small_sheet_0
+  - first:
+      213: -6762784354291368456
+    second: Teleport_In_Small_sheet_1
+  - first:
+      213: -6662840702915459167
+    second: Teleport_In_Small_sheet_2
+  - first:
+      213: -1528666841489091044
+    second: Teleport_In_Small_sheet_3
+  - first:
+      213: 8074167362228165519
+    second: Teleport_In_Small_sheet_4
+  - first:
+      213: -9000726237936925765
+    second: Teleport_In_Small_sheet_5
+  - first:
+      213: -1119377250859321499
+    second: Teleport_In_Small_sheet_6
+  - first:
+      213: -363249810632729775
+    second: Teleport_In_Small_sheet_7
+  - first:
+      213: -742803372401761684
+    second: Teleport_In_Small_sheet_8
+  - first:
+      213: -4435585915566783568
+    second: Teleport_In_Small_sheet_9
+  - first:
+      213: -4196725804522568616
+    second: Teleport_In_Small_sheet_10
+  - first:
+      213: 6166929464303659469
+    second: Teleport_In_Small_sheet_11
+  - first:
+      213: 8710733409043393858
+    second: Teleport_In_Small_sheet_12
+  - first:
+      213: -6070650931618647131
+    second: Teleport_In_Small_sheet_13
+  - first:
+      213: 7891183670357163708
+    second: Teleport_In_Small_sheet_14
+  - first:
+      213: 7472581126889186609
+    second: Teleport_In_Small_sheet_15
+  - first:
+      213: -5076575198480744612
+    second: Teleport_In_Small_sheet_16
+  - first:
+      213: -3613443214706940778
+    second: Teleport_In_Small_sheet_17
+  - first:
+      213: 141837045844741918
+    second: Teleport_In_Small_sheet_18
+  - first:
+      213: 3942141028087117745
+    second: Teleport_In_Small_sheet_19
+  - first:
+      213: 5757177644651215529
+    second: Teleport_In_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b40be82daaab6570800000000000000
+      internalID: 8461043985638163641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb4e5e573c522a0800000000000000
+      internalID: -6762784354291368456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c5b39ea5d883a0800000000000000
+      internalID: -6662840702915459167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16df1d5b9519cae0800000000000000
+      internalID: -1528666841489091044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b99aaef643d0070800000000000000
+      internalID: 8074167362228165519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b3bac2ff61380800000000000000
+      internalID: -9000726237936925765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56770e0325c2770f0800000000000000
+      internalID: -1119377250859321499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1288c83a75faf0800000000000000
+      internalID: -363249810632729775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e702b44801b5f0800000000000000
+      internalID: -742803372401761684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38aeb4c12a172c0800000000000000
+      internalID: -4435585915566783568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85487b1bd1c32c5c0800000000000000
+      internalID: -4196725804522568616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a5ba8ca5559550800000000000000
+      internalID: 6166929464303659469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 15
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da82352edb2e870800000000000000
+      internalID: 8710733409043393858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f9713427b0cba0800000000000000
+      internalID: -6070650931618647131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 20
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe70092dbd138d60800000000000000
+      internalID: 7891183670357163708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135a48781f0f3b760800000000000000
+      internalID: 7472581126889186609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3ffaf0c16c89b0800000000000000
+      internalID: -5076575198480744612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e8538a887addc0800000000000000
+      internalID: -3613443214706940778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f019daa08e7f100800000000000000
+      internalID: 141837045844741918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b730a1f06c45b630800000000000000
+      internalID: 3942141028087117745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_In_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7142a09a95ef40800000000000000
+      internalID: 5757177644651215529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Teleport_In_Small_sheet_0: 8461043985638163641
+      Teleport_In_Small_sheet_1: -6762784354291368456
+      Teleport_In_Small_sheet_10: -4196725804522568616
+      Teleport_In_Small_sheet_11: 6166929464303659469
+      Teleport_In_Small_sheet_12: 8710733409043393858
+      Teleport_In_Small_sheet_13: -6070650931618647131
+      Teleport_In_Small_sheet_14: 7891183670357163708
+      Teleport_In_Small_sheet_15: 7472581126889186609
+      Teleport_In_Small_sheet_16: -5076575198480744612
+      Teleport_In_Small_sheet_17: -3613443214706940778
+      Teleport_In_Small_sheet_18: 141837045844741918
+      Teleport_In_Small_sheet_19: 3942141028087117745
+      Teleport_In_Small_sheet_2: -6662840702915459167
+      Teleport_In_Small_sheet_20: 5757177644651215529
+      Teleport_In_Small_sheet_3: -1528666841489091044
+      Teleport_In_Small_sheet_4: 8074167362228165519
+      Teleport_In_Small_sheet_5: -9000726237936925765
+      Teleport_In_Small_sheet_6: -1119377250859321499
+      Teleport_In_Small_sheet_7: -363249810632729775
+      Teleport_In_Small_sheet_8: -742803372401761684
+      Teleport_In_Small_sheet_9: -4435585915566783568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

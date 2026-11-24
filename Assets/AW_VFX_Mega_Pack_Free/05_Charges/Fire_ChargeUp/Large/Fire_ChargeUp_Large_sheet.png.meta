@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 0b4008b22b4b40e498305a2fcc32a119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5901772171313689482
+    second: Fire_ChargeUp_Large_sheet_0
+  - first:
+      213: -3136378403460698409
+    second: Fire_ChargeUp_Large_sheet_1
+  - first:
+      213: -3433884652082129649
+    second: Fire_ChargeUp_Large_sheet_2
+  - first:
+      213: 7706616668363768301
+    second: Fire_ChargeUp_Large_sheet_3
+  - first:
+      213: -5493317006985167824
+    second: Fire_ChargeUp_Large_sheet_4
+  - first:
+      213: 6054883480893811895
+    second: Fire_ChargeUp_Large_sheet_5
+  - first:
+      213: -5831444330269129900
+    second: Fire_ChargeUp_Large_sheet_6
+  - first:
+      213: -1278985890073412011
+    second: Fire_ChargeUp_Large_sheet_7
+  - first:
+      213: 3659689341967080673
+    second: Fire_ChargeUp_Large_sheet_8
+  - first:
+      213: -5840001229863439299
+    second: Fire_ChargeUp_Large_sheet_9
+  - first:
+      213: -7099639916060328686
+    second: Fire_ChargeUp_Large_sheet_10
+  - first:
+      213: -8621526087544706927
+    second: Fire_ChargeUp_Large_sheet_11
+  - first:
+      213: -4271712619368347873
+    second: Fire_ChargeUp_Large_sheet_12
+  - first:
+      213: -3054957160452744305
+    second: Fire_ChargeUp_Large_sheet_13
+  - first:
+      213: 6420384407822135424
+    second: Fire_ChargeUp_Large_sheet_14
+  - first:
+      213: 2398807774652270760
+    second: Fire_ChargeUp_Large_sheet_15
+  - first:
+      213: -5698573463859181656
+    second: Fire_ChargeUp_Large_sheet_16
+  - first:
+      213: -2975676503235986646
+    second: Fire_ChargeUp_Large_sheet_17
+  - first:
+      213: 2346345499782077511
+    second: Fire_ChargeUp_Large_sheet_18
+  - first:
+      213: 4538194621308868987
+    second: Fire_ChargeUp_Large_sheet_19
+  - first:
+      213: 861620220549719291
+    second: Fire_ChargeUp_Large_sheet_20
+  - first:
+      213: 9153235019911852551
+    second: Fire_ChargeUp_Large_sheet_21
+  - first:
+      213: 108205912562140520
+    second: Fire_ChargeUp_Large_sheet_22
+  - first:
+      213: 501649812962237634
+    second: Fire_ChargeUp_Large_sheet_23
+  - first:
+      213: 3924522433394415118
+    second: Fire_ChargeUp_Large_sheet_24
+  - first:
+      213: 6998766834850676561
+    second: Fire_ChargeUp_Large_sheet_25
+  - first:
+      213: 5675573164038990033
+    second: Fire_ChargeUp_Large_sheet_26
+  - first:
+      213: 8056847876840569492
+    second: Fire_ChargeUp_Large_sheet_27
+  - first:
+      213: -5913500254898743866
+    second: Fire_ChargeUp_Large_sheet_28
+  - first:
+      213: 3880216187028619448
+    second: Fire_ChargeUp_Large_sheet_29
+  - first:
+      213: -8771717279205984197
+    second: Fire_ChargeUp_Large_sheet_30
+  - first:
+      213: -4268777978545789124
+    second: Fire_ChargeUp_Large_sheet_31
+  - first:
+      213: -5494663676689395525
+    second: Fire_ChargeUp_Large_sheet_32
+  - first:
+      213: -1533859120383085780
+    second: Fire_ChargeUp_Large_sheet_33
+  - first:
+      213: 445212293131793044
+    second: Fire_ChargeUp_Large_sheet_34
+  - first:
+      213: 6002217317582901268
+    second: Fire_ChargeUp_Large_sheet_35
+  - first:
+      213: 7881857534893736923
+    second: Fire_ChargeUp_Large_sheet_36
+  - first:
+      213: -3049534240054680023
+    second: Fire_ChargeUp_Large_sheet_37
+  - first:
+      213: -2150923298221852868
+    second: Fire_ChargeUp_Large_sheet_38
+  - first:
+      213: 491317183913036674
+    second: Fire_ChargeUp_Large_sheet_39
+  - first:
+      213: 3040076915333463798
+    second: Fire_ChargeUp_Large_sheet_40
+  - first:
+      213: 7453333495865265494
+    second: Fire_ChargeUp_Large_sheet_41
+  - first:
+      213: 4310917787922006982
+    second: Fire_ChargeUp_Large_sheet_42
+  - first:
+      213: 912797046872659107
+    second: Fire_ChargeUp_Large_sheet_43
+  - first:
+      213: -3950879023502162924
+    second: Fire_ChargeUp_Large_sheet_44
+  - first:
+      213: -941238667223689326
+    second: Fire_ChargeUp_Large_sheet_45
+  - first:
+      213: 4845950561749243870
+    second: Fire_ChargeUp_Large_sheet_46
+  - first:
+      213: 3137934890371604986
+    second: Fire_ChargeUp_Large_sheet_47
+  - first:
+      213: 8605863830467957472
+    second: Fire_ChargeUp_Large_sheet_48
+  - first:
+      213: 9203062026484242014
+    second: Fire_ChargeUp_Large_sheet_49
+  - first:
+      213: -6591361452401074343
+    second: Fire_ChargeUp_Large_sheet_50
+  - first:
+      213: 990430791447204402
+    second: Fire_ChargeUp_Large_sheet_51
+  - first:
+      213: -696580742481954882
+    second: Fire_ChargeUp_Large_sheet_52
+  - first:
+      213: 1421045804295337678
+    second: Fire_ChargeUp_Large_sheet_53
+  - first:
+      213: 6848675435038796987
+    second: Fire_ChargeUp_Large_sheet_54
+  - first:
+      213: 382435099858631930
+    second: Fire_ChargeUp_Large_sheet_55
+  - first:
+      213: -5902551247094977982
+    second: Fire_ChargeUp_Large_sheet_56
+  - first:
+      213: -4164978697488703851
+    second: Fire_ChargeUp_Large_sheet_57
+  - first:
+      213: -8951052778608757676
+    second: Fire_ChargeUp_Large_sheet_58
+  - first:
+      213: -7198322393661577586
+    second: Fire_ChargeUp_Large_sheet_59
+  - first:
+      213: -6962751132774360313
+    second: Fire_ChargeUp_Large_sheet_60
+  - first:
+      213: 8042463135497039342
+    second: Fire_ChargeUp_Large_sheet_61
+  - first:
+      213: 84512298225900032
+    second: Fire_ChargeUp_Large_sheet_62
+  - first:
+      213: 5047489193093808326
+    second: Fire_ChargeUp_Large_sheet_63
+  - first:
+      213: -1480959273683303276
+    second: Fire_ChargeUp_Large_sheet_64
+  - first:
+      213: -7361890588411162979
+    second: Fire_ChargeUp_Large_sheet_65
+  - first:
+      213: -4184000069073703064
+    second: Fire_ChargeUp_Large_sheet_66
+  - first:
+      213: -668191325574930812
+    second: Fire_ChargeUp_Large_sheet_67
+  - first:
+      213: 8364012427782531451
+    second: Fire_ChargeUp_Large_sheet_68
+  - first:
+      213: 3355085108667899864
+    second: Fire_ChargeUp_Large_sheet_69
+  - first:
+      213: -5868567481523576569
+    second: Fire_ChargeUp_Large_sheet_70
+  - first:
+      213: 65858790632043032
+    second: Fire_ChargeUp_Large_sheet_71
+  - first:
+      213: -687680198778019248
+    second: Fire_ChargeUp_Large_sheet_72
+  - first:
+      213: 5986944323591181950
+    second: Fire_ChargeUp_Large_sheet_73
+  - first:
+      213: -3554838523783823226
+    second: Fire_ChargeUp_Large_sheet_74
+  - first:
+      213: -7164479054694472374
+    second: Fire_ChargeUp_Large_sheet_75
+  - first:
+      213: -6210061053716744670
+    second: Fire_ChargeUp_Large_sheet_76
+  - first:
+      213: -7642585679826714779
+    second: Fire_ChargeUp_Large_sheet_77
+  - first:
+      213: -4986159467105561479
+    second: Fire_ChargeUp_Large_sheet_78
+  - first:
+      213: -3176658372465460524
+    second: Fire_ChargeUp_Large_sheet_79
+  - first:
+      213: 7746706237189419858
+    second: Fire_ChargeUp_Large_sheet_80
+  - first:
+      213: -7246184783971704828
+    second: Fire_ChargeUp_Large_sheet_81
+  - first:
+      213: -6718450241390497951
+    second: Fire_ChargeUp_Large_sheet_82
+  - first:
+      213: -6873701967650691887
+    second: Fire_ChargeUp_Large_sheet_83
+  - first:
+      213: 6135301770162464766
+    second: Fire_ChargeUp_Large_sheet_84
+  - first:
+      213: 820454713426832096
+    second: Fire_ChargeUp_Large_sheet_85
+  - first:
+      213: 8829740108934616615
+    second: Fire_ChargeUp_Large_sheet_86
+  - first:
+      213: -8392610142997089661
+    second: Fire_ChargeUp_Large_sheet_87
+  - first:
+      213: -6112062522465709133
+    second: Fire_ChargeUp_Large_sheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ccf87aa71b81ea0800000000000000
+      internalID: -5901772171313689482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea48495785974d0800000000000000
+      internalID: -3136378403460698409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 73
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059af83a146850d0800000000000000
+      internalID: -3433884652082129649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14de9470763fa60800000000000000
+      internalID: 7706616668363768301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 76
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c79087941d3c3b0800000000000000
+      internalID: -5493317006985167824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 41
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc6e0b1274470450800000000000000
+      internalID: 6054883480893811895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 30
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c7d6274c821fa0800000000000000
+      internalID: -5831444330269129900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 27
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eff6dfb11204ee0800000000000000
+      internalID: -1278985890073412011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 75
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec1b301114d9c230800000000000000
+      internalID: 3659689341967080673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343526b2d524fea0800000000000000
+      internalID: -5840001229863439299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 70
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3a02ac13097d90800000000000000
+      internalID: -7099639916060328686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 68
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986222c3bf2a5880800000000000000
+      internalID: -8621526087544706927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 26
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170ff35104d7b4c0800000000000000
+      internalID: -4271712619368347873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 77
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9d2ff5ac9a95d0800000000000000
+      internalID: -3054957160452744305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 31
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f1bd2a99c91950800000000000000
+      internalID: 6420384407822135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 81
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8089c26f64a4120800000000000000
+      internalID: 2398807774652270760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 22
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c43080a99ae0b0800000000000000
+      internalID: -5698573463859181656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 50
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b74227cf544b6d0800000000000000
+      internalID: -2975676503235986646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 81
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd8d2fcc4ef8020800000000000000
+      internalID: 2346345499782077511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 29
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7914b4b6f7eafe30800000000000000
+      internalID: 4538194621308868987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 70
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e829860715fb00800000000000000
+      internalID: 861620220549719291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 20
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f28331c2d60f70800000000000000
+      internalID: 9153235019911852551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 73
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650dd444bc608100800000000000000
+      internalID: 108205912562140520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 71
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5147d8d736f600800000000000000
+      internalID: 501649812962237634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 74
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0696833c54b67630800000000000000
+      internalID: 3924522433394415118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 73
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3f01fa5d902160800000000000000
+      internalID: 6998766834850676561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 31
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a843e8bfa3ce40800000000000000
+      internalID: 5675573164038990033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 77
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a317cf47cafcf60800000000000000
+      internalID: 8056847876840569492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5149769d60feda0800000000000000
+      internalID: -5913500254898743866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 75
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0cf87501c49d530800000000000000
+      internalID: 3880216187028619448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 73
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3875ceeb99944680800000000000000
+      internalID: -8771717279205984197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37a4c3ab0142c4c0800000000000000
+      internalID: -4268777978545789124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0dfae7f780fb3b0800000000000000
+      internalID: -5494663676689395525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 53
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b21ab143a6bae0800000000000000
+      internalID: -1533859120383085780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f1c5c836bd2600800000000000000
+      internalID: 445212293131793044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 35
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4101a3769d82c4350800000000000000
+      internalID: 6002217317582901268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 62
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c3990babf16d60800000000000000
+      internalID: 7881857534893736923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 37
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926662b04c0eda5d0800000000000000
+      internalID: -3049534240054680023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 55
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37ff5608a26622e0800000000000000
+      internalID: -2150923298221852868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 41
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b8e2b206281d600800000000000000
+      internalID: 491317183913036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef054f8d5803a20800000000000000
+      internalID: 3040076915333463798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 37
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dc195335f8f6760800000000000000
+      internalID: 7453333495865265494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 53
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3010d43e473db30800000000000000
+      internalID: 4310917787922006982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 51
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ded2f318eaac00800000000000000
+      internalID: 912797046872659107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 63
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148c95f578ab29c0800000000000000
+      internalID: -3950879023502162924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 34
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29715474b6c00f2f0800000000000000
+      internalID: -941238667223689326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 55
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71b286c56404340800000000000000
+      internalID: 4845950561749243870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 34
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af167e4482f2c8b20800000000000000
+      internalID: 3137934890371604986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 48
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2dc68de8b2e6770800000000000000
+      internalID: 8605863830467957472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 33
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56da763728d7bf70800000000000000
+      internalID: 9203062026484242014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 53
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5e6b7ea7c684a0800000000000000
+      internalID: -6591361452401074343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 39
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d1daae87bebd00800000000000000
+      internalID: 990430791447204402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 45
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb73cfe518f3556f0800000000000000
+      internalID: -696580742481954882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 33
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6359641a198b310800000000000000
+      internalID: 1421045804295337678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 39
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6e67b5026b0f50800000000000000
+      internalID: 6848675435038796987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 65
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf6b472beae4500800000000000000
+      internalID: 382435099858631930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 25
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a6d50f9ece51ea0800000000000000
+      internalID: -5902551247094977982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59edd1f01f50336c0800000000000000
+      internalID: -4164978697488703851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454704d2ce877c380800000000000000
+      internalID: -8951052778608757676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 44
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ef0bdbeb6a1c90800000000000000
+      internalID: -7198322393661577586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 44
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b19872cb65f5f90800000000000000
+      internalID: -6962751132774360313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 36
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda9766c919c9f60800000000000000
+      internalID: 8042463135497039342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 27
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a18eacc7f3c2100800000000000000
+      internalID: 84512298225900032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 49
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0caf9ada84c0640800000000000000
+      internalID: 5047489193093808326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 34
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49449451363927be0800000000000000
+      internalID: -1480959273683303276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 44
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e067ac38f45d990800000000000000
+      internalID: -7361890588411162979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe6aeda127fe5c0800000000000000
+      internalID: -4184000069073703064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 41
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48edb15978b1ab6f0800000000000000
+      internalID: -668191325574930812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792ee61df0f21470800000000000000
+      internalID: 8364012427782531451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 24
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5a5d5128af8e20800000000000000
+      internalID: 3355085108667899864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 22
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e063f7f8ae8ea0800000000000000
+      internalID: -5868567481523576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b5fc983af9e000800000000000000
+      internalID: 65858790632043032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05224c0b08ed476f0800000000000000
+      internalID: -687680198778019248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 20
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7691b16426e51350800000000000000
+      internalID: 5986944323591181950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 22
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680cdfb623daaaec0800000000000000
+      internalID: -3554838523783823226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 22
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a5304248a29c90800000000000000
+      internalID: -7164479054694472374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 25
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226b9bbbf5e61d9a0800000000000000
+      internalID: -6210061053716744670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 23
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ff07cf0d410f590800000000000000
+      internalID: -7642585679826714779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 22
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d8b9e16a9dcab0800000000000000
+      internalID: -4986159467105561479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 20
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafc687a0e3ae3d0800000000000000
+      internalID: -3176658372465460524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 22
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537af66744d18b60800000000000000
+      internalID: 7746706237189419858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 25
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a686b451607b90800000000000000
+      internalID: -7246184783971704828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 16
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f28c0f91543c2a0800000000000000
+      internalID: -6718450241390497951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 19
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4e6469a74bb90a0800000000000000
+      internalID: -6873701967650691887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 18
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7eb582478f42550800000000000000
+      internalID: 6135301770162464766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 20
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae9140737d26b00800000000000000
+      internalID: 820454713426832096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 21
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726111cd8d9898a70800000000000000
+      internalID: 8829740108934616615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38271587a85778b80800000000000000
+      internalID: -8392610142997089661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_ChargeUp_Large_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 8
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31477d4879d2ba0800000000000000
+      internalID: -6112062522465709133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_ChargeUp_Large_sheet_0: -5901772171313689482
+      Fire_ChargeUp_Large_sheet_1: -3136378403460698409
+      Fire_ChargeUp_Large_sheet_10: -7099639916060328686
+      Fire_ChargeUp_Large_sheet_11: -8621526087544706927
+      Fire_ChargeUp_Large_sheet_12: -4271712619368347873
+      Fire_ChargeUp_Large_sheet_13: -3054957160452744305
+      Fire_ChargeUp_Large_sheet_14: 6420384407822135424
+      Fire_ChargeUp_Large_sheet_15: 2398807774652270760
+      Fire_ChargeUp_Large_sheet_16: -5698573463859181656
+      Fire_ChargeUp_Large_sheet_17: -2975676503235986646
+      Fire_ChargeUp_Large_sheet_18: 2346345499782077511
+      Fire_ChargeUp_Large_sheet_19: 4538194621308868987
+      Fire_ChargeUp_Large_sheet_2: -3433884652082129649
+      Fire_ChargeUp_Large_sheet_20: 861620220549719291
+      Fire_ChargeUp_Large_sheet_21: 9153235019911852551
+      Fire_ChargeUp_Large_sheet_22: 108205912562140520
+      Fire_ChargeUp_Large_sheet_23: 501649812962237634
+      Fire_ChargeUp_Large_sheet_24: 3924522433394415118
+      Fire_ChargeUp_Large_sheet_25: 6998766834850676561
+      Fire_ChargeUp_Large_sheet_26: 5675573164038990033
+      Fire_ChargeUp_Large_sheet_27: 8056847876840569492
+      Fire_ChargeUp_Large_sheet_28: -5913500254898743866
+      Fire_ChargeUp_Large_sheet_29: 3880216187028619448
+      Fire_ChargeUp_Large_sheet_3: 7706616668363768301
+      Fire_ChargeUp_Large_sheet_30: -8771717279205984197
+      Fire_ChargeUp_Large_sheet_31: -4268777978545789124
+      Fire_ChargeUp_Large_sheet_32: -5494663676689395525
+      Fire_ChargeUp_Large_sheet_33: -1533859120383085780
+      Fire_ChargeUp_Large_sheet_34: 445212293131793044
+      Fire_ChargeUp_Large_sheet_35: 6002217317582901268
+      Fire_ChargeUp_Large_sheet_36: 7881857534893736923
+      Fire_ChargeUp_Large_sheet_37: -3049534240054680023
+      Fire_ChargeUp_Large_sheet_38: -2150923298221852868
+      Fire_ChargeUp_Large_sheet_39: 491317183913036674
+      Fire_ChargeUp_Large_sheet_4: -5493317006985167824
+      Fire_ChargeUp_Large_sheet_40: 3040076915333463798
+      Fire_ChargeUp_Large_sheet_41: 7453333495865265494
+      Fire_ChargeUp_Large_sheet_42: 4310917787922006982
+      Fire_ChargeUp_Large_sheet_43: 912797046872659107
+      Fire_ChargeUp_Large_sheet_44: -3950879023502162924
+      Fire_ChargeUp_Large_sheet_45: -941238667223689326
+      Fire_ChargeUp_Large_sheet_46: 4845950561749243870
+      Fire_ChargeUp_Large_sheet_47: 3137934890371604986
+      Fire_ChargeUp_Large_sheet_48: 8605863830467957472
+      Fire_ChargeUp_Large_sheet_49: 9203062026484242014
+      Fire_ChargeUp_Large_sheet_5: 6054883480893811895
+      Fire_ChargeUp_Large_sheet_50: -6591361452401074343
+      Fire_ChargeUp_Large_sheet_51: 990430791447204402
+      Fire_ChargeUp_Large_sheet_52: -696580742481954882
+      Fire_ChargeUp_Large_sheet_53: 1421045804295337678
+      Fire_ChargeUp_Large_sheet_54: 6848675435038796987
+      Fire_ChargeUp_Large_sheet_55: 382435099858631930
+      Fire_ChargeUp_Large_sheet_56: -5902551247094977982
+      Fire_ChargeUp_Large_sheet_57: -4164978697488703851
+      Fire_ChargeUp_Large_sheet_58: -8951052778608757676
+      Fire_ChargeUp_Large_sheet_59: -7198322393661577586
+      Fire_ChargeUp_Large_sheet_6: -5831444330269129900
+      Fire_ChargeUp_Large_sheet_60: -6962751132774360313
+      Fire_ChargeUp_Large_sheet_61: 8042463135497039342
+      Fire_ChargeUp_Large_sheet_62: 84512298225900032
+      Fire_ChargeUp_Large_sheet_63: 5047489193093808326
+      Fire_ChargeUp_Large_sheet_64: -1480959273683303276
+      Fire_ChargeUp_Large_sheet_65: -7361890588411162979
+      Fire_ChargeUp_Large_sheet_66: -4184000069073703064
+      Fire_ChargeUp_Large_sheet_67: -668191325574930812
+      Fire_ChargeUp_Large_sheet_68: 8364012427782531451
+      Fire_ChargeUp_Large_sheet_69: 3355085108667899864
+      Fire_ChargeUp_Large_sheet_7: -1278985890073412011
+      Fire_ChargeUp_Large_sheet_70: -5868567481523576569
+      Fire_ChargeUp_Large_sheet_71: 65858790632043032
+      Fire_ChargeUp_Large_sheet_72: -687680198778019248
+      Fire_ChargeUp_Large_sheet_73: 5986944323591181950
+      Fire_ChargeUp_Large_sheet_74: -3554838523783823226
+      Fire_ChargeUp_Large_sheet_75: -7164479054694472374
+      Fire_ChargeUp_Large_sheet_76: -6210061053716744670
+      Fire_ChargeUp_Large_sheet_77: -7642585679826714779
+      Fire_ChargeUp_Large_sheet_78: -4986159467105561479
+      Fire_ChargeUp_Large_sheet_79: -3176658372465460524
+      Fire_ChargeUp_Large_sheet_8: 3659689341967080673
+      Fire_ChargeUp_Large_sheet_80: 7746706237189419858
+      Fire_ChargeUp_Large_sheet_81: -7246184783971704828
+      Fire_ChargeUp_Large_sheet_82: -6718450241390497951
+      Fire_ChargeUp_Large_sheet_83: -6873701967650691887
+      Fire_ChargeUp_Large_sheet_84: 6135301770162464766
+      Fire_ChargeUp_Large_sheet_85: 820454713426832096
+      Fire_ChargeUp_Large_sheet_86: 8829740108934616615
+      Fire_ChargeUp_Large_sheet_87: -8392610142997089661
+      Fire_ChargeUp_Large_sheet_88: -6112062522465709133
+      Fire_ChargeUp_Large_sheet_9: -5840001229863439299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

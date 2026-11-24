@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 506ccf76d08a0fc48a8c2f3a14ba8707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8574962380591562749
+    second: Text_Miss_Large_sheet_0
+  - first:
+      213: -5673649127644623640
+    second: Text_Miss_Large_sheet_1
+  - first:
+      213: 379245550681235251
+    second: Text_Miss_Large_sheet_2
+  - first:
+      213: -7654446507776117028
+    second: Text_Miss_Large_sheet_3
+  - first:
+      213: 6239559069294414781
+    second: Text_Miss_Large_sheet_4
+  - first:
+      213: 8642184471303873526
+    second: Text_Miss_Large_sheet_5
+  - first:
+      213: -2005268232607357142
+    second: Text_Miss_Large_sheet_6
+  - first:
+      213: -8355330924428821026
+    second: Text_Miss_Large_sheet_7
+  - first:
+      213: 1008073465875328518
+    second: Text_Miss_Large_sheet_8
+  - first:
+      213: -5903691465185209105
+    second: Text_Miss_Large_sheet_9
+  - first:
+      213: -3370371346334077487
+    second: Text_Miss_Large_sheet_10
+  - first:
+      213: -1492623773695829047
+    second: Text_Miss_Large_sheet_11
+  - first:
+      213: -5152927218659300574
+    second: Text_Miss_Large_sheet_12
+  - first:
+      213: 3340767311576661374
+    second: Text_Miss_Large_sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 17
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300808e952d9ff880800000000000000
+      internalID: -8574962380591562749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec898ebd262341b0800000000000000
+      internalID: -5673649127644623640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f900ba1d9534500800000000000000
+      internalID: 379245550681235251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd676c7c471f5c590800000000000000
+      internalID: -7654446507776117028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4c583aed579650800000000000000
+      internalID: 6239559069294414781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e6770df43fe770800000000000000
+      internalID: 8642184471303873526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a272014ba2bdb24e0800000000000000
+      internalID: -2005268232607357142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd759ceac6eb0c80800000000000000
+      internalID: -8355330924428821026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eeef8e9756dfd00800000000000000
+      internalID: 1008073465875328518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4512a34efd11ea0800000000000000
+      internalID: -5903691465185209105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2a941e190a31d0800000000000000
+      internalID: -3370371346334077487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9e890692294be0800000000000000
+      internalID: -1492623773695829047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 13
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bee5afeff1d78b0800000000000000
+      internalID: -5152927218659300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Miss_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 11
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d73c37b2acc5e20800000000000000
+      internalID: 3340767311576661374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Miss_Large_sheet_0: -8574962380591562749
+      Text_Miss_Large_sheet_1: -5673649127644623640
+      Text_Miss_Large_sheet_10: -3370371346334077487
+      Text_Miss_Large_sheet_11: -1492623773695829047
+      Text_Miss_Large_sheet_12: -5152927218659300574
+      Text_Miss_Large_sheet_13: 3340767311576661374
+      Text_Miss_Large_sheet_2: 379245550681235251
+      Text_Miss_Large_sheet_3: -7654446507776117028
+      Text_Miss_Large_sheet_4: 6239559069294414781
+      Text_Miss_Large_sheet_5: 8642184471303873526
+      Text_Miss_Large_sheet_6: -2005268232607357142
+      Text_Miss_Large_sheet_7: -8355330924428821026
+      Text_Miss_Large_sheet_8: 1008073465875328518
+      Text_Miss_Large_sheet_9: -5903691465185209105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

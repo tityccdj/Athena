@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 6356cccf3beae4f4bbb4b8f257d3d45e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8085837214040400694
+    second: Star_Twinkle_Large_sheet_0
+  - first:
+      213: -1249669984842407486
+    second: Star_Twinkle_Large_sheet_1
+  - first:
+      213: 2663233589260721648
+    second: Star_Twinkle_Large_sheet_2
+  - first:
+      213: -7815282222033069482
+    second: Star_Twinkle_Large_sheet_3
+  - first:
+      213: 7515972637965231682
+    second: Star_Twinkle_Large_sheet_4
+  - first:
+      213: 3426893682847192991
+    second: Star_Twinkle_Large_sheet_5
+  - first:
+      213: -3824856086473105163
+    second: Star_Twinkle_Large_sheet_6
+  - first:
+      213: 2131274819319545996
+    second: Star_Twinkle_Large_sheet_7
+  - first:
+      213: -8723490982968949782
+    second: Star_Twinkle_Large_sheet_8
+  - first:
+      213: -4570791724699651076
+    second: Star_Twinkle_Large_sheet_9
+  - first:
+      213: -1261421311003250645
+    second: Star_Twinkle_Large_sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accdc79f4e559cf80800000000000000
+      internalID: -8085837214040400694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1200315c748aee0800000000000000
+      internalID: -1249669984842407486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd16c9c6d4b5f420800000000000000
+      internalID: 2663233589260721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a1b48e93a8a8390800000000000000
+      internalID: -7815282222033069482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246297bfa491e4860800000000000000
+      internalID: 7515972637965231682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f971329e5a5ce8f20800000000000000
+      internalID: 3426893682847192991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a7c087a16beac0800000000000000
+      internalID: -3824856086473105163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c64cf72fc39d10800000000000000
+      internalID: 2131274819319545996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae300d68b2fefe680800000000000000
+      internalID: -8723490982968949782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf37bfab4294190c0800000000000000
+      internalID: -4570791724699651076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Twinkle_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 167
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203b8d30088e7ee0800000000000000
+      internalID: -1261421311003250645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Star_Twinkle_Large_sheet_0: -8085837214040400694
+      Star_Twinkle_Large_sheet_1: -1249669984842407486
+      Star_Twinkle_Large_sheet_10: -1261421311003250645
+      Star_Twinkle_Large_sheet_2: 2663233589260721648
+      Star_Twinkle_Large_sheet_3: -7815282222033069482
+      Star_Twinkle_Large_sheet_4: 7515972637965231682
+      Star_Twinkle_Large_sheet_5: 3426893682847192991
+      Star_Twinkle_Large_sheet_6: -3824856086473105163
+      Star_Twinkle_Large_sheet_7: 2131274819319545996
+      Star_Twinkle_Large_sheet_8: -8723490982968949782
+      Star_Twinkle_Large_sheet_9: -4570791724699651076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 77dc3bda83eaf814e92c7beb654d6a82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 36586342831757439
+    second: Ice_ChargeUp_Small_sheet_0
+  - first:
+      213: -1615724084330382606
+    second: Ice_ChargeUp_Small_sheet_1
+  - first:
+      213: 285590608727656527
+    second: Ice_ChargeUp_Small_sheet_2
+  - first:
+      213: 2978045214605848546
+    second: Ice_ChargeUp_Small_sheet_3
+  - first:
+      213: 408319826036939689
+    second: Ice_ChargeUp_Small_sheet_4
+  - first:
+      213: 1476261853107489079
+    second: Ice_ChargeUp_Small_sheet_5
+  - first:
+      213: -6536770268031706017
+    second: Ice_ChargeUp_Small_sheet_6
+  - first:
+      213: 609973424841170123
+    second: Ice_ChargeUp_Small_sheet_7
+  - first:
+      213: 2142463464703714481
+    second: Ice_ChargeUp_Small_sheet_8
+  - first:
+      213: -6272313283153645963
+    second: Ice_ChargeUp_Small_sheet_9
+  - first:
+      213: 8103068386936706798
+    second: Ice_ChargeUp_Small_sheet_10
+  - first:
+      213: 9183449267110834199
+    second: Ice_ChargeUp_Small_sheet_11
+  - first:
+      213: -1910934499944019506
+    second: Ice_ChargeUp_Small_sheet_12
+  - first:
+      213: 6918107403615018157
+    second: Ice_ChargeUp_Small_sheet_13
+  - first:
+      213: -4402378902583897168
+    second: Ice_ChargeUp_Small_sheet_14
+  - first:
+      213: -4249914478932050286
+    second: Ice_ChargeUp_Small_sheet_15
+  - first:
+      213: -6852052178000166309
+    second: Ice_ChargeUp_Small_sheet_16
+  - first:
+      213: -7122468387515022935
+    second: Ice_ChargeUp_Small_sheet_17
+  - first:
+      213: -7764001388503934766
+    second: Ice_ChargeUp_Small_sheet_18
+  - first:
+      213: -8234969011900534271
+    second: Ice_ChargeUp_Small_sheet_19
+  - first:
+      213: 2538275482106035431
+    second: Ice_ChargeUp_Small_sheet_20
+  - first:
+      213: -1085173588425012141
+    second: Ice_ChargeUp_Small_sheet_21
+  - first:
+      213: 8552904238945873909
+    second: Ice_ChargeUp_Small_sheet_22
+  - first:
+      213: -3726186096114591614
+    second: Ice_ChargeUp_Small_sheet_23
+  - first:
+      213: 6297764944650680863
+    second: Ice_ChargeUp_Small_sheet_24
+  - first:
+      213: 4214783466774502053
+    second: Ice_ChargeUp_Small_sheet_25
+  - first:
+      213: 2379901039546805372
+    second: Ice_ChargeUp_Small_sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781e10c51bf18000800000000000000
+      internalID: 36586342831757439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab17a718bc399e0800000000000000
+      internalID: -1615724084330382606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f484660452f96f300800000000000000
+      internalID: 285590608727656527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef22a52854245920800000000000000
+      internalID: 2978045214605848546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5ea9e7b4aaa500800000000000000
+      internalID: 408319826036939689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398ee5755cbc7410800000000000000
+      internalID: 1476261853107489079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c92a3131ab845a0800000000000000
+      internalID: -6536770268031706017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc161e199f077800800000000000000
+      internalID: 609973424841170123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4eaed7b2f8bbd10800000000000000
+      internalID: 2142463464703714481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ea9a51d4444f8a0800000000000000
+      internalID: -6272313283153645963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee65f0a14c1e37070800000000000000
+      internalID: 8103068386936706798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71076f2d37a227f70800000000000000
+      internalID: 9183449267110834199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94cc5623ffa75e0800000000000000
+      internalID: -1910934499944019506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1976a70e020060800000000000000
+      internalID: 6918107403615018157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b310d086bb97e2c0800000000000000
+      internalID: -4402378902583897168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e37756c454505c0800000000000000
+      internalID: -4249914478932050286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 27
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52cbdb09de98e0a0800000000000000
+      internalID: -6852052178000166309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c73eecb8e72d90800000000000000
+      internalID: -7122468387515022935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d855926fd9b04490800000000000000
+      internalID: -7764001388503934766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b15d705387bd80800000000000000
+      internalID: -8234969011900534271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec73054a14c93320800000000000000
+      internalID: 2538275482106035431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8a4eee50b0f0f0800000000000000
+      internalID: -1085173588425012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2d40171502b670800000000000000
+      internalID: 8552904238945873909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288171edc7de94cc0800000000000000
+      internalID: -3726186096114591614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1abfc4a9d7266750800000000000000
+      internalID: 6297764944650680863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa984e6b3bed7a30800000000000000
+      internalID: 4214783466774502053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeUp_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c25ced26b170120800000000000000
+      internalID: 2379901039546805372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_ChargeUp_Small_sheet_0: 36586342831757439
+      Ice_ChargeUp_Small_sheet_1: -1615724084330382606
+      Ice_ChargeUp_Small_sheet_10: 8103068386936706798
+      Ice_ChargeUp_Small_sheet_11: 9183449267110834199
+      Ice_ChargeUp_Small_sheet_12: -1910934499944019506
+      Ice_ChargeUp_Small_sheet_13: 6918107403615018157
+      Ice_ChargeUp_Small_sheet_14: -4402378902583897168
+      Ice_ChargeUp_Small_sheet_15: -4249914478932050286
+      Ice_ChargeUp_Small_sheet_16: -6852052178000166309
+      Ice_ChargeUp_Small_sheet_17: -7122468387515022935
+      Ice_ChargeUp_Small_sheet_18: -7764001388503934766
+      Ice_ChargeUp_Small_sheet_19: -8234969011900534271
+      Ice_ChargeUp_Small_sheet_2: 285590608727656527
+      Ice_ChargeUp_Small_sheet_20: 2538275482106035431
+      Ice_ChargeUp_Small_sheet_21: -1085173588425012141
+      Ice_ChargeUp_Small_sheet_22: 8552904238945873909
+      Ice_ChargeUp_Small_sheet_23: -3726186096114591614
+      Ice_ChargeUp_Small_sheet_24: 6297764944650680863
+      Ice_ChargeUp_Small_sheet_25: 4214783466774502053
+      Ice_ChargeUp_Small_sheet_26: 2379901039546805372
+      Ice_ChargeUp_Small_sheet_3: 2978045214605848546
+      Ice_ChargeUp_Small_sheet_4: 408319826036939689
+      Ice_ChargeUp_Small_sheet_5: 1476261853107489079
+      Ice_ChargeUp_Small_sheet_6: -6536770268031706017
+      Ice_ChargeUp_Small_sheet_7: 609973424841170123
+      Ice_ChargeUp_Small_sheet_8: 2142463464703714481
+      Ice_ChargeUp_Small_sheet_9: -6272313283153645963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

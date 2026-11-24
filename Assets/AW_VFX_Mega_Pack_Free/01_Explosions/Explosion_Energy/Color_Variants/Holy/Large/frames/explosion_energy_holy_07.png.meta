@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c751590decec49e4db908793a40499d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8795036817447867248
+    second: explosion_energy_holy_07_0
+  - first:
+      213: -5322442196668341661
+    second: explosion_energy_holy_07_1
+  - first:
+      213: 7792616657543494731
+    second: explosion_energy_holy_07_2
+  - first:
+      213: -3594764812786717247
+    second: explosion_energy_holy_07_3
+  - first:
+      213: 2145608479732516018
+    second: explosion_energy_holy_07_4
+  - first:
+      213: -4044201757970923706
+    second: explosion_energy_holy_07_5
+  - first:
+      213: 6014828044929582940
+    second: explosion_energy_holy_07_6
+  - first:
+      213: 7151686378127068010
+    second: explosion_energy_holy_07_7
+  - first:
+      213: -8272313040225667193
+    second: explosion_energy_holy_07_8
+  - first:
+      213: 3458972823551092659
+    second: explosion_energy_holy_07_9
+  - first:
+      213: 7495643262788247217
+    second: explosion_energy_holy_07_10
+  - first:
+      213: 5431073550654763874
+    second: explosion_energy_holy_07_11
+  - first:
+      213: 3352241124135587705
+    second: explosion_energy_holy_07_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ca985dc90c1f580800000000000000
+      internalID: -8795036817447867248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 120
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362a80a8503e226b0800000000000000
+      internalID: -5322442196668341661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 117
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cfbaf109fe42c60800000000000000
+      internalID: 7792616657543494731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 110
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd26cad274dc1ec0800000000000000
+      internalID: -3594764812786717247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4c58d5b8bb6cd10800000000000000
+      internalID: 2145608479732516018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 84
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff120adeb10e7c0800000000000000
+      internalID: -4044201757970923706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 58
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c51b2d36f87350800000000000000
+      internalID: 6014828044929582940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8341aed4ef3360800000000000000
+      internalID: 7151686378127068010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78774865e17d23d80800000000000000
+      internalID: -8272313040225667193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72e73e47db00030800000000000000
+      internalID: 3458972823551092659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1b8975dfd50860800000000000000
+      internalID: 7495643262788247217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 27
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263fbc78e9c0f5b40800000000000000
+      internalID: 5431073550654763874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_holy_07_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fce8d9a8d858e20800000000000000
+      internalID: 3352241124135587705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion_energy_holy_07_0: -8795036817447867248
+      explosion_energy_holy_07_1: -5322442196668341661
+      explosion_energy_holy_07_10: 7495643262788247217
+      explosion_energy_holy_07_11: 5431073550654763874
+      explosion_energy_holy_07_12: 3352241124135587705
+      explosion_energy_holy_07_2: 7792616657543494731
+      explosion_energy_holy_07_3: -3594764812786717247
+      explosion_energy_holy_07_4: 2145608479732516018
+      explosion_energy_holy_07_5: -4044201757970923706
+      explosion_energy_holy_07_6: 6014828044929582940
+      explosion_energy_holy_07_7: 7151686378127068010
+      explosion_energy_holy_07_8: -8272313040225667193
+      explosion_energy_holy_07_9: 3458972823551092659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

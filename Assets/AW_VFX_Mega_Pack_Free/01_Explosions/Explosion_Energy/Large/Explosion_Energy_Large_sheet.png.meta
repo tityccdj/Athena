@@ -1,0 +1,5044 @@
+fileFormatVersion: 2
+guid: 955a32d0885648441befd8e99b7eb720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7431137331253079127
+    second: Explosion_Energy_Large_sheet_0
+  - first:
+      213: 3886198955345190295
+    second: Explosion_Energy_Large_sheet_1
+  - first:
+      213: 7348161188403605013
+    second: Explosion_Energy_Large_sheet_2
+  - first:
+      213: -4126004338680644218
+    second: Explosion_Energy_Large_sheet_3
+  - first:
+      213: 9026680022785612523
+    second: Explosion_Energy_Large_sheet_4
+  - first:
+      213: -7353785022496667910
+    second: Explosion_Energy_Large_sheet_5
+  - first:
+      213: -868595914547778047
+    second: Explosion_Energy_Large_sheet_6
+  - first:
+      213: 1837948038610326538
+    second: Explosion_Energy_Large_sheet_7
+  - first:
+      213: -7496614853348324012
+    second: Explosion_Energy_Large_sheet_8
+  - first:
+      213: -3988483408082468549
+    second: Explosion_Energy_Large_sheet_9
+  - first:
+      213: 6750657565369438304
+    second: Explosion_Energy_Large_sheet_10
+  - first:
+      213: -8015398778145201119
+    second: Explosion_Energy_Large_sheet_11
+  - first:
+      213: -2606406429726532896
+    second: Explosion_Energy_Large_sheet_12
+  - first:
+      213: 3592350717673214235
+    second: Explosion_Energy_Large_sheet_13
+  - first:
+      213: 5191661121333789811
+    second: Explosion_Energy_Large_sheet_14
+  - first:
+      213: 2914128968021881458
+    second: Explosion_Energy_Large_sheet_15
+  - first:
+      213: 875796327726643697
+    second: Explosion_Energy_Large_sheet_16
+  - first:
+      213: -1264436799947122482
+    second: Explosion_Energy_Large_sheet_17
+  - first:
+      213: -2996489909955375060
+    second: Explosion_Energy_Large_sheet_18
+  - first:
+      213: -2322657848314118125
+    second: Explosion_Energy_Large_sheet_19
+  - first:
+      213: 7453532980093676869
+    second: Explosion_Energy_Large_sheet_20
+  - first:
+      213: -8610135096216729369
+    second: Explosion_Energy_Large_sheet_21
+  - first:
+      213: -2276001783274911266
+    second: Explosion_Energy_Large_sheet_22
+  - first:
+      213: 9058616521299945447
+    second: Explosion_Energy_Large_sheet_23
+  - first:
+      213: 1557135280033731549
+    second: Explosion_Energy_Large_sheet_24
+  - first:
+      213: 4002423793187357498
+    second: Explosion_Energy_Large_sheet_25
+  - first:
+      213: 2186480616177780008
+    second: Explosion_Energy_Large_sheet_26
+  - first:
+      213: 7319885543969526218
+    second: Explosion_Energy_Large_sheet_27
+  - first:
+      213: -2284657028283717482
+    second: Explosion_Energy_Large_sheet_28
+  - first:
+      213: 292478736948404308
+    second: Explosion_Energy_Large_sheet_29
+  - first:
+      213: -8750428694743555742
+    second: Explosion_Energy_Large_sheet_30
+  - first:
+      213: -4744423492025841174
+    second: Explosion_Energy_Large_sheet_31
+  - first:
+      213: -7240746696943644475
+    second: Explosion_Energy_Large_sheet_32
+  - first:
+      213: 2447620974479199982
+    second: Explosion_Energy_Large_sheet_33
+  - first:
+      213: -8243122934241337827
+    second: Explosion_Energy_Large_sheet_34
+  - first:
+      213: -1236243937422031619
+    second: Explosion_Energy_Large_sheet_35
+  - first:
+      213: -7294435564066685374
+    second: Explosion_Energy_Large_sheet_36
+  - first:
+      213: -503024344599167779
+    second: Explosion_Energy_Large_sheet_37
+  - first:
+      213: 2063291918328076167
+    second: Explosion_Energy_Large_sheet_38
+  - first:
+      213: 7824866697934750150
+    second: Explosion_Energy_Large_sheet_39
+  - first:
+      213: 1041192012883908820
+    second: Explosion_Energy_Large_sheet_40
+  - first:
+      213: 1693305408866510005
+    second: Explosion_Energy_Large_sheet_41
+  - first:
+      213: -3826811842305884243
+    second: Explosion_Energy_Large_sheet_42
+  - first:
+      213: 4494630531271785104
+    second: Explosion_Energy_Large_sheet_43
+  - first:
+      213: 5945140211315648061
+    second: Explosion_Energy_Large_sheet_44
+  - first:
+      213: 2939807890740747029
+    second: Explosion_Energy_Large_sheet_45
+  - first:
+      213: -5737563552084823268
+    second: Explosion_Energy_Large_sheet_46
+  - first:
+      213: 8077015377420336642
+    second: Explosion_Energy_Large_sheet_47
+  - first:
+      213: 4426569309039797215
+    second: Explosion_Energy_Large_sheet_48
+  - first:
+      213: 7547198635373864162
+    second: Explosion_Energy_Large_sheet_49
+  - first:
+      213: -673691914902102155
+    second: Explosion_Energy_Large_sheet_50
+  - first:
+      213: -1767566895116619009
+    second: Explosion_Energy_Large_sheet_51
+  - first:
+      213: -848597551530883367
+    second: Explosion_Energy_Large_sheet_52
+  - first:
+      213: 3284429103332210540
+    second: Explosion_Energy_Large_sheet_53
+  - first:
+      213: 6160116661175451492
+    second: Explosion_Energy_Large_sheet_54
+  - first:
+      213: -4347699699799653028
+    second: Explosion_Energy_Large_sheet_55
+  - first:
+      213: 4848334260859762417
+    second: Explosion_Energy_Large_sheet_56
+  - first:
+      213: 3521740459868507482
+    second: Explosion_Energy_Large_sheet_57
+  - first:
+      213: 7543109343717835476
+    second: Explosion_Energy_Large_sheet_58
+  - first:
+      213: 3074221942876904951
+    second: Explosion_Energy_Large_sheet_59
+  - first:
+      213: -4958073799101975216
+    second: Explosion_Energy_Large_sheet_60
+  - first:
+      213: -2134741557479436888
+    second: Explosion_Energy_Large_sheet_61
+  - first:
+      213: -7272031727011667679
+    second: Explosion_Energy_Large_sheet_62
+  - first:
+      213: -4929249008126885989
+    second: Explosion_Energy_Large_sheet_63
+  - first:
+      213: -2508274335728729377
+    second: Explosion_Energy_Large_sheet_64
+  - first:
+      213: 3619703146386936661
+    second: Explosion_Energy_Large_sheet_65
+  - first:
+      213: 4611732088979686434
+    second: Explosion_Energy_Large_sheet_66
+  - first:
+      213: -8018341598356354844
+    second: Explosion_Energy_Large_sheet_67
+  - first:
+      213: -3227541841734285116
+    second: Explosion_Energy_Large_sheet_68
+  - first:
+      213: -7426691237564309786
+    second: Explosion_Energy_Large_sheet_69
+  - first:
+      213: 3296168891315260577
+    second: Explosion_Energy_Large_sheet_70
+  - first:
+      213: -4425510027271528253
+    second: Explosion_Energy_Large_sheet_71
+  - first:
+      213: -1099536091430743908
+    second: Explosion_Energy_Large_sheet_72
+  - first:
+      213: 6316887353325304783
+    second: Explosion_Energy_Large_sheet_73
+  - first:
+      213: 6914569449133233859
+    second: Explosion_Energy_Large_sheet_74
+  - first:
+      213: -903139867595751635
+    second: Explosion_Energy_Large_sheet_75
+  - first:
+      213: 2491200549392714249
+    second: Explosion_Energy_Large_sheet_76
+  - first:
+      213: 8877193404751684233
+    second: Explosion_Energy_Large_sheet_77
+  - first:
+      213: -3273008972786159136
+    second: Explosion_Energy_Large_sheet_78
+  - first:
+      213: 3151171621208206713
+    second: Explosion_Energy_Large_sheet_79
+  - first:
+      213: 3545587151375326721
+    second: Explosion_Energy_Large_sheet_80
+  - first:
+      213: 1446325837447865604
+    second: Explosion_Energy_Large_sheet_81
+  - first:
+      213: -1687109416115077115
+    second: Explosion_Energy_Large_sheet_82
+  - first:
+      213: 1729994797900684075
+    second: Explosion_Energy_Large_sheet_83
+  - first:
+      213: 8158330445024821301
+    second: Explosion_Energy_Large_sheet_84
+  - first:
+      213: 7940714264305191515
+    second: Explosion_Energy_Large_sheet_85
+  - first:
+      213: -2994772567095771651
+    second: Explosion_Energy_Large_sheet_86
+  - first:
+      213: 8520933867681172624
+    second: Explosion_Energy_Large_sheet_87
+  - first:
+      213: -1850624510113992185
+    second: Explosion_Energy_Large_sheet_88
+  - first:
+      213: -655422832938141839
+    second: Explosion_Energy_Large_sheet_89
+  - first:
+      213: -3191140668541145190
+    second: Explosion_Energy_Large_sheet_90
+  - first:
+      213: 5259091987518735337
+    second: Explosion_Energy_Large_sheet_91
+  - first:
+      213: -8896788488875040444
+    second: Explosion_Energy_Large_sheet_92
+  - first:
+      213: 1563905372066918585
+    second: Explosion_Energy_Large_sheet_93
+  - first:
+      213: -3582156054586854040
+    second: Explosion_Energy_Large_sheet_94
+  - first:
+      213: -5497274791072496912
+    second: Explosion_Energy_Large_sheet_95
+  - first:
+      213: -5288618547993442515
+    second: Explosion_Energy_Large_sheet_96
+  - first:
+      213: -6705430702574201082
+    second: Explosion_Energy_Large_sheet_97
+  - first:
+      213: 1828975224503249305
+    second: Explosion_Energy_Large_sheet_98
+  - first:
+      213: 7392053636337829561
+    second: Explosion_Energy_Large_sheet_99
+  - first:
+      213: -3330821600874218954
+    second: Explosion_Energy_Large_sheet_100
+  - first:
+      213: 7954875882600449204
+    second: Explosion_Energy_Large_sheet_101
+  - first:
+      213: 7790054231212744974
+    second: Explosion_Energy_Large_sheet_102
+  - first:
+      213: 4387120000721387239
+    second: Explosion_Energy_Large_sheet_103
+  - first:
+      213: -3615502349322759470
+    second: Explosion_Energy_Large_sheet_104
+  - first:
+      213: 6720669951280297315
+    second: Explosion_Energy_Large_sheet_105
+  - first:
+      213: -7426227581504611066
+    second: Explosion_Energy_Large_sheet_106
+  - first:
+      213: -3744865389026189099
+    second: Explosion_Energy_Large_sheet_107
+  - first:
+      213: 2856578266118220799
+    second: Explosion_Energy_Large_sheet_108
+  - first:
+      213: -6757531136271033631
+    second: Explosion_Energy_Large_sheet_109
+  - first:
+      213: 9031445150756583664
+    second: Explosion_Energy_Large_sheet_110
+  - first:
+      213: -6711875317583756555
+    second: Explosion_Energy_Large_sheet_111
+  - first:
+      213: -2048225411091686230
+    second: Explosion_Energy_Large_sheet_112
+  - first:
+      213: -628830167925417082
+    second: Explosion_Energy_Large_sheet_113
+  - first:
+      213: 5703772026160513452
+    second: Explosion_Energy_Large_sheet_114
+  - first:
+      213: 5466788919544011363
+    second: Explosion_Energy_Large_sheet_115
+  - first:
+      213: -3183800246636192777
+    second: Explosion_Energy_Large_sheet_116
+  - first:
+      213: 6506405030921792126
+    second: Explosion_Energy_Large_sheet_117
+  - first:
+      213: 7979281595828995282
+    second: Explosion_Energy_Large_sheet_118
+  - first:
+      213: -266458844358200561
+    second: Explosion_Energy_Large_sheet_119
+  - first:
+      213: 4889822839763477634
+    second: Explosion_Energy_Large_sheet_120
+  - first:
+      213: -1495727022732685448
+    second: Explosion_Energy_Large_sheet_121
+  - first:
+      213: -1056788722719156622
+    second: Explosion_Energy_Large_sheet_122
+  - first:
+      213: 1522575237814882833
+    second: Explosion_Energy_Large_sheet_123
+  - first:
+      213: 8712338503890703917
+    second: Explosion_Energy_Large_sheet_124
+  - first:
+      213: 8504987411682898519
+    second: Explosion_Energy_Large_sheet_125
+  - first:
+      213: -3779142981899991387
+    second: Explosion_Energy_Large_sheet_126
+  - first:
+      213: -2035507828456621674
+    second: Explosion_Energy_Large_sheet_127
+  - first:
+      213: 8458898890507958102
+    second: Explosion_Energy_Large_sheet_128
+  - first:
+      213: 5736578504980748341
+    second: Explosion_Energy_Large_sheet_129
+  - first:
+      213: 7633750410915827659
+    second: Explosion_Energy_Large_sheet_130
+  - first:
+      213: 8129539950517117824
+    second: Explosion_Energy_Large_sheet_131
+  - first:
+      213: -5625883172904602038
+    second: Explosion_Energy_Large_sheet_132
+  - first:
+      213: 2168687616819646962
+    second: Explosion_Energy_Large_sheet_133
+  - first:
+      213: -8195742482349687512
+    second: Explosion_Energy_Large_sheet_134
+  - first:
+      213: 8620124123027862407
+    second: Explosion_Energy_Large_sheet_135
+  - first:
+      213: -1730748594718622357
+    second: Explosion_Energy_Large_sheet_136
+  - first:
+      213: 2174570934968510699
+    second: Explosion_Energy_Large_sheet_137
+  - first:
+      213: 1853000631286244641
+    second: Explosion_Energy_Large_sheet_138
+  - first:
+      213: 1775533726005898485
+    second: Explosion_Energy_Large_sheet_139
+  - first:
+      213: 2023539353148199532
+    second: Explosion_Energy_Large_sheet_140
+  - first:
+      213: -4702266966843309631
+    second: Explosion_Energy_Large_sheet_141
+  - first:
+      213: -3172655860441048073
+    second: Explosion_Energy_Large_sheet_142
+  - first:
+      213: -8285689134014639942
+    second: Explosion_Energy_Large_sheet_143
+  - first:
+      213: -6865001572669750752
+    second: Explosion_Energy_Large_sheet_144
+  - first:
+      213: 250325758725107754
+    second: Explosion_Energy_Large_sheet_145
+  - first:
+      213: 146061102176200765
+    second: Explosion_Energy_Large_sheet_146
+  - first:
+      213: -3499129896910137467
+    second: Explosion_Energy_Large_sheet_147
+  - first:
+      213: 7146413543278909170
+    second: Explosion_Energy_Large_sheet_148
+  - first:
+      213: 8485295302759017423
+    second: Explosion_Energy_Large_sheet_149
+  - first:
+      213: -8104625319105416090
+    second: Explosion_Energy_Large_sheet_150
+  - first:
+      213: -8829908854159914146
+    second: Explosion_Energy_Large_sheet_151
+  - first:
+      213: 8068004074650217554
+    second: Explosion_Energy_Large_sheet_152
+  - first:
+      213: -6077414584477585219
+    second: Explosion_Energy_Large_sheet_153
+  - first:
+      213: 7748895044637513242
+    second: Explosion_Energy_Large_sheet_154
+  - first:
+      213: 146911416022770086
+    second: Explosion_Energy_Large_sheet_155
+  - first:
+      213: 5677436236528639007
+    second: Explosion_Energy_Large_sheet_156
+  - first:
+      213: -7848442610201228687
+    second: Explosion_Energy_Large_sheet_157
+  - first:
+      213: 8666149200552858019
+    second: Explosion_Energy_Large_sheet_158
+  - first:
+      213: 1274753207576979463
+    second: Explosion_Energy_Large_sheet_159
+  - first:
+      213: -4750188116872118013
+    second: Explosion_Energy_Large_sheet_160
+  - first:
+      213: 6255644403976019274
+    second: Explosion_Energy_Large_sheet_161
+  - first:
+      213: 7699535130054066924
+    second: Explosion_Energy_Large_sheet_162
+  - first:
+      213: 2395049371933237687
+    second: Explosion_Energy_Large_sheet_163
+  - first:
+      213: -3141375058093124179
+    second: Explosion_Energy_Large_sheet_164
+  - first:
+      213: -6935273549245155380
+    second: Explosion_Energy_Large_sheet_165
+  - first:
+      213: -4156888244940221571
+    second: Explosion_Energy_Large_sheet_166
+  - first:
+      213: 6069931232018449600
+    second: Explosion_Energy_Large_sheet_167
+  - first:
+      213: 3072996321442496134
+    second: Explosion_Energy_Large_sheet_168
+  - first:
+      213: -263671822981235464
+    second: Explosion_Energy_Large_sheet_169
+  - first:
+      213: 8157981502384241914
+    second: Explosion_Energy_Large_sheet_170
+  - first:
+      213: 3362410716016701012
+    second: Explosion_Energy_Large_sheet_171
+  - first:
+      213: 5784651901573834536
+    second: Explosion_Energy_Large_sheet_172
+  - first:
+      213: 3592087716080384665
+    second: Explosion_Energy_Large_sheet_173
+  - first:
+      213: -5360391013625221361
+    second: Explosion_Energy_Large_sheet_174
+  - first:
+      213: 2822282458148154884
+    second: Explosion_Energy_Large_sheet_175
+  - first:
+      213: 5541746757844496303
+    second: Explosion_Energy_Large_sheet_176
+  - first:
+      213: 84140422075763845
+    second: Explosion_Energy_Large_sheet_177
+  - first:
+      213: -2307697857297684695
+    second: Explosion_Energy_Large_sheet_178
+  - first:
+      213: -5877765573972418809
+    second: Explosion_Energy_Large_sheet_179
+  - first:
+      213: 2502531415048731389
+    second: Explosion_Energy_Large_sheet_180
+  - first:
+      213: 8313244023363476504
+    second: Explosion_Energy_Large_sheet_181
+  - first:
+      213: 6212265516051205437
+    second: Explosion_Energy_Large_sheet_182
+  - first:
+      213: 989624514685431278
+    second: Explosion_Energy_Large_sheet_183
+  - first:
+      213: 8779554133542227854
+    second: Explosion_Energy_Large_sheet_184
+  - first:
+      213: -8519588504065506808
+    second: Explosion_Energy_Large_sheet_185
+  - first:
+      213: -91549146309697095
+    second: Explosion_Energy_Large_sheet_186
+  - first:
+      213: 2294519756322573058
+    second: Explosion_Energy_Large_sheet_187
+  - first:
+      213: 1894632737599529567
+    second: Explosion_Energy_Large_sheet_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 34
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3148518fb4fd890800000000000000
+      internalID: -7431137331253079127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 96
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d18d32c5d8ee530800000000000000
+      internalID: 3886198955345190295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 100
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eeb1b2ba9e9f560800000000000000
+      internalID: 7348161188403605013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 100
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d383b1aec7db6c0800000000000000
+      internalID: -4126004338680644218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 94
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea5043c7a5354d70800000000000000
+      internalID: 9026680022785612523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 96
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af68f7beb7b12f990800000000000000
+      internalID: -7353785022496667910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 131
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e26042e9022f3f0800000000000000
+      internalID: -868595914547778047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 31
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a049ef4d004b18910800000000000000
+      internalID: 1837948038610326538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 6
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d8148728ca6f790800000000000000
+      internalID: -7496614853348324012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 110
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3184b4e87f06a8c0800000000000000
+      internalID: -3988483408082468549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06016280a472fad50800000000000000
+      internalID: 6750657565369438304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 27
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1242e87574593c090800000000000000
+      internalID: -8015398778145201119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 112
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea1bd7592f24dbd0800000000000000
+      internalID: -2606406429726532896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 28
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111883d1f79ad130800000000000000
+      internalID: 3592350717673214235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 103
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748e43884c7c0840800000000000000
+      internalID: 5191661121333789811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272be905bd0117820800000000000000
+      internalID: 2914128968021881458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 121
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9fcb1be14772c00800000000000000
+      internalID: 875796327726643697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 118
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec858320e61d37ee0800000000000000
+      internalID: -1264436799947122482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 110
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2051109d445a66d0800000000000000
+      internalID: -2996489909955375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 29
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c6703ef244cfd0800000000000000
+      internalID: -2322657848314118125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d642041c4407760800000000000000
+      internalID: 7453532980093676869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 120
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c0e99fb7a28880800000000000000
+      internalID: -8610135096216729369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 117
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed94eb7df640a60e0800000000000000
+      internalID: -2276001783274911266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 110
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e761944bbba6bd70800000000000000
+      internalID: 9058616521299945447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 24
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd393a1894e0c9510800000000000000
+      internalID: 1557135280033731549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 25
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330181fb377b8730800000000000000
+      internalID: 4002423793187357498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 27
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825cd833980f75e10800000000000000
+      internalID: 2186480616177780008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 104
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac112dcae15759560800000000000000
+      internalID: 7319885543969526218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 116
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698ac8399844b40e0800000000000000
+      internalID: -2284657028283717482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 92
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4502a249cd71f0400800000000000000
+      internalID: 292478736948404308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 109
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ec61c67b309680800000000000000
+      internalID: -8750428694743555742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 105
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae908c598fb682eb0800000000000000
+      internalID: -4744423492025841174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 117
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c057140e33b38b90800000000000000
+      internalID: -7240746696943644475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 94
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec0a8ee42b7f120800000000000000
+      internalID: 2447620974479199982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 114
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5ba08d5b8a9d80800000000000000
+      internalID: -8243122934241337827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 106
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ca3650baf7dee0800000000000000
+      internalID: -1236243937422031619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 121
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e34d68085f4ca90800000000000000
+      internalID: -7294435564066685374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 112
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcfac21606e409f0800000000000000
+      internalID: -503024344599167779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 113
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78711e3611942ac10800000000000000
+      internalID: 2063291918328076167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 117
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14f29cdc2879c60800000000000000
+      internalID: 7824866697934750150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 120
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85be68e9e037e00800000000000000
+      internalID: 1041192012883908820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 73
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46cbf3c44df7710800000000000000
+      internalID: 1693305408866510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 111
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf791d97ee64eac0800000000000000
+      internalID: -3826811842305884243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a741597a2206e30800000000000000
+      internalID: 4494630531271785104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 41
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362c530681618250800000000000000
+      internalID: 5945140211315648061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 84
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b1e7b63bb4cc820800000000000000
+      internalID: 2939807890740747029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 46
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1371c929541060b0800000000000000
+      internalID: -5737563552084823268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 86
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb18021b2571070800000000000000
+      internalID: 8077015377420336642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a6f665555e6d30800000000000000
+      internalID: 4426569309039797215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a5ce0c290db860800000000000000
+      internalID: 7547198635373864162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 98
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f1534d5c096a6f0800000000000000
+      internalID: -673691914902102155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 91
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff275db16475877e0800000000000000
+      internalID: -1767566895116619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 74
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64cbfd50d2934f0800000000000000
+      internalID: -848597551530883367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67321a2ed2a49d20800000000000000
+      internalID: 3284429103332210540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 96
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff35437712d7550800000000000000
+      internalID: 6160116661175451492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 94
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c558e5b782ed9a3c0800000000000000
+      internalID: -4347699699799653028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f6ea925eb84340800000000000000
+      internalID: 4848334260859762417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 68
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d459d0a4cbfd030800000000000000
+      internalID: 3521740459868507482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 99
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d24b36abf18ea860800000000000000
+      internalID: 7543109343717835476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 97
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd93e1b194d9aa20800000000000000
+      internalID: 3074221942876904951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 77
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055fa521622613bb0800000000000000
+      internalID: -4958073799101975216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 68
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8c232ddfdf52e0800000000000000
+      internalID: -2134741557479436888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12169145cad841b90800000000000000
+      internalID: -7272031727011667679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f7625b42ac79bb0800000000000000
+      internalID: -4929249008126885989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 70
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd209a3f7c1d03dd0800000000000000
+      internalID: -2508274335728729377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 47
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d1c865d4cb3230800000000000000
+      internalID: 3619703146386936661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 101
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22487e2a6e9200040800000000000000
+      internalID: 4611732088979686434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 101
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84b3e9cc029b090800000000000000
+      internalID: -8018341598356354844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 80
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c7b19bc77533d0800000000000000
+      internalID: -3227541841734285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 48
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1970faa71fe890800000000000000
+      internalID: -7426691237564309786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 102
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0a8e84285ebd20800000000000000
+      internalID: 3296168891315260577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c02d8ad31e6592c0800000000000000
+      internalID: -4425510027271528253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 70
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909c8c10c9adb0f0800000000000000
+      internalID: -1099536091430743908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 61
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbbc1d54971aa750800000000000000
+      internalID: 6316887353325304783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 62
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6da5e674c75ff50800000000000000
+      internalID: 6914569449133233859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 32
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f367153176773f0800000000000000
+      internalID: -903139867595751635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 58
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a8fc263b5829220800000000000000
+      internalID: 2491200549392714249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822aa44e50223b70800000000000000
+      internalID: 8877193404751684233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 68
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13a6e2eafe392d0800000000000000
+      internalID: -3273008972786159136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 84
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2864d4e53bbb20800000000000000
+      internalID: 3151171621208206713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 76
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5ae59ab4743130800000000000000
+      internalID: 3545587151375326721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 67
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ac8aafa1621410800000000000000
+      internalID: 1446325837447865604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 87
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5008e3bbcee2698e0800000000000000
+      internalID: -1687109416115077115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 76
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bd4205a1d220810800000000000000
+      internalID: 1729994797900684075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 90
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53085f7a056383170800000000000000
+      internalID: 8158330445024821301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 90
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac9ca3d85133e60800000000000000
+      internalID: 7940714264305191515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdfb2b973e6076d0800000000000000
+      internalID: -2994772567095771651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 93
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c4bb1f430704670800000000000000
+      internalID: 8520933867681172624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 82
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702360620d24156e0800000000000000
+      internalID: -1850624510113992185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 87
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ba01f76877e6f0800000000000000
+      internalID: -655422832938141839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 93
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6d47287ac6b3d0800000000000000
+      internalID: -3191140668541145190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 74
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3482d7c4c0cf840800000000000000
+      internalID: 5259091987518735337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 89
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a1dea102488480800000000000000
+      internalID: -8896788488875040444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0bf5466ab14b510800000000000000
+      internalID: 1563905372066918585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 69
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f5542c00a94ec0800000000000000
+      internalID: -3582156054586854040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f20a6d04b1c5b3b0800000000000000
+      internalID: -5497274791072496912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270f4e637d0b96b0800000000000000
+      internalID: -5288618547993442515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607111b8d4681f2a0800000000000000
+      internalID: -6705430702574201082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 81
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a18fb643d16910800000000000000
+      internalID: 1828975224503249305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 83
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60d821e99d59660800000000000000
+      internalID: 7392053636337829561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab1b5c66b86c1d0800000000000000
+      internalID: -3330821600874218954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c8bee775656e60800000000000000
+      internalID: 7954875882600449204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 73
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e670cc05db1c60800000000000000
+      internalID: 7790054231212744974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 75
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee720e856e22ec30800000000000000
+      internalID: 4387120000721387239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2d600e4c723ddc0800000000000000
+      internalID: -3615502349322759470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 69
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36534ba86bd944d50800000000000000
+      internalID: 6720669951280297315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 63
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d95374c5db0f890800000000000000
+      internalID: -7426227581504611066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0607315c0970cc0800000000000000
+      internalID: -3744865389026189099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe3195cca94a720800000000000000
+      internalID: 2856578266118220799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea5ce70c3d6832a0800000000000000
+      internalID: -6757531136271033631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f835439383265d70800000000000000
+      internalID: 9031445150756583664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f245bea5f0aad2a0800000000000000
+      internalID: -6711875317583756555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 65
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac93ff27dd3393e0800000000000000
+      internalID: -2048225411091686230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b91c04b42f547f0800000000000000
+      internalID: -628830167925417082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 69
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca18b1b107ed72f40800000000000000
+      internalID: 5703772026160513452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 48
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a567bde8feddb40800000000000000
+      internalID: 5466788919544011363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 54
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbd27f4b8ed0d3d0800000000000000
+      internalID: -3183800246636192777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a68e837e46b4a50800000000000000
+      internalID: 6506405030921792126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 56
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4033ad55a1cbe60800000000000000
+      internalID: 7979281595828995282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 56
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b4c2c7195d4cf0800000000000000
+      internalID: -266458844358200561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a1b227f32cd340800000000000000
+      internalID: 4889822839763477634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 58
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc011923c1e3be0800000000000000
+      internalID: -1495727022732685448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769fab71488551f0800000000000000
+      internalID: -1056788722719156622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 59
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11213c1ac16412510800000000000000
+      internalID: 1522575237814882833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261d5795b178e870800000000000000
+      internalID: 8712338503890703917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 62
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75237845df8c70670800000000000000
+      internalID: 8504987411682898519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c0701b79cd8bc0800000000000000
+      internalID: -3779142981899991387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699f0532a6c60c3e0800000000000000
+      internalID: -2035507828456621674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 36
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573ca749bb046570800000000000000
+      internalID: 8458898890507958102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 45
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d48fa1cb6c9f40800000000000000
+      internalID: 5736578504980748341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 56
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf41aaad8780f960800000000000000
+      internalID: 7633750410915827659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 36
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0836be9438de1d070800000000000000
+      internalID: 8129539950517117824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 39
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a467c2bbf09dce1b0800000000000000
+      internalID: -5625883172904602038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d255b5e9b81e10800000000000000
+      internalID: 2168687616819646962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 36
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df7fc92afd24e80800000000000000
+      internalID: -8195742482349687512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 39
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f9d0f735d0a770800000000000000
+      internalID: 8620124123027862407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 40
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3a40b2552bf7e0800000000000000
+      internalID: -1730748594718622357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 42
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8efa57eb0ad2e10800000000000000
+      internalID: 2174570934968510699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125246ca14e27b910800000000000000
+      internalID: 1853000631286244641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 41
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcae414486f3a810800000000000000
+      internalID: 1775533726005898485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 40
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621c6d025e051c10800000000000000
+      internalID: 2023539353148199532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 63
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1404a7b113ebeb0800000000000000
+      internalID: -4702266966843309631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 48
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb99dbed4678f3d0800000000000000
+      internalID: -3172655860441048073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05ebfc1a1530d80800000000000000
+      internalID: -8285689134014639942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 37
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0228586217d9ab0a0800000000000000
+      internalID: -6865001572669750752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20b0f683f5597300800000000000000
+      internalID: 250325758725107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e6be6cc9e60200800000000000000
+      internalID: 146061102176200765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587d8bfd5e7907fc0800000000000000
+      internalID: -3499129896910137467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61e2911492d2360800000000000000
+      internalID: 7146413543278909170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 40
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbed3fee13d1c570800000000000000
+      internalID: 8485295302759017423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664b5116636968f80800000000000000
+      internalID: -8104625319105416090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc8b41eacd57580800000000000000
+      internalID: -8829908854159914146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 45
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c2ee3b5fe47ff60800000000000000
+      internalID: 8068004074650217554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 40
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db07f6b82afa8aba0800000000000000
+      internalID: -6077414584477585219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 39
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165769dcfa998b60800000000000000
+      internalID: 7748895044637513242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 41
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1ac7d872fe90200800000000000000
+      internalID: 146911416022770086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 24
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c58314d2e4ace40800000000000000
+      internalID: 5677436236528639007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8ae2670bb41390800000000000000
+      internalID: -7848442610201228687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 30
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11d7d58c8544870800000000000000
+      internalID: 8666149200552858019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 42
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7086ae1d945d0b110800000000000000
+      internalID: 1274753207576979463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014e854311f31eb0800000000000000
+      internalID: -4750188116872118013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 34
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d962c017380d650800000000000000
+      internalID: 6255644403976019274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 27
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2838a286e3ada60800000000000000
+      internalID: 7699535130054066924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 39
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b16a99d6bcec3120800000000000000
+      internalID: 2395049371933237687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 31
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5561447089764d0800000000000000
+      internalID: -3141375058093124179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 31
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7741d9375f0cf90800000000000000
+      internalID: -6935273549245155380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 40
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7357555a24cf46c0800000000000000
+      internalID: -4156888244940221571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 30
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4428fab4abc3450800000000000000
+      internalID: 6069931232018449600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 40
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e79a77fd975aa20800000000000000
+      internalID: 3072996321442496134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 27
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc7cedbfdf375cf0800000000000000
+      internalID: -263671822981235464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf1dd14f8f63170800000000000000
+      internalID: 8157981502384241914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 26
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e642d3bbea9ae20800000000000000
+      internalID: 3362410716016701012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a89e8146374050800000000000000
+      internalID: 5784651901573834536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 29
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af30ffeb8a9d130800000000000000
+      internalID: 3592087716080384665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 27
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f2caf06c01c95b0800000000000000
+      internalID: -5360391013625221361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eacbd41f2ca2720800000000000000
+      internalID: 2822282458148154884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 27
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf6e78905d38ec40800000000000000
+      internalID: 5541746757844496303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cc311a44dea2100800000000000000
+      internalID: 84140422075763845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92767d6860969ffd0800000000000000
+      internalID: -2307697857297684695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 25
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f9a5a2a5bfd6ea0800000000000000
+      internalID: -5877765573972418809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 25
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa3c312017cab220800000000000000
+      internalID: 2502531415048731389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 25
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c18bfc4639e5370800000000000000
+      internalID: 8313244023363476504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 30
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d04a6a296663650800000000000000
+      internalID: 6212265516051205437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 31
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede7dab04adbbd00800000000000000
+      internalID: 989624514685431278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 30
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fc818e7fd37d970800000000000000
+      internalID: 8779554133542227854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8028caee46754c980800000000000000
+      internalID: -8519588504065506808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 25
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b168b65980cabef0800000000000000
+      internalID: -91549146309697095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 25
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b09bdbf85c7df10800000000000000
+      internalID: 2294519756322573058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_Large_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 24
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f522278cf661b4a10800000000000000
+      internalID: 1894632737599529567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Energy_Large_sheet_0: -7431137331253079127
+      Explosion_Energy_Large_sheet_1: 3886198955345190295
+      Explosion_Energy_Large_sheet_10: 6750657565369438304
+      Explosion_Energy_Large_sheet_100: -3330821600874218954
+      Explosion_Energy_Large_sheet_101: 7954875882600449204
+      Explosion_Energy_Large_sheet_102: 7790054231212744974
+      Explosion_Energy_Large_sheet_103: 4387120000721387239
+      Explosion_Energy_Large_sheet_104: -3615502349322759470
+      Explosion_Energy_Large_sheet_105: 6720669951280297315
+      Explosion_Energy_Large_sheet_106: -7426227581504611066
+      Explosion_Energy_Large_sheet_107: -3744865389026189099
+      Explosion_Energy_Large_sheet_108: 2856578266118220799
+      Explosion_Energy_Large_sheet_109: -6757531136271033631
+      Explosion_Energy_Large_sheet_11: -8015398778145201119
+      Explosion_Energy_Large_sheet_110: 9031445150756583664
+      Explosion_Energy_Large_sheet_111: -6711875317583756555
+      Explosion_Energy_Large_sheet_112: -2048225411091686230
+      Explosion_Energy_Large_sheet_113: -628830167925417082
+      Explosion_Energy_Large_sheet_114: 5703772026160513452
+      Explosion_Energy_Large_sheet_115: 5466788919544011363
+      Explosion_Energy_Large_sheet_116: -3183800246636192777
+      Explosion_Energy_Large_sheet_117: 6506405030921792126
+      Explosion_Energy_Large_sheet_118: 7979281595828995282
+      Explosion_Energy_Large_sheet_119: -266458844358200561
+      Explosion_Energy_Large_sheet_12: -2606406429726532896
+      Explosion_Energy_Large_sheet_120: 4889822839763477634
+      Explosion_Energy_Large_sheet_121: -1495727022732685448
+      Explosion_Energy_Large_sheet_122: -1056788722719156622
+      Explosion_Energy_Large_sheet_123: 1522575237814882833
+      Explosion_Energy_Large_sheet_124: 8712338503890703917
+      Explosion_Energy_Large_sheet_125: 8504987411682898519
+      Explosion_Energy_Large_sheet_126: -3779142981899991387
+      Explosion_Energy_Large_sheet_127: -2035507828456621674
+      Explosion_Energy_Large_sheet_128: 8458898890507958102
+      Explosion_Energy_Large_sheet_129: 5736578504980748341
+      Explosion_Energy_Large_sheet_13: 3592350717673214235
+      Explosion_Energy_Large_sheet_130: 7633750410915827659
+      Explosion_Energy_Large_sheet_131: 8129539950517117824
+      Explosion_Energy_Large_sheet_132: -5625883172904602038
+      Explosion_Energy_Large_sheet_133: 2168687616819646962
+      Explosion_Energy_Large_sheet_134: -8195742482349687512
+      Explosion_Energy_Large_sheet_135: 8620124123027862407
+      Explosion_Energy_Large_sheet_136: -1730748594718622357
+      Explosion_Energy_Large_sheet_137: 2174570934968510699
+      Explosion_Energy_Large_sheet_138: 1853000631286244641
+      Explosion_Energy_Large_sheet_139: 1775533726005898485
+      Explosion_Energy_Large_sheet_14: 5191661121333789811
+      Explosion_Energy_Large_sheet_140: 2023539353148199532
+      Explosion_Energy_Large_sheet_141: -4702266966843309631
+      Explosion_Energy_Large_sheet_142: -3172655860441048073
+      Explosion_Energy_Large_sheet_143: -8285689134014639942
+      Explosion_Energy_Large_sheet_144: -6865001572669750752
+      Explosion_Energy_Large_sheet_145: 250325758725107754
+      Explosion_Energy_Large_sheet_146: 146061102176200765
+      Explosion_Energy_Large_sheet_147: -3499129896910137467
+      Explosion_Energy_Large_sheet_148: 7146413543278909170
+      Explosion_Energy_Large_sheet_149: 8485295302759017423
+      Explosion_Energy_Large_sheet_15: 2914128968021881458
+      Explosion_Energy_Large_sheet_150: -8104625319105416090
+      Explosion_Energy_Large_sheet_151: -8829908854159914146
+      Explosion_Energy_Large_sheet_152: 8068004074650217554
+      Explosion_Energy_Large_sheet_153: -6077414584477585219
+      Explosion_Energy_Large_sheet_154: 7748895044637513242
+      Explosion_Energy_Large_sheet_155: 146911416022770086
+      Explosion_Energy_Large_sheet_156: 5677436236528639007
+      Explosion_Energy_Large_sheet_157: -7848442610201228687
+      Explosion_Energy_Large_sheet_158: 8666149200552858019
+      Explosion_Energy_Large_sheet_159: 1274753207576979463
+      Explosion_Energy_Large_sheet_16: 875796327726643697
+      Explosion_Energy_Large_sheet_160: -4750188116872118013
+      Explosion_Energy_Large_sheet_161: 6255644403976019274
+      Explosion_Energy_Large_sheet_162: 7699535130054066924
+      Explosion_Energy_Large_sheet_163: 2395049371933237687
+      Explosion_Energy_Large_sheet_164: -3141375058093124179
+      Explosion_Energy_Large_sheet_165: -6935273549245155380
+      Explosion_Energy_Large_sheet_166: -4156888244940221571
+      Explosion_Energy_Large_sheet_167: 6069931232018449600
+      Explosion_Energy_Large_sheet_168: 3072996321442496134
+      Explosion_Energy_Large_sheet_169: -263671822981235464
+      Explosion_Energy_Large_sheet_17: -1264436799947122482
+      Explosion_Energy_Large_sheet_170: 8157981502384241914
+      Explosion_Energy_Large_sheet_171: 3362410716016701012
+      Explosion_Energy_Large_sheet_172: 5784651901573834536
+      Explosion_Energy_Large_sheet_173: 3592087716080384665
+      Explosion_Energy_Large_sheet_174: -5360391013625221361
+      Explosion_Energy_Large_sheet_175: 2822282458148154884
+      Explosion_Energy_Large_sheet_176: 5541746757844496303
+      Explosion_Energy_Large_sheet_177: 84140422075763845
+      Explosion_Energy_Large_sheet_178: -2307697857297684695
+      Explosion_Energy_Large_sheet_179: -5877765573972418809
+      Explosion_Energy_Large_sheet_18: -2996489909955375060
+      Explosion_Energy_Large_sheet_180: 2502531415048731389
+      Explosion_Energy_Large_sheet_181: 8313244023363476504
+      Explosion_Energy_Large_sheet_182: 6212265516051205437
+      Explosion_Energy_Large_sheet_183: 989624514685431278
+      Explosion_Energy_Large_sheet_184: 8779554133542227854
+      Explosion_Energy_Large_sheet_185: -8519588504065506808
+      Explosion_Energy_Large_sheet_186: -91549146309697095
+      Explosion_Energy_Large_sheet_187: 2294519756322573058
+      Explosion_Energy_Large_sheet_188: 1894632737599529567
+      Explosion_Energy_Large_sheet_19: -2322657848314118125
+      Explosion_Energy_Large_sheet_2: 7348161188403605013
+      Explosion_Energy_Large_sheet_20: 7453532980093676869
+      Explosion_Energy_Large_sheet_21: -8610135096216729369
+      Explosion_Energy_Large_sheet_22: -2276001783274911266
+      Explosion_Energy_Large_sheet_23: 9058616521299945447
+      Explosion_Energy_Large_sheet_24: 1557135280033731549
+      Explosion_Energy_Large_sheet_25: 4002423793187357498
+      Explosion_Energy_Large_sheet_26: 2186480616177780008
+      Explosion_Energy_Large_sheet_27: 7319885543969526218
+      Explosion_Energy_Large_sheet_28: -2284657028283717482
+      Explosion_Energy_Large_sheet_29: 292478736948404308
+      Explosion_Energy_Large_sheet_3: -4126004338680644218
+      Explosion_Energy_Large_sheet_30: -8750428694743555742
+      Explosion_Energy_Large_sheet_31: -4744423492025841174
+      Explosion_Energy_Large_sheet_32: -7240746696943644475
+      Explosion_Energy_Large_sheet_33: 2447620974479199982
+      Explosion_Energy_Large_sheet_34: -8243122934241337827
+      Explosion_Energy_Large_sheet_35: -1236243937422031619
+      Explosion_Energy_Large_sheet_36: -7294435564066685374
+      Explosion_Energy_Large_sheet_37: -503024344599167779
+      Explosion_Energy_Large_sheet_38: 2063291918328076167
+      Explosion_Energy_Large_sheet_39: 7824866697934750150
+      Explosion_Energy_Large_sheet_4: 9026680022785612523
+      Explosion_Energy_Large_sheet_40: 1041192012883908820
+      Explosion_Energy_Large_sheet_41: 1693305408866510005
+      Explosion_Energy_Large_sheet_42: -3826811842305884243
+      Explosion_Energy_Large_sheet_43: 4494630531271785104
+      Explosion_Energy_Large_sheet_44: 5945140211315648061
+      Explosion_Energy_Large_sheet_45: 2939807890740747029
+      Explosion_Energy_Large_sheet_46: -5737563552084823268
+      Explosion_Energy_Large_sheet_47: 8077015377420336642
+      Explosion_Energy_Large_sheet_48: 4426569309039797215
+      Explosion_Energy_Large_sheet_49: 7547198635373864162
+      Explosion_Energy_Large_sheet_5: -7353785022496667910
+      Explosion_Energy_Large_sheet_50: -673691914902102155
+      Explosion_Energy_Large_sheet_51: -1767566895116619009
+      Explosion_Energy_Large_sheet_52: -848597551530883367
+      Explosion_Energy_Large_sheet_53: 3284429103332210540
+      Explosion_Energy_Large_sheet_54: 6160116661175451492
+      Explosion_Energy_Large_sheet_55: -4347699699799653028
+      Explosion_Energy_Large_sheet_56: 4848334260859762417
+      Explosion_Energy_Large_sheet_57: 3521740459868507482
+      Explosion_Energy_Large_sheet_58: 7543109343717835476
+      Explosion_Energy_Large_sheet_59: 3074221942876904951
+      Explosion_Energy_Large_sheet_6: -868595914547778047
+      Explosion_Energy_Large_sheet_60: -4958073799101975216
+      Explosion_Energy_Large_sheet_61: -2134741557479436888
+      Explosion_Energy_Large_sheet_62: -7272031727011667679
+      Explosion_Energy_Large_sheet_63: -4929249008126885989
+      Explosion_Energy_Large_sheet_64: -2508274335728729377
+      Explosion_Energy_Large_sheet_65: 3619703146386936661
+      Explosion_Energy_Large_sheet_66: 4611732088979686434
+      Explosion_Energy_Large_sheet_67: -8018341598356354844
+      Explosion_Energy_Large_sheet_68: -3227541841734285116
+      Explosion_Energy_Large_sheet_69: -7426691237564309786
+      Explosion_Energy_Large_sheet_7: 1837948038610326538
+      Explosion_Energy_Large_sheet_70: 3296168891315260577
+      Explosion_Energy_Large_sheet_71: -4425510027271528253
+      Explosion_Energy_Large_sheet_72: -1099536091430743908
+      Explosion_Energy_Large_sheet_73: 6316887353325304783
+      Explosion_Energy_Large_sheet_74: 6914569449133233859
+      Explosion_Energy_Large_sheet_75: -903139867595751635
+      Explosion_Energy_Large_sheet_76: 2491200549392714249
+      Explosion_Energy_Large_sheet_77: 8877193404751684233
+      Explosion_Energy_Large_sheet_78: -3273008972786159136
+      Explosion_Energy_Large_sheet_79: 3151171621208206713
+      Explosion_Energy_Large_sheet_8: -7496614853348324012
+      Explosion_Energy_Large_sheet_80: 3545587151375326721
+      Explosion_Energy_Large_sheet_81: 1446325837447865604
+      Explosion_Energy_Large_sheet_82: -1687109416115077115
+      Explosion_Energy_Large_sheet_83: 1729994797900684075
+      Explosion_Energy_Large_sheet_84: 8158330445024821301
+      Explosion_Energy_Large_sheet_85: 7940714264305191515
+      Explosion_Energy_Large_sheet_86: -2994772567095771651
+      Explosion_Energy_Large_sheet_87: 8520933867681172624
+      Explosion_Energy_Large_sheet_88: -1850624510113992185
+      Explosion_Energy_Large_sheet_89: -655422832938141839
+      Explosion_Energy_Large_sheet_9: -3988483408082468549
+      Explosion_Energy_Large_sheet_90: -3191140668541145190
+      Explosion_Energy_Large_sheet_91: 5259091987518735337
+      Explosion_Energy_Large_sheet_92: -8896788488875040444
+      Explosion_Energy_Large_sheet_93: 1563905372066918585
+      Explosion_Energy_Large_sheet_94: -3582156054586854040
+      Explosion_Energy_Large_sheet_95: -5497274791072496912
+      Explosion_Energy_Large_sheet_96: -5288618547993442515
+      Explosion_Energy_Large_sheet_97: -6705430702574201082
+      Explosion_Energy_Large_sheet_98: 1828975224503249305
+      Explosion_Energy_Large_sheet_99: 7392053636337829561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

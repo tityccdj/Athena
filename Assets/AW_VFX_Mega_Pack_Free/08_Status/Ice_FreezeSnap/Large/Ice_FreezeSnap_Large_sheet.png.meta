@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 9e5b5e612c7c4ec4ebd1a7d2e331f0ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6020402531985565055
+    second: Ice_FreezeSnap_Large_sheet_0
+  - first:
+      213: 1714470895996285857
+    second: Ice_FreezeSnap_Large_sheet_1
+  - first:
+      213: -8852175605736770889
+    second: Ice_FreezeSnap_Large_sheet_2
+  - first:
+      213: 3543814120129094086
+    second: Ice_FreezeSnap_Large_sheet_3
+  - first:
+      213: 2527794837497393184
+    second: Ice_FreezeSnap_Large_sheet_4
+  - first:
+      213: -6087440802109572772
+    second: Ice_FreezeSnap_Large_sheet_5
+  - first:
+      213: -4156252715586646661
+    second: Ice_FreezeSnap_Large_sheet_6
+  - first:
+      213: 1677521296306807070
+    second: Ice_FreezeSnap_Large_sheet_7
+  - first:
+      213: -6978117541872714981
+    second: Ice_FreezeSnap_Large_sheet_8
+  - first:
+      213: 6981362779158056438
+    second: Ice_FreezeSnap_Large_sheet_9
+  - first:
+      213: 5257788362491182162
+    second: Ice_FreezeSnap_Large_sheet_10
+  - first:
+      213: 123646319952141553
+    second: Ice_FreezeSnap_Large_sheet_11
+  - first:
+      213: -8565696292061633843
+    second: Ice_FreezeSnap_Large_sheet_12
+  - first:
+      213: 7580041058556888474
+    second: Ice_FreezeSnap_Large_sheet_13
+  - first:
+      213: -2735761463778993439
+    second: Ice_FreezeSnap_Large_sheet_14
+  - first:
+      213: -5943738521405980176
+    second: Ice_FreezeSnap_Large_sheet_15
+  - first:
+      213: -2289793946058182470
+    second: Ice_FreezeSnap_Large_sheet_16
+  - first:
+      213: 6049302338203813508
+    second: Ice_FreezeSnap_Large_sheet_17
+  - first:
+      213: -5886823625700496709
+    second: Ice_FreezeSnap_Large_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75acd39434cc8350800000000000000
+      internalID: 6020402531985565055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ba9d32360bc710800000000000000
+      internalID: 1714470895996285857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b27eaaff21c62580800000000000000
+      internalID: -8852175605736770889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1ee449a282e2130800000000000000
+      internalID: 3543814120129094086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020391a0308841320800000000000000
+      internalID: 2527794837497393184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593a07d7d0158ba0800000000000000
+      internalID: -6087440802109572772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 24
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d84ba0d260256c0800000000000000
+      internalID: -4156252715586646661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 20
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1125892bb0c74710800000000000000
+      internalID: 1677521296306807070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b31cb311fb82f90800000000000000
+      internalID: -6978117541872714981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd89d37578c2e060800000000000000
+      internalID: 6981362779158056438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c3872a8aa67f840800000000000000
+      internalID: 5257788362491182162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc18824ca747b100800000000000000
+      internalID: 123646319952141553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc229c9fa98802980800000000000000
+      internalID: -8565696292061633843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c8269e27b13960800000000000000
+      internalID: 7580041058556888474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1041817f980ad0800000000000000
+      internalID: -2735761463778993439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f18ac95e49938da0800000000000000
+      internalID: -5943738521405980176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0bc54b9840930e0800000000000000
+      internalID: -2289793946058182470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486049f0d6073f350800000000000000
+      internalID: 6049302338203813508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_FreezeSnap_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaaeb62a1dcd4ea0800000000000000
+      internalID: -5886823625700496709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_FreezeSnap_Large_sheet_0: 6020402531985565055
+      Ice_FreezeSnap_Large_sheet_1: 1714470895996285857
+      Ice_FreezeSnap_Large_sheet_10: 5257788362491182162
+      Ice_FreezeSnap_Large_sheet_11: 123646319952141553
+      Ice_FreezeSnap_Large_sheet_12: -8565696292061633843
+      Ice_FreezeSnap_Large_sheet_13: 7580041058556888474
+      Ice_FreezeSnap_Large_sheet_14: -2735761463778993439
+      Ice_FreezeSnap_Large_sheet_15: -5943738521405980176
+      Ice_FreezeSnap_Large_sheet_16: -2289793946058182470
+      Ice_FreezeSnap_Large_sheet_17: 6049302338203813508
+      Ice_FreezeSnap_Large_sheet_18: -5886823625700496709
+      Ice_FreezeSnap_Large_sheet_2: -8852175605736770889
+      Ice_FreezeSnap_Large_sheet_3: 3543814120129094086
+      Ice_FreezeSnap_Large_sheet_4: 2527794837497393184
+      Ice_FreezeSnap_Large_sheet_5: -6087440802109572772
+      Ice_FreezeSnap_Large_sheet_6: -4156252715586646661
+      Ice_FreezeSnap_Large_sheet_7: 1677521296306807070
+      Ice_FreezeSnap_Large_sheet_8: -6978117541872714981
+      Ice_FreezeSnap_Large_sheet_9: 6981362779158056438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 974080dc50ebdac4a83ade77ea352c69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1005974953223887477
+    second: Ice_Impact_Toxic_Small_sheet_0
+  - first:
+      213: -3242885413128899128
+    second: Ice_Impact_Toxic_Small_sheet_1
+  - first:
+      213: -2744361077284729594
+    second: Ice_Impact_Toxic_Small_sheet_2
+  - first:
+      213: -6182828196530166384
+    second: Ice_Impact_Toxic_Small_sheet_3
+  - first:
+      213: -9035200673569427457
+    second: Ice_Impact_Toxic_Small_sheet_4
+  - first:
+      213: -4181457313700122160
+    second: Ice_Impact_Toxic_Small_sheet_5
+  - first:
+      213: 2864488938165369638
+    second: Ice_Impact_Toxic_Small_sheet_6
+  - first:
+      213: 3244219782529179215
+    second: Ice_Impact_Toxic_Small_sheet_7
+  - first:
+      213: -6469173614177285401
+    second: Ice_Impact_Toxic_Small_sheet_8
+  - first:
+      213: -3836491737688168985
+    second: Ice_Impact_Toxic_Small_sheet_9
+  - first:
+      213: 2152153625777596754
+    second: Ice_Impact_Toxic_Small_sheet_10
+  - first:
+      213: -5703089674762250629
+    second: Ice_Impact_Toxic_Small_sheet_11
+  - first:
+      213: 7508905206740482880
+    second: Ice_Impact_Toxic_Small_sheet_12
+  - first:
+      213: -5068770209780443141
+    second: Ice_Impact_Toxic_Small_sheet_13
+  - first:
+      213: 8208415373567259290
+    second: Ice_Impact_Toxic_Small_sheet_14
+  - first:
+      213: 6271930617397867864
+    second: Ice_Impact_Toxic_Small_sheet_15
+  - first:
+      213: -5883944069413456258
+    second: Ice_Impact_Toxic_Small_sheet_16
+  - first:
+      213: 7679808025867529364
+    second: Ice_Impact_Toxic_Small_sheet_17
+  - first:
+      213: -6528707136765373238
+    second: Ice_Impact_Toxic_Small_sheet_18
+  - first:
+      213: 202763404177966623
+    second: Ice_Impact_Toxic_Small_sheet_19
+  - first:
+      213: -7954956374758986942
+    second: Ice_Impact_Toxic_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8566242c1f0a02f0800000000000000
+      internalID: -1005974953223887477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5f727f5e4fef2d0800000000000000
+      internalID: -3242885413128899128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0905f3221ae9d0800000000000000
+      internalID: -2744361077284729594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095ec86638e223aa0800000000000000
+      internalID: -6182828196530166384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2681abd48c9280800000000000000
+      internalID: -9035200673569427457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f17d3aba78f5c0800000000000000
+      internalID: -4181457313700122160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 24
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf1663385b0c720800000000000000
+      internalID: 2864488938165369638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e52fe14b8c50d20800000000000000
+      internalID: 3244219782529179215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea02a08fd0e836a0800000000000000
+      internalID: -6469173614177285401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52067571b02cac0800000000000000
+      internalID: -3836491737688168985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ea8ee15cfddd10800000000000000
+      internalID: 2152153625777596754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 27
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b761995382e8ad0b0800000000000000
+      internalID: -5703089674762250629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 24
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf8db608df43860800000000000000
+      internalID: 7508905206740482880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf754f5895c18a9b0800000000000000
+      internalID: -5068770209780443141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f45eca462ae170800000000000000
+      internalID: 8208415373567259290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85575e99aaf5a0750800000000000000
+      internalID: 6271930617397867864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7638581b08085ea0800000000000000
+      internalID: -5883944069413456258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c270dc5b8249a60800000000000000
+      internalID: 7679808025867529364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4da8e137f5565a0800000000000000
+      internalID: -6528707136765373238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160a77ed3c50d200800000000000000
+      internalID: 202763404177966623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Toxic_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be2c603515a9190800000000000000
+      internalID: -7954956374758986942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Impact_Toxic_Small_sheet_0: -1005974953223887477
+      Ice_Impact_Toxic_Small_sheet_1: -3242885413128899128
+      Ice_Impact_Toxic_Small_sheet_10: 2152153625777596754
+      Ice_Impact_Toxic_Small_sheet_11: -5703089674762250629
+      Ice_Impact_Toxic_Small_sheet_12: 7508905206740482880
+      Ice_Impact_Toxic_Small_sheet_13: -5068770209780443141
+      Ice_Impact_Toxic_Small_sheet_14: 8208415373567259290
+      Ice_Impact_Toxic_Small_sheet_15: 6271930617397867864
+      Ice_Impact_Toxic_Small_sheet_16: -5883944069413456258
+      Ice_Impact_Toxic_Small_sheet_17: 7679808025867529364
+      Ice_Impact_Toxic_Small_sheet_18: -6528707136765373238
+      Ice_Impact_Toxic_Small_sheet_19: 202763404177966623
+      Ice_Impact_Toxic_Small_sheet_2: -2744361077284729594
+      Ice_Impact_Toxic_Small_sheet_20: -7954956374758986942
+      Ice_Impact_Toxic_Small_sheet_3: -6182828196530166384
+      Ice_Impact_Toxic_Small_sheet_4: -9035200673569427457
+      Ice_Impact_Toxic_Small_sheet_5: -4181457313700122160
+      Ice_Impact_Toxic_Small_sheet_6: 2864488938165369638
+      Ice_Impact_Toxic_Small_sheet_7: 3244219782529179215
+      Ice_Impact_Toxic_Small_sheet_8: -6469173614177285401
+      Ice_Impact_Toxic_Small_sheet_9: -3836491737688168985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

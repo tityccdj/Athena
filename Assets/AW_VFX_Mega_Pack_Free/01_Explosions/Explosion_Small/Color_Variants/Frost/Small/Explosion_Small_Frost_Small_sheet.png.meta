@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 812a1c43bc9a86845b4ae09c5902f157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4031259713208169089
+    second: Explosion_Small_Frost_Small_sheet_0
+  - first:
+      213: 772456020237634814
+    second: Explosion_Small_Frost_Small_sheet_1
+  - first:
+      213: -5239156621811394821
+    second: Explosion_Small_Frost_Small_sheet_2
+  - first:
+      213: -5995590216820737493
+    second: Explosion_Small_Frost_Small_sheet_3
+  - first:
+      213: 6914447213481494969
+    second: Explosion_Small_Frost_Small_sheet_4
+  - first:
+      213: -5474836525984764944
+    second: Explosion_Small_Frost_Small_sheet_5
+  - first:
+      213: 3235156888009255657
+    second: Explosion_Small_Frost_Small_sheet_6
+  - first:
+      213: -7548001907815890623
+    second: Explosion_Small_Frost_Small_sheet_7
+  - first:
+      213: 415216521594474631
+    second: Explosion_Small_Frost_Small_sheet_8
+  - first:
+      213: -2197429790075233038
+    second: Explosion_Small_Frost_Small_sheet_9
+  - first:
+      213: -8112605620795102842
+    second: Explosion_Small_Frost_Small_sheet_10
+  - first:
+      213: 3029525660390715423
+    second: Explosion_Small_Frost_Small_sheet_11
+  - first:
+      213: -5173133700471670828
+    second: Explosion_Small_Frost_Small_sheet_12
+  - first:
+      213: -3219220487554457305
+    second: Explosion_Small_Frost_Small_sheet_13
+  - first:
+      213: -2314858957284375480
+    second: Explosion_Small_Frost_Small_sheet_14
+  - first:
+      213: -9082145514576006735
+    second: Explosion_Small_Frost_Small_sheet_15
+  - first:
+      213: 6579444496344784691
+    second: Explosion_Small_Frost_Small_sheet_16
+  - first:
+      213: 8485437942728355083
+    second: Explosion_Small_Frost_Small_sheet_17
+  - first:
+      213: 7597117164694927338
+    second: Explosion_Small_Frost_Small_sheet_18
+  - first:
+      213: 3326310129726703449
+    second: Explosion_Small_Frost_Small_sheet_19
+  - first:
+      213: -7832776700088754785
+    second: Explosion_Small_Frost_Small_sheet_20
+  - first:
+      213: 5768133139598105518
+    second: Explosion_Small_Frost_Small_sheet_21
+  - first:
+      213: -9218125678467985634
+    second: Explosion_Small_Frost_Small_sheet_22
+  - first:
+      213: -6612320971095034277
+    second: Explosion_Small_Frost_Small_sheet_23
+  - first:
+      213: 3770020176782682590
+    second: Explosion_Small_Frost_Small_sheet_24
+  - first:
+      213: 6870910252036195046
+    second: Explosion_Small_Frost_Small_sheet_25
+  - first:
+      213: -8362682869601467869
+    second: Explosion_Small_Frost_Small_sheet_26
+  - first:
+      213: -8946143894874482287
+    second: Explosion_Small_Frost_Small_sheet_27
+  - first:
+      213: -5296237192416612966
+    second: Explosion_Small_Frost_Small_sheet_28
+  - first:
+      213: -8327995145195684852
+    second: Explosion_Small_Frost_Small_sheet_29
+  - first:
+      213: -8773782927620752748
+    second: Explosion_Small_Frost_Small_sheet_30
+  - first:
+      213: -4496147088607959974
+    second: Explosion_Small_Frost_Small_sheet_31
+  - first:
+      213: 3980530348697368636
+    second: Explosion_Small_Frost_Small_sheet_32
+  - first:
+      213: 5792238200495378863
+    second: Explosion_Small_Frost_Small_sheet_33
+  - first:
+      213: -7492899882381594214
+    second: Explosion_Small_Frost_Small_sheet_34
+  - first:
+      213: -189578252698910532
+    second: Explosion_Small_Frost_Small_sheet_35
+  - first:
+      213: 8424391574427805889
+    second: Explosion_Small_Frost_Small_sheet_36
+  - first:
+      213: 2735883520444986051
+    second: Explosion_Small_Frost_Small_sheet_37
+  - first:
+      213: 7193575782357533562
+    second: Explosion_Small_Frost_Small_sheet_38
+  - first:
+      213: 2268521043925814388
+    second: Explosion_Small_Frost_Small_sheet_39
+  - first:
+      213: 8277161393126700514
+    second: Explosion_Small_Frost_Small_sheet_40
+  - first:
+      213: 121106378993170673
+    second: Explosion_Small_Frost_Small_sheet_41
+  - first:
+      213: 5223658734581027345
+    second: Explosion_Small_Frost_Small_sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 9
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182bd13c959e1f730800000000000000
+      internalID: 4031259713208169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc40e268a058ba00800000000000000
+      internalID: 772456020237634814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6db4a8fc6ca47b0800000000000000
+      internalID: -5239156621811394821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab79bb6726bcca0800000000000000
+      internalID: -5995590216820737493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b901c93b1d05ff50800000000000000
+      internalID: 6914447213481494969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2851cf297504b0800000000000000
+      internalID: -5474836525984764944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea237e8c0695ec20800000000000000
+      internalID: 3235156888009255657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c9a0814c104790800000000000000
+      internalID: -7548001907815890623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780138af93523c500800000000000000
+      internalID: 415216521594474631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc54b79f392181e0800000000000000
+      internalID: -2197429790075233038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689aba99b2c3a6f80800000000000000
+      internalID: -8112605620795102842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f48979890b0a20800000000000000
+      internalID: 3029525660390715423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b8cfce465538b0800000000000000
+      internalID: -5173133700471670828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72128a1d5080353d0800000000000000
+      internalID: -3219220487554457305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8440fe10b08ffdfd0800000000000000
+      internalID: -2314858957284375480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 20
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13a4516ccb5f180800000000000000
+      internalID: -9082145514576006735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 20
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9708f8e1ee4b50800000000000000
+      internalID: 6579444496344784691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 21
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0de1f3e9d452c570800000000000000
+      internalID: 8485437942728355083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 22
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f9ae5fc16e6960800000000000000
+      internalID: 7597117164694927338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957c42f707d692e20800000000000000
+      internalID: 3326310129726703449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd04257136c4390800000000000000
+      internalID: -7832776700088754785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab57e297868c0050800000000000000
+      internalID: 5768133139598105518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 8
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f42000983a21080800000000000000
+      internalID: -9218125678467985634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b3014c115c34a0800000000000000
+      internalID: -6612320971095034277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9ef29506dc15430800000000000000
+      internalID: 3770020176782682590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2053878706a5f50800000000000000
+      internalID: 6870910252036195046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322092ccc38c1fb80800000000000000
+      internalID: -8362682869601467869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991a7cb689e8d380800000000000000
+      internalID: -8946143894874482287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dabcb855cff76b0800000000000000
+      internalID: -5296237192416612966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 7
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cfe6ff9840d6c80800000000000000
+      internalID: -8327995145195684852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 8
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a37cea9e24d3680800000000000000
+      internalID: -8773782927620752748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 7
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ad956b0a7a91c0800000000000000
+      internalID: -4496147088607959974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 9
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38b4cb234fad3730800000000000000
+      internalID: 3980530348697368636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 8
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa199fa64f9226050800000000000000
+      internalID: 5792238200495378863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91341d814fd30890800000000000000
+      internalID: -7492899882381594214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00eb6659b7e5df0800000000000000
+      internalID: -189578252698910532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 13
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8209aa08379e470800000000000000
+      internalID: 8424391574427805889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 9
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2f7f6019fc7f520800000000000000
+      internalID: 2735883520444986051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 16
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7306449f07b4d360800000000000000
+      internalID: 7193575782357533562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c42bcced76b7f10800000000000000
+      internalID: 2268521043925814388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f4e9ce626ed270800000000000000
+      internalID: 8277161393126700514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8fbeb2c914ea100800000000000000
+      internalID: 121106378993170673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Small_Frost_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112919661f92e7840800000000000000
+      internalID: 5223658734581027345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Small_Frost_Small_sheet_0: 4031259713208169089
+      Explosion_Small_Frost_Small_sheet_1: 772456020237634814
+      Explosion_Small_Frost_Small_sheet_10: -8112605620795102842
+      Explosion_Small_Frost_Small_sheet_11: 3029525660390715423
+      Explosion_Small_Frost_Small_sheet_12: -5173133700471670828
+      Explosion_Small_Frost_Small_sheet_13: -3219220487554457305
+      Explosion_Small_Frost_Small_sheet_14: -2314858957284375480
+      Explosion_Small_Frost_Small_sheet_15: -9082145514576006735
+      Explosion_Small_Frost_Small_sheet_16: 6579444496344784691
+      Explosion_Small_Frost_Small_sheet_17: 8485437942728355083
+      Explosion_Small_Frost_Small_sheet_18: 7597117164694927338
+      Explosion_Small_Frost_Small_sheet_19: 3326310129726703449
+      Explosion_Small_Frost_Small_sheet_2: -5239156621811394821
+      Explosion_Small_Frost_Small_sheet_20: -7832776700088754785
+      Explosion_Small_Frost_Small_sheet_21: 5768133139598105518
+      Explosion_Small_Frost_Small_sheet_22: -9218125678467985634
+      Explosion_Small_Frost_Small_sheet_23: -6612320971095034277
+      Explosion_Small_Frost_Small_sheet_24: 3770020176782682590
+      Explosion_Small_Frost_Small_sheet_25: 6870910252036195046
+      Explosion_Small_Frost_Small_sheet_26: -8362682869601467869
+      Explosion_Small_Frost_Small_sheet_27: -8946143894874482287
+      Explosion_Small_Frost_Small_sheet_28: -5296237192416612966
+      Explosion_Small_Frost_Small_sheet_29: -8327995145195684852
+      Explosion_Small_Frost_Small_sheet_3: -5995590216820737493
+      Explosion_Small_Frost_Small_sheet_30: -8773782927620752748
+      Explosion_Small_Frost_Small_sheet_31: -4496147088607959974
+      Explosion_Small_Frost_Small_sheet_32: 3980530348697368636
+      Explosion_Small_Frost_Small_sheet_33: 5792238200495378863
+      Explosion_Small_Frost_Small_sheet_34: -7492899882381594214
+      Explosion_Small_Frost_Small_sheet_35: -189578252698910532
+      Explosion_Small_Frost_Small_sheet_36: 8424391574427805889
+      Explosion_Small_Frost_Small_sheet_37: 2735883520444986051
+      Explosion_Small_Frost_Small_sheet_38: 7193575782357533562
+      Explosion_Small_Frost_Small_sheet_39: 2268521043925814388
+      Explosion_Small_Frost_Small_sheet_4: 6914447213481494969
+      Explosion_Small_Frost_Small_sheet_40: 8277161393126700514
+      Explosion_Small_Frost_Small_sheet_41: 121106378993170673
+      Explosion_Small_Frost_Small_sheet_42: 5223658734581027345
+      Explosion_Small_Frost_Small_sheet_5: -5474836525984764944
+      Explosion_Small_Frost_Small_sheet_6: 3235156888009255657
+      Explosion_Small_Frost_Small_sheet_7: -7548001907815890623
+      Explosion_Small_Frost_Small_sheet_8: 415216521594474631
+      Explosion_Small_Frost_Small_sheet_9: -2197429790075233038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: bf798aa2eaa4ba44e9dbb986e031eab2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2829152658954225837
+    second: Punch_Swoosh_Small_sheet_0
+  - first:
+      213: -2381357847186333500
+    second: Punch_Swoosh_Small_sheet_1
+  - first:
+      213: -1503310092097881308
+    second: Punch_Swoosh_Small_sheet_2
+  - first:
+      213: -7186747956580355434
+    second: Punch_Swoosh_Small_sheet_3
+  - first:
+      213: -5572201115437096406
+    second: Punch_Swoosh_Small_sheet_4
+  - first:
+      213: 8838515686920870012
+    second: Punch_Swoosh_Small_sheet_5
+  - first:
+      213: 3329698346901551476
+    second: Punch_Swoosh_Small_sheet_6
+  - first:
+      213: -5000346617734041702
+    second: Punch_Swoosh_Small_sheet_7
+  - first:
+      213: -4653455254915120961
+    second: Punch_Swoosh_Small_sheet_8
+  - first:
+      213: 8671174235816634193
+    second: Punch_Swoosh_Small_sheet_9
+  - first:
+      213: 3228215481847667952
+    second: Punch_Swoosh_Small_sheet_10
+  - first:
+      213: 3359496675626292014
+    second: Punch_Swoosh_Small_sheet_11
+  - first:
+      213: -2163620403922986324
+    second: Punch_Swoosh_Small_sheet_12
+  - first:
+      213: 1908916163047677422
+    second: Punch_Swoosh_Small_sheet_13
+  - first:
+      213: 4120665888851584316
+    second: Punch_Swoosh_Small_sheet_14
+  - first:
+      213: 4487660535239857194
+    second: Punch_Swoosh_Small_sheet_15
+  - first:
+      213: -1620357693531746228
+    second: Punch_Swoosh_Small_sheet_16
+  - first:
+      213: -1906691596549534264
+    second: Punch_Swoosh_Small_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3577eab65a4dcb8d0800000000000000
+      internalID: -2829152658954225837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ae5ba7a7b3fed0800000000000000
+      internalID: -2381357847186333500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bfe35af6b232be0800000000000000
+      internalID: -1503310092097881308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69273cd7fca834c90800000000000000
+      internalID: -7186747956580355434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222659bb909ba2b0800000000000000
+      internalID: -5572201115437096406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d2a45037b8aa70800000000000000
+      internalID: 8838515686920870012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479b5484107753e20800000000000000
+      internalID: 3329698346901551476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe2208e333b9ab0800000000000000
+      internalID: -5000346617734041702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00c98c91b9b6fb0800000000000000
+      internalID: -4653455254915120961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ae5f8603365870800000000000000
+      internalID: 8671174235816634193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc52fd70ececcc20800000000000000
+      internalID: 3228215481847667952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e239fc65d645f9e20800000000000000
+      internalID: 3359496675626292014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa126bb4b649f1e0800000000000000
+      internalID: -2163620403922986324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 9
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed557ce225dd7a10800000000000000
+      internalID: 1908916163047677422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35611f2bcb8f2930800000000000000
+      internalID: 4120665888851584316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d28bea7f574e30800000000000000
+      internalID: 4487660535239857194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4018f343455389e0800000000000000
+      internalID: -1620357693531746228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch_Swoosh_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 102
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd417358121a85e0800000000000000
+      internalID: -1906691596549534264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Punch_Swoosh_Small_sheet_0: -2829152658954225837
+      Punch_Swoosh_Small_sheet_1: -2381357847186333500
+      Punch_Swoosh_Small_sheet_10: 3228215481847667952
+      Punch_Swoosh_Small_sheet_11: 3359496675626292014
+      Punch_Swoosh_Small_sheet_12: -2163620403922986324
+      Punch_Swoosh_Small_sheet_13: 1908916163047677422
+      Punch_Swoosh_Small_sheet_14: 4120665888851584316
+      Punch_Swoosh_Small_sheet_15: 4487660535239857194
+      Punch_Swoosh_Small_sheet_16: -1620357693531746228
+      Punch_Swoosh_Small_sheet_17: -1906691596549534264
+      Punch_Swoosh_Small_sheet_2: -1503310092097881308
+      Punch_Swoosh_Small_sheet_3: -7186747956580355434
+      Punch_Swoosh_Small_sheet_4: -5572201115437096406
+      Punch_Swoosh_Small_sheet_5: 8838515686920870012
+      Punch_Swoosh_Small_sheet_6: 3329698346901551476
+      Punch_Swoosh_Small_sheet_7: -5000346617734041702
+      Punch_Swoosh_Small_sheet_8: -4653455254915120961
+      Punch_Swoosh_Small_sheet_9: 8671174235816634193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

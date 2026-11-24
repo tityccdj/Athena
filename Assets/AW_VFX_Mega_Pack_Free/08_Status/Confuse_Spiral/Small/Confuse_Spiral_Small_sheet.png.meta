@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 7dea33e8215a84c40bf0ca8dd74985cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3458377222628407009
+    second: Confuse_Spiral_Small_sheet_0
+  - first:
+      213: -5858058076144196075
+    second: Confuse_Spiral_Small_sheet_1
+  - first:
+      213: 571741423178724667
+    second: Confuse_Spiral_Small_sheet_2
+  - first:
+      213: -5407180449512197529
+    second: Confuse_Spiral_Small_sheet_3
+  - first:
+      213: 989528583612238392
+    second: Confuse_Spiral_Small_sheet_4
+  - first:
+      213: 5678905530764009820
+    second: Confuse_Spiral_Small_sheet_5
+  - first:
+      213: -8496132410333657968
+    second: Confuse_Spiral_Small_sheet_6
+  - first:
+      213: 7351524460821708260
+    second: Confuse_Spiral_Small_sheet_7
+  - first:
+      213: 5687641903019875428
+    second: Confuse_Spiral_Small_sheet_8
+  - first:
+      213: -169188985059686285
+    second: Confuse_Spiral_Small_sheet_9
+  - first:
+      213: -2731143367781328059
+    second: Confuse_Spiral_Small_sheet_10
+  - first:
+      213: 3318235527898422259
+    second: Confuse_Spiral_Small_sheet_11
+  - first:
+      213: 8715779231322141253
+    second: Confuse_Spiral_Small_sheet_12
+  - first:
+      213: -7796907527093004728
+    second: Confuse_Spiral_Small_sheet_13
+  - first:
+      213: -5707215409741465777
+    second: Confuse_Spiral_Small_sheet_14
+  - first:
+      213: 934611219708334172
+    second: Confuse_Spiral_Small_sheet_15
+  - first:
+      213: -1211161588732927329
+    second: Confuse_Spiral_Small_sheet_16
+  - first:
+      213: -8731099993944463470
+    second: Confuse_Spiral_Small_sheet_17
+  - first:
+      213: -1585054140436199963
+    second: Confuse_Spiral_Small_sheet_18
+  - first:
+      213: -3161965428012106776
+    second: Confuse_Spiral_Small_sheet_19
+  - first:
+      213: -9219118735704468724
+    second: Confuse_Spiral_Small_sheet_20
+  - first:
+      213: -3093148554206801440
+    second: Confuse_Spiral_Small_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198ee14d306100d0800000000000000
+      internalID: -3458377222628407009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51621d1973ff3bea0800000000000000
+      internalID: -5858058076144196075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 9
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b1ff8bcb3fe700800000000000000
+      internalID: 571741423178724667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76273669706d5f4b0800000000000000
+      internalID: -5407180449512197529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8d4901038bbd00800000000000000
+      internalID: 989528583612238392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51a03afd768fce40800000000000000
+      internalID: 5678905530764009820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0940165569ca71a80800000000000000
+      internalID: -8496132410333657968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed7fdc0c8cd50660800000000000000
+      internalID: 7351524460821708260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c50272d209eee40800000000000000
+      internalID: 5687641903019875428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 9
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378cb95b38be6adf0800000000000000
+      internalID: -169188985059686285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bdab4c397091ad0800000000000000
+      internalID: -2731143367781328059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5771c1adbc0e20800000000000000
+      internalID: 3318235527898422259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542feaf580ba4f870800000000000000
+      internalID: 8715779231322141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 9
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465d05f9e1dbc390800000000000000
+      internalID: -7796907527093004728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4779bda2d5ebc0b0800000000000000
+      internalID: -5707215409741465777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505fc9d3f768fc00800000000000000
+      internalID: 934611219708334172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e9f9b3f6113fe0800000000000000
+      internalID: -1211161588732927329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297668a90d6e4d680800000000000000
+      internalID: -8731099993944463470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c98148a1c00ae0800000000000000
+      internalID: -1585054140436199963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 9
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb54f22317e14d0800000000000000
+      internalID: -3161965428012106776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 9
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03df28da5c1f0080800000000000000
+      internalID: -9219118735704468724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confuse_Spiral_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e19df437cde215d0800000000000000
+      internalID: -3093148554206801440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Confuse_Spiral_Small_sheet_0: -3458377222628407009
+      Confuse_Spiral_Small_sheet_1: -5858058076144196075
+      Confuse_Spiral_Small_sheet_10: -2731143367781328059
+      Confuse_Spiral_Small_sheet_11: 3318235527898422259
+      Confuse_Spiral_Small_sheet_12: 8715779231322141253
+      Confuse_Spiral_Small_sheet_13: -7796907527093004728
+      Confuse_Spiral_Small_sheet_14: -5707215409741465777
+      Confuse_Spiral_Small_sheet_15: 934611219708334172
+      Confuse_Spiral_Small_sheet_16: -1211161588732927329
+      Confuse_Spiral_Small_sheet_17: -8731099993944463470
+      Confuse_Spiral_Small_sheet_18: -1585054140436199963
+      Confuse_Spiral_Small_sheet_19: -3161965428012106776
+      Confuse_Spiral_Small_sheet_2: 571741423178724667
+      Confuse_Spiral_Small_sheet_20: -9219118735704468724
+      Confuse_Spiral_Small_sheet_21: -3093148554206801440
+      Confuse_Spiral_Small_sheet_3: -5407180449512197529
+      Confuse_Spiral_Small_sheet_4: 989528583612238392
+      Confuse_Spiral_Small_sheet_5: 5678905530764009820
+      Confuse_Spiral_Small_sheet_6: -8496132410333657968
+      Confuse_Spiral_Small_sheet_7: 7351524460821708260
+      Confuse_Spiral_Small_sheet_8: 5687641903019875428
+      Confuse_Spiral_Small_sheet_9: -169188985059686285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 5f1efe898d0f9a94c81c5b263d7ad31c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3041906565569321077
+    second: Shield_Hit_Large_sheet_0
+  - first:
+      213: -5835097505381638222
+    second: Shield_Hit_Large_sheet_1
+  - first:
+      213: -3236539575557049634
+    second: Shield_Hit_Large_sheet_2
+  - first:
+      213: 8344531950488317664
+    second: Shield_Hit_Large_sheet_3
+  - first:
+      213: -3250840021854255196
+    second: Shield_Hit_Large_sheet_4
+  - first:
+      213: -3013465541801694365
+    second: Shield_Hit_Large_sheet_5
+  - first:
+      213: -5812280130797599053
+    second: Shield_Hit_Large_sheet_6
+  - first:
+      213: -1481308430476651027
+    second: Shield_Hit_Large_sheet_7
+  - first:
+      213: -307683836269333125
+    second: Shield_Hit_Large_sheet_8
+  - first:
+      213: -1691994355660371805
+    second: Shield_Hit_Large_sheet_9
+  - first:
+      213: 1054110219872317194
+    second: Shield_Hit_Large_sheet_10
+  - first:
+      213: -2561418366107711890
+    second: Shield_Hit_Large_sheet_11
+  - first:
+      213: -5529048808088285917
+    second: Shield_Hit_Large_sheet_12
+  - first:
+      213: -7727483614140338122
+    second: Shield_Hit_Large_sheet_13
+  - first:
+      213: -2386589796706709958
+    second: Shield_Hit_Large_sheet_14
+  - first:
+      213: -8611932690282857515
+    second: Shield_Hit_Large_sheet_15
+  - first:
+      213: -3966402285444108808
+    second: Shield_Hit_Large_sheet_16
+  - first:
+      213: -5147272287902569804
+    second: Shield_Hit_Large_sheet_17
+  - first:
+      213: -2470691625379320327
+    second: Shield_Hit_Large_sheet_18
+  - first:
+      213: -4263459393311333671
+    second: Shield_Hit_Large_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ef47681af8c5d0800000000000000
+      internalID: -3041906565569321077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf95f90cb1950fa0800000000000000
+      internalID: -5835097505381638222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 11
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2bd6967608513d0800000000000000
+      internalID: -3236539575557049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eee0c5099bbdc370800000000000000
+      internalID: 8344531950488317664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a701cb4932b2e2d0800000000000000
+      internalID: -3250840021854255196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba7064e050e26d0800000000000000
+      internalID: -3013465541801694365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b68fbc0402a65fa0800000000000000
+      internalID: -5812280130797599053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 11
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d5aea4d5517be0800000000000000
+      internalID: -1481308430476651027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75790c5e23eabbf0800000000000000
+      internalID: -307683836269333125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 11
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c5ec1914d488e0800000000000000
+      internalID: -1691994355660371805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2999f8a3f0ae00800000000000000
+      internalID: 1054110219872317194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 11
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e660df62193047cd0800000000000000
+      internalID: -2561418366107711890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc918376fd443b0800000000000000
+      internalID: -5529048808088285917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 11
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630738b489672c490800000000000000
+      internalID: -7727483614140338122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e89be793121eed0800000000000000
+      internalID: -2386589796706709958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbd1e98d44c7880800000000000000
+      internalID: -8611932690282857515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 11
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6ec3e22284f8c0800000000000000
+      internalID: -3966402285444108808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 10
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baea5520273198b0800000000000000
+      internalID: -5147272287902569804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 11
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdabb79e0756bdd0800000000000000
+      internalID: -2470691625379320327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Hit_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22063454625d4c0800000000000000
+      internalID: -4263459393311333671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield_Hit_Large_sheet_0: -3041906565569321077
+      Shield_Hit_Large_sheet_1: -5835097505381638222
+      Shield_Hit_Large_sheet_10: 1054110219872317194
+      Shield_Hit_Large_sheet_11: -2561418366107711890
+      Shield_Hit_Large_sheet_12: -5529048808088285917
+      Shield_Hit_Large_sheet_13: -7727483614140338122
+      Shield_Hit_Large_sheet_14: -2386589796706709958
+      Shield_Hit_Large_sheet_15: -8611932690282857515
+      Shield_Hit_Large_sheet_16: -3966402285444108808
+      Shield_Hit_Large_sheet_17: -5147272287902569804
+      Shield_Hit_Large_sheet_18: -2470691625379320327
+      Shield_Hit_Large_sheet_19: -4263459393311333671
+      Shield_Hit_Large_sheet_2: -3236539575557049634
+      Shield_Hit_Large_sheet_3: 8344531950488317664
+      Shield_Hit_Large_sheet_4: -3250840021854255196
+      Shield_Hit_Large_sheet_5: -3013465541801694365
+      Shield_Hit_Large_sheet_6: -5812280130797599053
+      Shield_Hit_Large_sheet_7: -1481308430476651027
+      Shield_Hit_Large_sheet_8: -307683836269333125
+      Shield_Hit_Large_sheet_9: -1691994355660371805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

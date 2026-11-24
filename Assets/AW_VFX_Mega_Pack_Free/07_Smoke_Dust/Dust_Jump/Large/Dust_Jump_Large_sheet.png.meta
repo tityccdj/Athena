@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: a7b712b2552516d40b63d72e2df1ddd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1895609258168511874
+    second: Dust_Jump_Large_sheet_0
+  - first:
+      213: -272584592257594928
+    second: Dust_Jump_Large_sheet_1
+  - first:
+      213: 3697400206910306498
+    second: Dust_Jump_Large_sheet_2
+  - first:
+      213: 4991186842297484434
+    second: Dust_Jump_Large_sheet_3
+  - first:
+      213: 4170179225873020615
+    second: Dust_Jump_Large_sheet_4
+  - first:
+      213: -1984063648463293322
+    second: Dust_Jump_Large_sheet_5
+  - first:
+      213: 4942793503315218782
+    second: Dust_Jump_Large_sheet_6
+  - first:
+      213: 2226193816181319249
+    second: Dust_Jump_Large_sheet_7
+  - first:
+      213: 3669278277699904402
+    second: Dust_Jump_Large_sheet_8
+  - first:
+      213: -6121468920409564325
+    second: Dust_Jump_Large_sheet_9
+  - first:
+      213: -5866685963333553878
+    second: Dust_Jump_Large_sheet_10
+  - first:
+      213: -4689671808953202645
+    second: Dust_Jump_Large_sheet_11
+  - first:
+      213: -5412697093169710575
+    second: Dust_Jump_Large_sheet_12
+  - first:
+      213: -3656315184016322034
+    second: Dust_Jump_Large_sheet_13
+  - first:
+      213: -274651735306685241
+    second: Dust_Jump_Large_sheet_14
+  - first:
+      213: 5000854414948995338
+    second: Dust_Jump_Large_sheet_15
+  - first:
+      213: 4044392891604302597
+    second: Dust_Jump_Large_sheet_16
+  - first:
+      213: 5162061876178100126
+    second: Dust_Jump_Large_sheet_17
+  - first:
+      213: -8074722476689772910
+    second: Dust_Jump_Large_sheet_18
+  - first:
+      213: -5563550956752232100
+    second: Dust_Jump_Large_sheet_19
+  - first:
+      213: -6388367537311329858
+    second: Dust_Jump_Large_sheet_20
+  - first:
+      213: -2281945600123923883
+    second: Dust_Jump_Large_sheet_21
+  - first:
+      213: -2082800938971555114
+    second: Dust_Jump_Large_sheet_22
+  - first:
+      213: -5778918719523004055
+    second: Dust_Jump_Large_sheet_23
+  - first:
+      213: 4393270242617991179
+    second: Dust_Jump_Large_sheet_24
+  - first:
+      213: -7577995343570307714
+    second: Dust_Jump_Large_sheet_25
+  - first:
+      213: -2628838963938120404
+    second: Dust_Jump_Large_sheet_26
+  - first:
+      213: -2485979044354519533
+    second: Dust_Jump_Large_sheet_27
+  - first:
+      213: 8186204397655839192
+    second: Dust_Jump_Large_sheet_28
+  - first:
+      213: 1539495702136562816
+    second: Dust_Jump_Large_sheet_29
+  - first:
+      213: -6867680700768197532
+    second: Dust_Jump_Large_sheet_30
+  - first:
+      213: -7672767820855533175
+    second: Dust_Jump_Large_sheet_31
+  - first:
+      213: 1402589931750666120
+    second: Dust_Jump_Large_sheet_32
+  - first:
+      213: -7434165251298679609
+    second: Dust_Jump_Large_sheet_33
+  - first:
+      213: -3835612000441345030
+    second: Dust_Jump_Large_sheet_34
+  - first:
+      213: -7365692920793740995
+    second: Dust_Jump_Large_sheet_35
+  - first:
+      213: 5515825180992581383
+    second: Dust_Jump_Large_sheet_36
+  - first:
+      213: -4073427489798754463
+    second: Dust_Jump_Large_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729ced4c6171b5e0800000000000000
+      internalID: -1895609258168511874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9cd3fe1c5973cf0800000000000000
+      internalID: -272584592257594928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8385506edcf4330800000000000000
+      internalID: 3697400206910306498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 12
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294ceb61df1444540800000000000000
+      internalID: 4991186842297484434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ffdf49e37fd930800000000000000
+      internalID: 4170179225873020615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674749daf903774e0800000000000000
+      internalID: -1984063648463293322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 11
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515633d084589440800000000000000
+      internalID: 4942793503315218782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 11
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156a8ae1b7705ee10800000000000000
+      internalID: 2226193816181319249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932c542725ebe230800000000000000
+      internalID: 3669278277699904402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 11
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd467237c2c0ba0800000000000000
+      internalID: -6121468920409564325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 12
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21bbba0338559ea0800000000000000
+      internalID: -5866685963333553878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b284e223650faeeb0800000000000000
+      internalID: -4689671808953202645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 14
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a74d4ebac32e4b0800000000000000
+      internalID: -5412697093169710575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 14
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0217dd46b8224dc0800000000000000
+      internalID: -3656315184016322034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 15
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b910b3bd303cf0800000000000000
+      internalID: -274651735306685241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 15
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019a70489a966540800000000000000
+      internalID: 5000854414948995338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 17
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b703428e1902830800000000000000
+      internalID: 4044392891604302597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 17
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f9e263de353a740800000000000000
+      internalID: 5162061876178100126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 18
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2b0d60b2d0ff80800000000000000
+      internalID: -8074722476689772910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 19
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51affcb1eb4ac2b0800000000000000
+      internalID: -5563550956752232100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 20
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1dbe36295f757a0800000000000000
+      internalID: -6388367537311329858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 19
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55219d32196e450e0800000000000000
+      internalID: -2281945600123923883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 19
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da10c6c4976813e0800000000000000
+      internalID: -2082800938971555114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 20
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e9f8ea082dcfa0800000000000000
+      internalID: -5778918719523004055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 19
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b002a85520808fc30800000000000000
+      internalID: 4393270242617991179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 21
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e757dec826d85d690800000000000000
+      internalID: -7577995343570307714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d23c6f3ec748bd0800000000000000
+      internalID: -2628838963938120404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 26
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e0f2efa37008dd0800000000000000
+      internalID: -2485979044354519533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 22
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1540df68d3b9170800000000000000
+      internalID: 8186204397655839192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 34
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084271b3f236d5510800000000000000
+      internalID: 1539495702136562816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 34
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e7e70ac811b0a0800000000000000
+      internalID: -6867680700768197532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981abd9a15ad48590800000000000000
+      internalID: -7672767820855533175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa9879c10077310800000000000000
+      internalID: 1402589931750666120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 23
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42ac2871a84d890800000000000000
+      internalID: -7434165251298679609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd771253b25cac0800000000000000
+      internalID: -3835612000441345030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 23
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ca7b405dc7c990800000000000000
+      internalID: -7365692920793740995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa73c27c52c8c40800000000000000
+      internalID: 5515825180992581383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Jump_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 13
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16feb3ca7474877c0800000000000000
+      internalID: -4073427489798754463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust_Jump_Large_sheet_0: -1895609258168511874
+      Dust_Jump_Large_sheet_1: -272584592257594928
+      Dust_Jump_Large_sheet_10: -5866685963333553878
+      Dust_Jump_Large_sheet_11: -4689671808953202645
+      Dust_Jump_Large_sheet_12: -5412697093169710575
+      Dust_Jump_Large_sheet_13: -3656315184016322034
+      Dust_Jump_Large_sheet_14: -274651735306685241
+      Dust_Jump_Large_sheet_15: 5000854414948995338
+      Dust_Jump_Large_sheet_16: 4044392891604302597
+      Dust_Jump_Large_sheet_17: 5162061876178100126
+      Dust_Jump_Large_sheet_18: -8074722476689772910
+      Dust_Jump_Large_sheet_19: -5563550956752232100
+      Dust_Jump_Large_sheet_2: 3697400206910306498
+      Dust_Jump_Large_sheet_20: -6388367537311329858
+      Dust_Jump_Large_sheet_21: -2281945600123923883
+      Dust_Jump_Large_sheet_22: -2082800938971555114
+      Dust_Jump_Large_sheet_23: -5778918719523004055
+      Dust_Jump_Large_sheet_24: 4393270242617991179
+      Dust_Jump_Large_sheet_25: -7577995343570307714
+      Dust_Jump_Large_sheet_26: -2628838963938120404
+      Dust_Jump_Large_sheet_27: -2485979044354519533
+      Dust_Jump_Large_sheet_28: 8186204397655839192
+      Dust_Jump_Large_sheet_29: 1539495702136562816
+      Dust_Jump_Large_sheet_3: 4991186842297484434
+      Dust_Jump_Large_sheet_30: -6867680700768197532
+      Dust_Jump_Large_sheet_31: -7672767820855533175
+      Dust_Jump_Large_sheet_32: 1402589931750666120
+      Dust_Jump_Large_sheet_33: -7434165251298679609
+      Dust_Jump_Large_sheet_34: -3835612000441345030
+      Dust_Jump_Large_sheet_35: -7365692920793740995
+      Dust_Jump_Large_sheet_36: 5515825180992581383
+      Dust_Jump_Large_sheet_37: -4073427489798754463
+      Dust_Jump_Large_sheet_4: 4170179225873020615
+      Dust_Jump_Large_sheet_5: -1984063648463293322
+      Dust_Jump_Large_sheet_6: 4942793503315218782
+      Dust_Jump_Large_sheet_7: 2226193816181319249
+      Dust_Jump_Large_sheet_8: 3669278277699904402
+      Dust_Jump_Large_sheet_9: -6121468920409564325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

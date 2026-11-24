@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 94608b930c064f842bfb5efdc9a5361a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9119131157949583631
+    second: Ice_ChargeShatter_Small_sheet_0
+  - first:
+      213: 7282004717415045282
+    second: Ice_ChargeShatter_Small_sheet_1
+  - first:
+      213: 8561997698041939436
+    second: Ice_ChargeShatter_Small_sheet_2
+  - first:
+      213: -8957619210522036977
+    second: Ice_ChargeShatter_Small_sheet_3
+  - first:
+      213: -64155400578793193
+    second: Ice_ChargeShatter_Small_sheet_4
+  - first:
+      213: -7778564852040385715
+    second: Ice_ChargeShatter_Small_sheet_5
+  - first:
+      213: -7898861944564716400
+    second: Ice_ChargeShatter_Small_sheet_6
+  - first:
+      213: 6292208777049667904
+    second: Ice_ChargeShatter_Small_sheet_7
+  - first:
+      213: 48821984522617552
+    second: Ice_ChargeShatter_Small_sheet_8
+  - first:
+      213: 7380638427325952978
+    second: Ice_ChargeShatter_Small_sheet_9
+  - first:
+      213: -3916493414723660874
+    second: Ice_ChargeShatter_Small_sheet_10
+  - first:
+      213: 6899418620959920071
+    second: Ice_ChargeShatter_Small_sheet_11
+  - first:
+      213: -4527025193526178555
+    second: Ice_ChargeShatter_Small_sheet_12
+  - first:
+      213: 7635921274754488506
+    second: Ice_ChargeShatter_Small_sheet_13
+  - first:
+      213: -6036461360934742289
+    second: Ice_ChargeShatter_Small_sheet_14
+  - first:
+      213: 3207573390022911778
+    second: Ice_ChargeShatter_Small_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0118c11979ad8e70800000000000000
+      internalID: 9119131157949583631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a81e3275b0ee0560800000000000000
+      internalID: 7282004717415045282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5808ffa8352d670800000000000000
+      internalID: 8561997698041939436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f057e9b99c420b380800000000000000
+      internalID: -8957619210522036977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 27
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711041ac0031c1ff0800000000000000
+      internalID: -64155400578793193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3bcbca7cfc0490800000000000000
+      internalID: -7778564852040385715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c6e5059ea916290800000000000000
+      internalID: -7898861944564716400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049f3a09b8a625750800000000000000
+      internalID: 6292208777049667904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d243b416537da000800000000000000
+      internalID: 48821984522617552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37c5c9b8b4d6660800000000000000
+      internalID: 7380638427325952978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 37
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35d326df1d5a9c0800000000000000
+      internalID: -3916493414723660874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf080b5ea8afbf50800000000000000
+      internalID: 6899418620959920071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dc0aa5296cc21c0800000000000000
+      internalID: -4527025193526178555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d69a41fd38f960800000000000000
+      internalID: 7635921274754488506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe61d11ff5e2a3ca0800000000000000
+      internalID: -6036461360934742289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_ChargeShatter_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 11
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227af47f007938c20800000000000000
+      internalID: 3207573390022911778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_ChargeShatter_Small_sheet_0: 9119131157949583631
+      Ice_ChargeShatter_Small_sheet_1: 7282004717415045282
+      Ice_ChargeShatter_Small_sheet_10: -3916493414723660874
+      Ice_ChargeShatter_Small_sheet_11: 6899418620959920071
+      Ice_ChargeShatter_Small_sheet_12: -4527025193526178555
+      Ice_ChargeShatter_Small_sheet_13: 7635921274754488506
+      Ice_ChargeShatter_Small_sheet_14: -6036461360934742289
+      Ice_ChargeShatter_Small_sheet_15: 3207573390022911778
+      Ice_ChargeShatter_Small_sheet_2: 8561997698041939436
+      Ice_ChargeShatter_Small_sheet_3: -8957619210522036977
+      Ice_ChargeShatter_Small_sheet_4: -64155400578793193
+      Ice_ChargeShatter_Small_sheet_5: -7778564852040385715
+      Ice_ChargeShatter_Small_sheet_6: -7898861944564716400
+      Ice_ChargeShatter_Small_sheet_7: 6292208777049667904
+      Ice_ChargeShatter_Small_sheet_8: 48821984522617552
+      Ice_ChargeShatter_Small_sheet_9: 7380638427325952978
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

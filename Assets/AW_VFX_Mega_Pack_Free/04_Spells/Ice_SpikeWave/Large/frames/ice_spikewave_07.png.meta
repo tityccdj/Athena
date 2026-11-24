@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: cfde0f7a8e6b5aa4b88a37060c441328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4340569495479237900
+    second: ice_spikewave_07_0
+  - first:
+      213: -6425273256959011158
+    second: ice_spikewave_07_1
+  - first:
+      213: -1685651659960295614
+    second: ice_spikewave_07_2
+  - first:
+      213: -5594003009529327406
+    second: ice_spikewave_07_3
+  - first:
+      213: 4318630392700813967
+    second: ice_spikewave_07_4
+  - first:
+      213: 1114679904021179339
+    second: ice_spikewave_07_5
+  - first:
+      213: 1647843237875407026
+    second: ice_spikewave_07_6
+  - first:
+      213: -1506909762965226590
+    second: ice_spikewave_07_7
+  - first:
+      213: 5042488948857339287
+    second: ice_spikewave_07_8
+  - first:
+      213: -6322201024427828668
+    second: ice_spikewave_07_9
+  - first:
+      213: 7454053182738291161
+    second: ice_spikewave_07_10
+  - first:
+      213: 6115543596095276356
+    second: ice_spikewave_07_11
+  - first:
+      213: -6720954764611394021
+    second: ice_spikewave_07_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_spikewave_07_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dbfe475fccc3c30800000000000000
+      internalID: 4340569495479237900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6142ee308d4d6a0800000000000000
+      internalID: -6425273256959011158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd4090fbc5b98e0800000000000000
+      internalID: -1685651659960295614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d980b6eb1e52b0800000000000000
+      internalID: -5594003009529327406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824329067bdeeb30800000000000000
+      internalID: 4318630392700813967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 24
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe2758773287f00800000000000000
+      internalID: 1114679904021179339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d717b1b05ed610800000000000000
+      internalID: 1647843237875407026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 33
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb3e5fd81661be0800000000000000
+      internalID: -1506909762965226590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d79749bf48af540800000000000000
+      internalID: 5042488948857339287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 28
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5e5c2aa70348a0800000000000000
+      internalID: -6322201024427828668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 12
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95cfd50ed127760800000000000000
+      internalID: 7454053182738291161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458ca5cf76ced450800000000000000
+      internalID: 6115543596095276356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_spikewave_07_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 11
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166edf204f5ab2a0800000000000000
+      internalID: -6720954764611394021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice_spikewave_07_0: 4340569495479237900
+      ice_spikewave_07_1: -6425273256959011158
+      ice_spikewave_07_10: 7454053182738291161
+      ice_spikewave_07_11: 6115543596095276356
+      ice_spikewave_07_12: -6720954764611394021
+      ice_spikewave_07_2: -1685651659960295614
+      ice_spikewave_07_3: -5594003009529327406
+      ice_spikewave_07_4: 4318630392700813967
+      ice_spikewave_07_5: 1114679904021179339
+      ice_spikewave_07_6: 1647843237875407026
+      ice_spikewave_07_7: -1506909762965226590
+      ice_spikewave_07_8: 5042488948857339287
+      ice_spikewave_07_9: -6322201024427828668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

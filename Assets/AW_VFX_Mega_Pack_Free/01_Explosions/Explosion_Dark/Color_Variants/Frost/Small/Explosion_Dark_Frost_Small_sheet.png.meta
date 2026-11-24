@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 891dc201c707a554e8819867d5d1b341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2491104880837756160
+    second: Explosion_Dark_Frost_Small_sheet_0
+  - first:
+      213: -5798882928287426033
+    second: Explosion_Dark_Frost_Small_sheet_1
+  - first:
+      213: -6267778603654313133
+    second: Explosion_Dark_Frost_Small_sheet_2
+  - first:
+      213: 502514387729559662
+    second: Explosion_Dark_Frost_Small_sheet_3
+  - first:
+      213: -8687655099255685050
+    second: Explosion_Dark_Frost_Small_sheet_4
+  - first:
+      213: 488700073584204357
+    second: Explosion_Dark_Frost_Small_sheet_5
+  - first:
+      213: 8204768090626107370
+    second: Explosion_Dark_Frost_Small_sheet_6
+  - first:
+      213: -6902650064073005693
+    second: Explosion_Dark_Frost_Small_sheet_7
+  - first:
+      213: 8803062152951261788
+    second: Explosion_Dark_Frost_Small_sheet_8
+  - first:
+      213: 3385689310582755938
+    second: Explosion_Dark_Frost_Small_sheet_9
+  - first:
+      213: 8222517755771072521
+    second: Explosion_Dark_Frost_Small_sheet_10
+  - first:
+      213: 8477176302902294825
+    second: Explosion_Dark_Frost_Small_sheet_11
+  - first:
+      213: -1456875921329742401
+    second: Explosion_Dark_Frost_Small_sheet_12
+  - first:
+      213: -2868661916338809963
+    second: Explosion_Dark_Frost_Small_sheet_13
+  - first:
+      213: -1486505054134091582
+    second: Explosion_Dark_Frost_Small_sheet_14
+  - first:
+      213: 1361643097156381114
+    second: Explosion_Dark_Frost_Small_sheet_15
+  - first:
+      213: -4808761994006090659
+    second: Explosion_Dark_Frost_Small_sheet_16
+  - first:
+      213: 7880236335589246132
+    second: Explosion_Dark_Frost_Small_sheet_17
+  - first:
+      213: -7942571771804903401
+    second: Explosion_Dark_Frost_Small_sheet_18
+  - first:
+      213: 5655544023038955984
+    second: Explosion_Dark_Frost_Small_sheet_19
+  - first:
+      213: -6737613167631573232
+    second: Explosion_Dark_Frost_Small_sheet_20
+  - first:
+      213: 1578943162965464919
+    second: Explosion_Dark_Frost_Small_sheet_21
+  - first:
+      213: -2114154314866161730
+    second: Explosion_Dark_Frost_Small_sheet_22
+  - first:
+      213: -682140699945243967
+    second: Explosion_Dark_Frost_Small_sheet_23
+  - first:
+      213: -5992934110762752888
+    second: Explosion_Dark_Frost_Small_sheet_24
+  - first:
+      213: 3267589618589869521
+    second: Explosion_Dark_Frost_Small_sheet_25
+  - first:
+      213: -8139095963288375996
+    second: Explosion_Dark_Frost_Small_sheet_26
+  - first:
+      213: 3324060961430857822
+    second: Explosion_Dark_Frost_Small_sheet_27
+  - first:
+      213: -3448921884414140113
+    second: Explosion_Dark_Frost_Small_sheet_28
+  - first:
+      213: -4675079123801392791
+    second: Explosion_Dark_Frost_Small_sheet_29
+  - first:
+      213: 7539559321344590716
+    second: Explosion_Dark_Frost_Small_sheet_30
+  - first:
+      213: 32645094121805971
+    second: Explosion_Dark_Frost_Small_sheet_31
+  - first:
+      213: -3066365805753008380
+    second: Explosion_Dark_Frost_Small_sheet_32
+  - first:
+      213: -4779209137496033513
+    second: Explosion_Dark_Frost_Small_sheet_33
+  - first:
+      213: -1238447820460144434
+    second: Explosion_Dark_Frost_Small_sheet_34
+  - first:
+      213: 1136786096410813059
+    second: Explosion_Dark_Frost_Small_sheet_35
+  - first:
+      213: -6808660636206249006
+    second: Explosion_Dark_Frost_Small_sheet_36
+  - first:
+      213: 172996158140014196
+    second: Explosion_Dark_Frost_Small_sheet_37
+  - first:
+      213: -4334283463719540021
+    second: Explosion_Dark_Frost_Small_sheet_38
+  - first:
+      213: 5610400952686543818
+    second: Explosion_Dark_Frost_Small_sheet_39
+  - first:
+      213: 6040843499233483979
+    second: Explosion_Dark_Frost_Small_sheet_40
+  - first:
+      213: 3603383341279286626
+    second: Explosion_Dark_Frost_Small_sheet_41
+  - first:
+      213: 9050090299882479232
+    second: Explosion_Dark_Frost_Small_sheet_42
+  - first:
+      213: 3430237613015590932
+    second: Explosion_Dark_Frost_Small_sheet_43
+  - first:
+      213: 6980278594148940227
+    second: Explosion_Dark_Frost_Small_sheet_44
+  - first:
+      213: -1181925670114377014
+    second: Explosion_Dark_Frost_Small_sheet_45
+  - first:
+      213: -4383220234225419562
+    second: Explosion_Dark_Frost_Small_sheet_46
+  - first:
+      213: -383200938095182824
+    second: Explosion_Dark_Frost_Small_sheet_47
+  - first:
+      213: 5225810700906928136
+    second: Explosion_Dark_Frost_Small_sheet_48
+  - first:
+      213: -1083832307106574971
+    second: Explosion_Dark_Frost_Small_sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7c6f2f41dd6dd0800000000000000
+      internalID: -2491104880837756160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad95553ba368fa0800000000000000
+      internalID: -5798882928287426033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b046e61906409a0800000000000000
+      internalID: -6267778603654313133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60b4275c2a49f600800000000000000
+      internalID: 502514387729559662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64001c567bf3f6780800000000000000
+      internalID: -8687655099255685050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a91bfa02638c600800000000000000
+      internalID: 488700073584204357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7aa329b113dd170800000000000000
+      internalID: 8204768090626107370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e91aa65cd430a0800000000000000
+      internalID: -6902650064073005693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a68523362ca2a70800000000000000
+      internalID: 8803062152951261788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 8
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625f156d726cfe20800000000000000
+      internalID: 3385689310582755938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b31885504c1270800000000000000
+      internalID: 8222517755771072521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b9d8feeaf4a570800000000000000
+      internalID: 8477176302902294825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 17
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd1253811328cbe0800000000000000
+      internalID: -1456875921329742401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 33
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931fe79f277038d0800000000000000
+      internalID: -2868661916338809963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c383778fde5be0800000000000000
+      internalID: -1486505054134091582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96edcbe2785e210800000000000000
+      internalID: 1361643097156381114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 27
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2ed1c178d34db0800000000000000
+      internalID: -4808761994006090659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44ce822393c5d60800000000000000
+      internalID: 7880236335589246132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 26
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718168a1e0156c190800000000000000
+      internalID: -7942571771804903401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d112d813578c7e40800000000000000
+      internalID: 5655544023038955984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f535d75803f72a0800000000000000
+      internalID: -6737613167631573232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 20
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757961de07889e510800000000000000
+      internalID: 1578943162965464919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb70b061ad309a2e0800000000000000
+      internalID: -2114154314866161730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 38
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6de4c5ac8886f0800000000000000
+      internalID: -682140699945243967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842aad9d22d4dca0800000000000000
+      internalID: -5992934110762752888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 22
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5adc7127fc85d20800000000000000
+      internalID: 3267589618589869521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d616b185f1c0f80800000000000000
+      internalID: -8139095963288375996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5864d135df612e20800000000000000
+      internalID: 3324060961430857822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ac6db1d7f220d0800000000000000
+      internalID: -3448921884414140113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 30
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96939f87e48ce1fb0800000000000000
+      internalID: -4675079123801392791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 21
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73cab7a145e1a860800000000000000
+      internalID: 7539559321344590716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 11
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981ac64a8af37000800000000000000
+      internalID: 32645094121805971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fffa4cb841275d0800000000000000
+      internalID: -3066365805753008380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 22
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177f3c5c96dcadb0800000000000000
+      internalID: -4779209137496033513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 33
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cd94d44620dee0800000000000000
+      internalID: -1238447820460144434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 26
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826b268eeca6cf00800000000000000
+      internalID: 1136786096410813059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcdb6a937c281a0800000000000000
+      internalID: -6808660636206249006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5179d61b966200800000000000000
+      internalID: 172996158140014196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaa52d572889d3c0800000000000000
+      internalID: -4334283463719540021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30568f0f52cdd40800000000000000
+      internalID: 5610400952686543818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1a83282365d350800000000000000
+      internalID: 6040843499233483979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265138eae0ac10230800000000000000
+      internalID: 3603383341279286626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e14b5ad21689d70800000000000000
+      internalID: 9050090299882479232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4186af25fe6aa9f20800000000000000
+      internalID: 3430237613015590932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 13
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9b285f56eeed060800000000000000
+      internalID: 6980278594148940227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cae97dd4f89fe0800000000000000
+      internalID: -1181925670114377014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 11
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da70b69b6cab23c0800000000000000
+      internalID: -4383220234225419562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 13
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c7d3fe6c89eaaf0800000000000000
+      internalID: -383200938095182824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8081efa152fc58840800000000000000
+      internalID: 5225810700906928136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Frost_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d02d2524475f0f0800000000000000
+      internalID: -1083832307106574971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Dark_Frost_Small_sheet_0: -2491104880837756160
+      Explosion_Dark_Frost_Small_sheet_1: -5798882928287426033
+      Explosion_Dark_Frost_Small_sheet_10: 8222517755771072521
+      Explosion_Dark_Frost_Small_sheet_11: 8477176302902294825
+      Explosion_Dark_Frost_Small_sheet_12: -1456875921329742401
+      Explosion_Dark_Frost_Small_sheet_13: -2868661916338809963
+      Explosion_Dark_Frost_Small_sheet_14: -1486505054134091582
+      Explosion_Dark_Frost_Small_sheet_15: 1361643097156381114
+      Explosion_Dark_Frost_Small_sheet_16: -4808761994006090659
+      Explosion_Dark_Frost_Small_sheet_17: 7880236335589246132
+      Explosion_Dark_Frost_Small_sheet_18: -7942571771804903401
+      Explosion_Dark_Frost_Small_sheet_19: 5655544023038955984
+      Explosion_Dark_Frost_Small_sheet_2: -6267778603654313133
+      Explosion_Dark_Frost_Small_sheet_20: -6737613167631573232
+      Explosion_Dark_Frost_Small_sheet_21: 1578943162965464919
+      Explosion_Dark_Frost_Small_sheet_22: -2114154314866161730
+      Explosion_Dark_Frost_Small_sheet_23: -682140699945243967
+      Explosion_Dark_Frost_Small_sheet_24: -5992934110762752888
+      Explosion_Dark_Frost_Small_sheet_25: 3267589618589869521
+      Explosion_Dark_Frost_Small_sheet_26: -8139095963288375996
+      Explosion_Dark_Frost_Small_sheet_27: 3324060961430857822
+      Explosion_Dark_Frost_Small_sheet_28: -3448921884414140113
+      Explosion_Dark_Frost_Small_sheet_29: -4675079123801392791
+      Explosion_Dark_Frost_Small_sheet_3: 502514387729559662
+      Explosion_Dark_Frost_Small_sheet_30: 7539559321344590716
+      Explosion_Dark_Frost_Small_sheet_31: 32645094121805971
+      Explosion_Dark_Frost_Small_sheet_32: -3066365805753008380
+      Explosion_Dark_Frost_Small_sheet_33: -4779209137496033513
+      Explosion_Dark_Frost_Small_sheet_34: -1238447820460144434
+      Explosion_Dark_Frost_Small_sheet_35: 1136786096410813059
+      Explosion_Dark_Frost_Small_sheet_36: -6808660636206249006
+      Explosion_Dark_Frost_Small_sheet_37: 172996158140014196
+      Explosion_Dark_Frost_Small_sheet_38: -4334283463719540021
+      Explosion_Dark_Frost_Small_sheet_39: 5610400952686543818
+      Explosion_Dark_Frost_Small_sheet_4: -8687655099255685050
+      Explosion_Dark_Frost_Small_sheet_40: 6040843499233483979
+      Explosion_Dark_Frost_Small_sheet_41: 3603383341279286626
+      Explosion_Dark_Frost_Small_sheet_42: 9050090299882479232
+      Explosion_Dark_Frost_Small_sheet_43: 3430237613015590932
+      Explosion_Dark_Frost_Small_sheet_44: 6980278594148940227
+      Explosion_Dark_Frost_Small_sheet_45: -1181925670114377014
+      Explosion_Dark_Frost_Small_sheet_46: -4383220234225419562
+      Explosion_Dark_Frost_Small_sheet_47: -383200938095182824
+      Explosion_Dark_Frost_Small_sheet_48: 5225810700906928136
+      Explosion_Dark_Frost_Small_sheet_49: -1083832307106574971
+      Explosion_Dark_Frost_Small_sheet_5: 488700073584204357
+      Explosion_Dark_Frost_Small_sheet_6: 8204768090626107370
+      Explosion_Dark_Frost_Small_sheet_7: -6902650064073005693
+      Explosion_Dark_Frost_Small_sheet_8: 8803062152951261788
+      Explosion_Dark_Frost_Small_sheet_9: 3385689310582755938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

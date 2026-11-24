@@ -23,6 +23,9 @@ namespace Athena.Boss.Core
         [SerializeField] private float _knockbackForce = 6f;
         [SerializeField] private LayerMask _targetLayer; // Player Layer
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onHitPlayerEvent;
+
         [Header("Body Contact Settings")]
         [SerializeField] private float _contactCooldown = 0.6f;
 
@@ -158,6 +161,7 @@ namespace Athena.Boss.Core
 
             DamageInfo info = new DamageInfo(_damage, hitPoint, knockbackDir, _knockbackForce, gameObject);
             damageable.TakeDamage(info);
+            _onHitPlayerEvent?.Invoke();
 
             UnityEngine.Debug.Log($"[BossDamageHitbox] Hit {target.name} for {_damage} DMG! (Type: {_hitboxType})");
         }

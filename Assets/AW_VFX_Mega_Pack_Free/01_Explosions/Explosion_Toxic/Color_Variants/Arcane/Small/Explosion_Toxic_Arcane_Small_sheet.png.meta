@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 40875bbd5f08e8343aa78dde2000dc68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4867068894820079829
+    second: Explosion_Toxic_Arcane_Small_sheet_0
+  - first:
+      213: -6328499967521211103
+    second: Explosion_Toxic_Arcane_Small_sheet_1
+  - first:
+      213: -8122176978853643727
+    second: Explosion_Toxic_Arcane_Small_sheet_2
+  - first:
+      213: 5066959133188087303
+    second: Explosion_Toxic_Arcane_Small_sheet_3
+  - first:
+      213: -2161193011955425956
+    second: Explosion_Toxic_Arcane_Small_sheet_4
+  - first:
+      213: -6403324022858584245
+    second: Explosion_Toxic_Arcane_Small_sheet_5
+  - first:
+      213: -8921913179894168362
+    second: Explosion_Toxic_Arcane_Small_sheet_6
+  - first:
+      213: 6300845158166761534
+    second: Explosion_Toxic_Arcane_Small_sheet_7
+  - first:
+      213: -1829687652011658598
+    second: Explosion_Toxic_Arcane_Small_sheet_8
+  - first:
+      213: 2233093474541639843
+    second: Explosion_Toxic_Arcane_Small_sheet_9
+  - first:
+      213: 1606561714327059821
+    second: Explosion_Toxic_Arcane_Small_sheet_10
+  - first:
+      213: -2495057944338133998
+    second: Explosion_Toxic_Arcane_Small_sheet_11
+  - first:
+      213: 4677166418507478345
+    second: Explosion_Toxic_Arcane_Small_sheet_12
+  - first:
+      213: -6010682121697050924
+    second: Explosion_Toxic_Arcane_Small_sheet_13
+  - first:
+      213: 4764406764110716339
+    second: Explosion_Toxic_Arcane_Small_sheet_14
+  - first:
+      213: 1437499267961350805
+    second: Explosion_Toxic_Arcane_Small_sheet_15
+  - first:
+      213: -1448874910176984851
+    second: Explosion_Toxic_Arcane_Small_sheet_16
+  - first:
+      213: -4123776118322085029
+    second: Explosion_Toxic_Arcane_Small_sheet_17
+  - first:
+      213: 3218024670152988188
+    second: Explosion_Toxic_Arcane_Small_sheet_18
+  - first:
+      213: -7209217235784056909
+    second: Explosion_Toxic_Arcane_Small_sheet_19
+  - first:
+      213: -6321006075099790093
+    second: Explosion_Toxic_Arcane_Small_sheet_20
+  - first:
+      213: 3621535073347611861
+    second: Explosion_Toxic_Arcane_Small_sheet_21
+  - first:
+      213: -7544255775790827883
+    second: Explosion_Toxic_Arcane_Small_sheet_22
+  - first:
+      213: 185174620910344779
+    second: Explosion_Toxic_Arcane_Small_sheet_23
+  - first:
+      213: -1578105865311335689
+    second: Explosion_Toxic_Arcane_Small_sheet_24
+  - first:
+      213: -63318219978255211
+    second: Explosion_Toxic_Arcane_Small_sheet_25
+  - first:
+      213: 6269179450065377754
+    second: Explosion_Toxic_Arcane_Small_sheet_26
+  - first:
+      213: -2608852160056759563
+    second: Explosion_Toxic_Arcane_Small_sheet_27
+  - first:
+      213: 1885571336005596511
+    second: Explosion_Toxic_Arcane_Small_sheet_28
+  - first:
+      213: 1940880913721743137
+    second: Explosion_Toxic_Arcane_Small_sheet_29
+  - first:
+      213: -706007284823346512
+    second: Explosion_Toxic_Arcane_Small_sheet_30
+  - first:
+      213: -3397507339784530690
+    second: Explosion_Toxic_Arcane_Small_sheet_31
+  - first:
+      213: -8362025492458371233
+    second: Explosion_Toxic_Arcane_Small_sheet_32
+  - first:
+      213: 2773570483469408444
+    second: Explosion_Toxic_Arcane_Small_sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2765e280a2b47cb0800000000000000
+      internalID: -4867068894820079829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12db3d23fc6ac28a0800000000000000
+      internalID: -6328499967521211103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ab294221b384f80800000000000000
+      internalID: -8122176978853643727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed8195c74715640800000000000000
+      internalID: 5066959133188087303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 5
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1757f766e102e0800000000000000
+      internalID: -2161193011955425956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe9cb3ab2d227a0800000000000000
+      internalID: -6403324022858584245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d44883bb3ffe2480800000000000000
+      internalID: -8921913179894168362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30154db949117750800000000000000
+      internalID: 6300845158166761534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a923deb46c4ab96e0800000000000000
+      internalID: -1829687652011658598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 5
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81c440faa8dfe10800000000000000
+      internalID: 2233093474541639843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 5
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df4340e57ab4610800000000000000
+      internalID: 1606561714327059821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 5
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c85bdd406cf5dd0800000000000000
+      internalID: -2495057944338133998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453682b312a8e040800000000000000
+      internalID: 4677166418507478345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb47ec474c59ca0800000000000000
+      internalID: -6010682121697050924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 6
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd994485b29e1240800000000000000
+      internalID: 4764406764110716339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 5
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a68bfc7f503f310800000000000000
+      internalID: 1437499267961350805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 6
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0cce612ff84ebe0800000000000000
+      internalID: -1448874910176984851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 6
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534c26187765c6c0800000000000000
+      internalID: -4123776118322085029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1699ee3368b8ac20800000000000000
+      internalID: 3218024670152988188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 9
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb770ce17b3fb90800000000000000
+      internalID: -7209217235784056909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 9
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4479ef6764748a0800000000000000
+      internalID: -6321006075099790093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 11
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca08426f6424230800000000000000
+      internalID: 3621535073347611861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967c45d75b6d4790800000000000000
+      internalID: -7544255775790827883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 14
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a57cc265fd19200800000000000000
+      internalID: 185174620910344779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 12
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa4820a311791ae0800000000000000
+      internalID: -1578105865311335689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 12
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594d2661a6c0f1ff0800000000000000
+      internalID: -63318219978255211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9535a8e79900750800000000000000
+      internalID: 6269179450065377754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6e4068ce7bcbd0800000000000000
+      internalID: -2608852160056759563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 11
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b541d325ea2a10800000000000000
+      internalID: 1885571336005596511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12758b568e46fea10800000000000000
+      internalID: 1940880913721743137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 13
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b234437d12c336f0800000000000000
+      internalID: -706007284823346512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45c524311a9d0d0800000000000000
+      internalID: -3397507339784530690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 13
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5702475e1e14fb80800000000000000
+      internalID: -8362025492458371233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Toxic_Arcane_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d3b2e8a3bd7620800000000000000
+      internalID: 2773570483469408444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Toxic_Arcane_Small_sheet_0: -4867068894820079829
+      Explosion_Toxic_Arcane_Small_sheet_1: -6328499967521211103
+      Explosion_Toxic_Arcane_Small_sheet_10: 1606561714327059821
+      Explosion_Toxic_Arcane_Small_sheet_11: -2495057944338133998
+      Explosion_Toxic_Arcane_Small_sheet_12: 4677166418507478345
+      Explosion_Toxic_Arcane_Small_sheet_13: -6010682121697050924
+      Explosion_Toxic_Arcane_Small_sheet_14: 4764406764110716339
+      Explosion_Toxic_Arcane_Small_sheet_15: 1437499267961350805
+      Explosion_Toxic_Arcane_Small_sheet_16: -1448874910176984851
+      Explosion_Toxic_Arcane_Small_sheet_17: -4123776118322085029
+      Explosion_Toxic_Arcane_Small_sheet_18: 3218024670152988188
+      Explosion_Toxic_Arcane_Small_sheet_19: -7209217235784056909
+      Explosion_Toxic_Arcane_Small_sheet_2: -8122176978853643727
+      Explosion_Toxic_Arcane_Small_sheet_20: -6321006075099790093
+      Explosion_Toxic_Arcane_Small_sheet_21: 3621535073347611861
+      Explosion_Toxic_Arcane_Small_sheet_22: -7544255775790827883
+      Explosion_Toxic_Arcane_Small_sheet_23: 185174620910344779
+      Explosion_Toxic_Arcane_Small_sheet_24: -1578105865311335689
+      Explosion_Toxic_Arcane_Small_sheet_25: -63318219978255211
+      Explosion_Toxic_Arcane_Small_sheet_26: 6269179450065377754
+      Explosion_Toxic_Arcane_Small_sheet_27: -2608852160056759563
+      Explosion_Toxic_Arcane_Small_sheet_28: 1885571336005596511
+      Explosion_Toxic_Arcane_Small_sheet_29: 1940880913721743137
+      Explosion_Toxic_Arcane_Small_sheet_3: 5066959133188087303
+      Explosion_Toxic_Arcane_Small_sheet_30: -706007284823346512
+      Explosion_Toxic_Arcane_Small_sheet_31: -3397507339784530690
+      Explosion_Toxic_Arcane_Small_sheet_32: -8362025492458371233
+      Explosion_Toxic_Arcane_Small_sheet_33: 2773570483469408444
+      Explosion_Toxic_Arcane_Small_sheet_4: -2161193011955425956
+      Explosion_Toxic_Arcane_Small_sheet_5: -6403324022858584245
+      Explosion_Toxic_Arcane_Small_sheet_6: -8921913179894168362
+      Explosion_Toxic_Arcane_Small_sheet_7: 6300845158166761534
+      Explosion_Toxic_Arcane_Small_sheet_8: -1829687652011658598
+      Explosion_Toxic_Arcane_Small_sheet_9: 2233093474541639843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

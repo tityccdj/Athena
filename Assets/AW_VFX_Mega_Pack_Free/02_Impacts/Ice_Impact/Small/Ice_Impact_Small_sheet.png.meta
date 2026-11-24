@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 95c695d617c3f5040a39aa587684b14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2519327564974987752
+    second: Ice_Impact_Small_sheet_0
+  - first:
+      213: -2372352902758602311
+    second: Ice_Impact_Small_sheet_1
+  - first:
+      213: 8070129140504766166
+    second: Ice_Impact_Small_sheet_2
+  - first:
+      213: 2236005079130030335
+    second: Ice_Impact_Small_sheet_3
+  - first:
+      213: 8435142846358994701
+    second: Ice_Impact_Small_sheet_4
+  - first:
+      213: 1160413973125820901
+    second: Ice_Impact_Small_sheet_5
+  - first:
+      213: 5066011046185903280
+    second: Ice_Impact_Small_sheet_6
+  - first:
+      213: -7589821618731491968
+    second: Ice_Impact_Small_sheet_7
+  - first:
+      213: -3182162764170088769
+    second: Ice_Impact_Small_sheet_8
+  - first:
+      213: 4623330778640943879
+    second: Ice_Impact_Small_sheet_9
+  - first:
+      213: -4484979724241360145
+    second: Ice_Impact_Small_sheet_10
+  - first:
+      213: 2120826468830795431
+    second: Ice_Impact_Small_sheet_11
+  - first:
+      213: -6529138406607419801
+    second: Ice_Impact_Small_sheet_12
+  - first:
+      213: 7999085196235901997
+    second: Ice_Impact_Small_sheet_13
+  - first:
+      213: -3432922873004325861
+    second: Ice_Impact_Small_sheet_14
+  - first:
+      213: 6041417701036621000
+    second: Ice_Impact_Small_sheet_15
+  - first:
+      213: 2987791688405563873
+    second: Ice_Impact_Small_sheet_16
+  - first:
+      213: -252155560105269112
+    second: Ice_Impact_Small_sheet_17
+  - first:
+      213: -241957393163851104
+    second: Ice_Impact_Small_sheet_18
+  - first:
+      213: 7841864442121075858
+    second: Ice_Impact_Small_sheet_19
+  - first:
+      213: 3066727974078184190
+    second: Ice_Impact_Small_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e91f27821376f220800000000000000
+      internalID: 2519327564974987752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e43daa95b31fd0800000000000000
+      internalID: -2372352902758602311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a05722bbdeff60800000000000000
+      internalID: 8070129140504766166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 27
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0c389c5c2e70f10800000000000000
+      internalID: 2236005079130030335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fb7ea3ab5af0570800000000000000
+      internalID: 8435142846358994701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e170944c5e9a1010800000000000000
+      internalID: 1160413973125820901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 24
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4ad14a4361e4640800000000000000
+      internalID: 5066011046185903280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dddea43798ba690800000000000000
+      internalID: -7589821618731491968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeaa2863dfa6d3d0800000000000000
+      internalID: -3182162764170088769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b060409de592040800000000000000
+      internalID: 4623330778640943879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa3c704b622c1c0800000000000000
+      internalID: -4484979724241360145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 27
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d7e0df60be6d10800000000000000
+      internalID: 2120826468830795431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 24
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7660ec84637d365a0800000000000000
+      internalID: -6529138406607419801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c0ab1ea95720f60800000000000000
+      internalID: 7999085196235901997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14834dd5decb50d0800000000000000
+      internalID: -3432922873004325861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc7b0ae36d67d350800000000000000
+      internalID: 6041417701036621000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9374ae5b4c67920800000000000000
+      internalID: 2987791688405563873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88829c3aad9208cf0800000000000000
+      internalID: -252155560105269112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa60b9680564acf0800000000000000
+      internalID: -241957393163851104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb4618926e3dc60800000000000000
+      internalID: 7841864442121075858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Impact_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efafead18d43f8a20800000000000000
+      internalID: 3066727974078184190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Impact_Small_sheet_0: 2519327564974987752
+      Ice_Impact_Small_sheet_1: -2372352902758602311
+      Ice_Impact_Small_sheet_10: -4484979724241360145
+      Ice_Impact_Small_sheet_11: 2120826468830795431
+      Ice_Impact_Small_sheet_12: -6529138406607419801
+      Ice_Impact_Small_sheet_13: 7999085196235901997
+      Ice_Impact_Small_sheet_14: -3432922873004325861
+      Ice_Impact_Small_sheet_15: 6041417701036621000
+      Ice_Impact_Small_sheet_16: 2987791688405563873
+      Ice_Impact_Small_sheet_17: -252155560105269112
+      Ice_Impact_Small_sheet_18: -241957393163851104
+      Ice_Impact_Small_sheet_19: 7841864442121075858
+      Ice_Impact_Small_sheet_2: 8070129140504766166
+      Ice_Impact_Small_sheet_20: 3066727974078184190
+      Ice_Impact_Small_sheet_3: 2236005079130030335
+      Ice_Impact_Small_sheet_4: 8435142846358994701
+      Ice_Impact_Small_sheet_5: 1160413973125820901
+      Ice_Impact_Small_sheet_6: 5066011046185903280
+      Ice_Impact_Small_sheet_7: -7589821618731491968
+      Ice_Impact_Small_sheet_8: -3182162764170088769
+      Ice_Impact_Small_sheet_9: 4623330778640943879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

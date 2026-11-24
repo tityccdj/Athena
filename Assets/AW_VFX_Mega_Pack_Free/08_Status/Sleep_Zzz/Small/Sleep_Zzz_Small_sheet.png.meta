@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: dfb9ba5b297efe54dbbc9c0990af1f54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2368211427292064948
+    second: Sleep_Zzz_Small_sheet_0
+  - first:
+      213: 4224889102909027143
+    second: Sleep_Zzz_Small_sheet_1
+  - first:
+      213: -8435279545712317405
+    second: Sleep_Zzz_Small_sheet_2
+  - first:
+      213: -909687325709415487
+    second: Sleep_Zzz_Small_sheet_3
+  - first:
+      213: 5649029092091999961
+    second: Sleep_Zzz_Small_sheet_4
+  - first:
+      213: -9008193005097830173
+    second: Sleep_Zzz_Small_sheet_5
+  - first:
+      213: 787550281478766525
+    second: Sleep_Zzz_Small_sheet_6
+  - first:
+      213: 8839863679787746614
+    second: Sleep_Zzz_Small_sheet_7
+  - first:
+      213: 31269465800863873
+    second: Sleep_Zzz_Small_sheet_8
+  - first:
+      213: 4106187085428573364
+    second: Sleep_Zzz_Small_sheet_9
+  - first:
+      213: -6709769425229655774
+    second: Sleep_Zzz_Small_sheet_10
+  - first:
+      213: 2263503130541429846
+    second: Sleep_Zzz_Small_sheet_11
+  - first:
+      213: 3559771717666186614
+    second: Sleep_Zzz_Small_sheet_12
+  - first:
+      213: 4763025863894528270
+    second: Sleep_Zzz_Small_sheet_13
+  - first:
+      213: 5187232240597287767
+    second: Sleep_Zzz_Small_sheet_14
+  - first:
+      213: 26334391622075810
+    second: Sleep_Zzz_Small_sheet_15
+  - first:
+      213: 5118803246062583899
+    second: Sleep_Zzz_Small_sheet_16
+  - first:
+      213: 6246134137207879730
+    second: Sleep_Zzz_Small_sheet_17
+  - first:
+      213: -2633198474174336230
+    second: Sleep_Zzz_Small_sheet_18
+  - first:
+      213: -913098049684204383
+    second: Sleep_Zzz_Small_sheet_19
+  - first:
+      213: 5163135416147527673
+    second: Sleep_Zzz_Small_sheet_20
+  - first:
+      213: 740217271064630822
+    second: Sleep_Zzz_Small_sheet_21
+  - first:
+      213: 5517572971306701548
+    second: Sleep_Zzz_Small_sheet_22
+  - first:
+      213: -5160165599903019834
+    second: Sleep_Zzz_Small_sheet_23
+  - first:
+      213: -3732156326579523663
+    second: Sleep_Zzz_Small_sheet_24
+  - first:
+      213: -3499981797699140791
+    second: Sleep_Zzz_Small_sheet_25
+  - first:
+      213: -8490692754064187723
+    second: Sleep_Zzz_Small_sheet_26
+  - first:
+      213: -3451791549675685639
+    second: Sleep_Zzz_Small_sheet_27
+  - first:
+      213: 172199368964980446
+    second: Sleep_Zzz_Small_sheet_28
+  - first:
+      213: -4419794816640403676
+    second: Sleep_Zzz_Small_sheet_29
+  - first:
+      213: 2517830024830278689
+    second: Sleep_Zzz_Small_sheet_30
+  - first:
+      213: -7839361817982077792
+    second: Sleep_Zzz_Small_sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 28
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435c33114c622fd0800000000000000
+      internalID: -2368211427292064948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743bf423142d1aa30800000000000000
+      internalID: 4224889102909027143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce2b8f1fddfea80800000000000000
+      internalID: -8435279545712317405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4a6e62342063f0800000000000000
+      internalID: -909687325709415487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 22
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6bdf78702656e40800000000000000
+      internalID: 5649029092091999961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 29
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e83cf670387cf280800000000000000
+      internalID: -9008193005097830173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 31
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbffc42fec0fdea00800000000000000
+      internalID: 787550281478766525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63540a06e218daa70800000000000000
+      internalID: 8839863679787746614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 36
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807069d9671f6000800000000000000
+      internalID: 31269465800863873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 38
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44440166b1cf830800000000000000
+      internalID: 4106187085428573364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d864f14c12e2a0800000000000000
+      internalID: -6709769425229655774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 42
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65418ebca14996f10800000000000000
+      internalID: 2263503130541429846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 22
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a9f84489d66130800000000000000
+      internalID: 3559771717666186614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017e61a9caa91240800000000000000
+      internalID: 4763025863894528270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753414c5d30ccf740800000000000000
+      internalID: 5187232240597287767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5820a5dfe8d5000800000000000000
+      internalID: 26334391622075810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504da48e64a90740800000000000000
+      internalID: 5118803246062583899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23877b387e9bea650800000000000000
+      internalID: 6246134137207879730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 8
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fcb360fff47bd0800000000000000
+      internalID: -2633198474174336230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4987f59260453f0800000000000000
+      internalID: -913098049684204383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f746b63e4427a740800000000000000
+      internalID: 5163135416147527673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269a6aafa7c54a00800000000000000
+      internalID: 740217271064630822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25801526b529c40800000000000000
+      internalID: 5517572971306701548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc07930ab86368b0800000000000000
+      internalID: -5160165599903019834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf20044897b43cc0800000000000000
+      internalID: -3732156326579523663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434fc349119d6fc0800000000000000
+      internalID: -3499981797699140791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be55010deffa2a80800000000000000
+      internalID: -8490692754064187723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b2eabfd5c810d0800000000000000
+      internalID: -3451791549675685639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede34b9e966c36200800000000000000
+      internalID: 172199368964980446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4273906080cb9a2c0800000000000000
+      internalID: -4419794816640403676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 13
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c52da411121f220800000000000000
+      internalID: 2517830024830278689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep_Zzz_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4fa6516fdf43390800000000000000
+      internalID: -7839361817982077792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sleep_Zzz_Small_sheet_0: -2368211427292064948
+      Sleep_Zzz_Small_sheet_1: 4224889102909027143
+      Sleep_Zzz_Small_sheet_10: -6709769425229655774
+      Sleep_Zzz_Small_sheet_11: 2263503130541429846
+      Sleep_Zzz_Small_sheet_12: 3559771717666186614
+      Sleep_Zzz_Small_sheet_13: 4763025863894528270
+      Sleep_Zzz_Small_sheet_14: 5187232240597287767
+      Sleep_Zzz_Small_sheet_15: 26334391622075810
+      Sleep_Zzz_Small_sheet_16: 5118803246062583899
+      Sleep_Zzz_Small_sheet_17: 6246134137207879730
+      Sleep_Zzz_Small_sheet_18: -2633198474174336230
+      Sleep_Zzz_Small_sheet_19: -913098049684204383
+      Sleep_Zzz_Small_sheet_2: -8435279545712317405
+      Sleep_Zzz_Small_sheet_20: 5163135416147527673
+      Sleep_Zzz_Small_sheet_21: 740217271064630822
+      Sleep_Zzz_Small_sheet_22: 5517572971306701548
+      Sleep_Zzz_Small_sheet_23: -5160165599903019834
+      Sleep_Zzz_Small_sheet_24: -3732156326579523663
+      Sleep_Zzz_Small_sheet_25: -3499981797699140791
+      Sleep_Zzz_Small_sheet_26: -8490692754064187723
+      Sleep_Zzz_Small_sheet_27: -3451791549675685639
+      Sleep_Zzz_Small_sheet_28: 172199368964980446
+      Sleep_Zzz_Small_sheet_29: -4419794816640403676
+      Sleep_Zzz_Small_sheet_3: -909687325709415487
+      Sleep_Zzz_Small_sheet_30: 2517830024830278689
+      Sleep_Zzz_Small_sheet_31: -7839361817982077792
+      Sleep_Zzz_Small_sheet_4: 5649029092091999961
+      Sleep_Zzz_Small_sheet_5: -9008193005097830173
+      Sleep_Zzz_Small_sheet_6: 787550281478766525
+      Sleep_Zzz_Small_sheet_7: 8839863679787746614
+      Sleep_Zzz_Small_sheet_8: 31269465800863873
+      Sleep_Zzz_Small_sheet_9: 4106187085428573364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 876c19b859f58b146b7bbe4ea0b44e74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2625579087584081263
+    second: Text_Victory_Small_sheet_0
+  - first:
+      213: 6201796510004851527
+    second: Text_Victory_Small_sheet_1
+  - first:
+      213: 5202592264843405983
+    second: Text_Victory_Small_sheet_2
+  - first:
+      213: -8139271301903533858
+    second: Text_Victory_Small_sheet_3
+  - first:
+      213: -4515564381903665862
+    second: Text_Victory_Small_sheet_4
+  - first:
+      213: 2595929371202138282
+    second: Text_Victory_Small_sheet_5
+  - first:
+      213: -1224316362370516315
+    second: Text_Victory_Small_sheet_6
+  - first:
+      213: 6738325030166466055
+    second: Text_Victory_Small_sheet_7
+  - first:
+      213: 5868405765893343056
+    second: Text_Victory_Small_sheet_8
+  - first:
+      213: 4659169421602770877
+    second: Text_Victory_Small_sheet_9
+  - first:
+      213: 6260924183377981980
+    second: Text_Victory_Small_sheet_10
+  - first:
+      213: -7674536270824348441
+    second: Text_Victory_Small_sheet_11
+  - first:
+      213: -4590432710014671671
+    second: Text_Victory_Small_sheet_12
+  - first:
+      213: 6095355927191779073
+    second: Text_Victory_Small_sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a4bd21bb1109bd0800000000000000
+      internalID: -2625579087584081263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b81c3115311650800000000000000
+      internalID: 6201796510004851527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aaf21b912533840800000000000000
+      internalID: 5202592264843405983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83287efdf7b0f80800000000000000
+      internalID: -8139271301903533858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c9308e1e7551c0800000000000000
+      internalID: -4515564381903665862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0b1806208960420800000000000000
+      internalID: 2595929371202138282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf43051ca520fe0800000000000000
+      internalID: -1224316362370516315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e023ce9e6538d50800000000000000
+      internalID: 6738325030166466055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574de1b3f3c07150800000000000000
+      internalID: 5868405765893343056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfcef257e1b8a040800000000000000
+      internalID: 4659169421602770877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b5eb7f5543e650800000000000000
+      internalID: 6260924183377981980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e9a15ce19e7590800000000000000
+      internalID: -7674536270824348441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 6
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4ed3a75c18b40c0800000000000000
+      internalID: -4590432710014671671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Victory_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 5
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10776d3dbed079450800000000000000
+      internalID: 6095355927191779073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Victory_Small_sheet_0: -2625579087584081263
+      Text_Victory_Small_sheet_1: 6201796510004851527
+      Text_Victory_Small_sheet_10: 6260924183377981980
+      Text_Victory_Small_sheet_11: -7674536270824348441
+      Text_Victory_Small_sheet_12: -4590432710014671671
+      Text_Victory_Small_sheet_13: 6095355927191779073
+      Text_Victory_Small_sheet_2: 5202592264843405983
+      Text_Victory_Small_sheet_3: -8139271301903533858
+      Text_Victory_Small_sheet_4: -4515564381903665862
+      Text_Victory_Small_sheet_5: 2595929371202138282
+      Text_Victory_Small_sheet_6: -1224316362370516315
+      Text_Victory_Small_sheet_7: 6738325030166466055
+      Text_Victory_Small_sheet_8: 5868405765893343056
+      Text_Victory_Small_sheet_9: 4659169421602770877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

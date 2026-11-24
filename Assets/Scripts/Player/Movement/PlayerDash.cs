@@ -14,6 +14,10 @@ namespace Athena.Player.Movement
         [SerializeField] private float _dashDuration = 0.2f;
         [SerializeField] private float _dashCooldown = 0.8f;
 
+        [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDashStartedEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent _onDashEndedEvent;
+
         [Header("Phase Through Enemies / Boss")]
         [SerializeField] private LayerMask _enemyLayer;
 
@@ -81,6 +85,7 @@ namespace Athena.Player.Movement
 
             // Notify dash started
             OnDashStarted?.Invoke(_dashDirection);
+            _onDashStartedEvent?.Invoke();
 
             // GDD: I-Frame (อมตะ) during Dash
             if (_health != null)
@@ -113,6 +118,7 @@ namespace Athena.Player.Movement
 
             _isDashing = false;
             OnDashEnded?.Invoke();
+            _onDashEndedEvent?.Invoke();
         }
 
         private void SetEnemyCollisionIgnored(bool ignore)

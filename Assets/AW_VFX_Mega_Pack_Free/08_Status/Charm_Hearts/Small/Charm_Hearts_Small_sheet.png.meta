@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 7d899ffee9eac594aaa04ab7ffc2dad0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7406679003622126371
+    second: Charm_Hearts_Small_sheet_0
+  - first:
+      213: -4591083571982680164
+    second: Charm_Hearts_Small_sheet_1
+  - first:
+      213: 5468573594289403840
+    second: Charm_Hearts_Small_sheet_2
+  - first:
+      213: -4966701145228259398
+    second: Charm_Hearts_Small_sheet_3
+  - first:
+      213: -8594193536319949177
+    second: Charm_Hearts_Small_sheet_4
+  - first:
+      213: -4331320386874788038
+    second: Charm_Hearts_Small_sheet_5
+  - first:
+      213: -6543477071609026104
+    second: Charm_Hearts_Small_sheet_6
+  - first:
+      213: 6031537320110655795
+    second: Charm_Hearts_Small_sheet_7
+  - first:
+      213: 7170236605205794555
+    second: Charm_Hearts_Small_sheet_8
+  - first:
+      213: 2545111237756447428
+    second: Charm_Hearts_Small_sheet_9
+  - first:
+      213: 8566632019697407203
+    second: Charm_Hearts_Small_sheet_10
+  - first:
+      213: -1885641141278680922
+    second: Charm_Hearts_Small_sheet_11
+  - first:
+      213: 3400855160999552890
+    second: Charm_Hearts_Small_sheet_12
+  - first:
+      213: -7145586974862304392
+    second: Charm_Hearts_Small_sheet_13
+  - first:
+      213: 4556260442075668744
+    second: Charm_Hearts_Small_sheet_14
+  - first:
+      213: -2886018218732139802
+    second: Charm_Hearts_Small_sheet_15
+  - first:
+      213: 2385988157876573110
+    second: Charm_Hearts_Small_sheet_16
+  - first:
+      213: 6241790710138610472
+    second: Charm_Hearts_Small_sheet_17
+  - first:
+      213: 9038305580656845385
+    second: Charm_Hearts_Small_sheet_18
+  - first:
+      213: -4387842070589792767
+    second: Charm_Hearts_Small_sheet_19
+  - first:
+      213: 350219887183270386
+    second: Charm_Hearts_Small_sheet_20
+  - first:
+      213: 1692440056165938847
+    second: Charm_Hearts_Small_sheet_21
+  - first:
+      213: -8800800714699025620
+    second: Charm_Hearts_Small_sheet_22
+  - first:
+      213: 6666227450429605315
+    second: Charm_Hearts_Small_sheet_23
+  - first:
+      213: 1031100873419685038
+    second: Charm_Hearts_Small_sheet_24
+  - first:
+      213: -6281776818382467914
+    second: Charm_Hearts_Small_sheet_25
+  - first:
+      213: 3528604749716812416
+    second: Charm_Hearts_Small_sheet_26
+  - first:
+      213: -7658452995750761404
+    second: Charm_Hearts_Small_sheet_27
+  - first:
+      213: 3578936661113558233
+    second: Charm_Hearts_Small_sheet_28
+  - first:
+      213: -732172277190197006
+    second: Charm_Hearts_Small_sheet_29
+  - first:
+      213: -5813463984153620129
+    second: Charm_Hearts_Small_sheet_30
+  - first:
+      213: 153453163457359398
+    second: Charm_Hearts_Small_sheet_31
+  - first:
+      213: 6488137806266052878
+    second: Charm_Hearts_Small_sheet_32
+  - first:
+      213: -355266387877109865
+    second: Charm_Hearts_Small_sheet_33
+  - first:
+      213: -8871414219630964899
+    second: Charm_Hearts_Small_sheet_34
+  - first:
+      213: -4544356135812868222
+    second: Charm_Hearts_Small_sheet_35
+  - first:
+      213: -6119157295420330052
+    second: Charm_Hearts_Small_sheet_36
+  - first:
+      213: 1771009231253407238
+    second: Charm_Hearts_Small_sheet_37
+  - first:
+      213: -3419465760054395768
+    second: Charm_Hearts_Small_sheet_38
+  - first:
+      213: -875740079522252935
+    second: Charm_Hearts_Small_sheet_39
+  - first:
+      213: 3252963891487189589
+    second: Charm_Hearts_Small_sheet_40
+  - first:
+      213: -6567340113532690908
+    second: Charm_Hearts_Small_sheet_41
+  - first:
+      213: 7576289609643141051
+    second: Charm_Hearts_Small_sheet_42
+  - first:
+      213: 8937584399645779422
+    second: Charm_Hearts_Small_sheet_43
+  - first:
+      213: 3271158734303281735
+    second: Charm_Hearts_Small_sheet_44
+  - first:
+      213: 7393305216406912837
+    second: Charm_Hearts_Small_sheet_45
+  - first:
+      213: 8739664704573280059
+    second: Charm_Hearts_Small_sheet_46
+  - first:
+      213: 1060125449559992046
+    second: Charm_Hearts_Small_sheet_47
+  - first:
+      213: -6254140294720778102
+    second: Charm_Hearts_Small_sheet_48
+  - first:
+      213: 3627096204826035267
+    second: Charm_Hearts_Small_sheet_49
+  - first:
+      213: -2491607392884363677
+    second: Charm_Hearts_Small_sheet_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc42cf30b0363990800000000000000
+      internalID: -7406679003622126371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f37ddd0d13940c0800000000000000
+      internalID: -4591083571982680164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 35
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c773b3d5b644eb40800000000000000
+      internalID: 5468573594289403840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc4258f9bb21bb0800000000000000
+      internalID: -4966701145228259398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f0b0438a4bb880800000000000000
+      internalID: -8594193536319949177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37bbe37e0f04e3c0800000000000000
+      internalID: -4331320386874788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9a4dea546e035a0800000000000000
+      internalID: -6543477071609026104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33905b67c3354b350800000000000000
+      internalID: 6031537320110655795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4bc0f33cc18360800000000000000
+      internalID: 7170236605205794555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cae358af2d025320800000000000000
+      internalID: 2545111237756447428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 25
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41d871f6ac2e670800000000000000
+      internalID: 8566632019697407203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 27
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d8306f5bd4d5e0800000000000000
+      internalID: -1885641141278680922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77aeeb10c3423f20800000000000000
+      internalID: 3400855160999552890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b9cab5186c5dc90800000000000000
+      internalID: -7145586974862304392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 35
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801a5126bb61b3f30800000000000000
+      internalID: 4556260442075668744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4a2988bdc2f7d0800000000000000
+      internalID: -2886018218732139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3958c869bbc1120800000000000000
+      internalID: 2385988157876573110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 25
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232528949b4f9650800000000000000
+      internalID: 6241790710138610472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 27
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9426b72e9038e6d70800000000000000
+      internalID: 9038305580656845385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e1bf372e04b13c0800000000000000
+      internalID: -4387842070589792767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f116d0c12b3cd400800000000000000
+      internalID: 350219887183270386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b96f9341cc7710800000000000000
+      internalID: 1692440056165938847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235c5de0664dd580800000000000000
+      internalID: -8800800714699025620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c580d60c82338c50800000000000000
+      internalID: 6666227450429605315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 23
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac76c708c43f4e00800000000000000
+      internalID: 1031100873419685038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 19
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc87061445a2d8a0800000000000000
+      internalID: -6281776818382467914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 23
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08270a3135f18f030800000000000000
+      internalID: 3528604749716812416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cef3b9395b7b590800000000000000
+      internalID: -7658452995750761404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4db476eefeaa130800000000000000
+      internalID: 3578936661113558233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f080bf613dc6d5f0800000000000000
+      internalID: -732172277190197006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511ff5be4d625fa0800000000000000
+      internalID: -5813463984153620129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2981d6dc212200800000000000000
+      internalID: 153453163457359398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01354c85fe7a0a50800000000000000
+      internalID: 6488137806266052878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd2fd3a17d11bf0800000000000000
+      internalID: -355266387877109865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0c8f15c762e480800000000000000
+      internalID: -8871414219630964899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287d108eb243fe0c0800000000000000
+      internalID: -4544356135812868222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2bb94cd2641ba0800000000000000
+      internalID: -6119157295420330052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6060cca3383e39810800000000000000
+      internalID: 1771009231253407238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb852220e9b80d0800000000000000
+      internalID: -3419465760054395768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f08c990fb8d3f0800000000000000
+      internalID: -875740079522252935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a2443ac69d42d20800000000000000
+      internalID: 3252963891487189589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ed5b546fe1cd4a0800000000000000
+      internalID: -6567340113532690908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb723425243642960800000000000000
+      internalID: 7576289609643141051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5a5fa78ada80c70800000000000000
+      internalID: 8937584399645779422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742401a998d756d20800000000000000
+      internalID: 3271158734303281735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ff9f34ceb4a9660800000000000000
+      internalID: 7393305216406912837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0c1c7eb6894970800000000000000
+      internalID: 8739664704573280059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ef56ca7256be00800000000000000
+      internalID: 1060125449559992046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8016bda984d439a0800000000000000
+      internalID: -6254140294720778102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c2d6f7c8065230800000000000000
+      internalID: 3627096204826035267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charm_Hearts_Small_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ee36bf6480c6dd0800000000000000
+      internalID: -2491607392884363677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Charm_Hearts_Small_sheet_0: -7406679003622126371
+      Charm_Hearts_Small_sheet_1: -4591083571982680164
+      Charm_Hearts_Small_sheet_10: 8566632019697407203
+      Charm_Hearts_Small_sheet_11: -1885641141278680922
+      Charm_Hearts_Small_sheet_12: 3400855160999552890
+      Charm_Hearts_Small_sheet_13: -7145586974862304392
+      Charm_Hearts_Small_sheet_14: 4556260442075668744
+      Charm_Hearts_Small_sheet_15: -2886018218732139802
+      Charm_Hearts_Small_sheet_16: 2385988157876573110
+      Charm_Hearts_Small_sheet_17: 6241790710138610472
+      Charm_Hearts_Small_sheet_18: 9038305580656845385
+      Charm_Hearts_Small_sheet_19: -4387842070589792767
+      Charm_Hearts_Small_sheet_2: 5468573594289403840
+      Charm_Hearts_Small_sheet_20: 350219887183270386
+      Charm_Hearts_Small_sheet_21: 1692440056165938847
+      Charm_Hearts_Small_sheet_22: -8800800714699025620
+      Charm_Hearts_Small_sheet_23: 6666227450429605315
+      Charm_Hearts_Small_sheet_24: 1031100873419685038
+      Charm_Hearts_Small_sheet_25: -6281776818382467914
+      Charm_Hearts_Small_sheet_26: 3528604749716812416
+      Charm_Hearts_Small_sheet_27: -7658452995750761404
+      Charm_Hearts_Small_sheet_28: 3578936661113558233
+      Charm_Hearts_Small_sheet_29: -732172277190197006
+      Charm_Hearts_Small_sheet_3: -4966701145228259398
+      Charm_Hearts_Small_sheet_30: -5813463984153620129
+      Charm_Hearts_Small_sheet_31: 153453163457359398
+      Charm_Hearts_Small_sheet_32: 6488137806266052878
+      Charm_Hearts_Small_sheet_33: -355266387877109865
+      Charm_Hearts_Small_sheet_34: -8871414219630964899
+      Charm_Hearts_Small_sheet_35: -4544356135812868222
+      Charm_Hearts_Small_sheet_36: -6119157295420330052
+      Charm_Hearts_Small_sheet_37: 1771009231253407238
+      Charm_Hearts_Small_sheet_38: -3419465760054395768
+      Charm_Hearts_Small_sheet_39: -875740079522252935
+      Charm_Hearts_Small_sheet_4: -8594193536319949177
+      Charm_Hearts_Small_sheet_40: 3252963891487189589
+      Charm_Hearts_Small_sheet_41: -6567340113532690908
+      Charm_Hearts_Small_sheet_42: 7576289609643141051
+      Charm_Hearts_Small_sheet_43: 8937584399645779422
+      Charm_Hearts_Small_sheet_44: 3271158734303281735
+      Charm_Hearts_Small_sheet_45: 7393305216406912837
+      Charm_Hearts_Small_sheet_46: 8739664704573280059
+      Charm_Hearts_Small_sheet_47: 1060125449559992046
+      Charm_Hearts_Small_sheet_48: -6254140294720778102
+      Charm_Hearts_Small_sheet_49: 3627096204826035267
+      Charm_Hearts_Small_sheet_5: -4331320386874788038
+      Charm_Hearts_Small_sheet_50: -2491607392884363677
+      Charm_Hearts_Small_sheet_6: -6543477071609026104
+      Charm_Hearts_Small_sheet_7: 6031537320110655795
+      Charm_Hearts_Small_sheet_8: 7170236605205794555
+      Charm_Hearts_Small_sheet_9: 2545111237756447428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

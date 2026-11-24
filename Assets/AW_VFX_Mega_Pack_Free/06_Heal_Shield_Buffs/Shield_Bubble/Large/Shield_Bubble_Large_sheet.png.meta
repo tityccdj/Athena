@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: af3982d90a26ada4d92e701475cb9bab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2191749999406212439
+    second: Shield_Bubble_Large_sheet_0
+  - first:
+      213: 1123455394388173519
+    second: Shield_Bubble_Large_sheet_1
+  - first:
+      213: 7563547780485742757
+    second: Shield_Bubble_Large_sheet_2
+  - first:
+      213: 334001953857780223
+    second: Shield_Bubble_Large_sheet_3
+  - first:
+      213: 300749789939382149
+    second: Shield_Bubble_Large_sheet_4
+  - first:
+      213: 4010834437134357006
+    second: Shield_Bubble_Large_sheet_5
+  - first:
+      213: -7020612733197045546
+    second: Shield_Bubble_Large_sheet_6
+  - first:
+      213: -5360060798831734058
+    second: Shield_Bubble_Large_sheet_7
+  - first:
+      213: -6615160424528873559
+    second: Shield_Bubble_Large_sheet_8
+  - first:
+      213: 4521504814079599917
+    second: Shield_Bubble_Large_sheet_9
+  - first:
+      213: 2068281699270005370
+    second: Shield_Bubble_Large_sheet_10
+  - first:
+      213: -6816199359212219376
+    second: Shield_Bubble_Large_sheet_11
+  - first:
+      213: -5337100110045280486
+    second: Shield_Bubble_Large_sheet_12
+  - first:
+      213: 44288071304348590
+    second: Shield_Bubble_Large_sheet_13
+  - first:
+      213: 2490784908647105959
+    second: Shield_Bubble_Large_sheet_14
+  - first:
+      213: -3104657412638203671
+    second: Shield_Bubble_Large_sheet_15
+  - first:
+      213: 1152339948894174127
+    second: Shield_Bubble_Large_sheet_16
+  - first:
+      213: -2431825960508134361
+    second: Shield_Bubble_Large_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa1ee8ecf65591e0800000000000000
+      internalID: -2191749999406212439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2e0879ab0579f00800000000000000
+      internalID: 1123455394388173519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00c8902ae17f860800000000000000
+      internalID: 7563547780485742757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9baf5e10d92a400800000000000000
+      internalID: 334001953857780223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 6
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5873c9b275a7c2400800000000000000
+      internalID: 300749789939382149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 7
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e021c469ba859a730800000000000000
+      internalID: 4010834437134357006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b43c7ae5c19e90800000000000000
+      internalID: -7020612733197045546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 8
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2532f2a1d3d95b0800000000000000
+      internalID: -5360060798831734058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7fbbb74aa3234a0800000000000000
+      internalID: -6615160424528873559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ee652cac9fbe30800000000000000
+      internalID: 4521504814079599917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 6
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a721e6c4f3304bc10800000000000000
+      internalID: 2068281699270005370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 7
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01419ebebcef761a0800000000000000
+      internalID: -6816199359212219376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 7
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a178d022abfcee5b0800000000000000
+      internalID: -5337100110045280486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 7
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea302e524c75d9000800000000000000
+      internalID: 44288071304348590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 7
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a580db7dab019220800000000000000
+      internalID: 2490784908647105959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 7
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0aa6a488a0ae4d0800000000000000
+      internalID: -3104657412638203671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 6
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab3452041fedff00800000000000000
+      internalID: 1152339948894174127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bubble_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 7
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce65c5c2b604ed0800000000000000
+      internalID: -2431825960508134361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield_Bubble_Large_sheet_0: -2191749999406212439
+      Shield_Bubble_Large_sheet_1: 1123455394388173519
+      Shield_Bubble_Large_sheet_10: 2068281699270005370
+      Shield_Bubble_Large_sheet_11: -6816199359212219376
+      Shield_Bubble_Large_sheet_12: -5337100110045280486
+      Shield_Bubble_Large_sheet_13: 44288071304348590
+      Shield_Bubble_Large_sheet_14: 2490784908647105959
+      Shield_Bubble_Large_sheet_15: -3104657412638203671
+      Shield_Bubble_Large_sheet_16: 1152339948894174127
+      Shield_Bubble_Large_sheet_17: -2431825960508134361
+      Shield_Bubble_Large_sheet_2: 7563547780485742757
+      Shield_Bubble_Large_sheet_3: 334001953857780223
+      Shield_Bubble_Large_sheet_4: 300749789939382149
+      Shield_Bubble_Large_sheet_5: 4010834437134357006
+      Shield_Bubble_Large_sheet_6: -7020612733197045546
+      Shield_Bubble_Large_sheet_7: -5360060798831734058
+      Shield_Bubble_Large_sheet_8: -6615160424528873559
+      Shield_Bubble_Large_sheet_9: 4521504814079599917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

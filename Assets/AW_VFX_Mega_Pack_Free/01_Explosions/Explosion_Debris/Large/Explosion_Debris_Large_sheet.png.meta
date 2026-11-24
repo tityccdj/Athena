@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 57ae8b195cea3c64d8d0c30ad1280258
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7470822858452796902
+    second: Explosion_Debris_Large_sheet_0
+  - first:
+      213: -5636183292873528677
+    second: Explosion_Debris_Large_sheet_1
+  - first:
+      213: 2827136066100330053
+    second: Explosion_Debris_Large_sheet_2
+  - first:
+      213: -7414289925794875719
+    second: Explosion_Debris_Large_sheet_3
+  - first:
+      213: -7980875307688030909
+    second: Explosion_Debris_Large_sheet_4
+  - first:
+      213: -4108341966509342092
+    second: Explosion_Debris_Large_sheet_5
+  - first:
+      213: -4186544813797242968
+    second: Explosion_Debris_Large_sheet_6
+  - first:
+      213: -5350562255008245979
+    second: Explosion_Debris_Large_sheet_7
+  - first:
+      213: 7292610151132634152
+    second: Explosion_Debris_Large_sheet_8
+  - first:
+      213: -8562344213835720333
+    second: Explosion_Debris_Large_sheet_9
+  - first:
+      213: 2172457194565754053
+    second: Explosion_Debris_Large_sheet_10
+  - first:
+      213: -8082681523160549138
+    second: Explosion_Debris_Large_sheet_11
+  - first:
+      213: -8886284559006798709
+    second: Explosion_Debris_Large_sheet_12
+  - first:
+      213: 8225342347944587151
+    second: Explosion_Debris_Large_sheet_13
+  - first:
+      213: 7223389250679691032
+    second: Explosion_Debris_Large_sheet_14
+  - first:
+      213: 1728740845760529497
+    second: Explosion_Debris_Large_sheet_15
+  - first:
+      213: 4275815414327970693
+    second: Explosion_Debris_Large_sheet_16
+  - first:
+      213: -1494245360551693121
+    second: Explosion_Debris_Large_sheet_17
+  - first:
+      213: 6724250132682162245
+    second: Explosion_Debris_Large_sheet_18
+  - first:
+      213: -6750718127181932784
+    second: Explosion_Debris_Large_sheet_19
+  - first:
+      213: 28773953366975393
+    second: Explosion_Debris_Large_sheet_20
+  - first:
+      213: -8736375871851133969
+    second: Explosion_Debris_Large_sheet_21
+  - first:
+      213: 1502515642291545275
+    second: Explosion_Debris_Large_sheet_22
+  - first:
+      213: 9127609856072437771
+    second: Explosion_Debris_Large_sheet_23
+  - first:
+      213: -8382907078071250660
+    second: Explosion_Debris_Large_sheet_24
+  - first:
+      213: 2927825823673076129
+    second: Explosion_Debris_Large_sheet_25
+  - first:
+      213: -148748743263959537
+    second: Explosion_Debris_Large_sheet_26
+  - first:
+      213: 2293525449747201494
+    second: Explosion_Debris_Large_sheet_27
+  - first:
+      213: -7683620687755647942
+    second: Explosion_Debris_Large_sheet_28
+  - first:
+      213: -1082104020169962012
+    second: Explosion_Debris_Large_sheet_29
+  - first:
+      213: 4923447374394997326
+    second: Explosion_Debris_Large_sheet_30
+  - first:
+      213: 8581791416390792661
+    second: Explosion_Debris_Large_sheet_31
+  - first:
+      213: -1641548410794541158
+    second: Explosion_Debris_Large_sheet_32
+  - first:
+      213: -5031437360833076823
+    second: Explosion_Debris_Large_sheet_33
+  - first:
+      213: 1502213404248951804
+    second: Explosion_Debris_Large_sheet_34
+  - first:
+      213: 8337069692406728860
+    second: Explosion_Debris_Large_sheet_35
+  - first:
+      213: 2696466250366947583
+    second: Explosion_Debris_Large_sheet_36
+  - first:
+      213: -7507321313758465979
+    second: Explosion_Debris_Large_sheet_37
+  - first:
+      213: -2364736499255189372
+    second: Explosion_Debris_Large_sheet_38
+  - first:
+      213: 1985095422845567877
+    second: Explosion_Debris_Large_sheet_39
+  - first:
+      213: -480113851644870281
+    second: Explosion_Debris_Large_sheet_40
+  - first:
+      213: 5806714989473794170
+    second: Explosion_Debris_Large_sheet_41
+  - first:
+      213: 8552139908284700697
+    second: Explosion_Debris_Large_sheet_42
+  - first:
+      213: -3755108462674501697
+    second: Explosion_Debris_Large_sheet_43
+  - first:
+      213: 5502638411774660663
+    second: Explosion_Debris_Large_sheet_44
+  - first:
+      213: 1523879136814324660
+    second: Explosion_Debris_Large_sheet_45
+  - first:
+      213: -1081604706360675509
+    second: Explosion_Debris_Large_sheet_46
+  - first:
+      213: 273697205634288038
+    second: Explosion_Debris_Large_sheet_47
+  - first:
+      213: -1498947954015245202
+    second: Explosion_Debris_Large_sheet_48
+  - first:
+      213: -8368211414789826550
+    second: Explosion_Debris_Large_sheet_49
+  - first:
+      213: 2455094216550195366
+    second: Explosion_Debris_Large_sheet_50
+  - first:
+      213: 8551025660453113360
+    second: Explosion_Debris_Large_sheet_51
+  - first:
+      213: -1848992361004281115
+    second: Explosion_Debris_Large_sheet_52
+  - first:
+      213: -3379237399173163007
+    second: Explosion_Debris_Large_sheet_53
+  - first:
+      213: 4581714504437095702
+    second: Explosion_Debris_Large_sheet_54
+  - first:
+      213: -5956018128351852137
+    second: Explosion_Debris_Large_sheet_55
+  - first:
+      213: -6702728731437490596
+    second: Explosion_Debris_Large_sheet_56
+  - first:
+      213: 7896151578343323211
+    second: Explosion_Debris_Large_sheet_57
+  - first:
+      213: 812593771993451207
+    second: Explosion_Debris_Large_sheet_58
+  - first:
+      213: 5261451856912802572
+    second: Explosion_Debris_Large_sheet_59
+  - first:
+      213: 4222515614207939827
+    second: Explosion_Debris_Large_sheet_60
+  - first:
+      213: 2809770257688950091
+    second: Explosion_Debris_Large_sheet_61
+  - first:
+      213: 8589808963322494956
+    second: Explosion_Debris_Large_sheet_62
+  - first:
+      213: -5759562535135513986
+    second: Explosion_Debris_Large_sheet_63
+  - first:
+      213: -6804022990072866096
+    second: Explosion_Debris_Large_sheet_64
+  - first:
+      213: 55226769107579651
+    second: Explosion_Debris_Large_sheet_65
+  - first:
+      213: -6188702268173466925
+    second: Explosion_Debris_Large_sheet_66
+  - first:
+      213: -1729261688462040487
+    second: Explosion_Debris_Large_sheet_67
+  - first:
+      213: -1357661601303268920
+    second: Explosion_Debris_Large_sheet_68
+  - first:
+      213: 3723295889945004706
+    second: Explosion_Debris_Large_sheet_69
+  - first:
+      213: 3817492740724507319
+    second: Explosion_Debris_Large_sheet_70
+  - first:
+      213: -2750833086231498007
+    second: Explosion_Debris_Large_sheet_71
+  - first:
+      213: -5170350782564229792
+    second: Explosion_Debris_Large_sheet_72
+  - first:
+      213: -1713123987811001460
+    second: Explosion_Debris_Large_sheet_73
+  - first:
+      213: 3943401349531170526
+    second: Explosion_Debris_Large_sheet_74
+  - first:
+      213: 2530481921872340828
+    second: Explosion_Debris_Large_sheet_75
+  - first:
+      213: -8675425476139397585
+    second: Explosion_Debris_Large_sheet_76
+  - first:
+      213: -6289046796032416286
+    second: Explosion_Debris_Large_sheet_77
+  - first:
+      213: 1146926896527868056
+    second: Explosion_Debris_Large_sheet_78
+  - first:
+      213: 3933338135399167136
+    second: Explosion_Debris_Large_sheet_79
+  - first:
+      213: -3780006430032513585
+    second: Explosion_Debris_Large_sheet_80
+  - first:
+      213: 5052229509442000690
+    second: Explosion_Debris_Large_sheet_81
+  - first:
+      213: 7193405386656811183
+    second: Explosion_Debris_Large_sheet_82
+  - first:
+      213: 8856519594488011560
+    second: Explosion_Debris_Large_sheet_83
+  - first:
+      213: -7252765833165766888
+    second: Explosion_Debris_Large_sheet_84
+  - first:
+      213: 8299879487911162047
+    second: Explosion_Debris_Large_sheet_85
+  - first:
+      213: 4974573313496382743
+    second: Explosion_Debris_Large_sheet_86
+  - first:
+      213: 193199668227719202
+    second: Explosion_Debris_Large_sheet_87
+  - first:
+      213: 4406474030108322541
+    second: Explosion_Debris_Large_sheet_88
+  - first:
+      213: 4471041619179285458
+    second: Explosion_Debris_Large_sheet_89
+  - first:
+      213: -185192320026627716
+    second: Explosion_Debris_Large_sheet_90
+  - first:
+      213: 3830994178647424528
+    second: Explosion_Debris_Large_sheet_91
+  - first:
+      213: -3620531831034572800
+    second: Explosion_Debris_Large_sheet_92
+  - first:
+      213: 4167623524795851399
+    second: Explosion_Debris_Large_sheet_93
+  - first:
+      213: -6798581626126200319
+    second: Explosion_Debris_Large_sheet_94
+  - first:
+      213: -968546615843797689
+    second: Explosion_Debris_Large_sheet_95
+  - first:
+      213: -5555376503822371663
+    second: Explosion_Debris_Large_sheet_96
+  - first:
+      213: -1921781172262809812
+    second: Explosion_Debris_Large_sheet_97
+  - first:
+      213: 7532072281335631087
+    second: Explosion_Debris_Large_sheet_98
+  - first:
+      213: -7685535065548638983
+    second: Explosion_Debris_Large_sheet_99
+  - first:
+      213: -2157110747639512506
+    second: Explosion_Debris_Large_sheet_100
+  - first:
+      213: -8839089851671504277
+    second: Explosion_Debris_Large_sheet_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a7d0e313e425890800000000000000
+      internalID: -7470822858452796902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a284b282148c1b0800000000000000
+      internalID: -5636183292873528677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 91
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54efa97f5410c3720800000000000000
+      internalID: 2827136066100330053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b63d3758962b1990800000000000000
+      internalID: -7414289925794875719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 81
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8190313c3e3190800000000000000
+      internalID: -7980875307688030909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 89
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47281669fbc3cf6c0800000000000000
+      internalID: -4108341966509342092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 91
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a78c515ca766e5c0800000000000000
+      internalID: -4186544813797242968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 7
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527de914afbfeb5b0800000000000000
+      internalID: -5350562255008245979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c1ba76b4e843560800000000000000
+      internalID: 7292610151132634152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 7
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37953b18d417c2980800000000000000
+      internalID: -8562344213835720333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 73
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc55dbee4e162e10800000000000000
+      internalID: 2172457194565754053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 7
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f6638afb84df80800000000000000
+      internalID: -8082681523160549138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c6c5f66439da480800000000000000
+      internalID: -8886284559006798709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 8
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe6352949462270800000000000000
+      internalID: 8225342347944587151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 7
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81753299042ae3460800000000000000
+      internalID: 7223389250679691032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 6
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954c344d3a8bdf710800000000000000
+      internalID: 1728740845760529497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 7
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b8820177fb65b30800000000000000
+      internalID: 4275815414327970693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb47a0de2cf534be0800000000000000
+      internalID: -1494245360551693121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 75
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c46b7ed5515d50800000000000000
+      internalID: 6724250132682162245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 59
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d78251a1a052a0800000000000000
+      internalID: -6750718127181932784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 8
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e83512c9366000800000000000000
+      internalID: 28773953366975393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 61
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3050e8e6822c680800000000000000
+      internalID: -8736375871851133969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 8
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4614814020ad410800000000000000
+      internalID: 1502515642291545275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b005d8fcdc8cbae70800000000000000
+      internalID: 9127609856072437771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 61
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1194725d6ee9ab80800000000000000
+      internalID: -8382907078071250660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 8
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9cf38031ab1a820800000000000000
+      internalID: 2927825823673076129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 62
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0647fc5ec98fedf0800000000000000
+      internalID: -148748743263959537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 9
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddff73be3d34df10800000000000000
+      internalID: 2293525449747201494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 63
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346b7da1bb4e5590800000000000000
+      internalID: -7683620687755647942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 66
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4fbb70289bf0f0800000000000000
+      internalID: -1082104020169962012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 68
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab42d2d49935440800000000000000
+      internalID: 4923447374394997326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 66
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5387e23d5a81770800000000000000
+      internalID: 8581791416390792661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 37
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffbfcea6c0839e0800000000000000
+      internalID: -1641548410794541158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16ae5c06ebc2ab0800000000000000
+      internalID: -5031437360833076823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 60
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc611d12fe8d410800000000000000
+      internalID: 1502213404248951804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98049ba6b833b370800000000000000
+      internalID: 8337069692406728860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 7
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff093f9a4c5cb6520800000000000000
+      internalID: 2696466250366947583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54035b66a03a0d790800000000000000
+      internalID: -7507321313758465979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4806e7ecea4ce2fd0800000000000000
+      internalID: -2364736499255189372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 11
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c6f305c97c8b10800000000000000
+      internalID: 1985095422845567877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 9
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77186f4eefa4659f0800000000000000
+      internalID: -480113851644870281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 56
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7885838488959050800000000000000
+      internalID: 5806714989473794170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 9
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91850c67fed4fa670800000000000000
+      internalID: 8552139908284700697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1935afbc23ebc0800000000000000
+      internalID: -3755108462674501697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 31
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309f353b7c4d5c40800000000000000
+      internalID: 5502638411774660663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 50
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb52764008e52510800000000000000
+      internalID: 1523879136814324660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b433bf9004e5df0f0800000000000000
+      internalID: -1081604706360675509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a949dd882e5cc300800000000000000
+      internalID: 273697205634288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c6f1017caa23be0800000000000000
+      internalID: -1498947954015245202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0855101e042edb80800000000000000
+      internalID: -8368211414789826550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0279bae2f321220800000000000000
+      internalID: 2455094216550195366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 38
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ece8c68885ba670800000000000000
+      internalID: 8551025660453113360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 8
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2dde97e3f0756e0800000000000000
+      internalID: -1848992361004281115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 22
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108919a4d798a11d0800000000000000
+      internalID: -3379237399173163007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5a3b1115859f30800000000000000
+      internalID: 4581714504437095702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 26
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990dcf8119f75da0800000000000000
+      internalID: -5956018128351852137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1dd83bbf1bf2a0800000000000000
+      internalID: -6702728731437490596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 28
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b463bcf5604c49d60800000000000000
+      internalID: 7896151578343323211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 27
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4d56fab9e64b00800000000000000
+      internalID: 812593771993451207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 27
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c036b16669e640940800000000000000
+      internalID: 5261451856912802572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4976b4493699a30800000000000000
+      internalID: 4222515614207939827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f10e992f4ef620800000000000000
+      internalID: 2809770257688950091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 28
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefbd4bcdb1253770800000000000000
+      internalID: 8589808963322494956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 36
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e727997c36ce110b0800000000000000
+      internalID: -5759562535135513986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 28
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9d19c3214391a0800000000000000
+      internalID: -6804022990072866096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 33
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ffb2347434c000800000000000000
+      internalID: 55226769107579651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2cdd483105d1aa0800000000000000
+      internalID: -6188702268173466925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952278708ad6008e0800000000000000
+      internalID: -1729261688462040487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1712187fd982de0800000000000000
+      internalID: -1357661601303268920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 20
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa08d192edcba330800000000000000
+      internalID: 3723295889945004706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 7
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24487fb657af430800000000000000
+      internalID: 3817492740724507319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 24
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b7c2f1e313d9d0800000000000000
+      internalID: -2750833086231498007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 9
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d98116b593f38b0800000000000000
+      internalID: -5170350782564229792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b13524fc2c938e0800000000000000
+      internalID: -1713123987811001460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 27
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6f99562a6c9b630800000000000000
+      internalID: 3943401349531170526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57afbf96e31e1320800000000000000
+      internalID: 2530481921872340828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e465b6e72ba9780800000000000000
+      internalID: -8675425476139397585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 9
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5eda28241d8b8a0800000000000000
+      internalID: -6289046796032416286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89082ea8fe3baef00800000000000000
+      internalID: 1146926896527868056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 7
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4f6f5c136069630800000000000000
+      internalID: 3933338135399167136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 7
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc53831ed28ba8bc0800000000000000
+      internalID: -3780006430032513585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 9
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237590298ff1d1640800000000000000
+      internalID: 5052229509442000690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 9
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa88f0d361c14d360800000000000000
+      internalID: 7193405386656811183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9eb7b5ada8ea70800000000000000
+      internalID: 8856519594488011560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f701bc6eff85b90800000000000000
+      internalID: -7252765833165766888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 7
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0fe7b6b681f2370800000000000000
+      internalID: 8299879487911162047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 8
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df61c721c390540800000000000000
+      internalID: 4974573313496382743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220cf6b13126ea200800000000000000
+      internalID: 193199668227719202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea279ca8c0f62d30800000000000000
+      internalID: 4406474030108322541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2b2ff9a45c0e30800000000000000
+      internalID: 4471041619179285458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 8
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71beade0901e6df0800000000000000
+      internalID: -185192320026627716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 14
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e7ed278ec6a2530800000000000000
+      internalID: 3830994178647424528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 10
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00090396b7941cdc0800000000000000
+      internalID: -3620531831034572800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782a409c38f56d930800000000000000
+      internalID: 4167623524795851399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102104e080696a1a0800000000000000
+      internalID: -6798581626126200319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74549360cf70f82f0800000000000000
+      internalID: -968546615843797689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4bd10e08657e2b0800000000000000
+      internalID: -5555376503822371663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 8
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fcd33b4367455e0800000000000000
+      internalID: -1921781172262809812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec839f45db478860800000000000000
+      internalID: 7532072281335631087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 8
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f43a2dd39e775590800000000000000
+      internalID: -7685535065548638983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 8
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64205c134376012e0800000000000000
+      internalID: -2157110747639512506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Debris_Large_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 10
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1c558c9e355580800000000000000
+      internalID: -8839089851671504277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Debris_Large_sheet_0: -7470822858452796902
+      Explosion_Debris_Large_sheet_1: -5636183292873528677
+      Explosion_Debris_Large_sheet_10: 2172457194565754053
+      Explosion_Debris_Large_sheet_100: -2157110747639512506
+      Explosion_Debris_Large_sheet_101: -8839089851671504277
+      Explosion_Debris_Large_sheet_11: -8082681523160549138
+      Explosion_Debris_Large_sheet_12: -8886284559006798709
+      Explosion_Debris_Large_sheet_13: 8225342347944587151
+      Explosion_Debris_Large_sheet_14: 7223389250679691032
+      Explosion_Debris_Large_sheet_15: 1728740845760529497
+      Explosion_Debris_Large_sheet_16: 4275815414327970693
+      Explosion_Debris_Large_sheet_17: -1494245360551693121
+      Explosion_Debris_Large_sheet_18: 6724250132682162245
+      Explosion_Debris_Large_sheet_19: -6750718127181932784
+      Explosion_Debris_Large_sheet_2: 2827136066100330053
+      Explosion_Debris_Large_sheet_20: 28773953366975393
+      Explosion_Debris_Large_sheet_21: -8736375871851133969
+      Explosion_Debris_Large_sheet_22: 1502515642291545275
+      Explosion_Debris_Large_sheet_23: 9127609856072437771
+      Explosion_Debris_Large_sheet_24: -8382907078071250660
+      Explosion_Debris_Large_sheet_25: 2927825823673076129
+      Explosion_Debris_Large_sheet_26: -148748743263959537
+      Explosion_Debris_Large_sheet_27: 2293525449747201494
+      Explosion_Debris_Large_sheet_28: -7683620687755647942
+      Explosion_Debris_Large_sheet_29: -1082104020169962012
+      Explosion_Debris_Large_sheet_3: -7414289925794875719
+      Explosion_Debris_Large_sheet_30: 4923447374394997326
+      Explosion_Debris_Large_sheet_31: 8581791416390792661
+      Explosion_Debris_Large_sheet_32: -1641548410794541158
+      Explosion_Debris_Large_sheet_33: -5031437360833076823
+      Explosion_Debris_Large_sheet_34: 1502213404248951804
+      Explosion_Debris_Large_sheet_35: 8337069692406728860
+      Explosion_Debris_Large_sheet_36: 2696466250366947583
+      Explosion_Debris_Large_sheet_37: -7507321313758465979
+      Explosion_Debris_Large_sheet_38: -2364736499255189372
+      Explosion_Debris_Large_sheet_39: 1985095422845567877
+      Explosion_Debris_Large_sheet_4: -7980875307688030909
+      Explosion_Debris_Large_sheet_40: -480113851644870281
+      Explosion_Debris_Large_sheet_41: 5806714989473794170
+      Explosion_Debris_Large_sheet_42: 8552139908284700697
+      Explosion_Debris_Large_sheet_43: -3755108462674501697
+      Explosion_Debris_Large_sheet_44: 5502638411774660663
+      Explosion_Debris_Large_sheet_45: 1523879136814324660
+      Explosion_Debris_Large_sheet_46: -1081604706360675509
+      Explosion_Debris_Large_sheet_47: 273697205634288038
+      Explosion_Debris_Large_sheet_48: -1498947954015245202
+      Explosion_Debris_Large_sheet_49: -8368211414789826550
+      Explosion_Debris_Large_sheet_5: -4108341966509342092
+      Explosion_Debris_Large_sheet_50: 2455094216550195366
+      Explosion_Debris_Large_sheet_51: 8551025660453113360
+      Explosion_Debris_Large_sheet_52: -1848992361004281115
+      Explosion_Debris_Large_sheet_53: -3379237399173163007
+      Explosion_Debris_Large_sheet_54: 4581714504437095702
+      Explosion_Debris_Large_sheet_55: -5956018128351852137
+      Explosion_Debris_Large_sheet_56: -6702728731437490596
+      Explosion_Debris_Large_sheet_57: 7896151578343323211
+      Explosion_Debris_Large_sheet_58: 812593771993451207
+      Explosion_Debris_Large_sheet_59: 5261451856912802572
+      Explosion_Debris_Large_sheet_6: -4186544813797242968
+      Explosion_Debris_Large_sheet_60: 4222515614207939827
+      Explosion_Debris_Large_sheet_61: 2809770257688950091
+      Explosion_Debris_Large_sheet_62: 8589808963322494956
+      Explosion_Debris_Large_sheet_63: -5759562535135513986
+      Explosion_Debris_Large_sheet_64: -6804022990072866096
+      Explosion_Debris_Large_sheet_65: 55226769107579651
+      Explosion_Debris_Large_sheet_66: -6188702268173466925
+      Explosion_Debris_Large_sheet_67: -1729261688462040487
+      Explosion_Debris_Large_sheet_68: -1357661601303268920
+      Explosion_Debris_Large_sheet_69: 3723295889945004706
+      Explosion_Debris_Large_sheet_7: -5350562255008245979
+      Explosion_Debris_Large_sheet_70: 3817492740724507319
+      Explosion_Debris_Large_sheet_71: -2750833086231498007
+      Explosion_Debris_Large_sheet_72: -5170350782564229792
+      Explosion_Debris_Large_sheet_73: -1713123987811001460
+      Explosion_Debris_Large_sheet_74: 3943401349531170526
+      Explosion_Debris_Large_sheet_75: 2530481921872340828
+      Explosion_Debris_Large_sheet_76: -8675425476139397585
+      Explosion_Debris_Large_sheet_77: -6289046796032416286
+      Explosion_Debris_Large_sheet_78: 1146926896527868056
+      Explosion_Debris_Large_sheet_79: 3933338135399167136
+      Explosion_Debris_Large_sheet_8: 7292610151132634152
+      Explosion_Debris_Large_sheet_80: -3780006430032513585
+      Explosion_Debris_Large_sheet_81: 5052229509442000690
+      Explosion_Debris_Large_sheet_82: 7193405386656811183
+      Explosion_Debris_Large_sheet_83: 8856519594488011560
+      Explosion_Debris_Large_sheet_84: -7252765833165766888
+      Explosion_Debris_Large_sheet_85: 8299879487911162047
+      Explosion_Debris_Large_sheet_86: 4974573313496382743
+      Explosion_Debris_Large_sheet_87: 193199668227719202
+      Explosion_Debris_Large_sheet_88: 4406474030108322541
+      Explosion_Debris_Large_sheet_89: 4471041619179285458
+      Explosion_Debris_Large_sheet_9: -8562344213835720333
+      Explosion_Debris_Large_sheet_90: -185192320026627716
+      Explosion_Debris_Large_sheet_91: 3830994178647424528
+      Explosion_Debris_Large_sheet_92: -3620531831034572800
+      Explosion_Debris_Large_sheet_93: 4167623524795851399
+      Explosion_Debris_Large_sheet_94: -6798581626126200319
+      Explosion_Debris_Large_sheet_95: -968546615843797689
+      Explosion_Debris_Large_sheet_96: -5555376503822371663
+      Explosion_Debris_Large_sheet_97: -1921781172262809812
+      Explosion_Debris_Large_sheet_98: 7532072281335631087
+      Explosion_Debris_Large_sheet_99: -7685535065548638983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

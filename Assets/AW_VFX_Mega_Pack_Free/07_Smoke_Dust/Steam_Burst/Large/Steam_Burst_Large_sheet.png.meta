@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: ec2e5b0572fa0af44a497c6743900fe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 256288971741053135
+    second: Steam_Burst_Large_sheet_0
+  - first:
+      213: 6640832792253058030
+    second: Steam_Burst_Large_sheet_1
+  - first:
+      213: -7863975137423766088
+    second: Steam_Burst_Large_sheet_2
+  - first:
+      213: 759671308498009539
+    second: Steam_Burst_Large_sheet_3
+  - first:
+      213: -2406365411237019391
+    second: Steam_Burst_Large_sheet_4
+  - first:
+      213: -7444639642248064356
+    second: Steam_Burst_Large_sheet_5
+  - first:
+      213: 7851367172987700609
+    second: Steam_Burst_Large_sheet_6
+  - first:
+      213: -3406284783299685433
+    second: Steam_Burst_Large_sheet_7
+  - first:
+      213: -3556668128732461465
+    second: Steam_Burst_Large_sheet_8
+  - first:
+      213: 5315896092414212525
+    second: Steam_Burst_Large_sheet_9
+  - first:
+      213: -5995226567452328777
+    second: Steam_Burst_Large_sheet_10
+  - first:
+      213: 6722890854194961691
+    second: Steam_Burst_Large_sheet_11
+  - first:
+      213: -1997812854925699105
+    second: Steam_Burst_Large_sheet_12
+  - first:
+      213: -5029154301113452540
+    second: Steam_Burst_Large_sheet_13
+  - first:
+      213: 5741322266516417639
+    second: Steam_Burst_Large_sheet_14
+  - first:
+      213: -3386163414329579861
+    second: Steam_Burst_Large_sheet_15
+  - first:
+      213: -2058131485509338546
+    second: Steam_Burst_Large_sheet_16
+  - first:
+      213: -7849714860758084452
+    second: Steam_Burst_Large_sheet_17
+  - first:
+      213: 2304065892861126686
+    second: Steam_Burst_Large_sheet_18
+  - first:
+      213: -4903444725550786684
+    second: Steam_Burst_Large_sheet_19
+  - first:
+      213: 7791791494477970216
+    second: Steam_Burst_Large_sheet_20
+  - first:
+      213: 6630063634672141851
+    second: Steam_Burst_Large_sheet_21
+  - first:
+      213: -1373875213379303450
+    second: Steam_Burst_Large_sheet_22
+  - first:
+      213: 4485844869099567255
+    second: Steam_Burst_Large_sheet_23
+  - first:
+      213: 4822944839677394781
+    second: Steam_Burst_Large_sheet_24
+  - first:
+      213: -6700150988785703110
+    second: Steam_Burst_Large_sheet_25
+  - first:
+      213: 1260933974510484072
+    second: Steam_Burst_Large_sheet_26
+  - first:
+      213: 4089580296996576032
+    second: Steam_Burst_Large_sheet_27
+  - first:
+      213: -5887513693176787824
+    second: Steam_Burst_Large_sheet_28
+  - first:
+      213: -7483715827138546724
+    second: Steam_Burst_Large_sheet_29
+  - first:
+      213: -7521592201892933795
+    second: Steam_Burst_Large_sheet_30
+  - first:
+      213: 8086643732369094431
+    second: Steam_Burst_Large_sheet_31
+  - first:
+      213: -1089553033736025896
+    second: Steam_Burst_Large_sheet_32
+  - first:
+      213: 4781222959398204337
+    second: Steam_Burst_Large_sheet_33
+  - first:
+      213: 7531346076652826652
+    second: Steam_Burst_Large_sheet_34
+  - first:
+      213: -842816900172106055
+    second: Steam_Burst_Large_sheet_35
+  - first:
+      213: -5763373650844060721
+    second: Steam_Burst_Large_sheet_36
+  - first:
+      213: 507728629049977479
+    second: Steam_Burst_Large_sheet_37
+  - first:
+      213: 2688368420094958294
+    second: Steam_Burst_Large_sheet_38
+  - first:
+      213: 6443122773592107987
+    second: Steam_Burst_Large_sheet_39
+  - first:
+      213: 306845226721975218
+    second: Steam_Burst_Large_sheet_40
+  - first:
+      213: -7739828840565685727
+    second: Steam_Burst_Large_sheet_41
+  - first:
+      213: 7438861121457725905
+    second: Steam_Burst_Large_sheet_42
+  - first:
+      213: 3351500263814314455
+    second: Steam_Burst_Large_sheet_43
+  - first:
+      213: -7385947981762222728
+    second: Steam_Burst_Large_sheet_44
+  - first:
+      213: 1305798369171674426
+    second: Steam_Burst_Large_sheet_45
+  - first:
+      213: 3628633728171215142
+    second: Steam_Burst_Large_sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 62
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c97046758e8300800000000000000
+      internalID: 256288971741053135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 65
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb420b6d3af82c50800000000000000
+      internalID: 6640832792253058030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 77
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4a53174c8dd290800000000000000
+      internalID: -7863975137423766088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 82
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd7419b705ea8a00800000000000000
+      internalID: 759671308498009539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 85
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1014e6f686fda9ed0800000000000000
+      internalID: -2406365411237019391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 77
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92530350b35fa890800000000000000
+      internalID: -7444639642248064356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 79
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185481378d8a5fc60800000000000000
+      internalID: 7851367172987700609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 104
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39a9f69027ab0d0800000000000000
+      internalID: -3406284783299685433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 101
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c2f25e2d24aec0800000000000000
+      internalID: -3556668128732461465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 120
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da97c3bc45bd5c940800000000000000
+      internalID: 5315896092414212525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 88
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcf403733daccca0800000000000000
+      internalID: -5995226567452328777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 109
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d530ccc918c4d50800000000000000
+      internalID: 6722890854194961691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 118
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7d1761bc75644e0800000000000000
+      internalID: -1997812854925699105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 22
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40831890fcad43ab0800000000000000
+      internalID: -5029154301113452540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c60ccbe264daf40800000000000000
+      internalID: 5741322266516417639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62679b05ee101d0800000000000000
+      internalID: -3386163414329579861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 33
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3b21815c0073e0800000000000000
+      internalID: -2058131485509338546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 27
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94d8687ce5301390800000000000000
+      internalID: -7849714860758084452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 38
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a41bd8bfa9ff10800000000000000
+      internalID: 2304065892861126686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 38
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48758cd600773fbb0800000000000000
+      internalID: -4903444725550786684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 68
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf440e411022c60800000000000000
+      internalID: 7791791494477970216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 79
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164ed68fb7b20c50800000000000000
+      internalID: 6630063634672141851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e700d4c5c30fece0800000000000000
+      internalID: -1373875213379303450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983034342ce04e30800000000000000
+      internalID: 4485844869099567255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 84
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f364457ca8ee240800000000000000
+      internalID: 4822944839677394781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 68
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3722f3bc284403a0800000000000000
+      internalID: -6700150988785703110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3be3e4ccbf7110800000000000000
+      internalID: 1260933974510484072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 79
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdae2dc9b11c830800000000000000
+      internalID: 4089580296996576032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 95
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c03fb4d795b4ea0800000000000000
+      internalID: -5887513693176787824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 80
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3307b0b10842890800000000000000
+      internalID: -7483715827138546724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fc2d45ebfed9790800000000000000
+      internalID: -7521592201892933795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 56
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17bff431a7893070800000000000000
+      internalID: 8086643732369094431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 60
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8073cd94121e0f0800000000000000
+      internalID: -1089553033736025896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33fd613f05a5240800000000000000
+      internalID: 4781222959398204337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107c6b9a57b48860800000000000000
+      internalID: 7531346076652826652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bb86ae76bd44f0800000000000000
+      internalID: -842816900172106055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3f79143326400b0800000000000000
+      internalID: -5763373650844060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae1d08f70db0700800000000000000
+      internalID: 507728629049977479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5321a5d00f4520800000000000000
+      internalID: 2688368420094958294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbef2486029a6950800000000000000
+      internalID: 6443122773592107987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb99c3ab12224400800000000000000
+      internalID: 306845226721975218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12242c74daa969490800000000000000
+      internalID: -7739828840565685727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 5
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a3f5f6c42c3760800000000000000
+      internalID: 7438861121457725905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9b741abbbe28e20800000000000000
+      internalID: 3351500263814314455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 7
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ac896177df7990800000000000000
+      internalID: -7385947981762222728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 7
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3513c6c2b02f1210800000000000000
+      internalID: 1305798369171674426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steam_Burst_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 7
+        width: 199
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62985a3862f7b5230800000000000000
+      internalID: 3628633728171215142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Steam_Burst_Large_sheet_0: 256288971741053135
+      Steam_Burst_Large_sheet_1: 6640832792253058030
+      Steam_Burst_Large_sheet_10: -5995226567452328777
+      Steam_Burst_Large_sheet_11: 6722890854194961691
+      Steam_Burst_Large_sheet_12: -1997812854925699105
+      Steam_Burst_Large_sheet_13: -5029154301113452540
+      Steam_Burst_Large_sheet_14: 5741322266516417639
+      Steam_Burst_Large_sheet_15: -3386163414329579861
+      Steam_Burst_Large_sheet_16: -2058131485509338546
+      Steam_Burst_Large_sheet_17: -7849714860758084452
+      Steam_Burst_Large_sheet_18: 2304065892861126686
+      Steam_Burst_Large_sheet_19: -4903444725550786684
+      Steam_Burst_Large_sheet_2: -7863975137423766088
+      Steam_Burst_Large_sheet_20: 7791791494477970216
+      Steam_Burst_Large_sheet_21: 6630063634672141851
+      Steam_Burst_Large_sheet_22: -1373875213379303450
+      Steam_Burst_Large_sheet_23: 4485844869099567255
+      Steam_Burst_Large_sheet_24: 4822944839677394781
+      Steam_Burst_Large_sheet_25: -6700150988785703110
+      Steam_Burst_Large_sheet_26: 1260933974510484072
+      Steam_Burst_Large_sheet_27: 4089580296996576032
+      Steam_Burst_Large_sheet_28: -5887513693176787824
+      Steam_Burst_Large_sheet_29: -7483715827138546724
+      Steam_Burst_Large_sheet_3: 759671308498009539
+      Steam_Burst_Large_sheet_30: -7521592201892933795
+      Steam_Burst_Large_sheet_31: 8086643732369094431
+      Steam_Burst_Large_sheet_32: -1089553033736025896
+      Steam_Burst_Large_sheet_33: 4781222959398204337
+      Steam_Burst_Large_sheet_34: 7531346076652826652
+      Steam_Burst_Large_sheet_35: -842816900172106055
+      Steam_Burst_Large_sheet_36: -5763373650844060721
+      Steam_Burst_Large_sheet_37: 507728629049977479
+      Steam_Burst_Large_sheet_38: 2688368420094958294
+      Steam_Burst_Large_sheet_39: 6443122773592107987
+      Steam_Burst_Large_sheet_4: -2406365411237019391
+      Steam_Burst_Large_sheet_40: 306845226721975218
+      Steam_Burst_Large_sheet_41: -7739828840565685727
+      Steam_Burst_Large_sheet_42: 7438861121457725905
+      Steam_Burst_Large_sheet_43: 3351500263814314455
+      Steam_Burst_Large_sheet_44: -7385947981762222728
+      Steam_Burst_Large_sheet_45: 1305798369171674426
+      Steam_Burst_Large_sheet_46: 3628633728171215142
+      Steam_Burst_Large_sheet_5: -7444639642248064356
+      Steam_Burst_Large_sheet_6: 7851367172987700609
+      Steam_Burst_Large_sheet_7: -3406284783299685433
+      Steam_Burst_Large_sheet_8: -3556668128732461465
+      Steam_Burst_Large_sheet_9: 5315896092414212525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 88ff0040d93e72141ae9586e22bc0e56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -818076524819203075
+    second: ice_impact_holy_04_0
+  - first:
+      213: 873118632140223490
+    second: ice_impact_holy_04_1
+  - first:
+      213: -3861375926098437399
+    second: ice_impact_holy_04_2
+  - first:
+      213: -5223296127227529430
+    second: ice_impact_holy_04_3
+  - first:
+      213: -3472808493280869989
+    second: ice_impact_holy_04_4
+  - first:
+      213: -4991733038503621034
+    second: ice_impact_holy_04_5
+  - first:
+      213: 256310021074045788
+    second: ice_impact_holy_04_6
+  - first:
+      213: 4974739334186303910
+    second: ice_impact_holy_04_7
+  - first:
+      213: 7836921525862979935
+    second: ice_impact_holy_04_8
+  - first:
+      213: -5324729861780542861
+    second: ice_impact_holy_04_9
+  - first:
+      213: 6667743235105174183
+    second: ice_impact_holy_04_10
+  - first:
+      213: 4257725668160048772
+    second: ice_impact_holy_04_11
+  - first:
+      213: -3233796299679523810
+    second: ice_impact_holy_04_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_impact_holy_04_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 76
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb01b2cbb95a4f0800000000000000
+      internalID: -818076524819203075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2043e7b15c0fd1c00800000000000000
+      internalID: 873118632140223490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea58acbd03a96ac0800000000000000
+      internalID: -3861375926098437399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27fde3b8df1387b0800000000000000
+      internalID: -5223296127227529430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 50
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c809331b1ecfc0800000000000000
+      internalID: -3472808493280869989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 45
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e0962bf3dc9bab0800000000000000
+      internalID: -4991733038503621034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 55
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bcd7e2b989e8300800000000000000
+      internalID: 256310021074045788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a186503113d90540800000000000000
+      internalID: 4974739334186303910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59dca12b9652cc60800000000000000
+      internalID: 7836921525862979935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 40
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ae7aff662ca16b0800000000000000
+      internalID: -5324729861780542861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a235f52525988c50800000000000000
+      internalID: 6667743235105174183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0eb1dfea761b30800000000000000
+      internalID: 4257725668160048772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_impact_holy_04_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c11a9166f3f13d0800000000000000
+      internalID: -3233796299679523810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice_impact_holy_04_0: -818076524819203075
+      ice_impact_holy_04_1: 873118632140223490
+      ice_impact_holy_04_10: 6667743235105174183
+      ice_impact_holy_04_11: 4257725668160048772
+      ice_impact_holy_04_12: -3233796299679523810
+      ice_impact_holy_04_2: -3861375926098437399
+      ice_impact_holy_04_3: -5223296127227529430
+      ice_impact_holy_04_4: -3472808493280869989
+      ice_impact_holy_04_5: -4991733038503621034
+      ice_impact_holy_04_6: 256310021074045788
+      ice_impact_holy_04_7: 4974739334186303910
+      ice_impact_holy_04_8: 7836921525862979935
+      ice_impact_holy_04_9: -5324729861780542861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

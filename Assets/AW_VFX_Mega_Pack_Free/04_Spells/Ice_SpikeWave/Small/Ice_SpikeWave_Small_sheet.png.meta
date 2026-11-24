@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 875ea02583438be45bcf57ec080bb7ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4285368200100395753
+    second: Ice_SpikeWave_Small_sheet_0
+  - first:
+      213: 6555976939398422402
+    second: Ice_SpikeWave_Small_sheet_1
+  - first:
+      213: 3355898443351041097
+    second: Ice_SpikeWave_Small_sheet_2
+  - first:
+      213: 7761273154865512922
+    second: Ice_SpikeWave_Small_sheet_3
+  - first:
+      213: 10193249376149596
+    second: Ice_SpikeWave_Small_sheet_4
+  - first:
+      213: 678332391549681015
+    second: Ice_SpikeWave_Small_sheet_5
+  - first:
+      213: 6154913872039545301
+    second: Ice_SpikeWave_Small_sheet_6
+  - first:
+      213: 5654834684516801351
+    second: Ice_SpikeWave_Small_sheet_7
+  - first:
+      213: 6728753060995528877
+    second: Ice_SpikeWave_Small_sheet_8
+  - first:
+      213: -3211915039031511833
+    second: Ice_SpikeWave_Small_sheet_9
+  - first:
+      213: -7442874701529592743
+    second: Ice_SpikeWave_Small_sheet_10
+  - first:
+      213: 8322373979373554015
+    second: Ice_SpikeWave_Small_sheet_11
+  - first:
+      213: 3003155856018925827
+    second: Ice_SpikeWave_Small_sheet_12
+  - first:
+      213: -53063390696988738
+    second: Ice_SpikeWave_Small_sheet_13
+  - first:
+      213: -7084878254231161283
+    second: Ice_SpikeWave_Small_sheet_14
+  - first:
+      213: -1417481293337618857
+    second: Ice_SpikeWave_Small_sheet_15
+  - first:
+      213: -5178549985489783225
+    second: Ice_SpikeWave_Small_sheet_16
+  - first:
+      213: 6640128080132720218
+    second: Ice_SpikeWave_Small_sheet_17
+  - first:
+      213: 7950457227168668812
+    second: Ice_SpikeWave_Small_sheet_18
+  - first:
+      213: -4738068930012897458
+    second: Ice_SpikeWave_Small_sheet_19
+  - first:
+      213: -6749344747771560431
+    second: Ice_SpikeWave_Small_sheet_20
+  - first:
+      213: -1616671725970076417
+    second: Ice_SpikeWave_Small_sheet_21
+  - first:
+      213: 7484056264513417103
+    second: Ice_SpikeWave_Small_sheet_22
+  - first:
+      213: 2030616000750690526
+    second: Ice_SpikeWave_Small_sheet_23
+  - first:
+      213: 3070359407913506534
+    second: Ice_SpikeWave_Small_sheet_24
+  - first:
+      213: -7160617071972952188
+    second: Ice_SpikeWave_Small_sheet_25
+  - first:
+      213: -7352556505964844777
+    second: Ice_SpikeWave_Small_sheet_26
+  - first:
+      213: 5345452341781719516
+    second: Ice_SpikeWave_Small_sheet_27
+  - first:
+      213: 2399511927023975744
+    second: Ice_SpikeWave_Small_sheet_28
+  - first:
+      213: -1066506184834905711
+    second: Ice_SpikeWave_Small_sheet_29
+  - first:
+      213: -788881346981601233
+    second: Ice_SpikeWave_Small_sheet_30
+  - first:
+      213: -2425070281067201498
+    second: Ice_SpikeWave_Small_sheet_31
+  - first:
+      213: 7667126104690088817
+    second: Ice_SpikeWave_Small_sheet_32
+  - first:
+      213: -3401597957749235972
+    second: Ice_SpikeWave_Small_sheet_33
+  - first:
+      213: 2055563394746541686
+    second: Ice_SpikeWave_Small_sheet_34
+  - first:
+      213: 9828294325661517
+    second: Ice_SpikeWave_Small_sheet_35
+  - first:
+      213: -7824940381037308227
+    second: Ice_SpikeWave_Small_sheet_36
+  - first:
+      213: -768049659174058051
+    second: Ice_SpikeWave_Small_sheet_37
+  - first:
+      213: 6238061950534376885
+    second: Ice_SpikeWave_Small_sheet_38
+  - first:
+      213: -4043495950774453059
+    second: Ice_SpikeWave_Small_sheet_39
+  - first:
+      213: 6693683473651858476
+    second: Ice_SpikeWave_Small_sheet_40
+  - first:
+      213: 5745081090465281059
+    second: Ice_SpikeWave_Small_sheet_41
+  - first:
+      213: 5983592599298942191
+    second: Ice_SpikeWave_Small_sheet_42
+  - first:
+      213: 7611971563790701919
+    second: Ice_SpikeWave_Small_sheet_43
+  - first:
+      213: 231221280502749447
+    second: Ice_SpikeWave_Small_sheet_44
+  - first:
+      213: 7971017435541982950
+    second: Ice_SpikeWave_Small_sheet_45
+  - first:
+      213: 580153707146166277
+    second: Ice_SpikeWave_Small_sheet_46
+  - first:
+      213: -3425421347273145725
+    second: Ice_SpikeWave_Small_sheet_47
+  - first:
+      213: 6481814672605947956
+    second: Ice_SpikeWave_Small_sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3db25cafa87b30800000000000000
+      internalID: 4285368200100395753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fde749a428bfa50800000000000000
+      internalID: 6555976939398422402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a93a9adb829e20800000000000000
+      internalID: 3355898443351041097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c88830d495bb60800000000000000
+      internalID: 7761273154865512922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502c20d4b6342000800000000000000
+      internalID: 10193249376149596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db5f557bbe96900800000000000000
+      internalID: 678332391549681015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d98a067e85aa6550800000000000000
+      internalID: 6154913872039545301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 3
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b9e2a5f220a7e40800000000000000
+      internalID: 5654834684516801351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f5fd2245516d50800000000000000
+      internalID: 6728753060995528877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4bac91a4cfc63d0800000000000000
+      internalID: -3211915039031511833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c469b94e895b890800000000000000
+      internalID: -7442874701529592743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 17
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59c3885a030f7370800000000000000
+      internalID: 8322373979373554015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 9
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3096423f65a5da920800000000000000
+      internalID: 3003155856018925827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf9de6902b734ff0800000000000000
+      internalID: -53063390696988738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 5
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3679abd3c47dad90800000000000000
+      internalID: -7084878254231161283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 22
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75699da1648145ce0800000000000000
+      internalID: -1417481293337618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746f64fa9381228b0800000000000000
+      internalID: -5178549985489783225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a564867de49762c50800000000000000
+      internalID: 6640128080132720218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c535b89b2b55e60800000000000000
+      internalID: 7950457227168668812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1449596ffe3eb0800000000000000
+      internalID: -4738068930012897458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7d6226b28552a0800000000000000
+      internalID: -6749344747771560431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcc22771ad6099e0800000000000000
+      internalID: -1616671725970076417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8feb553585bcd760800000000000000
+      internalID: 7484056264513417103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 3
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed028f77e723e2c10800000000000000
+      internalID: 2030616000750690526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e696713d9b1c9a20800000000000000
+      internalID: 3070359407913506534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487547c26b060ac90800000000000000
+      internalID: -7160617071972952188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 3
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7196af630d876f990800000000000000
+      internalID: -7352556505964844777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 9
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9edab559cde2a40800000000000000
+      internalID: 5345452341781719516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db39c6267cc4120800000000000000
+      internalID: 2399511927023975744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 3
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199882686420331f0800000000000000
+      internalID: -1066506184834905711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20ea3738945d05f0800000000000000
+      internalID: -788881346981601233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 5
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf1ad8d6b685ed0800000000000000
+      internalID: -2425070281067201498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b5d2ee19a176a60800000000000000
+      internalID: 7667126104690088817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe99ab0ea81bc0d0800000000000000
+      internalID: -3401597957749235972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e9254404d68c10800000000000000
+      internalID: 2055563394746541686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f670818cae22000800000000000000
+      internalID: 9828294325661517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db659a78e2a386390800000000000000
+      internalID: -7824940381037308227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7021f77e65755f0800000000000000
+      internalID: -768049659174058051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5b781b4c029650800000000000000
+      internalID: 6238061950534376885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 5
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcbb5b2bdd92e7c0800000000000000
+      internalID: -4043495950774453059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 5
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cfbe597adb4ec50800000000000000
+      internalID: 6693683473651858476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243ff220d0aabf40800000000000000
+      internalID: 5745081090465281059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4aed144cdf90350800000000000000
+      internalID: 5983592599298942191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559e1caec723a960800000000000000
+      internalID: 7611971563790701919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70990e09786753300800000000000000
+      internalID: 231221280502749447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eecce7102ebe9e60800000000000000
+      internalID: 7971017435541982950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c29d09be1d0800800000000000000
+      internalID: 580153707146166277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3828ebdee657670d0800000000000000
+      internalID: -3425421347273145725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_SpikeWave_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438a7944a1804f950800000000000000
+      internalID: 6481814672605947956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_SpikeWave_Small_sheet_0: 4285368200100395753
+      Ice_SpikeWave_Small_sheet_1: 6555976939398422402
+      Ice_SpikeWave_Small_sheet_10: -7442874701529592743
+      Ice_SpikeWave_Small_sheet_11: 8322373979373554015
+      Ice_SpikeWave_Small_sheet_12: 3003155856018925827
+      Ice_SpikeWave_Small_sheet_13: -53063390696988738
+      Ice_SpikeWave_Small_sheet_14: -7084878254231161283
+      Ice_SpikeWave_Small_sheet_15: -1417481293337618857
+      Ice_SpikeWave_Small_sheet_16: -5178549985489783225
+      Ice_SpikeWave_Small_sheet_17: 6640128080132720218
+      Ice_SpikeWave_Small_sheet_18: 7950457227168668812
+      Ice_SpikeWave_Small_sheet_19: -4738068930012897458
+      Ice_SpikeWave_Small_sheet_2: 3355898443351041097
+      Ice_SpikeWave_Small_sheet_20: -6749344747771560431
+      Ice_SpikeWave_Small_sheet_21: -1616671725970076417
+      Ice_SpikeWave_Small_sheet_22: 7484056264513417103
+      Ice_SpikeWave_Small_sheet_23: 2030616000750690526
+      Ice_SpikeWave_Small_sheet_24: 3070359407913506534
+      Ice_SpikeWave_Small_sheet_25: -7160617071972952188
+      Ice_SpikeWave_Small_sheet_26: -7352556505964844777
+      Ice_SpikeWave_Small_sheet_27: 5345452341781719516
+      Ice_SpikeWave_Small_sheet_28: 2399511927023975744
+      Ice_SpikeWave_Small_sheet_29: -1066506184834905711
+      Ice_SpikeWave_Small_sheet_3: 7761273154865512922
+      Ice_SpikeWave_Small_sheet_30: -788881346981601233
+      Ice_SpikeWave_Small_sheet_31: -2425070281067201498
+      Ice_SpikeWave_Small_sheet_32: 7667126104690088817
+      Ice_SpikeWave_Small_sheet_33: -3401597957749235972
+      Ice_SpikeWave_Small_sheet_34: 2055563394746541686
+      Ice_SpikeWave_Small_sheet_35: 9828294325661517
+      Ice_SpikeWave_Small_sheet_36: -7824940381037308227
+      Ice_SpikeWave_Small_sheet_37: -768049659174058051
+      Ice_SpikeWave_Small_sheet_38: 6238061950534376885
+      Ice_SpikeWave_Small_sheet_39: -4043495950774453059
+      Ice_SpikeWave_Small_sheet_4: 10193249376149596
+      Ice_SpikeWave_Small_sheet_40: 6693683473651858476
+      Ice_SpikeWave_Small_sheet_41: 5745081090465281059
+      Ice_SpikeWave_Small_sheet_42: 5983592599298942191
+      Ice_SpikeWave_Small_sheet_43: 7611971563790701919
+      Ice_SpikeWave_Small_sheet_44: 231221280502749447
+      Ice_SpikeWave_Small_sheet_45: 7971017435541982950
+      Ice_SpikeWave_Small_sheet_46: 580153707146166277
+      Ice_SpikeWave_Small_sheet_47: -3425421347273145725
+      Ice_SpikeWave_Small_sheet_48: 6481814672605947956
+      Ice_SpikeWave_Small_sheet_5: 678332391549681015
+      Ice_SpikeWave_Small_sheet_6: 6154913872039545301
+      Ice_SpikeWave_Small_sheet_7: 5654834684516801351
+      Ice_SpikeWave_Small_sheet_8: 6728753060995528877
+      Ice_SpikeWave_Small_sheet_9: -3211915039031511833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

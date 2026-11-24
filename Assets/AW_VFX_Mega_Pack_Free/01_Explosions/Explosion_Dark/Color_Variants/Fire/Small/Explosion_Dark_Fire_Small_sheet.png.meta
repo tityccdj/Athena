@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 65673e70b26a31c48a15cf6ebd28893f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6169511610896885984
+    second: Explosion_Dark_Fire_Small_sheet_0
+  - first:
+      213: -7891487653517497695
+    second: Explosion_Dark_Fire_Small_sheet_1
+  - first:
+      213: 1395240782720494467
+    second: Explosion_Dark_Fire_Small_sheet_2
+  - first:
+      213: -7383630567349835078
+    second: Explosion_Dark_Fire_Small_sheet_3
+  - first:
+      213: 2709676908044948463
+    second: Explosion_Dark_Fire_Small_sheet_4
+  - first:
+      213: -7254758315692190779
+    second: Explosion_Dark_Fire_Small_sheet_5
+  - first:
+      213: 2771583162300110755
+    second: Explosion_Dark_Fire_Small_sheet_6
+  - first:
+      213: 4921985741050254340
+    second: Explosion_Dark_Fire_Small_sheet_7
+  - first:
+      213: -7395571938975587938
+    second: Explosion_Dark_Fire_Small_sheet_8
+  - first:
+      213: 2839413814408759219
+    second: Explosion_Dark_Fire_Small_sheet_9
+  - first:
+      213: -621944157794055971
+    second: Explosion_Dark_Fire_Small_sheet_10
+  - first:
+      213: -1262775184086827706
+    second: Explosion_Dark_Fire_Small_sheet_11
+  - first:
+      213: -3897939145358236783
+    second: Explosion_Dark_Fire_Small_sheet_12
+  - first:
+      213: 2661035924127818920
+    second: Explosion_Dark_Fire_Small_sheet_13
+  - first:
+      213: 4788002111121722640
+    second: Explosion_Dark_Fire_Small_sheet_14
+  - first:
+      213: 6591081343865807151
+    second: Explosion_Dark_Fire_Small_sheet_15
+  - first:
+      213: -7328284145704835741
+    second: Explosion_Dark_Fire_Small_sheet_16
+  - first:
+      213: 8650046428331290165
+    second: Explosion_Dark_Fire_Small_sheet_17
+  - first:
+      213: -3680158620746926348
+    second: Explosion_Dark_Fire_Small_sheet_18
+  - first:
+      213: 2753437951041757779
+    second: Explosion_Dark_Fire_Small_sheet_19
+  - first:
+      213: -4506341969487014087
+    second: Explosion_Dark_Fire_Small_sheet_20
+  - first:
+      213: 217200099811201519
+    second: Explosion_Dark_Fire_Small_sheet_21
+  - first:
+      213: -9065043834313989578
+    second: Explosion_Dark_Fire_Small_sheet_22
+  - first:
+      213: -6467497248574170771
+    second: Explosion_Dark_Fire_Small_sheet_23
+  - first:
+      213: -1733680161580206631
+    second: Explosion_Dark_Fire_Small_sheet_24
+  - first:
+      213: 9048925150908561463
+    second: Explosion_Dark_Fire_Small_sheet_25
+  - first:
+      213: -108099737847070377
+    second: Explosion_Dark_Fire_Small_sheet_26
+  - first:
+      213: 5989656149166289349
+    second: Explosion_Dark_Fire_Small_sheet_27
+  - first:
+      213: -5576322328737817131
+    second: Explosion_Dark_Fire_Small_sheet_28
+  - first:
+      213: 8557689771106723975
+    second: Explosion_Dark_Fire_Small_sheet_29
+  - first:
+      213: -1097334143827078074
+    second: Explosion_Dark_Fire_Small_sheet_30
+  - first:
+      213: -8487476779805268043
+    second: Explosion_Dark_Fire_Small_sheet_31
+  - first:
+      213: 23448714068856177
+    second: Explosion_Dark_Fire_Small_sheet_32
+  - first:
+      213: 8839375723630397162
+    second: Explosion_Dark_Fire_Small_sheet_33
+  - first:
+      213: 8601074359464224922
+    second: Explosion_Dark_Fire_Small_sheet_34
+  - first:
+      213: -2752079271091235287
+    second: Explosion_Dark_Fire_Small_sheet_35
+  - first:
+      213: 8766483423883975636
+    second: Explosion_Dark_Fire_Small_sheet_36
+  - first:
+      213: -767853311277783014
+    second: Explosion_Dark_Fire_Small_sheet_37
+  - first:
+      213: 8590517026531851177
+    second: Explosion_Dark_Fire_Small_sheet_38
+  - first:
+      213: 927630629396585825
+    second: Explosion_Dark_Fire_Small_sheet_39
+  - first:
+      213: 1861455043347860276
+    second: Explosion_Dark_Fire_Small_sheet_40
+  - first:
+      213: 6947588798859448763
+    second: Explosion_Dark_Fire_Small_sheet_41
+  - first:
+      213: -2678013451051741448
+    second: Explosion_Dark_Fire_Small_sheet_42
+  - first:
+      213: -8170927024917228573
+    second: Explosion_Dark_Fire_Small_sheet_43
+  - first:
+      213: -6387212629073319825
+    second: Explosion_Dark_Fire_Small_sheet_44
+  - first:
+      213: 6129747345696916883
+    second: Explosion_Dark_Fire_Small_sheet_45
+  - first:
+      213: -1901017567377947479
+    second: Explosion_Dark_Fire_Small_sheet_46
+  - first:
+      213: 2470271419752497551
+    second: Explosion_Dark_Fire_Small_sheet_47
+  - first:
+      213: -4268718665812534268
+    second: Explosion_Dark_Fire_Small_sheet_48
+  - first:
+      213: -782707237296832269
+    second: Explosion_Dark_Fire_Small_sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d7da90ed716aa0800000000000000
+      internalID: -6169511610896885984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa65be3acdcb7290800000000000000
+      internalID: -7891487653517497695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b613e7914ec5310800000000000000
+      internalID: 1395240782720494467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa5608e13188990800000000000000
+      internalID: -7383630567349835078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe319189ac4ba9520800000000000000
+      internalID: 2709676908044948463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c31bddcfbbe15b90800000000000000
+      internalID: -7254758315692190779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71a5e9334a67620800000000000000
+      internalID: 2771583162300110755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40496d424f76e4440800000000000000
+      internalID: 4921985741050254340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9163824186ad5990800000000000000
+      internalID: -7395571938975587938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 8
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7cb2202df976720800000000000000
+      internalID: 2839413814408759219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd84e8c65196e57f0800000000000000
+      internalID: -621944157794055971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d735919a8b97ee0800000000000000
+      internalID: -1262775184086827706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 17
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19325dcdffcb7e9c0800000000000000
+      internalID: -3897939145358236783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 33
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a421300316ede420800000000000000
+      internalID: 2661035924127818920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0b395d86627240800000000000000
+      internalID: 4788002111121722640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2163daaf89387b50800000000000000
+      internalID: 6591081343865807151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 27
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365e22a7564bc4a90800000000000000
+      internalID: -7328284145704835741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ea25b85632b0870800000000000000
+      internalID: 8650046428331290165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 26
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b9459b337decc0800000000000000
+      internalID: -3680158620746926348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526ce66a3d263620800000000000000
+      internalID: 2753437951041757779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937da48bad14671c0800000000000000
+      internalID: -4506341969487014087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 20
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe11d6a0756a30300800000000000000
+      internalID: 217200099811201519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632ae5e49ae723280800000000000000
+      internalID: -9065043834313989578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 38
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d699be8c485de36a0800000000000000
+      internalID: -6467497248574170771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5bed6141bb0f7e0800000000000000
+      internalID: -1733680161580206631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 22
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b0034b7d349d70800000000000000
+      internalID: 9048925150908561463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75100557cd3ff7ef0800000000000000
+      internalID: -108099737847070377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c17ac978888f1350800000000000000
+      internalID: 5989656149166289349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd08af26cec92b0800000000000000
+      internalID: -5576322328737817131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 30
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886fc8918503c670800000000000000
+      internalID: 8557689771106723975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 21
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644974df86c75c0f0800000000000000
+      internalID: -1097334143827078074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 11
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7a45c56dc663a80800000000000000
+      internalID: -8487476779805268043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d83803b7e435000800000000000000
+      internalID: 23448714068856177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 22
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6833b3365cbaa70800000000000000
+      internalID: 8839375723630397162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 33
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e59a3f872d5770800000000000000
+      internalID: 8601074359464224922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 26
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92614eceb76aec9d0800000000000000
+      internalID: -2752079271091235287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db54f92a3ec8a970800000000000000
+      internalID: 8766483423883975636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182ead4b790855f0800000000000000
+      internalID: -767853311277783014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab306b98b5a73770800000000000000
+      internalID: 8590517026531851177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d94f3842b9fdc00800000000000000
+      internalID: 927630629396585825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bcb10ef7735d910800000000000000
+      internalID: 1861455043347860276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11081e33bca6060800000000000000
+      internalID: 6947588798859448763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec75a74f8c5dad0800000000000000
+      internalID: -2678013451051741448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35b2a89290b9e80800000000000000
+      internalID: -8170927024917228573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 13
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68223b64ff0c57a0800000000000000
+      internalID: -6387212629073319825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395882febbc311550800000000000000
+      internalID: 6129747345696916883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 11
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a409a0389a3e95e0800000000000000
+      internalID: -1901017567377947479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 13
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c529a4ca284220800000000000000
+      internalID: 2470271419752497551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1a267df672c4c0800000000000000
+      internalID: -4268718665812534268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Dark_Fire_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08bc52ae34325f0800000000000000
+      internalID: -782707237296832269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Dark_Fire_Small_sheet_0: -6169511610896885984
+      Explosion_Dark_Fire_Small_sheet_1: -7891487653517497695
+      Explosion_Dark_Fire_Small_sheet_10: -621944157794055971
+      Explosion_Dark_Fire_Small_sheet_11: -1262775184086827706
+      Explosion_Dark_Fire_Small_sheet_12: -3897939145358236783
+      Explosion_Dark_Fire_Small_sheet_13: 2661035924127818920
+      Explosion_Dark_Fire_Small_sheet_14: 4788002111121722640
+      Explosion_Dark_Fire_Small_sheet_15: 6591081343865807151
+      Explosion_Dark_Fire_Small_sheet_16: -7328284145704835741
+      Explosion_Dark_Fire_Small_sheet_17: 8650046428331290165
+      Explosion_Dark_Fire_Small_sheet_18: -3680158620746926348
+      Explosion_Dark_Fire_Small_sheet_19: 2753437951041757779
+      Explosion_Dark_Fire_Small_sheet_2: 1395240782720494467
+      Explosion_Dark_Fire_Small_sheet_20: -4506341969487014087
+      Explosion_Dark_Fire_Small_sheet_21: 217200099811201519
+      Explosion_Dark_Fire_Small_sheet_22: -9065043834313989578
+      Explosion_Dark_Fire_Small_sheet_23: -6467497248574170771
+      Explosion_Dark_Fire_Small_sheet_24: -1733680161580206631
+      Explosion_Dark_Fire_Small_sheet_25: 9048925150908561463
+      Explosion_Dark_Fire_Small_sheet_26: -108099737847070377
+      Explosion_Dark_Fire_Small_sheet_27: 5989656149166289349
+      Explosion_Dark_Fire_Small_sheet_28: -5576322328737817131
+      Explosion_Dark_Fire_Small_sheet_29: 8557689771106723975
+      Explosion_Dark_Fire_Small_sheet_3: -7383630567349835078
+      Explosion_Dark_Fire_Small_sheet_30: -1097334143827078074
+      Explosion_Dark_Fire_Small_sheet_31: -8487476779805268043
+      Explosion_Dark_Fire_Small_sheet_32: 23448714068856177
+      Explosion_Dark_Fire_Small_sheet_33: 8839375723630397162
+      Explosion_Dark_Fire_Small_sheet_34: 8601074359464224922
+      Explosion_Dark_Fire_Small_sheet_35: -2752079271091235287
+      Explosion_Dark_Fire_Small_sheet_36: 8766483423883975636
+      Explosion_Dark_Fire_Small_sheet_37: -767853311277783014
+      Explosion_Dark_Fire_Small_sheet_38: 8590517026531851177
+      Explosion_Dark_Fire_Small_sheet_39: 927630629396585825
+      Explosion_Dark_Fire_Small_sheet_4: 2709676908044948463
+      Explosion_Dark_Fire_Small_sheet_40: 1861455043347860276
+      Explosion_Dark_Fire_Small_sheet_41: 6947588798859448763
+      Explosion_Dark_Fire_Small_sheet_42: -2678013451051741448
+      Explosion_Dark_Fire_Small_sheet_43: -8170927024917228573
+      Explosion_Dark_Fire_Small_sheet_44: -6387212629073319825
+      Explosion_Dark_Fire_Small_sheet_45: 6129747345696916883
+      Explosion_Dark_Fire_Small_sheet_46: -1901017567377947479
+      Explosion_Dark_Fire_Small_sheet_47: 2470271419752497551
+      Explosion_Dark_Fire_Small_sheet_48: -4268718665812534268
+      Explosion_Dark_Fire_Small_sheet_49: -782707237296832269
+      Explosion_Dark_Fire_Small_sheet_5: -7254758315692190779
+      Explosion_Dark_Fire_Small_sheet_6: 2771583162300110755
+      Explosion_Dark_Fire_Small_sheet_7: 4921985741050254340
+      Explosion_Dark_Fire_Small_sheet_8: -7395571938975587938
+      Explosion_Dark_Fire_Small_sheet_9: 2839413814408759219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

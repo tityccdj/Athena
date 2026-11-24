@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 0f5b457951b9bd949ad286e084fb2812
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4382813833014738018
+    second: Fire_Impact_Blood_Large_sheet_0
+  - first:
+      213: 9082745477925188303
+    second: Fire_Impact_Blood_Large_sheet_1
+  - first:
+      213: -7637073054684813408
+    second: Fire_Impact_Blood_Large_sheet_2
+  - first:
+      213: -1408534755187154839
+    second: Fire_Impact_Blood_Large_sheet_3
+  - first:
+      213: -5590031642964978479
+    second: Fire_Impact_Blood_Large_sheet_4
+  - first:
+      213: 6596249863353210793
+    second: Fire_Impact_Blood_Large_sheet_5
+  - first:
+      213: 8061064093623743449
+    second: Fire_Impact_Blood_Large_sheet_6
+  - first:
+      213: 5682409611710987031
+    second: Fire_Impact_Blood_Large_sheet_7
+  - first:
+      213: 4094779713907672349
+    second: Fire_Impact_Blood_Large_sheet_8
+  - first:
+      213: -6270697447933018329
+    second: Fire_Impact_Blood_Large_sheet_9
+  - first:
+      213: 2031284539944927367
+    second: Fire_Impact_Blood_Large_sheet_10
+  - first:
+      213: 7951140946129418927
+    second: Fire_Impact_Blood_Large_sheet_11
+  - first:
+      213: 6141342854489988926
+    second: Fire_Impact_Blood_Large_sheet_12
+  - first:
+      213: 9061054074499986406
+    second: Fire_Impact_Blood_Large_sheet_13
+  - first:
+      213: 1364491025319004590
+    second: Fire_Impact_Blood_Large_sheet_14
+  - first:
+      213: -1899881353362694110
+    second: Fire_Impact_Blood_Large_sheet_15
+  - first:
+      213: 939349262523331134
+    second: Fire_Impact_Blood_Large_sheet_16
+  - first:
+      213: 1012310436185856657
+    second: Fire_Impact_Blood_Large_sheet_17
+  - first:
+      213: 2707859266886066636
+    second: Fire_Impact_Blood_Large_sheet_18
+  - first:
+      213: -5608325927806461003
+    second: Fire_Impact_Blood_Large_sheet_19
+  - first:
+      213: -3137878931429394984
+    second: Fire_Impact_Blood_Large_sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 37
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930d7e3a0e1d23c0800000000000000
+      internalID: -4382813833014738018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 39
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23405c3e46c0e70800000000000000
+      internalID: 9082745477925188303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 56
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7edcb058aa30690800000000000000
+      internalID: -7637073054684813408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96027475a11e37ce0800000000000000
+      internalID: -1408534755187154839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d411e586d73c62b0800000000000000
+      internalID: -5590031642964978479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a713e26d469a8b50800000000000000
+      internalID: 6596249863353210793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d379147517aedf60800000000000000
+      internalID: 8061064093623743449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7c466f69fbde40800000000000000
+      internalID: 5682409611710987031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1541f8647493d830800000000000000
+      internalID: 4094779713907672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 79
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff00a05e10af8a0800000000000000
+      internalID: -6270697447933018329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 24
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800921e682903c10800000000000000
+      internalID: 2031284539944927367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7b154090285e60800000000000000
+      internalID: 7951140946129418927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 28
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f52c5b9ce6a3550800000000000000
+      internalID: 6141342854489988926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 71
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e37d295ca45fbd70800000000000000
+      internalID: 9061054074499986406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 66
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9095fab55afe210800000000000000
+      internalID: 1364491025319004590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 73
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220ad61a9f342a5e0800000000000000
+      internalID: -1899881353362694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e327ab86d2d390d00800000000000000
+      internalID: 939349262523331134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a574f6af27c0e00800000000000000
+      internalID: 1012310436185856657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16e7808af349520800000000000000
+      internalID: 2707859266886066636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9b7868493b22b0800000000000000
+      internalID: -5608325927806461003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Impact_Blood_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f7ffacb30474d0800000000000000
+      internalID: -3137878931429394984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Impact_Blood_Large_sheet_0: -4382813833014738018
+      Fire_Impact_Blood_Large_sheet_1: 9082745477925188303
+      Fire_Impact_Blood_Large_sheet_10: 2031284539944927367
+      Fire_Impact_Blood_Large_sheet_11: 7951140946129418927
+      Fire_Impact_Blood_Large_sheet_12: 6141342854489988926
+      Fire_Impact_Blood_Large_sheet_13: 9061054074499986406
+      Fire_Impact_Blood_Large_sheet_14: 1364491025319004590
+      Fire_Impact_Blood_Large_sheet_15: -1899881353362694110
+      Fire_Impact_Blood_Large_sheet_16: 939349262523331134
+      Fire_Impact_Blood_Large_sheet_17: 1012310436185856657
+      Fire_Impact_Blood_Large_sheet_18: 2707859266886066636
+      Fire_Impact_Blood_Large_sheet_19: -5608325927806461003
+      Fire_Impact_Blood_Large_sheet_2: -7637073054684813408
+      Fire_Impact_Blood_Large_sheet_20: -3137878931429394984
+      Fire_Impact_Blood_Large_sheet_3: -1408534755187154839
+      Fire_Impact_Blood_Large_sheet_4: -5590031642964978479
+      Fire_Impact_Blood_Large_sheet_5: 6596249863353210793
+      Fire_Impact_Blood_Large_sheet_6: 8061064093623743449
+      Fire_Impact_Blood_Large_sheet_7: 5682409611710987031
+      Fire_Impact_Blood_Large_sheet_8: 4094779713907672349
+      Fire_Impact_Blood_Large_sheet_9: -6270697447933018329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

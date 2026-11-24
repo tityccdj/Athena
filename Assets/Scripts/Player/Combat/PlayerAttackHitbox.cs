@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Athena.Core;
 using Athena.Core.Interfaces;
+using Athena.Particles;
 using UnityEngine;
 
 namespace Athena.Player.Combat
@@ -8,6 +9,7 @@ namespace Athena.Player.Combat
     /// <summary>
     /// Hitbox ที่เปิด/ปิดได้จาก Animation Event
     /// Open() → เริ่ม check ทุก FixedUpdate, Close() → หยุด check
+    /// รองรับการเล่น Particle Effect ณ จุดปะทะที่ฟันโดนศัตรู
     /// </summary>
     public class PlayerAttackHitbox : MonoBehaviour
     {
@@ -15,6 +17,20 @@ namespace Athena.Player.Combat
         [SerializeField] private Vector2 _offset = new Vector2(0.8f, 0f);
         [SerializeField] private float _radius = 0.6f;
         [SerializeField] private LayerMask _targetLayers;
+
+        [Header("Hit Particle Settings (เล่น Particle ณ จุดที่ฟันโดน)")]
+        [Tooltip("ชื่อ Particle ใน ParticleManager เช่น 'HitImpact' หรือ 'BloodSpark'")]
+        [SerializeField] private string _hitParticleName;
+
+        [Tooltip("Prefab สำรองกรณีต้องการลาก Prefab ใส่โดยตรงโดยไม่ผ่าน ParticleManager")]
+        [SerializeField] private GameObject _hitParticlePrefab;
+
+        [Tooltip("ระยะ Offset เพิ่มเติมจากจุดปะทะ")]
+        [SerializeField] private Vector3 _particleOffset = Vector3.zero;
+
+        [Header("Unity Events (สำหรับเชื่อมต่อ Event อื่นๆ เพิ่มเติม)")]
+        [SerializeField] private UnityEngine.Events.UnityEvent _onHitTargetEvent;
+        [SerializeField] private UnityEngine.Events.UnityEvent<Vector3> _onHitPositionEvent;
 
         private bool _isActive;
         private int _damage;
@@ -54,6 +70,23 @@ namespace Athena.Player.Combat
         /// </summary>
         public void CloseHitbox() => Close();
 
+        private void SpawnHitParticle(Vector2 hitPoint)
+        {
+            Vector3 spawnPos = new Vector3(hitPoint.x, hitPoint.y, 0f) + _particleOffset;
+
+            if (ParticleManager.Instance != null)
+            {
+                if (!string.IsNullOrWhiteSpace(_hitParticleName))
+                {
+                    ParticleManager.Instance.PlayParticle(_hitParticleName, spawnPos);
+                }
+                else if (_hitParticlePrefab != null)
+                {
+                    ParticleManager.Instance.PlayPrefab(_hitParticlePrefab, spawnPos);
+                }
+            }
+        }
+
         private void FixedUpdate()
         {
             if (!_isActive) return;
@@ -74,9 +107,19 @@ namespace Athena.Player.Combat
                     if (!_damagedThisSwing.Contains(damageable) && !damageable.IsInvulnerable)
                     {
                         _damagedThisSwing.Add(damageable);
+
+                        // คำนวณจุดปะทะที่ผิว Collider ของศัตรู (Closest Point)
+                        Vector2 hitPoint = hit.ClosestPoint(origin);
+
                         Vector2 knockbackDir = new Vector2(_facingDirection, 0.2f).normalized;
-                        DamageInfo info = new DamageInfo(_damage, hit.transform.position, knockbackDir, _knockbackForce, _attacker);
+                        DamageInfo info = new DamageInfo(_damage, hitPoint, knockbackDir, _knockbackForce, _attacker);
                         damageable.TakeDamage(info);
+
+                        // เล่น Particle Effect ณ ตำแหน่งที่ฟันโดนทันที
+                        SpawnHitParticle(hitPoint);
+
+                        _onHitTargetEvent?.Invoke();
+                        _onHitPositionEvent?.Invoke(hitPoint);
                     }
                 }
             }

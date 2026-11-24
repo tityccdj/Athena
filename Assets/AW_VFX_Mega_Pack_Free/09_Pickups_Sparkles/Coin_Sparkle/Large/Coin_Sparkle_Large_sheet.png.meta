@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ad8fc1fe42b575643b28dc831899fdd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5735574935520462729
+    second: Coin_Sparkle_Large_sheet_0
+  - first:
+      213: 3322353519619713824
+    second: Coin_Sparkle_Large_sheet_1
+  - first:
+      213: 4889615907374920851
+    second: Coin_Sparkle_Large_sheet_2
+  - first:
+      213: -534779612655594275
+    second: Coin_Sparkle_Large_sheet_3
+  - first:
+      213: -1028482097586908298
+    second: Coin_Sparkle_Large_sheet_4
+  - first:
+      213: -2428906255664888866
+    second: Coin_Sparkle_Large_sheet_5
+  - first:
+      213: -565197450312286595
+    second: Coin_Sparkle_Large_sheet_6
+  - first:
+      213: 1352316780258742141
+    second: Coin_Sparkle_Large_sheet_7
+  - first:
+      213: 104492662576734478
+    second: Coin_Sparkle_Large_sheet_8
+  - first:
+      213: 2074135331772855008
+    second: Coin_Sparkle_Large_sheet_9
+  - first:
+      213: 6993497067872204120
+    second: Coin_Sparkle_Large_sheet_10
+  - first:
+      213: 3227314312775424309
+    second: Coin_Sparkle_Large_sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c456f30bd89f40800000000000000
+      internalID: 5735574935520462729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba33b6cee5b1e20800000000000000
+      internalID: 3322353519619713824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947e2fe2c76bd340800000000000000
+      internalID: 4889615907374920851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4da8296c41498f0800000000000000
+      internalID: -534779612655594275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673db7b3bf81ab1f0800000000000000
+      internalID: -1028482097586908298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3ce5e11aaca4ed0800000000000000
+      internalID: -2428906255664888866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7efd2ad9e30828f0800000000000000
+      internalID: -565197450312286595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f4f1f52f464c210800000000000000
+      internalID: 1352316780258742141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 6
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016582e58b337100800000000000000
+      internalID: 104492662576734478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e27862581fc8cc10800000000000000
+      internalID: 2074135331772855008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553244b784ed0160800000000000000
+      internalID: 6993497067872204120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_Sparkle_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5395387b449b9cc20800000000000000
+      internalID: 3227314312775424309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Coin_Sparkle_Large_sheet_0: 5735574935520462729
+      Coin_Sparkle_Large_sheet_1: 3322353519619713824
+      Coin_Sparkle_Large_sheet_10: 6993497067872204120
+      Coin_Sparkle_Large_sheet_11: 3227314312775424309
+      Coin_Sparkle_Large_sheet_2: 4889615907374920851
+      Coin_Sparkle_Large_sheet_3: -534779612655594275
+      Coin_Sparkle_Large_sheet_4: -1028482097586908298
+      Coin_Sparkle_Large_sheet_5: -2428906255664888866
+      Coin_Sparkle_Large_sheet_6: -565197450312286595
+      Coin_Sparkle_Large_sheet_7: 1352316780258742141
+      Coin_Sparkle_Large_sheet_8: 104492662576734478
+      Coin_Sparkle_Large_sheet_9: 2074135331772855008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

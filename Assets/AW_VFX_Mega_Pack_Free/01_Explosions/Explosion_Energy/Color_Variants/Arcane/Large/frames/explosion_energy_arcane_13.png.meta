@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 776ce59afc132954890c2304a9de3303
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8880235467499869489
+    second: explosion_energy_arcane_13_0
+  - first:
+      213: 6741706146845342014
+    second: explosion_energy_arcane_13_1
+  - first:
+      213: 7416143348715201396
+    second: explosion_energy_arcane_13_2
+  - first:
+      213: -2575454826764315782
+    second: explosion_energy_arcane_13_3
+  - first:
+      213: 6180614416087628724
+    second: explosion_energy_arcane_13_4
+  - first:
+      213: -8622906814848319080
+    second: explosion_energy_arcane_13_5
+  - first:
+      213: -6043053370986600860
+    second: explosion_energy_arcane_13_6
+  - first:
+      213: 4097663169251958517
+    second: explosion_energy_arcane_13_7
+  - first:
+      213: 1261647967049846621
+    second: explosion_energy_arcane_13_8
+  - first:
+      213: 2468037257241173937
+    second: explosion_energy_arcane_13_9
+  - first:
+      213: -3053547001609468962
+    second: explosion_energy_arcane_13_10
+  - first:
+      213: -8252612513889500853
+    second: explosion_energy_arcane_13_11
+  - first:
+      213: -3708370785481185156
+    second: explosion_energy_arcane_13_12
+  - first:
+      213: -7116861182522927102
+    second: explosion_energy_arcane_13_13
+  - first:
+      213: -6361403431031123977
+    second: explosion_energy_arcane_13_14
+  - first:
+      213: 605978398389894263
+    second: explosion_energy_arcane_13_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359722bb1fec3b70800000000000000
+      internalID: 8880235467499869489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b8ce750a5f8d50800000000000000
+      internalID: 6741706146845342014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 96
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ab8f451f6be660800000000000000
+      internalID: 7416143348715201396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73d5abfa75224cd0800000000000000
+      internalID: -2575454826764315782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbbf8ca014f5c550800000000000000
+      internalID: 6180614416087628724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cba120f7455880800000000000000
+      internalID: -8622906814848319080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ed9ff9f2c22ca0800000000000000
+      internalID: -6043053370986600860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed67c21f2ddd830800000000000000
+      internalID: 4097663169251958517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f899b3426428110800000000000000
+      internalID: 1261647967049846621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf1a4a2fca304220800000000000000
+      internalID: 2468037257241173937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 39
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3cb103e2f9f95d0800000000000000
+      internalID: -3053547001609468962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b414ca094a4d87d80800000000000000
+      internalID: -8252612513889500853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7825fb1b68398cc0800000000000000
+      internalID: -3708370785481185156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20854f31674db3d90800000000000000
+      internalID: -7116861182522927102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff407c9841c7b7a0800000000000000
+      internalID: -6361403431031123977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_energy_arcane_13_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cf699842ed86800800000000000000
+      internalID: 605978398389894263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion_energy_arcane_13_0: 8880235467499869489
+      explosion_energy_arcane_13_1: 6741706146845342014
+      explosion_energy_arcane_13_10: -3053547001609468962
+      explosion_energy_arcane_13_11: -8252612513889500853
+      explosion_energy_arcane_13_12: -3708370785481185156
+      explosion_energy_arcane_13_13: -7116861182522927102
+      explosion_energy_arcane_13_14: -6361403431031123977
+      explosion_energy_arcane_13_15: 605978398389894263
+      explosion_energy_arcane_13_2: 7416143348715201396
+      explosion_energy_arcane_13_3: -2575454826764315782
+      explosion_energy_arcane_13_4: 6180614416087628724
+      explosion_energy_arcane_13_5: -8622906814848319080
+      explosion_energy_arcane_13_6: -6043053370986600860
+      explosion_energy_arcane_13_7: 4097663169251958517
+      explosion_energy_arcane_13_8: 1261647967049846621
+      explosion_energy_arcane_13_9: 2468037257241173937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

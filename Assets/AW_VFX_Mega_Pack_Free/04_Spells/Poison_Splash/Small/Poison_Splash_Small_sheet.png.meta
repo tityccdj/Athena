@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 2b414609745efaf468de9e1dfc4d8792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8021085099449136934
+    second: Poison_Splash_Small_sheet_0
+  - first:
+      213: 1423130228469908835
+    second: Poison_Splash_Small_sheet_1
+  - first:
+      213: -5825499530951760384
+    second: Poison_Splash_Small_sheet_2
+  - first:
+      213: 9022473458431325340
+    second: Poison_Splash_Small_sheet_3
+  - first:
+      213: -5370335153634253055
+    second: Poison_Splash_Small_sheet_4
+  - first:
+      213: -8451176117557314966
+    second: Poison_Splash_Small_sheet_5
+  - first:
+      213: -7060914811261738131
+    second: Poison_Splash_Small_sheet_6
+  - first:
+      213: -7007388054189063366
+    second: Poison_Splash_Small_sheet_7
+  - first:
+      213: -600260020725100041
+    second: Poison_Splash_Small_sheet_8
+  - first:
+      213: -2297908029265889567
+    second: Poison_Splash_Small_sheet_9
+  - first:
+      213: -8201434273811486481
+    second: Poison_Splash_Small_sheet_10
+  - first:
+      213: 995017068014755330
+    second: Poison_Splash_Small_sheet_11
+  - first:
+      213: -1531582531008563029
+    second: Poison_Splash_Small_sheet_12
+  - first:
+      213: 4744527064927516530
+    second: Poison_Splash_Small_sheet_13
+  - first:
+      213: 4624216409912610059
+    second: Poison_Splash_Small_sheet_14
+  - first:
+      213: -3397432008339629166
+    second: Poison_Splash_Small_sheet_15
+  - first:
+      213: 5515346692919056101
+    second: Poison_Splash_Small_sheet_16
+  - first:
+      213: 4028613319082009825
+    second: Poison_Splash_Small_sheet_17
+  - first:
+      213: 7136534584413519039
+    second: Poison_Splash_Small_sheet_18
+  - first:
+      213: -163248233576889153
+    second: Poison_Splash_Small_sheet_19
+  - first:
+      213: 8425770433430912945
+    second: Poison_Splash_Small_sheet_20
+  - first:
+      213: -8762994518673257919
+    second: Poison_Splash_Small_sheet_21
+  - first:
+      213: -1094852892278668796
+    second: Poison_Splash_Small_sheet_22
+  - first:
+      213: -4559072902512030704
+    second: Poison_Splash_Small_sheet_23
+  - first:
+      213: 4469869350544577188
+    second: Poison_Splash_Small_sheet_24
+  - first:
+      213: -3361701335613363242
+    second: Poison_Splash_Small_sheet_25
+  - first:
+      213: 3933011878108207925
+    second: Poison_Splash_Small_sheet_26
+  - first:
+      213: 2910929965010111518
+    second: Poison_Splash_Small_sheet_27
+  - first:
+      213: 3603555761125146291
+    second: Poison_Splash_Small_sheet_28
+  - first:
+      213: -15825372796519507
+    second: Poison_Splash_Small_sheet_29
+  - first:
+      213: 1758925345179495252
+    second: Poison_Splash_Small_sheet_30
+  - first:
+      213: 8243094928261877721
+    second: Poison_Splash_Small_sheet_31
+  - first:
+      213: -507211615008657107
+    second: Poison_Splash_Small_sheet_32
+  - first:
+      213: -1271667970056364176
+    second: Poison_Splash_Small_sheet_33
+  - first:
+      213: 5697871882378898931
+    second: Poison_Splash_Small_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62738d1866e905f60800000000000000
+      internalID: 8021085099449136934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c1191769ffb310800000000000000
+      internalID: 1423130228469908835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066a6a9a0ba72fa0800000000000000
+      internalID: -5825499530951760384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94703daec3463d70800000000000000
+      internalID: 9022473458431325340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 27
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10766da81acb875b0800000000000000
+      internalID: -5370335153634253055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3bbae81467ba80800000000000000
+      internalID: -8451176117557314966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632375b367920e90800000000000000
+      internalID: -7060914811261738131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ceb201b1c0ce90800000000000000
+      internalID: -7007388054189063366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1dfc301b27ba7f0800000000000000
+      internalID: -600260020725100041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6b61d72d03c10e0800000000000000
+      internalID: -2297908029265889567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 18
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a0c42bf6ae2e80800000000000000
+      internalID: -8201434273811486481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 18
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e587460c20fcd00800000000000000
+      internalID: 995017068014755330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba87a0f7dc9bebae0800000000000000
+      internalID: -1531582531008563029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773b3c5a32f7d140800000000000000
+      internalID: 4744527064927516530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d8f5d13548c2040800000000000000
+      internalID: 4624216409912610059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bdf5ab695e9d0d0800000000000000
+      internalID: -3397432008339629166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d09c78927a8c40800000000000000
+      internalID: 5515346692919056101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46a4d187288e730800000000000000
+      internalID: 4028613319082009825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf14fb4601a0360800000000000000
+      internalID: 7136534584413519039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48073b8960cbdf0800000000000000
+      internalID: -163248233576889153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf73ab41995ee470800000000000000
+      internalID: 8425770433430912945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a09c1e9e6936680800000000000000
+      internalID: -8762994518673257919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402cb62681d4ec0f0800000000000000
+      internalID: -1094852892278668796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c49a4a95beab0c0800000000000000
+      internalID: -4559072902512030704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29d9fed7a280e30800000000000000
+      internalID: 4469869350544577188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2fc14276d851d0800000000000000
+      internalID: -3361701335613363242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b1804177dd49630800000000000000
+      internalID: 3933011878108207925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc7726163b56820800000000000000
+      internalID: 2910929965010111518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be3d2e4fd6620230800000000000000
+      internalID: 3603555761125146291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab760448e6c7cff0800000000000000
+      internalID: -15825372796519507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bead14845f86810800000000000000
+      internalID: 1758925345179495252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8fd8d92b556270800000000000000
+      internalID: 8243094928261877721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f47539b506f8f0800000000000000
+      internalID: -507211615008657107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f5c8408b02a5ee0800000000000000
+      internalID: -1271667970056364176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Splash_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd61e4d948e21f40800000000000000
+      internalID: 5697871882378898931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison_Splash_Small_sheet_0: 8021085099449136934
+      Poison_Splash_Small_sheet_1: 1423130228469908835
+      Poison_Splash_Small_sheet_10: -8201434273811486481
+      Poison_Splash_Small_sheet_11: 995017068014755330
+      Poison_Splash_Small_sheet_12: -1531582531008563029
+      Poison_Splash_Small_sheet_13: 4744527064927516530
+      Poison_Splash_Small_sheet_14: 4624216409912610059
+      Poison_Splash_Small_sheet_15: -3397432008339629166
+      Poison_Splash_Small_sheet_16: 5515346692919056101
+      Poison_Splash_Small_sheet_17: 4028613319082009825
+      Poison_Splash_Small_sheet_18: 7136534584413519039
+      Poison_Splash_Small_sheet_19: -163248233576889153
+      Poison_Splash_Small_sheet_2: -5825499530951760384
+      Poison_Splash_Small_sheet_20: 8425770433430912945
+      Poison_Splash_Small_sheet_21: -8762994518673257919
+      Poison_Splash_Small_sheet_22: -1094852892278668796
+      Poison_Splash_Small_sheet_23: -4559072902512030704
+      Poison_Splash_Small_sheet_24: 4469869350544577188
+      Poison_Splash_Small_sheet_25: -3361701335613363242
+      Poison_Splash_Small_sheet_26: 3933011878108207925
+      Poison_Splash_Small_sheet_27: 2910929965010111518
+      Poison_Splash_Small_sheet_28: 3603555761125146291
+      Poison_Splash_Small_sheet_29: -15825372796519507
+      Poison_Splash_Small_sheet_3: 9022473458431325340
+      Poison_Splash_Small_sheet_30: 1758925345179495252
+      Poison_Splash_Small_sheet_31: 8243094928261877721
+      Poison_Splash_Small_sheet_32: -507211615008657107
+      Poison_Splash_Small_sheet_33: -1271667970056364176
+      Poison_Splash_Small_sheet_34: 5697871882378898931
+      Poison_Splash_Small_sheet_4: -5370335153634253055
+      Poison_Splash_Small_sheet_5: -8451176117557314966
+      Poison_Splash_Small_sheet_6: -7060914811261738131
+      Poison_Splash_Small_sheet_7: -7007388054189063366
+      Poison_Splash_Small_sheet_8: -600260020725100041
+      Poison_Splash_Small_sheet_9: -2297908029265889567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

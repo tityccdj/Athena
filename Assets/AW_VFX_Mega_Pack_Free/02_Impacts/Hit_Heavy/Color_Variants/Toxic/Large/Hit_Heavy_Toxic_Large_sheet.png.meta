@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 6d7039411e057fa4d8064c7482a88e1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1925658387473719050
+    second: Hit_Heavy_Toxic_Large_sheet_0
+  - first:
+      213: 4596176578040584960
+    second: Hit_Heavy_Toxic_Large_sheet_1
+  - first:
+      213: -1127302770339056554
+    second: Hit_Heavy_Toxic_Large_sheet_2
+  - first:
+      213: -5390600048366021914
+    second: Hit_Heavy_Toxic_Large_sheet_3
+  - first:
+      213: -4812628569451071489
+    second: Hit_Heavy_Toxic_Large_sheet_4
+  - first:
+      213: 1168765887923129566
+    second: Hit_Heavy_Toxic_Large_sheet_5
+  - first:
+      213: 4069313830762987463
+    second: Hit_Heavy_Toxic_Large_sheet_6
+  - first:
+      213: 7791482112721035307
+    second: Hit_Heavy_Toxic_Large_sheet_7
+  - first:
+      213: 6836622364391416237
+    second: Hit_Heavy_Toxic_Large_sheet_8
+  - first:
+      213: -7143756458575733578
+    second: Hit_Heavy_Toxic_Large_sheet_9
+  - first:
+      213: 1736268957298061410
+    second: Hit_Heavy_Toxic_Large_sheet_10
+  - first:
+      213: -3731138419778095465
+    second: Hit_Heavy_Toxic_Large_sheet_11
+  - first:
+      213: -2767532511657976973
+    second: Hit_Heavy_Toxic_Large_sheet_12
+  - first:
+      213: -1437379130201368350
+    second: Hit_Heavy_Toxic_Large_sheet_13
+  - first:
+      213: -5359664546172082206
+    second: Hit_Heavy_Toxic_Large_sheet_14
+  - first:
+      213: -4881727137797900060
+    second: Hit_Heavy_Toxic_Large_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0a0ef26efa645e0800000000000000
+      internalID: -1925658387473719050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b54130f36e8cf30800000000000000
+      internalID: 4596176578040584960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65470a36a140b50f0800000000000000
+      internalID: -1127302770339056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 74
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e290fe01ddb035b0800000000000000
+      internalID: -5390600048366021914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f8f180db163db0800000000000000
+      internalID: -4812628569451071489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc8047f16a483010800000000000000
+      internalID: 1168765887923129566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf36327e5b197830800000000000000
+      internalID: 4069313830762987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 28
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b202c8253b7e02c60800000000000000
+      internalID: 7791482112721035307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1aa0581df80ee50800000000000000
+      internalID: 6836622364391416237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 19
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd0b4a9574cdc90800000000000000
+      internalID: -7143756458575733578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f942ea67781810800000000000000
+      internalID: 1736268957298061410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 13
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79670592065583cc0800000000000000
+      internalID: -3731138419778095465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 16
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b184af7dfb799d0800000000000000
+      internalID: -2767532511657976973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e899c0fb476d0ce0800000000000000
+      internalID: -1437379130201368350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76822fd75ae95b0800000000000000
+      internalID: -5359664546172082206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Toxic_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 18
+        width: 113
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8fb2d580f904cb0800000000000000
+      internalID: -4881727137797900060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Heavy_Toxic_Large_sheet_0: -1925658387473719050
+      Hit_Heavy_Toxic_Large_sheet_1: 4596176578040584960
+      Hit_Heavy_Toxic_Large_sheet_10: 1736268957298061410
+      Hit_Heavy_Toxic_Large_sheet_11: -3731138419778095465
+      Hit_Heavy_Toxic_Large_sheet_12: -2767532511657976973
+      Hit_Heavy_Toxic_Large_sheet_13: -1437379130201368350
+      Hit_Heavy_Toxic_Large_sheet_14: -5359664546172082206
+      Hit_Heavy_Toxic_Large_sheet_15: -4881727137797900060
+      Hit_Heavy_Toxic_Large_sheet_2: -1127302770339056554
+      Hit_Heavy_Toxic_Large_sheet_3: -5390600048366021914
+      Hit_Heavy_Toxic_Large_sheet_4: -4812628569451071489
+      Hit_Heavy_Toxic_Large_sheet_5: 1168765887923129566
+      Hit_Heavy_Toxic_Large_sheet_6: 4069313830762987463
+      Hit_Heavy_Toxic_Large_sheet_7: 7791482112721035307
+      Hit_Heavy_Toxic_Large_sheet_8: 6836622364391416237
+      Hit_Heavy_Toxic_Large_sheet_9: -7143756458575733578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

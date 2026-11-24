@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f1f21df274d9bf948944878a7739f7b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2731536404002039559
+    second: Wind_Tornado_Large_sheet_0
+  - first:
+      213: 3675751730058024102
+    second: Wind_Tornado_Large_sheet_1
+  - first:
+      213: 6715447278360163968
+    second: Wind_Tornado_Large_sheet_2
+  - first:
+      213: -7085361937223286883
+    second: Wind_Tornado_Large_sheet_3
+  - first:
+      213: 8707874981620269013
+    second: Wind_Tornado_Large_sheet_4
+  - first:
+      213: -6474606725764303777
+    second: Wind_Tornado_Large_sheet_5
+  - first:
+      213: -315424165768520525
+    second: Wind_Tornado_Large_sheet_6
+  - first:
+      213: -6334145944297529821
+    second: Wind_Tornado_Large_sheet_7
+  - first:
+      213: 4316341826931257825
+    second: Wind_Tornado_Large_sheet_8
+  - first:
+      213: -8021462454358184606
+    second: Wind_Tornado_Large_sheet_9
+  - first:
+      213: -1161542246811722425
+    second: Wind_Tornado_Large_sheet_10
+  - first:
+      213: -4284100862031075248
+    second: Wind_Tornado_Large_sheet_11
+  - first:
+      213: 461815113215702994
+    second: Wind_Tornado_Large_sheet_12
+  - first:
+      213: -8749665098623453509
+    second: Wind_Tornado_Large_sheet_13
+  - first:
+      213: 1869029986782391261
+    second: Wind_Tornado_Large_sheet_14
+  - first:
+      213: 3937070154032117070
+    second: Wind_Tornado_Large_sheet_15
+  - first:
+      213: 6060509411579631205
+    second: Wind_Tornado_Large_sheet_16
+  - first:
+      213: -2396663409294830535
+    second: Wind_Tornado_Large_sheet_17
+  - first:
+      213: 3451533255586047495
+    second: Wind_Tornado_Large_sheet_18
+  - first:
+      213: 7016127101881215006
+    second: Wind_Tornado_Large_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81964ec12a71ad0800000000000000
+      internalID: -2731536404002039559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d2a839b4e20330800000000000000
+      internalID: 3675751730058024102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086758e38bf023d50800000000000000
+      internalID: 6715447278360163968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f7bb2abdcbbad90800000000000000
+      internalID: -7085361937223286883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbcf3d82698d870800000000000000
+      internalID: 8707874981620269013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 4
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b672ac739526a0800000000000000
+      internalID: -6474606725764303777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1bc574636f9bf0800000000000000
+      internalID: -315424165768520525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1aaac2d79818a0800000000000000
+      internalID: -6334145944297529821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 4
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f56bc50ab6eb30800000000000000
+      internalID: 4316341826931257825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de8d4b56a0ea090800000000000000
+      internalID: -8021462454358184606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d9d2b0b7f51efe0800000000000000
+      internalID: -1161542246811722425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05861b0d6f0db84c0800000000000000
+      internalID: -4284100862031075248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 4
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7f02f0662b86600800000000000000
+      internalID: 461815113215702994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 4
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67ae453f1f29680800000000000000
+      internalID: -8749665098623453509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 4
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba7b4ded020f910800000000000000
+      internalID: 1869029986782391261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 4
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4570e2127843a630800000000000000
+      internalID: 3937070154032117070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 4
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669d1b23314b1450800000000000000
+      internalID: 6060509411579631205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 4
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9341ecac3575dbed0800000000000000
+      internalID: -2396663409294830535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 16
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70667ad753f46ef20800000000000000
+      internalID: 3451533255586047495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Tornado_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 24
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ee961d6a4e5160800000000000000
+      internalID: 7016127101881215006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wind_Tornado_Large_sheet_0: -2731536404002039559
+      Wind_Tornado_Large_sheet_1: 3675751730058024102
+      Wind_Tornado_Large_sheet_10: -1161542246811722425
+      Wind_Tornado_Large_sheet_11: -4284100862031075248
+      Wind_Tornado_Large_sheet_12: 461815113215702994
+      Wind_Tornado_Large_sheet_13: -8749665098623453509
+      Wind_Tornado_Large_sheet_14: 1869029986782391261
+      Wind_Tornado_Large_sheet_15: 3937070154032117070
+      Wind_Tornado_Large_sheet_16: 6060509411579631205
+      Wind_Tornado_Large_sheet_17: -2396663409294830535
+      Wind_Tornado_Large_sheet_18: 3451533255586047495
+      Wind_Tornado_Large_sheet_19: 7016127101881215006
+      Wind_Tornado_Large_sheet_2: 6715447278360163968
+      Wind_Tornado_Large_sheet_3: -7085361937223286883
+      Wind_Tornado_Large_sheet_4: 8707874981620269013
+      Wind_Tornado_Large_sheet_5: -6474606725764303777
+      Wind_Tornado_Large_sheet_6: -315424165768520525
+      Wind_Tornado_Large_sheet_7: -6334145944297529821
+      Wind_Tornado_Large_sheet_8: 4316341826931257825
+      Wind_Tornado_Large_sheet_9: -8021462454358184606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

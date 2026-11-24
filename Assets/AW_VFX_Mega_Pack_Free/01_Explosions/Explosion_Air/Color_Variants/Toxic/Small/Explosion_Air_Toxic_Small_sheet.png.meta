@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: f472d7092e9d0484099461c7cf9feecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7734828868791253645
+    second: Explosion_Air_Toxic_Small_sheet_0
+  - first:
+      213: 573373242713190563
+    second: Explosion_Air_Toxic_Small_sheet_1
+  - first:
+      213: -8662313667942317660
+    second: Explosion_Air_Toxic_Small_sheet_2
+  - first:
+      213: -6109409932528456688
+    second: Explosion_Air_Toxic_Small_sheet_3
+  - first:
+      213: -7189412392636173087
+    second: Explosion_Air_Toxic_Small_sheet_4
+  - first:
+      213: 2856843265914914936
+    second: Explosion_Air_Toxic_Small_sheet_5
+  - first:
+      213: -3085602502836999509
+    second: Explosion_Air_Toxic_Small_sheet_6
+  - first:
+      213: 5886029879752507800
+    second: Explosion_Air_Toxic_Small_sheet_7
+  - first:
+      213: -3214134494184980479
+    second: Explosion_Air_Toxic_Small_sheet_8
+  - first:
+      213: 5976992442230063309
+    second: Explosion_Air_Toxic_Small_sheet_9
+  - first:
+      213: 5133832751205553111
+    second: Explosion_Air_Toxic_Small_sheet_10
+  - first:
+      213: 5783232667064514708
+    second: Explosion_Air_Toxic_Small_sheet_11
+  - first:
+      213: 6884948397207353878
+    second: Explosion_Air_Toxic_Small_sheet_12
+  - first:
+      213: 1337009399454421069
+    second: Explosion_Air_Toxic_Small_sheet_13
+  - first:
+      213: -3264256685961492383
+    second: Explosion_Air_Toxic_Small_sheet_14
+  - first:
+      213: 5870498586881154579
+    second: Explosion_Air_Toxic_Small_sheet_15
+  - first:
+      213: -2241279917782268606
+    second: Explosion_Air_Toxic_Small_sheet_16
+  - first:
+      213: 7106837361736445767
+    second: Explosion_Air_Toxic_Small_sheet_17
+  - first:
+      213: -2893157520015282255
+    second: Explosion_Air_Toxic_Small_sheet_18
+  - first:
+      213: 6581017762430402643
+    second: Explosion_Air_Toxic_Small_sheet_19
+  - first:
+      213: 8844389048135727963
+    second: Explosion_Air_Toxic_Small_sheet_20
+  - first:
+      213: -419868015399945599
+    second: Explosion_Air_Toxic_Small_sheet_21
+  - first:
+      213: 2545328481630182474
+    second: Explosion_Air_Toxic_Small_sheet_22
+  - first:
+      213: -967097074659107418
+    second: Explosion_Air_Toxic_Small_sheet_23
+  - first:
+      213: 3570844826363575807
+    second: Explosion_Air_Toxic_Small_sheet_24
+  - first:
+      213: -4291294865345932487
+    second: Explosion_Air_Toxic_Small_sheet_25
+  - first:
+      213: 7322517418977806148
+    second: Explosion_Air_Toxic_Small_sheet_26
+  - first:
+      213: 6449097287493444019
+    second: Explosion_Air_Toxic_Small_sheet_27
+  - first:
+      213: -2043693555067157807
+    second: Explosion_Air_Toxic_Small_sheet_28
+  - first:
+      213: 6694623035758769294
+    second: Explosion_Air_Toxic_Small_sheet_29
+  - first:
+      213: 7816087918724342860
+    second: Explosion_Air_Toxic_Small_sheet_30
+  - first:
+      213: -5351676159417785009
+    second: Explosion_Air_Toxic_Small_sheet_31
+  - first:
+      213: -3984631665005565839
+    second: Explosion_Air_Toxic_Small_sheet_32
+  - first:
+      213: -5119345055321719521
+    second: Explosion_Air_Toxic_Small_sheet_33
+  - first:
+      213: -7397363881740065540
+    second: Explosion_Air_Toxic_Small_sheet_34
+  - first:
+      213: -7840340871332559034
+    second: Explosion_Air_Toxic_Small_sheet_35
+  - first:
+      213: 5590357404544159825
+    second: Explosion_Air_Toxic_Small_sheet_36
+  - first:
+      213: 3392747379524506814
+    second: Explosion_Air_Toxic_Small_sheet_37
+  - first:
+      213: 5505432670880204259
+    second: Explosion_Air_Toxic_Small_sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c24def1e58a490800000000000000
+      internalID: -7734828868791253645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a032a72de705f700800000000000000
+      internalID: 573373242713190563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a189492d9749c780800000000000000
+      internalID: -8662313667942317660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce5601904073ba0800000000000000
+      internalID: -6109409932528456688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4312125831a3c90800000000000000
+      internalID: -7189412392636173087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 8
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87843db60db85a720800000000000000
+      internalID: 2856843265914914936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa28543fdcbd25d0800000000000000
+      internalID: -3085602502836999509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cbf77df06fa150800000000000000
+      internalID: 5886029879752507800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10046cde4b91563d0800000000000000
+      internalID: -3214134494184980479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 6
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0415075fa82f250800000000000000
+      internalID: 5976992442230063309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d39fdfdfa90f3740800000000000000
+      internalID: 5133832751205553111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498b0d5487b224050800000000000000
+      internalID: 5783232667064514708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7078d6104c8f50800000000000000
+      internalID: 6884948397207353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 5
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d6db07f20e8210800000000000000
+      internalID: 1337009399454421069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1684291c6d703b2d0800000000000000
+      internalID: -3264256685961492383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 12
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31edb7d8c53387150800000000000000
+      internalID: 5870498586881154579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 5
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2450f522acf55e0e0800000000000000
+      internalID: -2241279917782268606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f66c64dee80a260800000000000000
+      internalID: 7106837361736445767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 12
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2d3c609079d7d0800000000000000
+      internalID: -2893157520015282255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 26
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350433689c8745b50800000000000000
+      internalID: 6581017762430402643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3c7dcaf49dba70800000000000000
+      internalID: 8844389048135727963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab989b3445c2af0800000000000000
+      internalID: -419868015399945599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 27
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c5040b4c2d25320800000000000000
+      internalID: 2545328481630182474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 15
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6addf91a55e2492f0800000000000000
+      internalID: -967097074659107418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd317f43703e8130800000000000000
+      internalID: 3570844826363575807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 11
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93319946e024274c0800000000000000
+      internalID: -4291294865345932487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44748c3dbcece9560800000000000000
+      internalID: 7322517418977806148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16bfe60dbcf7950800000000000000
+      internalID: 6449097287493444019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 23
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d287742a8753a3e0800000000000000
+      internalID: -2043693555067157807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 38
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e847c8f6e2418ec50800000000000000
+      internalID: 6694623035758769294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 25
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4469c8fc82587c60800000000000000
+      internalID: 7816087918724342860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 10
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e9fc23e60bb5b0800000000000000
+      internalID: -5351676159417785009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 32
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e196bc9eb3b8c0800000000000000
+      internalID: -3984631665005565839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d75eeabce64f8b0800000000000000
+      internalID: -5119345055321719521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 12
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf424921eb8475990800000000000000
+      internalID: -7397363881740065540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470f367483813390800000000000000
+      internalID: -7840340871332559034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 21
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505451c070f49d40800000000000000
+      internalID: 5590357404544159825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 17
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4123124c5751f20800000000000000
+      internalID: 3392747379524506814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Air_Toxic_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 12
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e505aa58d9376c40800000000000000
+      internalID: 5505432670880204259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Air_Toxic_Small_sheet_0: -7734828868791253645
+      Explosion_Air_Toxic_Small_sheet_1: 573373242713190563
+      Explosion_Air_Toxic_Small_sheet_10: 5133832751205553111
+      Explosion_Air_Toxic_Small_sheet_11: 5783232667064514708
+      Explosion_Air_Toxic_Small_sheet_12: 6884948397207353878
+      Explosion_Air_Toxic_Small_sheet_13: 1337009399454421069
+      Explosion_Air_Toxic_Small_sheet_14: -3264256685961492383
+      Explosion_Air_Toxic_Small_sheet_15: 5870498586881154579
+      Explosion_Air_Toxic_Small_sheet_16: -2241279917782268606
+      Explosion_Air_Toxic_Small_sheet_17: 7106837361736445767
+      Explosion_Air_Toxic_Small_sheet_18: -2893157520015282255
+      Explosion_Air_Toxic_Small_sheet_19: 6581017762430402643
+      Explosion_Air_Toxic_Small_sheet_2: -8662313667942317660
+      Explosion_Air_Toxic_Small_sheet_20: 8844389048135727963
+      Explosion_Air_Toxic_Small_sheet_21: -419868015399945599
+      Explosion_Air_Toxic_Small_sheet_22: 2545328481630182474
+      Explosion_Air_Toxic_Small_sheet_23: -967097074659107418
+      Explosion_Air_Toxic_Small_sheet_24: 3570844826363575807
+      Explosion_Air_Toxic_Small_sheet_25: -4291294865345932487
+      Explosion_Air_Toxic_Small_sheet_26: 7322517418977806148
+      Explosion_Air_Toxic_Small_sheet_27: 6449097287493444019
+      Explosion_Air_Toxic_Small_sheet_28: -2043693555067157807
+      Explosion_Air_Toxic_Small_sheet_29: 6694623035758769294
+      Explosion_Air_Toxic_Small_sheet_3: -6109409932528456688
+      Explosion_Air_Toxic_Small_sheet_30: 7816087918724342860
+      Explosion_Air_Toxic_Small_sheet_31: -5351676159417785009
+      Explosion_Air_Toxic_Small_sheet_32: -3984631665005565839
+      Explosion_Air_Toxic_Small_sheet_33: -5119345055321719521
+      Explosion_Air_Toxic_Small_sheet_34: -7397363881740065540
+      Explosion_Air_Toxic_Small_sheet_35: -7840340871332559034
+      Explosion_Air_Toxic_Small_sheet_36: 5590357404544159825
+      Explosion_Air_Toxic_Small_sheet_37: 3392747379524506814
+      Explosion_Air_Toxic_Small_sheet_38: 5505432670880204259
+      Explosion_Air_Toxic_Small_sheet_4: -7189412392636173087
+      Explosion_Air_Toxic_Small_sheet_5: 2856843265914914936
+      Explosion_Air_Toxic_Small_sheet_6: -3085602502836999509
+      Explosion_Air_Toxic_Small_sheet_7: 5886029879752507800
+      Explosion_Air_Toxic_Small_sheet_8: -3214134494184980479
+      Explosion_Air_Toxic_Small_sheet_9: 5976992442230063309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

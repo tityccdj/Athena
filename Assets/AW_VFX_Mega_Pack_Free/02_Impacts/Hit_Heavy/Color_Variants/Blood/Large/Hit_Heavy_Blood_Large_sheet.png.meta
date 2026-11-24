@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 00d61c6ed2cf6f045a73825744a64ad1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3580733287088233709
+    second: Hit_Heavy_Blood_Large_sheet_0
+  - first:
+      213: -1604592326151065645
+    second: Hit_Heavy_Blood_Large_sheet_1
+  - first:
+      213: -7256827489262913402
+    second: Hit_Heavy_Blood_Large_sheet_2
+  - first:
+      213: -5861126010105319793
+    second: Hit_Heavy_Blood_Large_sheet_3
+  - first:
+      213: -3079607850494522088
+    second: Hit_Heavy_Blood_Large_sheet_4
+  - first:
+      213: 882491812642984936
+    second: Hit_Heavy_Blood_Large_sheet_5
+  - first:
+      213: -8004301214227383998
+    second: Hit_Heavy_Blood_Large_sheet_6
+  - first:
+      213: 8424401736797597030
+    second: Hit_Heavy_Blood_Large_sheet_7
+  - first:
+      213: -8777896727970929287
+    second: Hit_Heavy_Blood_Large_sheet_8
+  - first:
+      213: 6360140605763868715
+    second: Hit_Heavy_Blood_Large_sheet_9
+  - first:
+      213: 2663764919031716730
+    second: Hit_Heavy_Blood_Large_sheet_10
+  - first:
+      213: -3831638397612313948
+    second: Hit_Heavy_Blood_Large_sheet_11
+  - first:
+      213: -6122593465059192937
+    second: Hit_Heavy_Blood_Large_sheet_12
+  - first:
+      213: -9172560850507546140
+    second: Hit_Heavy_Blood_Large_sheet_13
+  - first:
+      213: -5820902406245714785
+    second: Hit_Heavy_Blood_Large_sheet_14
+  - first:
+      213: -2415019262952651635
+    second: Hit_Heavy_Blood_Large_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec9f4cf3f151b130800000000000000
+      internalID: 3580733287088233709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa276e7c75bb9e0800000000000000
+      internalID: -1604592326151065645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688b13ac8d19a4b90800000000000000
+      internalID: -7256827489262913402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 74
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eaed782f819aea0800000000000000
+      internalID: -5861126010105319793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d05c7f9f80345d0800000000000000
+      internalID: -3079607850494522088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e396c1c0ad3f3c00800000000000000
+      internalID: 882491812642984936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249bfba44720be090800000000000000
+      internalID: -8004301214227383998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 28
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2107cebc79e470800000000000000
+      internalID: 8424401736797597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975aa36ee65ae2680800000000000000
+      internalID: -8777896727970929287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 19
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d718fe22c34850800000000000000
+      internalID: 6360140605763868715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b5804a41897f420800000000000000
+      internalID: 2663764919031716730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 13
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a23292ad2943dac0800000000000000
+      internalID: -3831638397612313948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 16
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc403bead280ba0800000000000000
+      internalID: -6122593465059192937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c7d8318484b080800000000000000
+      internalID: -9172560850507546140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f18b1a10083fa0800000000000000
+      internalID: -5820902406245714785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Heavy_Blood_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 18
+        width: 113
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844bf196c02c7ed0800000000000000
+      internalID: -2415019262952651635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Heavy_Blood_Large_sheet_0: 3580733287088233709
+      Hit_Heavy_Blood_Large_sheet_1: -1604592326151065645
+      Hit_Heavy_Blood_Large_sheet_10: 2663764919031716730
+      Hit_Heavy_Blood_Large_sheet_11: -3831638397612313948
+      Hit_Heavy_Blood_Large_sheet_12: -6122593465059192937
+      Hit_Heavy_Blood_Large_sheet_13: -9172560850507546140
+      Hit_Heavy_Blood_Large_sheet_14: -5820902406245714785
+      Hit_Heavy_Blood_Large_sheet_15: -2415019262952651635
+      Hit_Heavy_Blood_Large_sheet_2: -7256827489262913402
+      Hit_Heavy_Blood_Large_sheet_3: -5861126010105319793
+      Hit_Heavy_Blood_Large_sheet_4: -3079607850494522088
+      Hit_Heavy_Blood_Large_sheet_5: 882491812642984936
+      Hit_Heavy_Blood_Large_sheet_6: -8004301214227383998
+      Hit_Heavy_Blood_Large_sheet_7: 8424401736797597030
+      Hit_Heavy_Blood_Large_sheet_8: -8777896727970929287
+      Hit_Heavy_Blood_Large_sheet_9: 6360140605763868715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

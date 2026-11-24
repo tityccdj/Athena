@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 5844c022257b9aa438a4c9d982ac749b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8978240689825583285
+    second: Buff_Up_Small_sheet_0
+  - first:
+      213: 7273077115261381552
+    second: Buff_Up_Small_sheet_1
+  - first:
+      213: 3715477985569998625
+    second: Buff_Up_Small_sheet_2
+  - first:
+      213: 4403585847730189289
+    second: Buff_Up_Small_sheet_3
+  - first:
+      213: -4408633914021382078
+    second: Buff_Up_Small_sheet_4
+  - first:
+      213: -8194312342084884581
+    second: Buff_Up_Small_sheet_5
+  - first:
+      213: 4243598742817434591
+    second: Buff_Up_Small_sheet_6
+  - first:
+      213: -4111727535767147157
+    second: Buff_Up_Small_sheet_7
+  - first:
+      213: -8811044588766868468
+    second: Buff_Up_Small_sheet_8
+  - first:
+      213: 1590717982176538393
+    second: Buff_Up_Small_sheet_9
+  - first:
+      213: 6491362363443365119
+    second: Buff_Up_Small_sheet_10
+  - first:
+      213: 7618573865676240656
+    second: Buff_Up_Small_sheet_11
+  - first:
+      213: 452083500829371267
+    second: Buff_Up_Small_sheet_12
+  - first:
+      213: 5019408298419385806
+    second: Buff_Up_Small_sheet_13
+  - first:
+      213: 5758010199357436986
+    second: Buff_Up_Small_sheet_14
+  - first:
+      213: 3946674663416330961
+    second: Buff_Up_Small_sheet_15
+  - first:
+      213: 7162445744270940319
+    second: Buff_Up_Small_sheet_16
+  - first:
+      213: 4810011605117186351
+    second: Buff_Up_Small_sheet_17
+  - first:
+      213: -9122596055188834924
+    second: Buff_Up_Small_sheet_18
+  - first:
+      213: 3294873495802726191
+    second: Buff_Up_Small_sheet_19
+  - first:
+      213: -5137940469630408801
+    second: Buff_Up_Small_sheet_20
+  - first:
+      213: -7179707685032230842
+    second: Buff_Up_Small_sheet_21
+  - first:
+      213: 2589411210839269583
+    second: Buff_Up_Small_sheet_22
+  - first:
+      213: 5743741500945374760
+    second: Buff_Up_Small_sheet_23
+  - first:
+      213: -4748554318892929270
+    second: Buff_Up_Small_sheet_24
+  - first:
+      213: 2733743747036322921
+    second: Buff_Up_Small_sheet_25
+  - first:
+      213: -5201605156311264176
+    second: Buff_Up_Small_sheet_26
+  - first:
+      213: -5932255023051540532
+    second: Buff_Up_Small_sheet_27
+  - first:
+      213: 3524508300107384903
+    second: Buff_Up_Small_sheet_28
+  - first:
+      213: -3051644670899020284
+    second: Buff_Up_Small_sheet_29
+  - first:
+      213: 6392725908848805959
+    second: Buff_Up_Small_sheet_30
+  - first:
+      213: -4600589513306244096
+    second: Buff_Up_Small_sheet_31
+  - first:
+      213: 6336364830892524192
+    second: Buff_Up_Small_sheet_32
+  - first:
+      213: -4405784087308430928
+    second: Buff_Up_Small_sheet_33
+  - first:
+      213: -7750607843979425277
+    second: Buff_Up_Small_sheet_34
+  - first:
+      213: -2168771824619073835
+    second: Buff_Up_Small_sheet_35
+  - first:
+      213: 5243439170940039702
+    second: Buff_Up_Small_sheet_36
+  - first:
+      213: -4644153480790991826
+    second: Buff_Up_Small_sheet_37
+  - first:
+      213: 7635202994160545453
+    second: Buff_Up_Small_sheet_38
+  - first:
+      213: 2274067835046562559
+    second: Buff_Up_Small_sheet_39
+  - first:
+      213: -4985642182664528621
+    second: Buff_Up_Small_sheet_40
+  - first:
+      213: -87714750182919904
+    second: Buff_Up_Small_sheet_41
+  - first:
+      213: 6862104672554381655
+    second: Buff_Up_Small_sheet_42
+  - first:
+      213: -8599462956477706731
+    second: Buff_Up_Small_sheet_43
+  - first:
+      213: 7363958867609486601
+    second: Buff_Up_Small_sheet_44
+  - first:
+      213: 3809469973368549524
+    second: Buff_Up_Small_sheet_45
+  - first:
+      213: -6911848406352377212
+    second: Buff_Up_Small_sheet_46
+  - first:
+      213: -2929943087697921504
+    second: Buff_Up_Small_sheet_47
+  - first:
+      213: -5519938003484789421
+    second: Buff_Up_Small_sheet_48
+  - first:
+      213: 1193951981535274555
+    second: Buff_Up_Small_sheet_49
+  - first:
+      213: -6159429063224263143
+    second: Buff_Up_Small_sheet_50
+  - first:
+      213: 4674209479922396004
+    second: Buff_Up_Small_sheet_51
+  - first:
+      213: -1660210112538324380
+    second: Buff_Up_Small_sheet_52
+  - first:
+      213: -8104296485131958549
+    second: Buff_Up_Small_sheet_53
+  - first:
+      213: 5367070510755201756
+    second: Buff_Up_Small_sheet_54
+  - first:
+      213: -4345597219752394785
+    second: Buff_Up_Small_sheet_55
+  - first:
+      213: -3442309883907317371
+    second: Buff_Up_Small_sheet_56
+  - first:
+      213: 6557283056392896287
+    second: Buff_Up_Small_sheet_57
+  - first:
+      213: -5943377859643165939
+    second: Buff_Up_Small_sheet_58
+  - first:
+      213: 3574913690240925894
+    second: Buff_Up_Small_sheet_59
+  - first:
+      213: 4168258784187893634
+    second: Buff_Up_Small_sheet_60
+  - first:
+      213: -7345835505132963181
+    second: Buff_Up_Small_sheet_61
+  - first:
+      213: 8298540009738462607
+    second: Buff_Up_Small_sheet_62
+  - first:
+      213: -4364263316967461384
+    second: Buff_Up_Small_sheet_63
+  - first:
+      213: -1361868612311659081
+    second: Buff_Up_Small_sheet_64
+  - first:
+      213: -2100182201192155311
+    second: Buff_Up_Small_sheet_65
+  - first:
+      213: 5099253577092378341
+    second: Buff_Up_Small_sheet_66
+  - first:
+      213: 8038722415757454588
+    second: Buff_Up_Small_sheet_67
+  - first:
+      213: 5212964069353526683
+    second: Buff_Up_Small_sheet_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 26
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fecfe49a1e66380800000000000000
+      internalID: -8978240689825583285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 21
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6d271a192fe460800000000000000
+      internalID: 7273077115261381552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 22
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270facda87009330800000000000000
+      internalID: 3715477985569998625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 27
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e335ef4ffdac1d30800000000000000
+      internalID: 4403585847730189289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 27
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248f30a20d261d2c0800000000000000
+      internalID: -4408633914021382078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 28
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b976e671754f74e80800000000000000
+      internalID: -8194312342084884581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 28
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb6de2b29a44ea30800000000000000
+      internalID: 4243598742817434591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 31
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d2861579530f6c0800000000000000
+      internalID: -4111727535767147157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4c6221a1e8b580800000000000000
+      internalID: -8811044588766868468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 42
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6579a39d531610800000000000000
+      internalID: 1590717982176538393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 21
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c1654da3f51a50800000000000000
+      internalID: 6491362363443365119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 38
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f4bed09c9ab960800000000000000
+      internalID: 7618573865676240656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 40
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38befbb7c8f164600800000000000000
+      internalID: 452083500829371267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec57fe1e04588a540800000000000000
+      internalID: 5019408298419385806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 11
+        width: 125
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b6c1e4cf88ef40800000000000000
+      internalID: 5758010199357436986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf6fc22b765c630800000000000000
+      internalID: 3946674663416330961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f981746c47e166360800000000000000
+      internalID: 7162445744270940319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213480021890c240800000000000000
+      internalID: 4810011605117186351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 20
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f61da837066180800000000000000
+      internalID: -9122596055188834924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 18
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27cb29ccfdb9bd20800000000000000
+      internalID: 3294873495802726191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 19
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9763966d5e52b8b0800000000000000
+      internalID: -5137940469630408801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640038276ed8c5c90800000000000000
+      internalID: -7179707685032230842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02d77e6cf6fe320800000000000000
+      internalID: 2589411210839269583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e9485a67ed5bf40800000000000000
+      internalID: 5743741500945374760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 28
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f6db1810fb91eb0800000000000000
+      internalID: -4748554318892929270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 28
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c9b05347530f520800000000000000
+      internalID: 2733743747036322921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 26
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0541a3c6baf20d7b0800000000000000
+      internalID: -5201605156311264176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 21
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc77cf9ac756cada0800000000000000
+      internalID: -5932255023051540532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 21
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74801d310a199e030800000000000000
+      internalID: 3524508300107384903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9952175166a5d0800000000000000
+      internalID: -3051644670899020284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7488e5f085687b850800000000000000
+      internalID: 6392725908848805959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c7efd663c6720c0800000000000000
+      internalID: -4600589513306244096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a280a00e3a4fe750800000000000000
+      internalID: 6336364830892524192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b199e627b28bd2c0800000000000000
+      internalID: -4405784087308430928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a004afa3f407490800000000000000
+      internalID: -7750607843979425277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de44b22489f6e1e0800000000000000
+      internalID: -2168771824619073835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ff31252074c840800000000000000
+      internalID: 5243439170940039702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c1f07d307ac8fb0800000000000000
+      internalID: -4644153480790991826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 11
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae20fe8ba0b5f960800000000000000
+      internalID: 7635202994160545453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 10
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa871fb5ac1f8f10800000000000000
+      internalID: 2274067835046562559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd31599d07fcab0800000000000000
+      internalID: -4985642182664528621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 13
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f8c146ef58cef0800000000000000
+      internalID: -87714750182919904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f62bb7d71b3f50800000000000000
+      internalID: 6862104672554381655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e0404c00298a880800000000000000
+      internalID: -8599462956477706731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905837cf299023660800000000000000
+      internalID: 7363958867609486601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903621e1c4fdd430800000000000000
+      internalID: 3809469973368549524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 11
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a4406be7e2410a0800000000000000
+      internalID: -6911848406352377212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 16
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a77a50940c657d0800000000000000
+      internalID: -2929943087697921504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3553c18b1ad3563b0800000000000000
+      internalID: -5519938003484789421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a84a5005c19010800000000000000
+      internalID: 1193951981535274555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91efc4ba6ef458aa0800000000000000
+      internalID: -6159429063224263143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ba988c1c02ed040800000000000000
+      internalID: 4674209479922396004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46254a5e2bfb5f8e0800000000000000
+      internalID: -1660210112538324380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 9
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be643410941c78f80800000000000000
+      internalID: -8104296485131958549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 9
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2c90e813aab7a40800000000000000
+      internalID: 5367070510755201756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfbbb34a5651b3c0800000000000000
+      internalID: -4345597219752394785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58163e216657a30d0800000000000000
+      internalID: -3442309883907317371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f7cf3a236200b50800000000000000
+      internalID: 6557283056392896287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d033c067351e48da0800000000000000
+      internalID: -5943377859643165939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0cd718f05ac9130800000000000000
+      internalID: 3574913690240925894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 8
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287cb63a741a8d930800000000000000
+      internalID: 4168258784187893634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af81a27895e0a90800000000000000
+      internalID: -7345835505132963181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e3dadb265a2370800000000000000
+      internalID: 8298540009738462607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde2e5d2a50f63c0800000000000000
+      internalID: -4364263316967461384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc86c66bba91de0800000000000000
+      internalID: -1361868612311659081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f75e4a67aad2e0800000000000000
+      internalID: -2100182201192155311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2b328c1034c640800000000000000
+      internalID: 5099253577092378341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc613732774f8f60800000000000000
+      internalID: 8038722415757454588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff_Up_Small_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9511bc933b285840800000000000000
+      internalID: 5212964069353526683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buff_Up_Small_sheet_0: -8978240689825583285
+      Buff_Up_Small_sheet_1: 7273077115261381552
+      Buff_Up_Small_sheet_10: 6491362363443365119
+      Buff_Up_Small_sheet_11: 7618573865676240656
+      Buff_Up_Small_sheet_12: 452083500829371267
+      Buff_Up_Small_sheet_13: 5019408298419385806
+      Buff_Up_Small_sheet_14: 5758010199357436986
+      Buff_Up_Small_sheet_15: 3946674663416330961
+      Buff_Up_Small_sheet_16: 7162445744270940319
+      Buff_Up_Small_sheet_17: 4810011605117186351
+      Buff_Up_Small_sheet_18: -9122596055188834924
+      Buff_Up_Small_sheet_19: 3294873495802726191
+      Buff_Up_Small_sheet_2: 3715477985569998625
+      Buff_Up_Small_sheet_20: -5137940469630408801
+      Buff_Up_Small_sheet_21: -7179707685032230842
+      Buff_Up_Small_sheet_22: 2589411210839269583
+      Buff_Up_Small_sheet_23: 5743741500945374760
+      Buff_Up_Small_sheet_24: -4748554318892929270
+      Buff_Up_Small_sheet_25: 2733743747036322921
+      Buff_Up_Small_sheet_26: -5201605156311264176
+      Buff_Up_Small_sheet_27: -5932255023051540532
+      Buff_Up_Small_sheet_28: 3524508300107384903
+      Buff_Up_Small_sheet_29: -3051644670899020284
+      Buff_Up_Small_sheet_3: 4403585847730189289
+      Buff_Up_Small_sheet_30: 6392725908848805959
+      Buff_Up_Small_sheet_31: -4600589513306244096
+      Buff_Up_Small_sheet_32: 6336364830892524192
+      Buff_Up_Small_sheet_33: -4405784087308430928
+      Buff_Up_Small_sheet_34: -7750607843979425277
+      Buff_Up_Small_sheet_35: -2168771824619073835
+      Buff_Up_Small_sheet_36: 5243439170940039702
+      Buff_Up_Small_sheet_37: -4644153480790991826
+      Buff_Up_Small_sheet_38: 7635202994160545453
+      Buff_Up_Small_sheet_39: 2274067835046562559
+      Buff_Up_Small_sheet_4: -4408633914021382078
+      Buff_Up_Small_sheet_40: -4985642182664528621
+      Buff_Up_Small_sheet_41: -87714750182919904
+      Buff_Up_Small_sheet_42: 6862104672554381655
+      Buff_Up_Small_sheet_43: -8599462956477706731
+      Buff_Up_Small_sheet_44: 7363958867609486601
+      Buff_Up_Small_sheet_45: 3809469973368549524
+      Buff_Up_Small_sheet_46: -6911848406352377212
+      Buff_Up_Small_sheet_47: -2929943087697921504
+      Buff_Up_Small_sheet_48: -5519938003484789421
+      Buff_Up_Small_sheet_49: 1193951981535274555
+      Buff_Up_Small_sheet_5: -8194312342084884581
+      Buff_Up_Small_sheet_50: -6159429063224263143
+      Buff_Up_Small_sheet_51: 4674209479922396004
+      Buff_Up_Small_sheet_52: -1660210112538324380
+      Buff_Up_Small_sheet_53: -8104296485131958549
+      Buff_Up_Small_sheet_54: 5367070510755201756
+      Buff_Up_Small_sheet_55: -4345597219752394785
+      Buff_Up_Small_sheet_56: -3442309883907317371
+      Buff_Up_Small_sheet_57: 6557283056392896287
+      Buff_Up_Small_sheet_58: -5943377859643165939
+      Buff_Up_Small_sheet_59: 3574913690240925894
+      Buff_Up_Small_sheet_6: 4243598742817434591
+      Buff_Up_Small_sheet_60: 4168258784187893634
+      Buff_Up_Small_sheet_61: -7345835505132963181
+      Buff_Up_Small_sheet_62: 8298540009738462607
+      Buff_Up_Small_sheet_63: -4364263316967461384
+      Buff_Up_Small_sheet_64: -1361868612311659081
+      Buff_Up_Small_sheet_65: -2100182201192155311
+      Buff_Up_Small_sheet_66: 5099253577092378341
+      Buff_Up_Small_sheet_67: 8038722415757454588
+      Buff_Up_Small_sheet_68: 5212964069353526683
+      Buff_Up_Small_sheet_7: -4111727535767147157
+      Buff_Up_Small_sheet_8: -8811044588766868468
+      Buff_Up_Small_sheet_9: 1590717982176538393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

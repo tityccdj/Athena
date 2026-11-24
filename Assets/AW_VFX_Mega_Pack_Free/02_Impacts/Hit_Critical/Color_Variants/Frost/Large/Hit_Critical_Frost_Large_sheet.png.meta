@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 90c83b26deb8cd048af5a84015613061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2342361051006740649
+    second: Hit_Critical_Frost_Large_sheet_0
+  - first:
+      213: 4328886385328018452
+    second: Hit_Critical_Frost_Large_sheet_1
+  - first:
+      213: -8656207425644430251
+    second: Hit_Critical_Frost_Large_sheet_2
+  - first:
+      213: -3982124440473143770
+    second: Hit_Critical_Frost_Large_sheet_3
+  - first:
+      213: 3882893641416261184
+    second: Hit_Critical_Frost_Large_sheet_4
+  - first:
+      213: -2673655576534900400
+    second: Hit_Critical_Frost_Large_sheet_5
+  - first:
+      213: 4430616032748195297
+    second: Hit_Critical_Frost_Large_sheet_6
+  - first:
+      213: -233342775039006572
+    second: Hit_Critical_Frost_Large_sheet_7
+  - first:
+      213: -9018168411982879358
+    second: Hit_Critical_Frost_Large_sheet_8
+  - first:
+      213: 3063267869518634485
+    second: Hit_Critical_Frost_Large_sheet_9
+  - first:
+      213: 8613179301837769709
+    second: Hit_Critical_Frost_Large_sheet_10
+  - first:
+      213: -2843143872252795681
+    second: Hit_Critical_Frost_Large_sheet_11
+  - first:
+      213: 7392209812367596374
+    second: Hit_Critical_Frost_Large_sheet_12
+  - first:
+      213: -4003397059510021887
+    second: Hit_Critical_Frost_Large_sheet_13
+  - first:
+      213: -6310215970766622759
+    second: Hit_Critical_Frost_Large_sheet_14
+  - first:
+      213: -6218391572632968426
+    second: Hit_Critical_Frost_Large_sheet_15
+  - first:
+      213: 1923847922863694979
+    second: Hit_Critical_Frost_Large_sheet_16
+  - first:
+      213: 6190463337609987596
+    second: Hit_Critical_Frost_Large_sheet_17
+  - first:
+      213: 8689586070855249964
+    second: Hit_Critical_Frost_Large_sheet_18
+  - first:
+      213: -5059377298579632873
+    second: Hit_Critical_Frost_Large_sheet_19
+  - first:
+      213: -6280781219999984086
+    second: Hit_Critical_Frost_Large_sheet_20
+  - first:
+      213: -3981887559264713091
+    second: Hit_Critical_Frost_Large_sheet_21
+  - first:
+      213: -3831165110622133825
+    second: Hit_Critical_Frost_Large_sheet_22
+  - first:
+      213: 2974133983366782457
+    second: Hit_Critical_Frost_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7575803d8034e7fd0800000000000000
+      internalID: -2342361051006740649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41450866b3b431c30800000000000000
+      internalID: 4328886385328018452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 62
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c7d5c7539fed780800000000000000
+      internalID: -8656207425644430251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 60
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626723a6be6acb8c0800000000000000
+      internalID: -3982124440473143770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e3d35c13fc2e530800000000000000
+      internalID: 3882893641416261184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 64
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05125e43b6445ead0800000000000000
+      internalID: -2673655576534900400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 29
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed4b10bec5bc7d30800000000000000
+      internalID: 4430616032748195297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49865ee7bfff2ccf0800000000000000
+      internalID: -233342775039006572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ac1f0c9709d280800000000000000
+      internalID: -9018168411982879358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd968eb5e9e28a20800000000000000
+      internalID: 3063267869518634485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 42
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb89c0c0f8288770800000000000000
+      internalID: 8613179301837769709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd42b0936bf1b88d0800000000000000
+      internalID: -2843143872252795681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 40
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bd353a8a7669660800000000000000
+      internalID: 7392209812367596374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101df05d5931178c0800000000000000
+      internalID: -4003397059510021887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 39
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df657ee10c9d68a0800000000000000
+      internalID: -6310215970766622759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ede6afc5d3b9a0800000000000000
+      internalID: -6218391572632968426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 16
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e92c2e71e2ba10800000000000000
+      internalID: 1923847922863694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 39
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0682596b91f8e550800000000000000
+      internalID: 6190463337609987596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 14
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207286fd7c979870800000000000000
+      internalID: 8689586070855249964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 18
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4c75172b79c9b0800000000000000
+      internalID: -5059377298579632873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d4f5e1ce26d8a0800000000000000
+      internalID: -6280781219999984086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ca7e9c5e7db8c0800000000000000
+      internalID: -3981887559264713091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb16f7951a7f4dac0800000000000000
+      internalID: -3831165110622133825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Critical_Frost_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9ef8a91f364920800000000000000
+      internalID: 2974133983366782457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Critical_Frost_Large_sheet_0: -2342361051006740649
+      Hit_Critical_Frost_Large_sheet_1: 4328886385328018452
+      Hit_Critical_Frost_Large_sheet_10: 8613179301837769709
+      Hit_Critical_Frost_Large_sheet_11: -2843143872252795681
+      Hit_Critical_Frost_Large_sheet_12: 7392209812367596374
+      Hit_Critical_Frost_Large_sheet_13: -4003397059510021887
+      Hit_Critical_Frost_Large_sheet_14: -6310215970766622759
+      Hit_Critical_Frost_Large_sheet_15: -6218391572632968426
+      Hit_Critical_Frost_Large_sheet_16: 1923847922863694979
+      Hit_Critical_Frost_Large_sheet_17: 6190463337609987596
+      Hit_Critical_Frost_Large_sheet_18: 8689586070855249964
+      Hit_Critical_Frost_Large_sheet_19: -5059377298579632873
+      Hit_Critical_Frost_Large_sheet_2: -8656207425644430251
+      Hit_Critical_Frost_Large_sheet_20: -6280781219999984086
+      Hit_Critical_Frost_Large_sheet_21: -3981887559264713091
+      Hit_Critical_Frost_Large_sheet_22: -3831165110622133825
+      Hit_Critical_Frost_Large_sheet_23: 2974133983366782457
+      Hit_Critical_Frost_Large_sheet_3: -3982124440473143770
+      Hit_Critical_Frost_Large_sheet_4: 3882893641416261184
+      Hit_Critical_Frost_Large_sheet_5: -2673655576534900400
+      Hit_Critical_Frost_Large_sheet_6: 4430616032748195297
+      Hit_Critical_Frost_Large_sheet_7: -233342775039006572
+      Hit_Critical_Frost_Large_sheet_8: -9018168411982879358
+      Hit_Critical_Frost_Large_sheet_9: 3063267869518634485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: f03d0fa366d265845ae4d8e7d146842f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -860307830946433508
+    second: Dash_Wind_Large_sheet_0
+  - first:
+      213: 1613425870144680533
+    second: Dash_Wind_Large_sheet_1
+  - first:
+      213: 5468795966184711010
+    second: Dash_Wind_Large_sheet_2
+  - first:
+      213: 8901807372796202916
+    second: Dash_Wind_Large_sheet_3
+  - first:
+      213: -8954157239865221819
+    second: Dash_Wind_Large_sheet_4
+  - first:
+      213: -5563432298032552657
+    second: Dash_Wind_Large_sheet_5
+  - first:
+      213: -2831771282507607066
+    second: Dash_Wind_Large_sheet_6
+  - first:
+      213: 5336517977592399842
+    second: Dash_Wind_Large_sheet_7
+  - first:
+      213: 7622297317001711205
+    second: Dash_Wind_Large_sheet_8
+  - first:
+      213: -4162324113088540366
+    second: Dash_Wind_Large_sheet_9
+  - first:
+      213: -2708696735297455902
+    second: Dash_Wind_Large_sheet_10
+  - first:
+      213: 26627146503772243
+    second: Dash_Wind_Large_sheet_11
+  - first:
+      213: -4008846848284424083
+    second: Dash_Wind_Large_sheet_12
+  - first:
+      213: -3229850345454716192
+    second: Dash_Wind_Large_sheet_13
+  - first:
+      213: -3191988398381762454
+    second: Dash_Wind_Large_sheet_14
+  - first:
+      213: 1773636984735716507
+    second: Dash_Wind_Large_sheet_15
+  - first:
+      213: -8645670202743881270
+    second: Dash_Wind_Large_sheet_16
+  - first:
+      213: 6197057281788739085
+    second: Dash_Wind_Large_sheet_17
+  - first:
+      213: 7785022732575356644
+    second: Dash_Wind_Large_sheet_18
+  - first:
+      213: 5144549665600894313
+    second: Dash_Wind_Large_sheet_19
+  - first:
+      213: -872916364588051580
+    second: Dash_Wind_Large_sheet_20
+  - first:
+      213: -3512644906381043218
+    second: Dash_Wind_Large_sheet_21
+  - first:
+      213: -8100610734665664140
+    second: Dash_Wind_Large_sheet_22
+  - first:
+      213: -2692776899646614346
+    second: Dash_Wind_Large_sheet_23
+  - first:
+      213: 4623045944209363635
+    second: Dash_Wind_Large_sheet_24
+  - first:
+      213: -3563604304827822942
+    second: Dash_Wind_Large_sheet_25
+  - first:
+      213: -2944894362085821959
+    second: Dash_Wind_Large_sheet_26
+  - first:
+      213: -19815032090105993
+    second: Dash_Wind_Large_sheet_27
+  - first:
+      213: -1558141060325311995
+    second: Dash_Wind_Large_sheet_28
+  - first:
+      213: -410468543321669141
+    second: Dash_Wind_Large_sheet_29
+  - first:
+      213: 3840655722203703892
+    second: Dash_Wind_Large_sheet_30
+  - first:
+      213: -4219668387594603044
+    second: Dash_Wind_Large_sheet_31
+  - first:
+      213: -8020824833990214839
+    second: Dash_Wind_Large_sheet_32
+  - first:
+      213: 5972474001951519930
+    second: Dash_Wind_Large_sheet_33
+  - first:
+      213: 294212613217078620
+    second: Dash_Wind_Large_sheet_34
+  - first:
+      213: -2016797333820248005
+    second: Dash_Wind_Large_sheet_35
+  - first:
+      213: 2269295404342660145
+    second: Dash_Wind_Large_sheet_36
+  - first:
+      213: -2957980068208684086
+    second: Dash_Wind_Large_sheet_37
+  - first:
+      213: -352633156641607319
+    second: Dash_Wind_Large_sheet_38
+  - first:
+      213: 2308313394632831391
+    second: Dash_Wind_Large_sheet_39
+  - first:
+      213: -2532755155240106305
+    second: Dash_Wind_Large_sheet_40
+  - first:
+      213: -7297044304525535261
+    second: Dash_Wind_Large_sheet_41
+  - first:
+      213: 2174776004242346277
+    second: Dash_Wind_Large_sheet_42
+  - first:
+      213: 4259675905880125885
+    second: Dash_Wind_Large_sheet_43
+  - first:
+      213: 2409641816709479181
+    second: Dash_Wind_Large_sheet_44
+  - first:
+      213: 4008546133959947225
+    second: Dash_Wind_Large_sheet_45
+  - first:
+      213: -4089831235694337732
+    second: Dash_Wind_Large_sheet_46
+  - first:
+      213: -6760224119888201308
+    second: Dash_Wind_Large_sheet_47
+  - first:
+      213: 9092726490264146282
+    second: Dash_Wind_Large_sheet_48
+  - first:
+      213: 1675105022383592829
+    second: Dash_Wind_Large_sheet_49
+  - first:
+      213: -7319218545070482397
+    second: Dash_Wind_Large_sheet_50
+  - first:
+      213: -3895476962282034278
+    second: Dash_Wind_Large_sheet_51
+  - first:
+      213: -2527423743366671073
+    second: Dash_Wind_Large_sheet_52
+  - first:
+      213: -7178414459289496692
+    second: Dash_Wind_Large_sheet_53
+  - first:
+      213: 5473865039523355788
+    second: Dash_Wind_Large_sheet_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1673faf5929f04f0800000000000000
+      internalID: -860307830946433508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5523665d74a046610800000000000000
+      internalID: 1613425870144680533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 70
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636781d4f015eb40800000000000000
+      internalID: 5468795966184711010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 14
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af887a44a2998b70800000000000000
+      internalID: 8901807372796202916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 67
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d57d67e617cb380800000000000000
+      internalID: -8954157239865221819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 12
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a5df1dc7bac2b0800000000000000
+      internalID: -5563432298032552657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 26
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35bfc950783b8d0800000000000000
+      internalID: -2831771282507607066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 26
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e781e793de1f0a40800000000000000
+      internalID: 5336517977592399842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 26
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ecc407607d7c960800000000000000
+      internalID: 7622297317001711205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2319057a5447c36c0800000000000000
+      internalID: -4162324113088540366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 5
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b558aba6c86ad0800000000000000
+      internalID: -2708696735297455902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585db8af399e5000800000000000000
+      internalID: 26627146503772243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6800110807bd58c0800000000000000
+      internalID: -4008846848284424083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eabf7929344d23d0800000000000000
+      internalID: -3229850345454716192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68794ba677c3b3d0800000000000000
+      internalID: -3191988398381762454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3
+        width: 354
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94daa3c0793d9810800000000000000
+      internalID: 1773636984735716507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 20
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac18540e1c8640880800000000000000
+      internalID: -8645670202743881270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ef3cda3ce500650800000000000000
+      internalID: 6197057281788739085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 20
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6be7fade4f90c60800000000000000
+      internalID: 7785022732575356644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 20
+        width: 47
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965fe73f9ac156740800000000000000
+      internalID: 5144549665600894313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 20
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839a1af037c2e3f0800000000000000
+      internalID: -872916364588051580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 20
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee992158114904fc0800000000000000
+      internalID: -3512644906381043218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797988a479d49f80800000000000000
+      internalID: -8100610734665664140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49f2d3da551aad0800000000000000
+      internalID: -2692776899646614346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2d8e4dacb582040800000000000000
+      internalID: 4623045944209363635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac4faaf3c88b8ec0800000000000000
+      internalID: -3563604304827822942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f2de2e22a127d0800000000000000
+      internalID: -2944894362085821959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776e03555a99bff0800000000000000
+      internalID: -19815032090105993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50afb5506fe506ae0800000000000000
+      internalID: -1558141060325311995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be107dbd809bd4af0800000000000000
+      internalID: -410468543321669141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae58ad700cc4530800000000000000
+      internalID: 3840655722203703892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd57a7f45f9b075c0800000000000000
+      internalID: -4219668387594603044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb1644f4e40b090800000000000000
+      internalID: -8020824833990214839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47394167d72e250800000000000000
+      internalID: 5972474001951519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d4e3b10d0451400800000000000000
+      internalID: 294212613217078620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3070b5a285e204e0800000000000000
+      internalID: -2016797333820248005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c4542a5282e7f10800000000000000
+      internalID: 2269295404342660145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac35cbdccc423f6d0800000000000000
+      internalID: -2957980068208684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9613a5a23023b1bf0800000000000000
+      internalID: -352633156641607319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91bd5d6dc6c80020800000000000000
+      internalID: 2308313394632831391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6cfdcfa98d9dcd0800000000000000
+      internalID: -2532755155240106305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d77ecdd0bbba90800000000000000
+      internalID: -7297044304525535261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52198eed04b5e2e10800000000000000
+      internalID: 2174776004242346277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1764ceaa86d1b30800000000000000
+      internalID: 4259675905880125885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b35e82774c07120800000000000000
+      internalID: 2409641816709479181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3b27c787731a730800000000000000
+      internalID: 4008546133959947225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c316425f8200e37c0800000000000000
+      internalID: -4089831235694337732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 4
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9390ceafbde22a0800000000000000
+      internalID: -6760224119888201308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619afb419adf2e70800000000000000
+      internalID: 9092726490264146282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7595ac842b2f3710800000000000000
+      internalID: 1675105022383592829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c5f9b1389ec6a90800000000000000
+      internalID: -7319218545070482397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2678875c70f9c0800000000000000
+      internalID: -3895476962282034278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ddbb0f79ccecd0800000000000000
+      internalID: -2527423743366671073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8395870516216c90800000000000000
+      internalID: -7178414459289496692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Wind_Large_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c183d604317fb40800000000000000
+      internalID: 5473865039523355788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dash_Wind_Large_sheet_0: -860307830946433508
+      Dash_Wind_Large_sheet_1: 1613425870144680533
+      Dash_Wind_Large_sheet_10: -2708696735297455902
+      Dash_Wind_Large_sheet_11: 26627146503772243
+      Dash_Wind_Large_sheet_12: -4008846848284424083
+      Dash_Wind_Large_sheet_13: -3229850345454716192
+      Dash_Wind_Large_sheet_14: -3191988398381762454
+      Dash_Wind_Large_sheet_15: 1773636984735716507
+      Dash_Wind_Large_sheet_16: -8645670202743881270
+      Dash_Wind_Large_sheet_17: 6197057281788739085
+      Dash_Wind_Large_sheet_18: 7785022732575356644
+      Dash_Wind_Large_sheet_19: 5144549665600894313
+      Dash_Wind_Large_sheet_2: 5468795966184711010
+      Dash_Wind_Large_sheet_20: -872916364588051580
+      Dash_Wind_Large_sheet_21: -3512644906381043218
+      Dash_Wind_Large_sheet_22: -8100610734665664140
+      Dash_Wind_Large_sheet_23: -2692776899646614346
+      Dash_Wind_Large_sheet_24: 4623045944209363635
+      Dash_Wind_Large_sheet_25: -3563604304827822942
+      Dash_Wind_Large_sheet_26: -2944894362085821959
+      Dash_Wind_Large_sheet_27: -19815032090105993
+      Dash_Wind_Large_sheet_28: -1558141060325311995
+      Dash_Wind_Large_sheet_29: -410468543321669141
+      Dash_Wind_Large_sheet_3: 8901807372796202916
+      Dash_Wind_Large_sheet_30: 3840655722203703892
+      Dash_Wind_Large_sheet_31: -4219668387594603044
+      Dash_Wind_Large_sheet_32: -8020824833990214839
+      Dash_Wind_Large_sheet_33: 5972474001951519930
+      Dash_Wind_Large_sheet_34: 294212613217078620
+      Dash_Wind_Large_sheet_35: -2016797333820248005
+      Dash_Wind_Large_sheet_36: 2269295404342660145
+      Dash_Wind_Large_sheet_37: -2957980068208684086
+      Dash_Wind_Large_sheet_38: -352633156641607319
+      Dash_Wind_Large_sheet_39: 2308313394632831391
+      Dash_Wind_Large_sheet_4: -8954157239865221819
+      Dash_Wind_Large_sheet_40: -2532755155240106305
+      Dash_Wind_Large_sheet_41: -7297044304525535261
+      Dash_Wind_Large_sheet_42: 2174776004242346277
+      Dash_Wind_Large_sheet_43: 4259675905880125885
+      Dash_Wind_Large_sheet_44: 2409641816709479181
+      Dash_Wind_Large_sheet_45: 4008546133959947225
+      Dash_Wind_Large_sheet_46: -4089831235694337732
+      Dash_Wind_Large_sheet_47: -6760224119888201308
+      Dash_Wind_Large_sheet_48: 9092726490264146282
+      Dash_Wind_Large_sheet_49: 1675105022383592829
+      Dash_Wind_Large_sheet_5: -5563432298032552657
+      Dash_Wind_Large_sheet_50: -7319218545070482397
+      Dash_Wind_Large_sheet_51: -3895476962282034278
+      Dash_Wind_Large_sheet_52: -2527423743366671073
+      Dash_Wind_Large_sheet_53: -7178414459289496692
+      Dash_Wind_Large_sheet_54: 5473865039523355788
+      Dash_Wind_Large_sheet_6: -2831771282507607066
+      Dash_Wind_Large_sheet_7: 5336517977592399842
+      Dash_Wind_Large_sheet_8: 7622297317001711205
+      Dash_Wind_Large_sheet_9: -4162324113088540366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

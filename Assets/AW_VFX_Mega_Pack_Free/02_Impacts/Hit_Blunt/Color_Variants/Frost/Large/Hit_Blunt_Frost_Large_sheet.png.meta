@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c9ba4c70eec4e5242b55f0d94bf52c1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7134500214365752085
+    second: Hit_Blunt_Frost_Large_sheet_0
+  - first:
+      213: -5608269294977533526
+    second: Hit_Blunt_Frost_Large_sheet_1
+  - first:
+      213: -8531257156220590150
+    second: Hit_Blunt_Frost_Large_sheet_2
+  - first:
+      213: -7066684017122705414
+    second: Hit_Blunt_Frost_Large_sheet_3
+  - first:
+      213: -4238566196174282453
+    second: Hit_Blunt_Frost_Large_sheet_4
+  - first:
+      213: 407745523786468747
+    second: Hit_Blunt_Frost_Large_sheet_5
+  - first:
+      213: 8223945461285634500
+    second: Hit_Blunt_Frost_Large_sheet_6
+  - first:
+      213: 7284901882586111222
+    second: Hit_Blunt_Frost_Large_sheet_7
+  - first:
+      213: -8921905523584633811
+    second: Hit_Blunt_Frost_Large_sheet_8
+  - first:
+      213: -6255834801436895961
+    second: Hit_Blunt_Frost_Large_sheet_9
+  - first:
+      213: -3528484132361332213
+    second: Hit_Blunt_Frost_Large_sheet_10
+  - first:
+      213: -137900484959810365
+    second: Hit_Blunt_Frost_Large_sheet_11
+  - first:
+      213: 1771330834425268000
+    second: Hit_Blunt_Frost_Large_sheet_12
+  - first:
+      213: 8326947969241325437
+    second: Hit_Blunt_Frost_Large_sheet_13
+  - first:
+      213: 7824707761063112577
+    second: Hit_Blunt_Frost_Large_sheet_14
+  - first:
+      213: -6611988697254931847
+    second: Hit_Blunt_Frost_Large_sheet_15
+  - first:
+      213: 8386776301881947253
+    second: Hit_Blunt_Frost_Large_sheet_16
+  - first:
+      213: 1196826216827110336
+    second: Hit_Blunt_Frost_Large_sheet_17
+  - first:
+      213: -8237054541403110790
+    second: Hit_Blunt_Frost_Large_sheet_18
+  - first:
+      213: -8810004779898228100
+    second: Hit_Blunt_Frost_Large_sheet_19
+  - first:
+      213: -8282319110886368238
+    second: Hit_Blunt_Frost_Large_sheet_20
+  - first:
+      213: 8932447285260653114
+    second: Hit_Blunt_Frost_Large_sheet_21
+  - first:
+      213: 7289333401229057420
+    second: Hit_Blunt_Frost_Large_sheet_22
+  - first:
+      213: 5741048609538749917
+    second: Hit_Blunt_Frost_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b083f0526d20360800000000000000
+      internalID: 7134500214365752085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa932244acc6b22b0800000000000000
+      internalID: -5608269294977533526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab766f321d2ea9980800000000000000
+      internalID: -8531257156220590150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff787bc3581eed90800000000000000
+      internalID: -7066684017122705414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ad0060869d25c0800000000000000
+      internalID: -4238566196174282453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d4c00c46a98a500800000000000000
+      internalID: 407745523786468747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1cd1023d2512270800000000000000
+      internalID: 8223945461285634500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9e174aab291560800000000000000
+      internalID: 7284901882586111222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 23
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24742352360f2480800000000000000
+      internalID: -8921905523584633811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d3d6946fce29a0800000000000000
+      internalID: -6255834801436895961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a1007506e480fc0800000000000000
+      internalID: -3528484132361332213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cccd935d34161ef0800000000000000
+      internalID: -137900484959810365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0274d9d4208059810800000000000000
+      internalID: 1771330834425268000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1ac95f034f8370800000000000000
+      internalID: 8326947969241325437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa8696042f69c60800000000000000
+      internalID: 7824707761063112577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972d839cf4f7d34a0800000000000000
+      internalID: -6611988697254931847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574765c8c90d36470800000000000000
+      internalID: 8386776301881947253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3cad76a1bfb9010800000000000000
+      internalID: 1196826216827110336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 36
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724620598a10bd80800000000000000
+      internalID: -8237054541403110790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 36
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723ca084539cb580800000000000000
+      internalID: -8810004779898228100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c503776aa4f0d80800000000000000
+      internalID: -8282319110886368238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321dd4da7d66fb70800000000000000
+      internalID: 8932447285260653114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dd5ad9b1ae82560800000000000000
+      internalID: 7289333401229057420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Frost_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5bec10b4d4caf40800000000000000
+      internalID: 5741048609538749917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Frost_Large_sheet_0: 7134500214365752085
+      Hit_Blunt_Frost_Large_sheet_1: -5608269294977533526
+      Hit_Blunt_Frost_Large_sheet_10: -3528484132361332213
+      Hit_Blunt_Frost_Large_sheet_11: -137900484959810365
+      Hit_Blunt_Frost_Large_sheet_12: 1771330834425268000
+      Hit_Blunt_Frost_Large_sheet_13: 8326947969241325437
+      Hit_Blunt_Frost_Large_sheet_14: 7824707761063112577
+      Hit_Blunt_Frost_Large_sheet_15: -6611988697254931847
+      Hit_Blunt_Frost_Large_sheet_16: 8386776301881947253
+      Hit_Blunt_Frost_Large_sheet_17: 1196826216827110336
+      Hit_Blunt_Frost_Large_sheet_18: -8237054541403110790
+      Hit_Blunt_Frost_Large_sheet_19: -8810004779898228100
+      Hit_Blunt_Frost_Large_sheet_2: -8531257156220590150
+      Hit_Blunt_Frost_Large_sheet_20: -8282319110886368238
+      Hit_Blunt_Frost_Large_sheet_21: 8932447285260653114
+      Hit_Blunt_Frost_Large_sheet_22: 7289333401229057420
+      Hit_Blunt_Frost_Large_sheet_23: 5741048609538749917
+      Hit_Blunt_Frost_Large_sheet_3: -7066684017122705414
+      Hit_Blunt_Frost_Large_sheet_4: -4238566196174282453
+      Hit_Blunt_Frost_Large_sheet_5: 407745523786468747
+      Hit_Blunt_Frost_Large_sheet_6: 8223945461285634500
+      Hit_Blunt_Frost_Large_sheet_7: 7284901882586111222
+      Hit_Blunt_Frost_Large_sheet_8: -8921905523584633811
+      Hit_Blunt_Frost_Large_sheet_9: -6255834801436895961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

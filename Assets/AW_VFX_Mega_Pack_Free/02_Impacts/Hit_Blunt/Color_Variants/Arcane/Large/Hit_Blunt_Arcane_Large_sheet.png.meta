@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 12b8cc6193a88f542a166d5103cf6417
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3473270854678674163
+    second: Hit_Blunt_Arcane_Large_sheet_0
+  - first:
+      213: -2343457735455507414
+    second: Hit_Blunt_Arcane_Large_sheet_1
+  - first:
+      213: -6068585761651301430
+    second: Hit_Blunt_Arcane_Large_sheet_2
+  - first:
+      213: -2620685980307505614
+    second: Hit_Blunt_Arcane_Large_sheet_3
+  - first:
+      213: -7778356702955034462
+    second: Hit_Blunt_Arcane_Large_sheet_4
+  - first:
+      213: -2372842640394568371
+    second: Hit_Blunt_Arcane_Large_sheet_5
+  - first:
+      213: -4203895346334913636
+    second: Hit_Blunt_Arcane_Large_sheet_6
+  - first:
+      213: 2162433423993110619
+    second: Hit_Blunt_Arcane_Large_sheet_7
+  - first:
+      213: -3373850301033855914
+    second: Hit_Blunt_Arcane_Large_sheet_8
+  - first:
+      213: -1796600344753947741
+    second: Hit_Blunt_Arcane_Large_sheet_9
+  - first:
+      213: -1963605689644771649
+    second: Hit_Blunt_Arcane_Large_sheet_10
+  - first:
+      213: 3438426923356730806
+    second: Hit_Blunt_Arcane_Large_sheet_11
+  - first:
+      213: 3038151035432277408
+    second: Hit_Blunt_Arcane_Large_sheet_12
+  - first:
+      213: -828557211800521117
+    second: Hit_Blunt_Arcane_Large_sheet_13
+  - first:
+      213: 5640924863109083137
+    second: Hit_Blunt_Arcane_Large_sheet_14
+  - first:
+      213: -5150882181886934713
+    second: Hit_Blunt_Arcane_Large_sheet_15
+  - first:
+      213: 7078549692978127661
+    second: Hit_Blunt_Arcane_Large_sheet_16
+  - first:
+      213: 6615381670948392227
+    second: Hit_Blunt_Arcane_Large_sheet_17
+  - first:
+      213: -1959306518963107991
+    second: Hit_Blunt_Arcane_Large_sheet_18
+  - first:
+      213: -7368686788295183916
+    second: Hit_Blunt_Arcane_Large_sheet_19
+  - first:
+      213: 4893710814770245591
+    second: Hit_Blunt_Arcane_Large_sheet_20
+  - first:
+      213: -4172077953576692104
+    second: Hit_Blunt_Arcane_Large_sheet_21
+  - first:
+      213: -2833905436530497354
+    second: Hit_Blunt_Arcane_Large_sheet_22
+  - first:
+      213: 7081710502094598465
+    second: Hit_Blunt_Arcane_Large_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faf6dda079833030800000000000000
+      internalID: 3473270854678674163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c78041b9d5a7fd0800000000000000
+      internalID: -2343457735455507414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e7cb076d08cba0800000000000000
+      internalID: -6068585761651301430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ebce36cf371abd0800000000000000
+      internalID: -2620685980307505614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a826184ac9bd0490800000000000000
+      internalID: -7778356702955034462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db16fb038f11fd0800000000000000
+      internalID: -2372842640394568371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2ac8a473c8a5c0800000000000000
+      internalID: -4203895346334913636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b508a87fdb1820e10800000000000000
+      internalID: 2162433423993110619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 23
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6544881d60dad21d0800000000000000
+      internalID: -3373850301033855914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb89751813117e0800000000000000
+      internalID: -1796600344753947741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb699c5670fdfb4e0800000000000000
+      internalID: -1963605689644771649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b531d8b11fb7bf20800000000000000
+      internalID: 3438426923356730806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51de8154ea92a20800000000000000
+      internalID: 3038151035432277408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ba821b9f5084f0800000000000000
+      internalID: -828557211800521117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100394ea647984e40800000000000000
+      internalID: 5640924863109083137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7418db432f36488b0800000000000000
+      internalID: -5150882181886934713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2369e6217f0c3260800000000000000
+      internalID: 7078549692978127661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4286749e8ecb50800000000000000
+      internalID: 6615381670948392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 36
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967c8131a152fc4e0800000000000000
+      internalID: -1959306518963107991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 36
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13d82386a2db990800000000000000
+      internalID: -7368686788295183916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2edbde04f9e340800000000000000
+      internalID: 4893710814770245591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87692d1b43dc916c0800000000000000
+      internalID: -4172077953576692104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82d882502fba8d0800000000000000
+      internalID: -2833905436530497354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Blunt_Arcane_Large_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141708f5e2a474260800000000000000
+      internalID: 7081710502094598465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Blunt_Arcane_Large_sheet_0: 3473270854678674163
+      Hit_Blunt_Arcane_Large_sheet_1: -2343457735455507414
+      Hit_Blunt_Arcane_Large_sheet_10: -1963605689644771649
+      Hit_Blunt_Arcane_Large_sheet_11: 3438426923356730806
+      Hit_Blunt_Arcane_Large_sheet_12: 3038151035432277408
+      Hit_Blunt_Arcane_Large_sheet_13: -828557211800521117
+      Hit_Blunt_Arcane_Large_sheet_14: 5640924863109083137
+      Hit_Blunt_Arcane_Large_sheet_15: -5150882181886934713
+      Hit_Blunt_Arcane_Large_sheet_16: 7078549692978127661
+      Hit_Blunt_Arcane_Large_sheet_17: 6615381670948392227
+      Hit_Blunt_Arcane_Large_sheet_18: -1959306518963107991
+      Hit_Blunt_Arcane_Large_sheet_19: -7368686788295183916
+      Hit_Blunt_Arcane_Large_sheet_2: -6068585761651301430
+      Hit_Blunt_Arcane_Large_sheet_20: 4893710814770245591
+      Hit_Blunt_Arcane_Large_sheet_21: -4172077953576692104
+      Hit_Blunt_Arcane_Large_sheet_22: -2833905436530497354
+      Hit_Blunt_Arcane_Large_sheet_23: 7081710502094598465
+      Hit_Blunt_Arcane_Large_sheet_3: -2620685980307505614
+      Hit_Blunt_Arcane_Large_sheet_4: -7778356702955034462
+      Hit_Blunt_Arcane_Large_sheet_5: -2372842640394568371
+      Hit_Blunt_Arcane_Large_sheet_6: -4203895346334913636
+      Hit_Blunt_Arcane_Large_sheet_7: 2162433423993110619
+      Hit_Blunt_Arcane_Large_sheet_8: -3373850301033855914
+      Hit_Blunt_Arcane_Large_sheet_9: -1796600344753947741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
