@@ -160,6 +160,22 @@ namespace Athena.Boss.Phase3
                 if (_player == null) return;
             }
 
+            // ถ้าผู้เล่นยังไม่เข้าห้อง หรือผู้เล่นตายแล้ว -> ห้ามทำ action ใดๆ
+            bool isFightActive = BossManager.Instance != null && BossManager.Instance.IsFightActive;
+            bool isPlayerDead = _player.Health != null && _player.Health.CurrentHealth <= 0;
+
+            if (!isFightActive || isPlayerDead)
+            {
+                if (_currentState != NecromancerBossState.Idle && _currentState != NecromancerBossState.Intro)
+                {
+                    StopAllCoroutines();
+                    CloseAllHitboxes();
+                    if (_anim != null) { _anim.StopTelegraph(); _anim.PlayIdle(); }
+                    SetState(NecromancerBossState.Idle);
+                }
+                return;
+            }
+
             // หันหน้าเข้าหา Player ตอนไม่ได้อยู่ในจังหวะฟัน melee
             if (_currentState != NecromancerBossState.Attacking || !_isAttackingMelee)
             {
@@ -563,6 +579,32 @@ namespace Athena.Boss.Phase3
         public void AnimEvent_OnDeathComplete()
         {
             // ถ้ามี Animation Event
+        }
+
+        /// <summary>
+        /// รีเซ็ตสถานะบอส Phase 3 กลับสู่จุดเริ่มต้น (ใช้ตอน Player Respawn)
+        /// </summary>
+        public void ResetBoss(Vector3 spawnPosition)
+        {
+            StopAllCoroutines();
+            _winStateCoroutine = null;
+            _safetyTimeoutCoroutine = null;
+
+            transform.position = spawnPosition;
+            CloseAllHitboxes();
+
+            if (_anim != null)
+            {
+                _anim.StopTelegraph();
+                _anim.PlayIdle();
+            }
+
+            if (_health != null)
+            {
+                _health.ResetHealth();
+            }
+
+            SetState(NecromancerBossState.Idle);
         }
 
         private void TriggerGameVictory()

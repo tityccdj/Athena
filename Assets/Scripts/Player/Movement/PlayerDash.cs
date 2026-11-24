@@ -41,6 +41,13 @@ namespace Athena.Player.Movement
             _health = health;
         }
 
+        public void ResetDash()
+        {
+            StopAllCoroutines();
+            _isDashing = false;
+            _lastDashTime = -999f;
+        }
+
         private void Awake()
         {
             _rb = GetComponent<Rigidbody2D>();

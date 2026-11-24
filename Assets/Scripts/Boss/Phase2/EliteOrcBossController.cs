@@ -199,6 +199,25 @@ namespace Athena.Boss.Phase2
                 if (_player == null) return;
             }
 
+            // ถ้าผู้เล่นยังไม่เข้าห้อง หรือผู้เล่นตายแล้ว -> ห้ามทำ action ใดๆ
+            bool isFightActive = BossManager.Instance != null && BossManager.Instance.IsFightActive;
+            bool isPlayerDead = _player.Health != null && _player.Health.CurrentHealth <= 0;
+
+            if (!isFightActive || isPlayerDead)
+            {
+                if (_currentState != EliteOrcBossState.Idle && _currentState != EliteOrcBossState.Intro)
+                {
+                    StopAllCoroutines();
+                    _isSpinRushing = false;
+                    SetHorizontalLock(true);
+                    CloseAllHitboxes();
+                    if (_rb != null) _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+                    if (_anim != null) { _anim.StopTelegraph(); _anim.PlayIdle(); }
+                    SetState(EliteOrcBossState.Idle);
+                }
+                return;
+            }
+
             // หันหน้าเข้าหา Player ตอนไม่ได้โจมตี
             if (_currentState == EliteOrcBossState.Idle || _currentState == EliteOrcBossState.Chase)
             {
@@ -219,6 +238,10 @@ namespace Athena.Boss.Phase2
 
         private void FixedUpdate()
         {
+            bool isFightActive = BossManager.Instance != null && BossManager.Instance.IsFightActive;
+            bool isPlayerDead = _player != null && _player.Health != null && _player.Health.CurrentHealth <= 0;
+            if (!isFightActive || isPlayerDead) return;
+
             // ถ้ากำลังหมุนเป็นลูกข่างพุ่งไปข้างหน้า (ท่า 2 Spin Tornado)
             if (_currentState == EliteOrcBossState.Attacking && _isSpinRushing)
             {
@@ -781,6 +804,41 @@ namespace Athena.Boss.Phase2
             Time.fixedDeltaTime = 0.02f;
 
             TriggerPhaseAdvance();
+        }
+
+        /// <summary>
+        /// รีเซ็ตสถานะบอส Phase 2 กลับสู่จุดเริ่มต้น (ใช้ตอน Player Respawn)
+        /// </summary>
+        public void ResetBoss(Vector3 spawnPosition)
+        {
+            StopAllCoroutines();
+            _deathTransitionCoroutine = null;
+            _safetyTimeoutCoroutine = null;
+
+            transform.position = spawnPosition;
+            _isSpinRushing = false;
+            SetHorizontalLock(false);
+            CloseAllHitboxes();
+
+            if (_rb != null)
+            {
+                _rb.bodyType = RigidbodyType2D.Dynamic;
+                _rb.simulated = true;
+                _rb.linearVelocity = Vector2.zero;
+            }
+
+            if (_anim != null)
+            {
+                _anim.StopTelegraph();
+                _anim.PlayIdle();
+            }
+
+            if (_health != null)
+            {
+                _health.ResetHealth();
+            }
+
+            SetState(EliteOrcBossState.Idle);
         }
 
         private void TriggerPhaseAdvance()

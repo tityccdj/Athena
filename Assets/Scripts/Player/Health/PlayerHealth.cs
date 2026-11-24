@@ -181,6 +181,7 @@ namespace Athena.Player.Health
         {
             _currentHealth = _maxHealth;
             _isInvulnerable = false;
+            _lastHealTime = -999f;
             if (_spriteRenderer != null) _spriteRenderer.enabled = true;
             OnHealthChanged?.Invoke(_currentHealth, _maxHealth);
         }

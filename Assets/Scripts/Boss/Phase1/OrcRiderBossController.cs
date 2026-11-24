@@ -185,6 +185,25 @@ namespace Athena.Boss.Phase1
                 if (_player == null) return;
             }
 
+            // ถ้าผู้เล่นยังไม่เข้าห้อง หรือผู้เล่นตายแล้ว -> ห้ามทำ action ใดๆ
+            bool isFightActive = BossManager.Instance != null && BossManager.Instance.IsFightActive;
+            bool isPlayerDead = _player.Health != null && _player.Health.CurrentHealth <= 0;
+
+            if (!isFightActive || isPlayerDead)
+            {
+                if (_currentState != OrcBossState.Idle)
+                {
+                    StopAllCoroutines();
+                    _isDashing = false;
+                    SetHorizontalLock(true);
+                    CloseAllHitboxes();
+                    if (_rb != null) _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+                    if (_anim != null) { _anim.StopTelegraph(); _anim.PlayIdle(); }
+                    SetState(OrcBossState.Idle);
+                }
+                return;
+            }
+
             // หันหน้าเข้าหา Player (ถ้าไม่ได้อยู่ในจังหวะพุ่งโจมตี)
             if (_currentState == OrcBossState.Idle || _currentState == OrcBossState.Chase || _currentState == OrcBossState.TelegraphCharge)
             {
@@ -205,6 +224,10 @@ namespace Athena.Boss.Phase1
 
         private void FixedUpdate()
         {
+            bool isFightActive = BossManager.Instance != null && BossManager.Instance.IsFightActive;
+            bool isPlayerDead = _player != null && _player.Health != null && _player.Health.CurrentHealth <= 0;
+            if (!isFightActive || isPlayerDead) return;
+
             // ถ้ากำลังพุ่ง Dash จาก Animation Event ให้ขับเคลื่อนด้วยความเร็ว Dash
             if (_currentState == OrcBossState.Attacking && _isDashing)
             {
@@ -549,6 +572,35 @@ namespace Athena.Boss.Phase1
             }
 
             TriggerPhaseAdvance();
+        }
+
+        /// <summary>
+        /// รีเซ็ตสถานะบอส Phase 1 กลับสู่จุดเริ่มต้น (ใช้ตอน Player Respawn)
+        /// </summary>
+        public void ResetBoss(Vector3 spawnPosition)
+        {
+            StopAllCoroutines();
+            _deathTransitionCoroutine = null;
+            _safetyTimeoutCoroutine = null;
+
+            transform.position = spawnPosition;
+            _isDashing = false;
+            SetHorizontalLock(false);
+            CloseAllHitboxes();
+            ResetPhysicsState();
+
+            if (_anim != null)
+            {
+                _anim.StopTelegraph();
+                _anim.PlayIdle();
+            }
+
+            if (_health != null)
+            {
+                _health.ResetHealth();
+            }
+
+            SetState(OrcBossState.Idle);
         }
 
         private void TriggerPhaseAdvance()

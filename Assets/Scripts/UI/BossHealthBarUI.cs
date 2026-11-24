@@ -437,5 +437,43 @@ namespace Athena.UI
             if (_room3BossNameTMP != null) _room3BossNameTMP.text = name;
             if (_room3BossNameLegacy != null) _room3BossNameLegacy.text = name;
         }
+
+        /// <summary>
+        /// รีเซ็ตการแสดงผลหลอดเลือดบอสตาม Phase ที่กำหนด (ใช้เมื่อ Player Respawn)
+        /// เพื่อให้หลอดเลือดแสดงค่าเต็ม MAX ทันที
+        /// </summary>
+        public void ResetUIForPhase(int phase)
+        {
+            _currentPhase = phase;
+
+            if (phase <= 2)
+            {
+                _isPhase2Defeated = false;
+                _isPlayerInRoom2 = true;
+                _isPlayerInRoom3 = false;
+
+                if (_room2BarRoot != null) _room2BarRoot.SetActive(true);
+                if (_room3BarRoot != null) _room3BarRoot.SetActive(false);
+
+                SetRoom2BossName(phase == 1 ? _phase1BossName : _phase2BossName);
+                UpdateRoom2CombinedHealthRatio();
+                _room2CurrentRatio = _room2TargetRatio;
+                ApplyBarRatio(_room2Slider, _room2FillImage, _room2CurrentRatio);
+            }
+            else
+            {
+                _isPhase3Defeated = false;
+                _isPlayerInRoom2 = false;
+                _isPlayerInRoom3 = true;
+
+                if (_room2BarRoot != null) _room2BarRoot.SetActive(false);
+                if (_room3BarRoot != null) _room3BarRoot.SetActive(true);
+
+                SetRoom3BossName(_phase3BossName);
+                UpdateRoom3HealthRatio();
+                _room3CurrentRatio = _room3TargetRatio;
+                ApplyBarRatio(_room3Slider, _room3FillImage, _room3CurrentRatio);
+            }
+        }
     }
 }

@@ -62,6 +62,22 @@ namespace Athena.Player.Combat
             if (_projectileSpawnPoint == null) _projectileSpawnPoint = transform;
         }
 
+        public void ResetCombat()
+        {
+            if (_attackLockCoroutine != null)
+            {
+                StopCoroutine(_attackLockCoroutine);
+                _attackLockCoroutine = null;
+            }
+            _currentComboStep = 0;
+            _lastAttackTime = -999f;
+            _hasFiredDashAttackInCurrentDash = false;
+            if (_hitbox != null)
+            {
+                _hitbox.Close();
+            }
+        }
+
         private void OnDestroy()
         {
             if (_dash != null)

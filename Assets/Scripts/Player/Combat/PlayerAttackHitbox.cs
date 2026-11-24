@@ -49,6 +49,11 @@ namespace Athena.Player.Combat
             _damagedThisSwing.Clear();
         }
 
+        /// <summary>
+        /// Alias สำหรับ Close() เพื่อความเข้ากันได้
+        /// </summary>
+        public void CloseHitbox() => Close();
+
         private void FixedUpdate()
         {
             if (!_isActive) return;

@@ -76,6 +76,41 @@ namespace Athena.Player
         {
             if (_health != null) _health.OnDeath -= _movement.OnPlayerDied;
         }
+
+        /// <summary>
+        /// ชุบชีวิตและย้าย Player ไปยังตำแหน่ง Respawn
+        /// รีเซ็ตเลือด, คูลดาวน์ยา, การเคลื่อนที่, อนิเมชัน, และคอมโบ
+        /// </summary>
+        public void Respawn(Vector3 targetPosition)
+        {
+            transform.position = targetPosition;
+
+            if (_movement != null)
+            {
+                _movement.StopVelocity();
+                _movement.OnPlayerRespawned();
+            }
+
+            if (_health != null)
+            {
+                _health.ResetHealth();
+            }
+
+            if (_combat != null)
+            {
+                _combat.ResetCombat();
+            }
+
+            if (_dash != null)
+            {
+                _dash.ResetDash();
+            }
+
+            if (_animation != null)
+            {
+                _animation.ResetAnimation();
+            }
+        }
     }
 }
 

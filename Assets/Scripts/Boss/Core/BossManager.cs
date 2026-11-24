@@ -86,12 +86,18 @@ namespace Athena.Boss.Core
                 StartBossFight();
             }
 
-            // เมื่อ Player เดินเข้า Room3_Boss ให้ปิดประตูห้อง 3 ทันที
+            // เมื่อ Player เดินเข้า Room3_Boss ให้ปิดประตูห้อง 3 และเริ่มการต่อสู้ทันที
             if (room.RoomName.Equals("Room3_Boss", StringComparison.OrdinalIgnoreCase))
             {
                 if (_room3Gate != null)
                 {
                     _room3Gate.CloseGate();
+                }
+
+                if (_currentPhase == 3)
+                {
+                    _isFightActive = true;
+                    ActivateCurrentPhaseObject();
                 }
             }
         }
@@ -295,43 +301,107 @@ namespace Athena.Boss.Core
         }
 
         /// <summary>
-        /// จัดการเมื่อ Player ตาย: GDD กำหนดว่าเริ่มใหม่ที่ Phase ล่าสุด และรีเซ็ตเลือดบอสกลับเต็ม MAX
+        /// จัดการเมื่อ Player ตาย: หยุดสถานะสู้ทันทีเพื่อให้บอสหยุด action ทุกอย่าง
         /// </summary>
         private void HandlePlayerDeath()
         {
-            if (!_isFightActive) return;
+            _isFightActive = false;
+        }
 
-            // ตรวจสอบให้แน่ใจว่า Phase 1 ปิดอยู่เมื่อเกิดใหม่ใน Phase 2
-            if (_currentPhase == 2 && _phase1Object != null)
+        /// <summary>
+        /// รีเซ็ตบอสใน Phase ปัจจุบันให้เลือดเต็ม MAX และเริ่มสู้ใหม่ (ใช้เมื่อ Player Respawn)
+        /// ประตูจะเปิดออกเพื่อให้ผู้เล่นเดินเข้าห้องได้ และบอสจะรอจนกว่าผู้เล่นจะเข้าห้อง
+        /// </summary>
+        public void ResetCurrentPhaseBoss()
+        {
+            // ทำลายกระสุนหรือเอฟเฟกต์ตกค้างในฉาก
+            var shockwaves = FindObjectsByType<Phase2.BossShockwaveProjectile>(FindObjectsSortMode.None);
+            foreach (var sw in shockwaves) if (sw != null) Destroy(sw.gameObject);
+
+            var telegraphs = FindObjectsByType<Phase3.ExplosionTelegraphEffect>(FindObjectsSortMode.None);
+            foreach (var tg in telegraphs) if (tg != null) Destroy(tg.gameObject);
+
+            var explosions = FindObjectsByType<Phase3.BossExplosionEffect>(FindObjectsSortMode.None);
+            foreach (var exp in explosions) if (exp != null) Destroy(exp.gameObject);
+
+            if (_currentPhase == 1)
             {
-                _phase1Object.SetActive(false);
-            }
+                if (_phase2Object != null) _phase2Object.SetActive(false);
+                if (_phase3Object != null) _phase3Object.SetActive(false);
 
-            if (_currentPhase == 3)
+                if (_phase1Object != null)
+                {
+                    _phase1Object.SetActive(true);
+                    Transform spawnPt = _phase1SpawnPoint;
+                    Vector3 pos = spawnPt != null ? spawnPt.position : _phase1Object.transform.position;
+                    if (_phase1Object.TryGetComponent<Phase1.OrcRiderBossController>(out var c1))
+                    {
+                        c1.ResetBoss(pos);
+                    }
+                    else if (_phase1Object.TryGetComponent<BossHealth>(out var h1))
+                    {
+                        h1.ResetHealth();
+                        _phase1Object.transform.position = pos;
+                    }
+                }
+
+                // เปิดประตู Room 2 เพื่อให้ผู้เล่นเดินเข้าห้องได้
+                if (_bossRoomGate != null) _bossRoomGate.OpenGate();
+            }
+            else if (_currentPhase == 2)
+            {
+                if (_phase1Object != null) _phase1Object.SetActive(false);
+                if (_phase3Object != null) _phase3Object.SetActive(false);
+
+                if (_phase2Object != null)
+                {
+                    _phase2Object.SetActive(true);
+                    Transform spawnPt = _phase2SpawnPoint;
+                    Vector3 pos = spawnPt != null ? spawnPt.position : _phase2Object.transform.position;
+                    if (_phase2Object.TryGetComponent<Phase2.EliteOrcBossController>(out var c2))
+                    {
+                        c2.ResetBoss(pos);
+                    }
+                    else if (_phase2Object.TryGetComponent<BossHealth>(out var h2))
+                    {
+                        h2.ResetHealth();
+                        _phase2Object.transform.position = pos;
+                    }
+                }
+
+                // เปิดประตู Room 2 เพื่อให้ผู้เล่นเดินเข้าห้องได้
+                if (_bossRoomGate != null) _bossRoomGate.OpenGate();
+            }
+            else if (_currentPhase == 3)
             {
                 if (_phase1Object != null) _phase1Object.SetActive(false);
                 if (_phase2Object != null) _phase2Object.SetActive(false);
                 if (_ghostTransition != null) _ghostTransition.gameObject.SetActive(false);
-            }
 
-            UnityEngine.Debug.Log($"[BossManager] Player died! Resetting Boss Phase {_currentPhase} to full HP...");
-
-            // ค้นหา BossHealth ของ Phase ปัจจุบันและสั่งรีเซ็ต
-            GameObject currentObj = GetCurrentPhaseObject();
-            if (currentObj != null)
-            {
-                if (currentObj.TryGetComponent<BossHealth>(out var health))
+                if (_phase3Object != null)
                 {
-                    health.ResetHealth();
+                    _phase3Object.SetActive(true);
+                    Transform spawnPt = _phase3SpawnPoint;
+                    Vector3 pos = spawnPt != null ? spawnPt.position : _phase3Object.transform.position;
+                    if (_phase3Object.TryGetComponent<Phase3.NecromancerBossController>(out var c3))
+                    {
+                        c3.ResetBoss(pos);
+                    }
+                    else if (_phase3Object.TryGetComponent<BossHealth>(out var h3))
+                    {
+                        h3.ResetHealth();
+                        _phase3Object.transform.position = pos;
+                    }
                 }
 
-                // รีเซ็ตตำแหน่งบอสกลับที่ Spawn Point ถ้ามี
-                Transform spawnPt = GetCurrentPhaseSpawnPoint();
-                if (spawnPt != null)
-                {
-                    currentObj.transform.position = spawnPt.position;
-                }
+                // เปิดประตูทั้ง Room 2 และ Room 3 เมื่อ Respawn ใน Phase 3
+                if (_bossRoomGate != null) _bossRoomGate.OpenGate();
+                if (_room3Gate != null) _room3Gate.OpenGate();
             }
+
+            // รอจนกว่าผู้เล่นจะเดินเข้าห้องบอส
+            _isFightActive = false;
+            UnityEngine.Debug.Log($"[BossManager] Reset Phase {_currentPhase} Boss. Gates opened! Waiting for player to enter room...");
         }
 
         public GameObject Phase1Object => _phase1Object;
