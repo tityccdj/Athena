@@ -386,7 +386,19 @@ MonoBehaviour:
   _healCooldown: 30
   _onDamagedEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1372409223}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleManager, Assembly-CSharp
+        m_MethodName: PlayParticle
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Gethit
+          m_BoolArgument: 0
+        m_CallState: 2
   _onHealedEvent:
     m_PersistentCalls:
       m_Calls:
@@ -404,7 +416,19 @@ MonoBehaviour:
         m_CallState: 2
   _onDeathEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1372409223}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleManager, Assembly-CSharp
+        m_MethodName: PlayParticleAtPlayer
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Death
+          m_BoolArgument: 0
+        m_CallState: 2
   _enableCameraShake: 1
   _damageShakeDuration: 0.15
   _damageShakeIntensity: 0.2
@@ -1482,7 +1506,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -8.9}
+  m_AnchoredPosition: {x: 3.3333335, y: -8.9}
   m_SizeDelta: {x: 754.7108, y: 11.7533}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &519420028
@@ -43639,6 +43663,18 @@ MonoBehaviour:
     Prefab: {fileID: 1492700799294318737, guid: 1e450bbc702649a46a18043705692561, type: 3}
     PrewarmCount: 1
     CustomDuration: 0
+  - Name: Player_Gethit
+    Prefab: {fileID: 7906921348837728387, guid: d321d132ac9ac14498960136af2dedde, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
+  - Name: Player_Death
+    Prefab: {fileID: 1492700799294318737, guid: b61f97ca193ca234ab8a5b42ee3d7487, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
+  - Name: Player_Death
+    Prefab: {fileID: 1492700799294318737, guid: b61f97ca193ca234ab8a5b42ee3d7487, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
   _dontDestroyOnLoad: 0
 --- !u!4 &1372409224
 Transform:
@@ -50692,7 +50728,7 @@ MonoBehaviour:
   _room2Name: Room2_boss
   _room3Name: Room3_Boss
   _useSmoothLerp: 1
-  _lerpSpeed: 0.1
+  _lerpSpeed: 0.2
 --- !u!1 &1976208062
 GameObject:
   m_ObjectHideFlags: 0
@@ -50868,7 +50904,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -8.9}
+  m_AnchoredPosition: {x: 3.3333335, y: -8.9}
   m_SizeDelta: {x: 754.7108, y: 11.7533}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2050000010
@@ -51146,7 +51182,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 15
+  _maxHealth: 20
   _onDamagedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -51386,7 +51422,19 @@ MonoBehaviour:
     m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1372409223}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleManager, Assembly-CSharp
+        m_MethodName: PlayParticle
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Enemy_Ghosthit
+          m_BoolArgument: 0
+        m_CallState: 2
   _contactCooldown: 0.6
 --- !u!60 &2050000043
 PolygonCollider2D:
