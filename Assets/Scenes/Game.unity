@@ -440,7 +440,19 @@ MonoBehaviour:
       m_Calls: []
   _onDashAttackEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1976208065}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleEventTrigger, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_DashAtk
+          m_BoolArgument: 0
+        m_CallState: 2
   _projectilePrefab: {fileID: 6660138297621625085, guid: c2c963801e1060a46af8e0ec1193f1a5, type: 3}
   _projectileSpawnPoint: {fileID: 1593848831}
   _hitbox: {fileID: 527837946}
@@ -43583,12 +43595,12 @@ MonoBehaviour:
     Prefab: {fileID: 3866779600986043190, guid: 5b3e54164bd9cef41a00e41538e23287, type: 3}
     PrewarmCount: 0
     CustomDuration: 0
-  - Name: Player_Heal
-    Prefab: {fileID: 5572255165928570106, guid: 9cc5cb82df6ed2549bf5f568a0798996, type: 3}
-    PrewarmCount: 1
-    CustomDuration: 0
   - Name: Player_Jump
     Prefab: {fileID: 1492700799294318737, guid: d3abe8587aa5f7f4fb659c4bcf580be7, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
+  - Name: Player_DashAtk
+    Prefab: {fileID: 5795129777217995051, guid: 09114fb631f73974d919fa3907155eea, type: 3}
     PrewarmCount: 1
     CustomDuration: 0
   _dontDestroyOnLoad: 0
@@ -50632,7 +50644,7 @@ MonoBehaviour:
   _room2Name: Room2_boss
   _room3Name: Room3_Boss
   _useSmoothLerp: 1
-  _lerpSpeed: 6
+  _lerpSpeed: 0.1
 --- !u!1 &1976208062
 GameObject:
   m_ObjectHideFlags: 0
@@ -50643,6 +50655,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1976208063}
   - component: {fileID: 1976208064}
+  - component: {fileID: 1976208065}
   m_Layer: 0
   m_Name: HealParticel
   m_TagString: Untagged
@@ -50680,6 +50693,23 @@ MonoBehaviour:
   _particleName: 
   _directPrefab: {fileID: 5572255165928570106, guid: 9cc5cb82df6ed2549bf5f568a0798996, type: 3}
   _customSpawnPoint: {fileID: 1976208063}
+  _offset: {x: 0, y: 0, z: 0}
+  _parentToThis: 1
+--- !u!114 &1976208065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976208062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbebbd9a6c75d748b7072f12c1994c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _particleName: Player_DashAtk
+  _directPrefab: {fileID: 0}
+  _customSpawnPoint: {fileID: 0}
   _offset: {x: 0, y: 0, z: 0}
   _parentToThis: 1
 --- !u!1 &1991248212
