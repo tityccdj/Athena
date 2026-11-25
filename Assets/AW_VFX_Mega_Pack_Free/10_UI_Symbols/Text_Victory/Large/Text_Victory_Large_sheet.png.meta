@@ -76,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -155,10 +155,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_0
       rect:
         serializedVersion: 2
-        x: 67
-        y: 17
-        width: 104
-        height: 14
+        x: 0
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,10 +177,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_1
       rect:
         serializedVersion: 2
-        x: 255
-        y: 7
-        width: 208
-        height: 26
+        x: 240
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,10 +199,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_2
       rect:
         serializedVersion: 2
-        x: 495
-        y: 15
-        width: 208
-        height: 26
+        x: 480
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_3
       rect:
         serializedVersion: 2
-        x: 735
-        y: 11
-        width: 208
-        height: 26
+        x: 720
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +243,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_4
       rect:
         serializedVersion: 2
-        x: 975
-        y: 11
-        width: 208
-        height: 26
+        x: 960
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,10 +265,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_5
       rect:
         serializedVersion: 2
-        x: 1215
-        y: 11
-        width: 208
-        height: 26
+        x: 1200
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_6
       rect:
         serializedVersion: 2
-        x: 1455
-        y: 11
-        width: 208
-        height: 26
+        x: 1440
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +309,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_7
       rect:
         serializedVersion: 2
-        x: 1695
-        y: 11
-        width: 208
-        height: 26
+        x: 1680
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: Text_Victory_Large_sheet_8
       rect:
         serializedVersion: 2
-        x: 1935
-        y: 11
-        width: 208
-        height: 26
+        x: 1920
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,19 +353,19 @@ TextureImporter:
       name: Text_Victory_Large_sheet_9
       rect:
         serializedVersion: 2
-        x: 2175
-        y: 11
-        width: 208
-        height: 26
+        x: 2160
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fbb62629d5d3342f0800000000000000
+      spriteID: a96bc6c577ae79f4798a4436e2ac8882
       internalID: -989880020994200641
       vertices: []
       indices: 
@@ -375,19 +375,19 @@ TextureImporter:
       name: Text_Victory_Large_sheet_10
       rect:
         serializedVersion: 2
-        x: 2415
-        y: 11
-        width: 208
-        height: 26
+        x: 2400
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5dbb675cc8fd01910800000000000000
+      spriteID: 17e87f656a6ef0940b43c48202ea28f6
       internalID: 1806189246276877269
       vertices: []
       indices: 
@@ -397,19 +397,19 @@ TextureImporter:
       name: Text_Victory_Large_sheet_11
       rect:
         serializedVersion: 2
-        x: 2655
-        y: 11
-        width: 208
-        height: 26
+        x: 2640
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a96b0bf39e5afe570800000000000000
+      spriteID: a33a56bf1433aab42a505e9a5baeb670
       internalID: 8498193443085923994
       vertices: []
       indices: 
@@ -419,19 +419,19 @@ TextureImporter:
       name: Text_Victory_Large_sheet_12
       rect:
         serializedVersion: 2
-        x: 2895
-        y: 13
-        width: 208
-        height: 26
+        x: 2880
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3585138186938d4a0800000000000000
+      spriteID: c5d271c68d57a9644b1778ec17e9d058
       internalID: -6568436937274599341
       vertices: []
       indices: 
@@ -441,19 +441,19 @@ TextureImporter:
       name: Text_Victory_Large_sheet_13
       rect:
         serializedVersion: 2
-        x: 3135
-        y: 11
-        width: 208
-        height: 26
+        x: 3120
+        y: 0
+        width: 240
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4058f1617637ad1a0800000000000000
+      spriteID: 40134a0cdfe5a3546bb585c585646b85
       internalID: -6783983002090240764
       vertices: []
       indices: 
@@ -463,7 +463,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a876f17ffb3497941ba65cfefd16727f
     internalID: 0
     vertices: []
     indices: 
