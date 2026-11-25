@@ -119,6 +119,98 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &80154486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 80154487}
+  - component: {fileID: 80154489}
+  - component: {fileID: 80154488}
+  m_Layer: 12
+  m_Name: ContactDmg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &80154487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 80154486}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 956202958}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!70 &80154488
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 80154486}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.1645763, y: -0.06625828}
+  m_Size: {x: 2.6640363, y: 1.2197865}
+  m_Direction: 1
+--- !u!114 &80154489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 80154486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hitboxType: 0
+  _damage: 1
+  _knockbackForce: 6
+  _targetLayer:
+    serializedVersion: 2
+    m_Bits: 1024
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _contactCooldown: 0.6
 --- !u!1 &276037445
 GameObject:
   m_ObjectHideFlags: 0
@@ -226,7 +318,7 @@ GameObject:
   - component: {fileID: 279934089}
   - component: {fileID: 279934088}
   - component: {fileID: 279934087}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -473,7 +565,7 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 1
@@ -526,7 +618,7 @@ GameObject:
   - component: {fileID: 402280575}
   - component: {fileID: 402280576}
   - component: {fileID: 402280577}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: SpinHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -565,7 +657,7 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -1484,7 +1576,7 @@ GameObject:
   - component: {fileID: 527777066}
   - component: {fileID: 527777068}
   - component: {fileID: 527777067}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: FrontHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1523,7 +1615,7 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -1584,7 +1676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 527837945}
   - component: {fileID: 527837946}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2033,7 +2125,7 @@ GameObject:
   - component: {fileID: 644259114}
   - component: {fileID: 644259113}
   - component: {fileID: 644259112}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: SpinHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2057,7 +2149,7 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -13373,7 +13465,6 @@ GameObject:
   - component: {fileID: 852011947}
   - component: {fileID: 852011946}
   - component: {fileID: 852011950}
-  - component: {fileID: 852011951}
   m_Layer: 8
   m_Name: Boss_Phase2_ElliteOrc
   m_TagString: Untagged
@@ -13484,6 +13575,7 @@ Transform:
   - {fileID: 1842245208}
   - {fileID: 644259114}
   - {fileID: 1632293106}
+  - {fileID: 1450096478}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &852011950
@@ -13526,28 +13618,6 @@ MonoBehaviour:
   _deathZoomCameraSize: 3.2
   _visualTransform: {fileID: 1317753123}
   _spriteFacesRightByDefault: 1
---- !u!114 &852011951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 852011945}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _hitboxType: 0
-  _damage: 1
-  _knockbackForce: 6
-  _targetLayer:
-    serializedVersion: 2
-    m_Bits: 1
-  _onHitPlayerEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  _contactCooldown: 0.6
 --- !u!1 &915390542
 GameObject:
   m_ObjectHideFlags: 0
@@ -14503,7 +14573,6 @@ GameObject:
   - component: {fileID: 956202953}
   - component: {fileID: 956202959}
   - component: {fileID: 956202960}
-  - component: {fileID: 956202961}
   m_Layer: 8
   m_Name: Boss_Phase1_OrcRider
   m_TagString: Untagged
@@ -14599,6 +14668,7 @@ Transform:
   - {fileID: 1503151049}
   - {fileID: 527777066}
   - {fileID: 402280575}
+  - {fileID: 80154487}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &956202959
@@ -14675,28 +14745,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0.14336395, y: 0.7168249}
   m_Size: {x: 1.3442612, y: 2.4336498}
   m_Direction: 0
---- !u!114 &956202961
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 956202952}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _hitboxType: 0
-  _damage: 1
-  _knockbackForce: 6
-  _targetLayer:
-    serializedVersion: 2
-    m_Bits: 1
-  _onHitPlayerEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  _contactCooldown: 0.6
 --- !u!1 &956236253
 GameObject:
   m_ObjectHideFlags: 0
@@ -16156,6 +16204,98 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1450096477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1450096478}
+  - component: {fileID: 1450096480}
+  - component: {fileID: 1450096479}
+  m_Layer: 12
+  m_Name: ContactDamage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1450096478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450096477}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 852011949}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1450096479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450096477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119bfcf6c30c6e94a81c54d9f771ef37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hitboxType: 0
+  _damage: 1
+  _knockbackForce: 6
+  _targetLayer:
+    serializedVersion: 2
+    m_Bits: 1024
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  _contactCooldown: 0.6
+--- !u!70 &1450096480
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450096477}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.047763824, y: 0.35514748}
+  m_Size: {x: 1.1139221, y: 1.8675854}
+  m_Direction: 0
 --- !u!1 &1453037742
 GameObject:
   m_ObjectHideFlags: 0
@@ -17489,7 +17629,7 @@ GameObject:
   - component: {fileID: 1842245208}
   - component: {fileID: 1842245207}
   - component: {fileID: 1842245206}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: AttackHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17513,7 +17653,7 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -23233,6 +23373,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2050000014}
   - component: {fileID: 2050000015}
+  - component: {fileID: 2050000016}
   m_Layer: 0
   m_Name: Visual
   m_TagString: Untagged
@@ -23310,6 +23451,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &2050000016
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050000013}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 69827efdfdd876b4b986765cf1b870a3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2050000020
 GameObject:
   m_ObjectHideFlags: 0
@@ -23621,7 +23784,7 @@ GameObject:
   - component: {fileID: 2050000041}
   - component: {fileID: 2050000042}
   - component: {fileID: 2050000043}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: FrontMeleeHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23660,7 +23823,7 @@ MonoBehaviour:
   _knockbackForce: 7
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
       m_Calls: []

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3314179784505899394}
   - component: {fileID: 469257561324294294}
   - component: {fileID: 469257561324294295}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Explosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,8 +98,25 @@ MonoBehaviour:
   _knockbackForce: 6
   _targetLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
+  _onHitPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
   _contactCooldown: 0.6
+--- !u!114 &469257561324294295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3331239598711198666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5684710820fa48399a956865cea29de1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _lifetime: 0.6
+  _autoOpenHitbox: 1
 --- !u!1 &6188012727178203869
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,7 +128,7 @@ GameObject:
   - component: {fileID: 3029530823391402444}
   - component: {fileID: 4613130641847343175}
   - component: {fileID: 7732512963155249678}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -210,17 +227,3 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &469257561324294295
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3331239598711198666}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5684710820fa48399a956865cea29de1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _lifetime: 0.6
-  _autoOpenHitbox: 1
