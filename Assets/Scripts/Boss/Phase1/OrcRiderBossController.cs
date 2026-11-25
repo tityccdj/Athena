@@ -54,6 +54,8 @@ namespace Athena.Boss.Phase1
         [Header("Attack Hitboxes")]
         [SerializeField] private BossDamageHitbox _frontAttackHitbox;
         [SerializeField] private BossDamageHitbox _spinAttackHitbox;
+        [Tooltip("Hitbox ขณะพุ่งชน (Dash Attack / Charge)")]
+        [SerializeField] private BossDamageHitbox _chargeHitbox;
 
         [Header("Visual & Direction")]
         [SerializeField] private Transform _visualTransform;
@@ -487,6 +489,29 @@ namespace Athena.Boss.Phase1
         }
 
         /// <summary>
+        /// Animation Event: เปิดใช้งาน Charge Hitbox ในช่วงที่พุ่งชน (Dash / Charge)
+        /// </summary>
+        public void AnimEvent_OpenChargeHitbox()
+        {
+            if (_chargeHitbox != null)
+            {
+                _chargeHitbox.UpdateFacing(_facingDirection);
+                _chargeHitbox.OpenHitbox();
+            }
+        }
+
+        /// <summary>
+        /// Animation Event: ปิดใช้งาน Charge Hitbox เมื่อพุ่งเสร็จ
+        /// </summary>
+        public void AnimEvent_CloseChargeHitbox()
+        {
+            if (_chargeHitbox != null)
+            {
+                _chargeHitbox.CloseHitbox();
+            }
+        }
+
+        /// <summary>
         /// Animation Event: ปิดใช้งาน Hitbox เมื่อฟันเสร็จ
         /// </summary>
         public void AnimEvent_CloseHitbox()
@@ -535,6 +560,7 @@ namespace Athena.Boss.Phase1
         {
             if (_frontAttackHitbox != null) _frontAttackHitbox.CloseHitbox();
             if (_spinAttackHitbox != null) _spinAttackHitbox.CloseHitbox();
+            if (_chargeHitbox != null) _chargeHitbox.CloseHitbox();
         }
 
         private void HandleDefeated()

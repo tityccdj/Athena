@@ -30,6 +30,9 @@ namespace Athena.Player.Movement
         private bool _isDashing;
         private float _lastDashTime = -999f;
         private int _dashDirection = 1;
+        private float _originalGravity = 1f;
+        private RigidbodyConstraints2D _originalConstraints;
+        private Coroutine _dashCoroutine;
 
         public bool IsDashing => _isDashing;
         public int DashDirection => _dashDirection;
@@ -47,7 +50,17 @@ namespace Athena.Player.Movement
 
         public void ResetDash()
         {
-            StopAllCoroutines();
+            if (_dashCoroutine != null)
+            {
+                StopCoroutine(_dashCoroutine);
+                _dashCoroutine = null;
+            }
+
+            if (_isDashing)
+            {
+                EndDash();
+            }
+
             _isDashing = false;
             _lastDashTime = -999f;
         }
@@ -56,6 +69,21 @@ namespace Athena.Player.Movement
         {
             _rb = GetComponent<Rigidbody2D>();
             _playerCollider = GetComponent<Collider2D>();
+            if (_rb != null)
+            {
+                _originalConstraints = _rb.constraints;
+                _originalGravity = _rb.gravityScale;
+            }
+        }
+
+        private void FixedUpdate()
+        {
+            if (_isDashing && _rb != null)
+            {
+                // บังคับความเร็วในแนวนอนอย่างต่อเนื่อง และล็อคแกน Y ให้เป็น 0 ตลอดช่วง Dash
+                // ป้องกันไม่ให้แรงสะท้อนจากรอยต่อ Tilemap หรือ Collider ผืนดินดันตัวละครลอยกระดอนขึ้น
+                _rb.linearVelocity = new Vector2(_dashDirection * _dashSpeed, 0f);
+            }
         }
 
         private void Update()
@@ -69,7 +97,7 @@ namespace Athena.Player.Movement
             {
                 if (_input.ConsumeDashBuffer())
                 {
-                    StartCoroutine(PerformDash());
+                    _dashCoroutine = StartCoroutine(PerformDash());
                 }
             }
         }
@@ -96,18 +124,43 @@ namespace Athena.Player.Movement
             // GDD: สามารถพุ่งทะลุตัว Boss ได้ (Ignore collision with Enemy Layer)
             SetEnemyCollisionIgnored(true);
 
-            // Lock regular movement and freeze gravity for horizontal dash
+            // Lock regular movement
             _movement.SetMovementLocked(true);
-            float originalGravity = _rb.gravityScale;
-            _rb.gravityScale = 0f;
-            _rb.linearVelocity = new Vector2(_dashDirection * _dashSpeed, 0f);
+
+            // บันทึกและล็อคค่าฟิสิกส์สำหรับ Dash
+            if (_rb != null)
+            {
+                _originalGravity = _rb.gravityScale;
+                _originalConstraints = _rb.constraints;
+
+                _rb.gravityScale = 0f;
+                // ล็อคตำแหน่งแกน Y ชั่วคราว กันการกระดอนจากรอยต่อพื้น (Tilemap Seam / Edge Deflection)
+                _rb.constraints = _originalConstraints | RigidbodyConstraints2D.FreezePositionY;
+                _rb.linearVelocity = new Vector2(_dashDirection * _dashSpeed, 0f);
+            }
 
             yield return new WaitForSeconds(_dashDuration);
 
-            // Restore state
-            _rb.gravityScale = originalGravity;
-            _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
-            _movement.SetMovementLocked(false);
+            EndDash();
+        }
+
+        private void EndDash()
+        {
+            if (!_isDashing) return;
+
+            // คืนค่าฟิสิกส์ทั้งหมด
+            if (_rb != null)
+            {
+                _rb.constraints = _originalConstraints;
+                _rb.gravityScale = _originalGravity;
+                // รีเซ็ตความเร็วเป็น 0 ทันที ป้องกันไม่ให้มีแรงสะท้อนแนวตั้ง (Upward velocity) หลงเหลือมากระดอนตัวละคร
+                _rb.linearVelocity = Vector2.zero;
+            }
+
+            if (_movement != null)
+            {
+                _movement.SetMovementLocked(false);
+            }
 
             SetEnemyCollisionIgnored(false);
 
@@ -117,6 +170,8 @@ namespace Athena.Player.Movement
             }
 
             _isDashing = false;
+            _dashCoroutine = null;
+
             OnDashEnded?.Invoke();
             _onDashEndedEvent?.Invoke();
         }
@@ -138,13 +193,16 @@ namespace Athena.Player.Movement
 
         private void OnDisable()
         {
+            if (_dashCoroutine != null)
+            {
+                StopCoroutine(_dashCoroutine);
+                _dashCoroutine = null;
+            }
+
             if (_isDashing)
             {
-                SetEnemyCollisionIgnored(false);
-                if (_health != null) _health.SetInvulnerable(false);
-                _isDashing = false;
+                EndDash();
             }
         }
     }
 }
-

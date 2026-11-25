@@ -8,11 +8,14 @@ namespace Athena.Boss.Phase1
     /// วาง Component นี้ไว้ที่ GameObject เดียวกับ Animator (Visual child)
     /// 
     /// ฟังก์ชัน Animation Events ที่เลือกใช้ได้ใน Animation Window:
-    /// - "OnTelegraphStart" : เริ่มแสดงเอฟเฟกต์กะพริบชาร์จเตือน (เริ่มที่เฟรมเริ่มต้นของท่า)
-    /// - "OnTelegraphEnd"   : สิ้นสุดช่วงชาร์จเตือน หยุดกะพริบ (และเริ่มพุ่งตัวสำหรับท่า Dash)
-    /// - "OnHitboxOpen"     : เปิด Hitbox ในเฟรมที่อาวุธฟันโดน
-    /// - "OnHitboxClose"    : ปิด Hitbox ในเฟรมที่อาวุธฟันเสร็จ
-    /// - "OnAttackComplete" : สิ้นสุดท่าโจมตี เข้าสู่จังหวะ Recovery
+    /// - "OnTelegraphStart"       : เริ่มแสดงเอฟเฟกต์กะพริบชาร์จเตือน (เริ่มที่เฟรมเริ่มต้นของท่า)
+    /// - "OnTelegraphEnd"         : สิ้นสุดช่วงชาร์จเตือน หยุดกะพริบ (และเริ่มพุ่งตัวสำหรับท่า Dash)
+    /// - "OnChargeHitboxOpen"     : เปิด Charge Hitbox ขณะพุ่งชน (Dash / Charge)
+    /// - "OnChargeHitboxClose"    : ปิด Charge Hitbox เมื่อพุ่งชนเสร็จ
+    /// - "OnHitboxOpen"           : เปิด Hitbox ในเฟรมที่อาวุธฟันโดน
+    /// - "OnHitboxClose"          : ปิด Hitbox ในเฟรมที่อาวุธฟันเสร็จ
+    /// - "OnAttackComplete"       : สิ้นสุดท่าโจมตี เข้าสู่จังหวะ Recovery
+    /// - "OnDeathComplete"        : เล่นท่าตายจบแล้ว สั่งเปลี่ยนเฟสทันที
     /// </summary>
     public class OrcRiderAnimationEventReceiver : MonoBehaviour
     {
@@ -47,6 +50,26 @@ namespace Athena.Boss.Phase1
             _anim?.StopTelegraph();
             _controller?.AnimEvent_OnTelegraphEnd();
         }
+
+        /// <summary>
+        /// Animation Event: เปิด Charge Hitbox ขณะพุ่งชน (Dash / Charge)
+        /// </summary>
+        public void OnChargeHitboxOpen()
+        {
+            _controller?.AnimEvent_OpenChargeHitbox();
+        }
+
+        /// <summary>
+        /// Animation Event: ปิด Charge Hitbox เมื่อพุ่งชนเสร็จ
+        /// </summary>
+        public void OnChargeHitboxClose()
+        {
+            _controller?.AnimEvent_CloseChargeHitbox();
+        }
+
+        // Aliases for convenience
+        public void OpenChargeHitbox() => OnChargeHitboxOpen();
+        public void CloseChargeHitbox() => OnChargeHitboxClose();
 
         /// <summary>
         /// Animation Event: เปิด Hitbox ในเฟรมที่ฟัน
