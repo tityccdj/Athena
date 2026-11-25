@@ -581,7 +581,7 @@ MonoBehaviour:
   _wallLayer:
     serializedVersion: 2
     m_Bits: 576
-  _wallCheckDistance: 0.33
+  _wallCheckDistance: 0.4
 --- !u!114 &279934093
 MonoBehaviour:
   m_ObjectHideFlags: 0
