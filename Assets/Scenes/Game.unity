@@ -1402,8 +1402,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 502.0838, y: 77.729095}
+  m_AnchoredPosition: {x: 44.9418, y: 0}
+  m_SizeDelta: {x: 230.4673, y: 35.6793}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &488663842
 MonoBehaviour:
@@ -1697,7 +1697,19 @@ MonoBehaviour:
     m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1372409223}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleManager, Assembly-CSharp
+        m_MethodName: PlayParticle
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Enemy_AttackHit
+          m_BoolArgument: 0
+        m_CallState: 2
   _contactCooldown: 0.6
 --- !u!61 &527777068
 BoxCollider2D:
@@ -2378,7 +2390,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -2044477907334780369, guid: 1df69f55c71398e489a5bc0195423f76, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2413,7 +2425,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: 0}
+  m_AnchoredPosition: {x: -8.1, y: -19}
   m_SizeDelta: {x: 252.1733, y: 47.2825}
   m_Pivot: {x: 1, y: 1}
 --- !u!1 &657852101
@@ -40097,8 +40109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -54.17987, y: 0}
+  m_SizeDelta: {x: 50.8995, y: 50.8995}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &782172168
 MonoBehaviour:
@@ -40117,7 +40129,7 @@ MonoBehaviour:
   _invertFill: 1
   _potionIcon: {fileID: 1791562759}
   _readyColor: {r: 1, g: 1, b: 1, a: 1}
-  _cooldownColor: {r: 0.35, g: 0.35, b: 0.35, a: 0.85}
+  _cooldownColor: {r: 0, g: 0, b: 0, a: 1}
   _cooldownTextTMP: {fileID: 0}
   _cooldownTextLegacy: {fileID: 0}
 --- !u!1 &852011945
@@ -41782,7 +41794,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 488663841}
   - {fileID: 782172167}
@@ -41790,8 +41802,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 646.2086, y: 153.4895}
+  m_AnchoredPosition: {x: 15.238037, y: -11.851807}
+  m_SizeDelta: {x: 425.7941, y: 101.136}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1109167502
 MonoBehaviour:
@@ -41806,14 +41818,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.05882353}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 4873216702683809056, guid: 86736b79a919e474786a8e3b72c1a72b, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -42244,7 +42256,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.000045776367, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1187133866
@@ -42267,7 +42279,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Resume
+  m_text: '
+
+    Resume
 
 
 '
@@ -42279,8 +42293,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -42780,7 +42794,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -2044477907334780369, guid: 1df69f55c71398e489a5bc0195423f76, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -43266,6 +43280,7 @@ GameObject:
   - component: {fileID: 1317753126}
   - component: {fileID: 1317753125}
   - component: {fileID: 1317753127}
+  - component: {fileID: 1317753128}
   m_Layer: 8
   m_Name: Visual
   m_TagString: Untagged
@@ -43376,7 +43391,7 @@ MonoBehaviour:
   _hurtState: EliteOrc_Hurt
   _deathState: EliteOrc_Death
   _spriteRenderer: {fileID: 0}
-  _telegraphColor: {r: 1, g: 0.9, b: 0.2, a: 1}
+  _telegraphColor: {r: 1, g: 0.5921569, b: 0, a: 1}
   _flashInterval: 0.1
 --- !u!95 &1317753127
 Animator:
@@ -43400,6 +43415,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1317753128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1317753122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbebbd9a6c75d748b7072f12c1994c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _particleName: 
+  _directPrefab: {fileID: 7043667678108517101, guid: 04ad24779a1e2e44bb81a0366273cb6e, type: 3}
+  _customSpawnPoint: {fileID: 0}
+  _offset: {x: 0, y: 0, z: 0}
+  _parentToThis: 1
 --- !u!1 &1338855159
 GameObject:
   m_ObjectHideFlags: 0
@@ -43601,6 +43633,10 @@ MonoBehaviour:
     CustomDuration: 0
   - Name: Player_DashAtk
     Prefab: {fileID: 5795129777217995051, guid: 09114fb631f73974d919fa3907155eea, type: 3}
+    PrewarmCount: 1
+    CustomDuration: 0
+  - Name: Enemy_AttackHit
+    Prefab: {fileID: 1492700799294318737, guid: 1e450bbc702649a46a18043705692561, type: 3}
     PrewarmCount: 1
     CustomDuration: 0
   _dontDestroyOnLoad: 0
@@ -44071,7 +44107,7 @@ GameObject:
   - component: {fileID: 1503151052}
   - component: {fileID: 1503151051}
   - component: {fileID: 1503151053}
-  - component: {fileID: 1503151054}
+  - component: {fileID: 1503151055}
   m_Layer: 8
   m_Name: Visual
   m_TagString: Untagged
@@ -44169,7 +44205,7 @@ MonoBehaviour:
   _hurtState: OrcRider_Hurt
   _deathState: OrcRider_Death
   _spriteRenderer: {fileID: 0}
-  _telegraphColor: {r: 1, g: 0.9, b: 0.2, a: 1}
+  _telegraphColor: {r: 1, g: 0.59276253, b: 0, a: 1}
   _flashInterval: 0.1
 --- !u!95 &1503151052
 Animator:
@@ -44205,7 +44241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 762bcb33032537643b4f16b196a277e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1503151054
+--- !u!114 &1503151055
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -44387,8 +44423,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -44885,7 +44921,7 @@ GameObject:
   - component: {fileID: 1791562760}
   - component: {fileID: 1791562759}
   m_Layer: 5
-  m_Name: PotionIcon
+  m_Name: Cooldown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44907,8 +44943,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -0.000017166138, y: 0}
+  m_SizeDelta: {x: 33.8504, y: 46.1597}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1791562759
 MonoBehaviour:
@@ -44923,14 +44959,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.5882353}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.9372549}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fd0adf3974145104b95af02274a94ac3, type: 3}
+  m_Sprite: {fileID: 447926653892412510, guid: d97652661a7195d4dad68f0218a74f16, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -45071,8 +45107,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 731.5636, y: 255.1691}
+  m_AnchoredPosition: {x: 0, y: 0.0000019073486}
+  m_SizeDelta: {x: 614.3251, y: 214.2764}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1832690220
 MonoBehaviour:
@@ -45087,14 +45123,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.7607843}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 3839088401311749340, guid: 86736b79a919e474786a8e3b72c1a72b, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -45150,7 +45186,19 @@ MonoBehaviour:
     m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1372409223}
+        m_TargetAssemblyTypeName: Athena.Particles.ParticleManager, Assembly-CSharp
+        m_MethodName: PlayParticle
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Enemy_AttackHit
+          m_BoolArgument: 0
+        m_CallState: 2
   _contactCooldown: 0.6
 --- !u!61 &1842245207
 BoxCollider2D:
@@ -50413,7 +50461,7 @@ GameObject:
   - component: {fileID: 1899228911}
   - component: {fileID: 1899228910}
   m_Layer: 5
-  m_Name: CooldownFill
+  m_Name: PotionIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50435,8 +50483,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -0.000017166138, y: 0}
+  m_SizeDelta: {x: 33.8504, y: 46.1597}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1899228910
 MonoBehaviour:
@@ -50458,7 +50506,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fd0adf3974145104b95af02274a94ac3, type: 3}
+  m_Sprite: {fileID: 447926653892412510, guid: d97652661a7195d4dad68f0218a74f16, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1

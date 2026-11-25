@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -161,10 +161,10 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 18
-        width: 69
-        height: 71
+        x: 0
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +183,10 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 68
-        width: 64
-        height: 27
+        x: 112
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_2
       rect:
         serializedVersion: 2
-        x: 236
-        y: 72
-        width: 76
-        height: 28
+        x: 224
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +227,10 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_3
       rect:
         serializedVersion: 2
-        x: 344
-        y: 74
-        width: 83
-        height: 28
+        x: 336
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 61
-        width: 8
-        height: 7
+        x: 448
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,240 +271,20 @@ TextureImporter:
       name: Hit_Heavy_Large_sheet_5
       rect:
         serializedVersion: 2
-        x: 245
-        y: 61
-        width: 8
-        height: 7
+        x: 560
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 509fb2d50075bd3c0800000000000000
+      spriteID: 2431d77b001e1a84eb2cbe490801a095
       internalID: -4333774557339191035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_6
-      rect:
-        serializedVersion: 2
-        x: 355
-        y: 58
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbfe10354c9bc4880800000000000000
-      internalID: -8625314933463978049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_7
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 28
-        width: 8
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca04ae405c7fd3840800000000000000
-      internalID: 5205589169873240236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_8
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 26
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55e1ebed2e1f11b90800000000000000
-      internalID: -7272765966524735915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_9
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 19
-        width: 44
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61fc6830744820470800000000000000
-      internalID: 8359389298889772822
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_10
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 19
-        width: 27
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3552763a96c7bd190800000000000000
-      internalID: -7936613125155510957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_11
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 13
-        width: 51
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75fc1d3b29bf92330800000000000000
-      internalID: 3686754377480130391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_12
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 16
-        width: 29
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1272e29ca7fb01e00800000000000000
-      internalID: 1013520450240522017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_13
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 10
-        width: 55
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 331bfa2245228a9c0800000000000000
-      internalID: -3915842131244109517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_14
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 25
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 686cf40da020be320800000000000000
-      internalID: 2588164656322299526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hit_Heavy_Large_sheet_15
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 18
-        width: 113
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65da7a2f9958e2290800000000000000
-      internalID: -7913240598995817130
       vertices: []
       indices: 
       edges: []
@@ -513,7 +293,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5f0910bd92bf5d74abc875c771d3dded
     internalID: 0
     vertices: []
     indices: 
@@ -525,20 +305,10 @@ TextureImporter:
     nameFileIdTable:
       Hit_Heavy_Large_sheet_0: -2916423786973716506
       Hit_Heavy_Large_sheet_1: -3882435361790491034
-      Hit_Heavy_Large_sheet_10: -7936613125155510957
-      Hit_Heavy_Large_sheet_11: 3686754377480130391
-      Hit_Heavy_Large_sheet_12: 1013520450240522017
-      Hit_Heavy_Large_sheet_13: -3915842131244109517
-      Hit_Heavy_Large_sheet_14: 2588164656322299526
-      Hit_Heavy_Large_sheet_15: -7913240598995817130
       Hit_Heavy_Large_sheet_2: -3631730996321630283
       Hit_Heavy_Large_sheet_3: -9079463174970397820
       Hit_Heavy_Large_sheet_4: 2375085280553878321
       Hit_Heavy_Large_sheet_5: -4333774557339191035
-      Hit_Heavy_Large_sheet_6: -8625314933463978049
-      Hit_Heavy_Large_sheet_7: 5205589169873240236
-      Hit_Heavy_Large_sheet_8: -7272765966524735915
-      Hit_Heavy_Large_sheet_9: 8359389298889772822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
