@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Athena.Audio;
 using Athena.Player;
 using Athena.Rooms;
 using UnityEngine;
@@ -158,6 +159,12 @@ namespace Athena.Boss.Core
             // เปิดเฉพาะ Phase ปัจจุบัน
             ActivateCurrentPhaseObject();
 
+            // เล่นเพลงตาม Phase ปัจจุบัน
+            if (MusicManager.Instance != null)
+            {
+                MusicManager.Instance.PlayPhaseMusic(_currentPhase);
+            }
+
             UnityEngine.Debug.Log($"[BossManager] Boss Fight Started! (Phase {_currentPhase})");
         }
 
@@ -174,6 +181,12 @@ namespace Athena.Boss.Core
                 _isFightActive = false;
                 OnBossDefeatedAll?.Invoke();
                 _onAllBossDefeatedEvent?.Invoke();
+
+                if (MusicManager.Instance != null)
+                {
+                    MusicManager.Instance.PlayVictoryMusic();
+                }
+
                 UnityEngine.Debug.Log("[BossManager] ALL BOSS PHASES DEFEATED! YOU WIN!");
                 return;
             }
@@ -202,6 +215,12 @@ namespace Athena.Boss.Core
             if (_bossRoomGate != null)
             {
                 _bossRoomGate.OpenGate();
+            }
+
+            // เล่นเพลงช่วงผีบินไปห้อง 3
+            if (MusicManager.Instance != null)
+            {
+                MusicManager.Instance.PlayGhostTransitionMusic();
             }
 
             // 2. คำนวณตำแหน่งเริ่มต้นและปลายทางของ Ghost
@@ -250,6 +269,12 @@ namespace Athena.Boss.Core
             }
 
             OnPhaseChanged?.Invoke(3);
+
+            if (MusicManager.Instance != null)
+            {
+                MusicManager.Instance.PlayPhaseMusic(3);
+            }
+
             UnityEngine.Debug.Log("[BossManager] Phase 3 Necromancer awakened in Room 3!");
         }
 
@@ -403,6 +428,12 @@ namespace Athena.Boss.Core
                 // เปิดประตูทั้ง Room 2 และ Room 3 เมื่อ Respawn ใน Phase 3
                 if (_bossRoomGate != null) _bossRoomGate.OpenGate();
                 if (_room3Gate != null) _room3Gate.OpenGate();
+            }
+
+            // สลับกลับเป็นเพลงช่วงสำรวจจนกว่าจะเดินเข้าห้องบอสอีกครั้ง
+            if (MusicManager.Instance != null)
+            {
+                MusicManager.Instance.PlayExplorationMusic();
             }
 
             // รอจนกว่าผู้เล่นจะเดินเข้าห้องบอส

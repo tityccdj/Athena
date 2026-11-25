@@ -34,6 +34,7 @@ namespace Athena.CameraSystem
         private Vector3 _currentVelocity = Vector3.zero;
         private float _defaultOrthographicSize = 5f;
         private Coroutine _winZoomCoroutine;
+        private Coroutine _zoomCoroutine;
         private Coroutine _shakeCoroutine;
         private Vector3 _shakeOffset = Vector3.zero;
 
@@ -193,6 +194,52 @@ namespace Athena.CameraSystem
             if (originalTarget != null) _target = originalTarget;
             _winZoomCoroutine = null;
         }
+
+        #region Camera Zoom
+
+        /// <summary>
+        /// ซูมกล้องไปยังขนาดที่กำหนด (Orthographic Size) อย่างนุ่มนวล
+        /// </summary>
+        public void ZoomTo(float targetSize, float duration = 0.2f)
+        {
+            if (_cam == null) return;
+            if (_zoomCoroutine != null) StopCoroutine(_zoomCoroutine);
+            _zoomCoroutine = StartCoroutine(ZoomRoutine(targetSize, duration));
+        }
+
+        /// <summary>
+        /// รีเซ็ตขนาดกล้องกลับสู่ขนาดเริ่มต้น (Default Orthographic Size)
+        /// </summary>
+        public void ResetZoom(float duration = 0.25f)
+        {
+            ZoomTo(_defaultOrthographicSize, duration);
+        }
+
+        private IEnumerator ZoomRoutine(float targetSize, float duration)
+        {
+            float startSize = _cam.orthographicSize;
+            float elapsed = 0f;
+
+            if (duration <= 0.01f)
+            {
+                _cam.orthographicSize = targetSize;
+            }
+            else
+            {
+                while (elapsed < duration)
+                {
+                    // ใช้ unscaledDeltaTime เพื่อให้การซูมยังคงรวดเร็วและนุ่มนวลแม้เกมจะอยู่ในช่วง Slow-Motion
+                    elapsed += Time.unscaledDeltaTime;
+                    _cam.orthographicSize = Mathf.Lerp(startSize, targetSize, elapsed / duration);
+                    yield return null;
+                }
+                _cam.orthographicSize = targetSize;
+            }
+
+            _zoomCoroutine = null;
+        }
+
+        #endregion
 
         #region Camera Shake
 

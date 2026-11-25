@@ -12,6 +12,8 @@ namespace Athena.Player.Visual
     ///      - "OnHitboxOpen"  → เปิด hitbox (ตอนที่ sword sweep เริ่ม)
     ///      - "OnHitboxClose" → ปิด hitbox (ตอนที่ sword sweep จบ)
     ///      - "OnFireProjectile" → ยิง projectile (เฉพาะ Dash-Attack)
+    ///      - "OnProjectileSlowmoStart" → เริ่มซูมกล้องเข้าหา Player + Slow-motion
+    ///      - "OnProjectileSlowmoEnd"   → สิ้นสุด Slow-motion ซูมกล้องกลับปกติ
     ///
     /// Component นี้ต้องอยู่บน GameObject เดียวกับ Animator (Visual child)
     /// </summary>
@@ -52,5 +54,27 @@ namespace Athena.Player.Visual
         {
             _combat?.AnimEvent_FireProjectile();
         }
+
+        /// <summary>
+        /// Animation Event: เริ่มซูมกล้องเข้าหา Player และสโลว์เวลา (Slow-motion)
+        /// </summary>
+        public void OnProjectileSlowmoStart()
+        {
+            _combat?.AnimEvent_StartCinematicZoom();
+        }
+
+        /// <summary>
+        /// Animation Event: สิ้นสุด Slow-motion และซูมกล้องกลับสู่มุมมองปกติ
+        /// </summary>
+        public void OnProjectileSlowmoEnd()
+        {
+            _combat?.AnimEvent_EndCinematicZoom();
+        }
+
+        // Aliases สำหรับความสะดวกใน Animation Window
+        public void StartProjectileSlowmo() => OnProjectileSlowmoStart();
+        public void EndProjectileSlowmo() => OnProjectileSlowmoEnd();
+        public void StartZoom() => OnProjectileSlowmoStart();
+        public void EndZoom() => OnProjectileSlowmoEnd();
     }
 }

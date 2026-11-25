@@ -1,3 +1,5 @@
+using Athena.Audio;
+using Athena.CameraSystem;
 using Athena.Core;
 using Athena.Core.Interfaces;
 using Athena.Particles;
@@ -34,6 +36,20 @@ namespace Athena.Player.Combat
         [SerializeField] private string _launchParticleName;
         [SerializeField] private GameObject _launchParticlePrefab;
 
+        [Header("SFX Settings (เสียงตอนยิง และ เสียงตอนชน)")]
+        [Tooltip("ชื่อเสียงตอนยิงกระสุนใน SFXManager เช่น 'Player_Projectile_Shoot'")]
+        [SerializeField] private string _launchSFXName = "Player_Projectile_Shoot";
+        [Tooltip("ชื่อเสียงตอนกระสุนชนเป้าหมายใน SFXManager เช่น 'Player_Projectile_Hit'")]
+        [SerializeField] private string _hitSFXName = "Player_Projectile_Hit";
+
+        [Header("Camera Shake on Hit (เขย่ากล้องตอนกระสุนปะทะ)")]
+        [Tooltip("เปิดใช้งาน Camera Shake เมื่อกระสุนพุ่งชนเป้าหมายหรือสิ่งกีดขวางหรือไม่")]
+        [SerializeField] private bool _enableCameraShake = true;
+        [Tooltip("ระยะเวลาการสั่นของกล้องเมื่อกระสุนชน (วินาที)")]
+        [SerializeField] private float _hitShakeDuration = 0.15f;
+        [Tooltip("ความแรงการสั่นของกล้องเมื่อกระสุนชน")]
+        [SerializeField] private float _hitShakeIntensity = 0.25f;
+
         [Header("Unity Events (สำหรับเชื่อมต่อ Event เช่น เสียง หรือ Particle)")]
         [SerializeField] private UnityEngine.Events.UnityEvent _onLaunchEvent;
         [SerializeField] private UnityEngine.Events.UnityEvent _onHitEvent;
@@ -59,8 +75,9 @@ namespace Athena.Player.Combat
                 transform.localScale = scale;
             }
 
-            // เล่น Particle ตอนเริ่มยิงกระสุน
+            // เล่น Particle และ SFX ตอนเริ่มยิงกระสุน
             SpawnLaunchParticle();
+            PlayLaunchSFX();
             _onLaunchEvent?.Invoke();
 
             Destroy(gameObject, _lifetime);
@@ -105,8 +122,15 @@ namespace Athena.Player.Combat
                 }
             }
 
-            // เล่น Particle เมื่อกระสุนกระทบเป้าหมายหรือสิ่งกีดขวาง
+            // Camera Shake เมื่อกระสุนพุ่งชนเป้าหมายหรือสิ่งกีดขวาง
+            if (_enableCameraShake && CameraController2D.Instance != null)
+            {
+                CameraController2D.Instance.TriggerShake(_hitShakeDuration, _hitShakeIntensity);
+            }
+
+            // เล่น Particle และ SFX เมื่อกระสุนกระทบเป้าหมายหรือสิ่งกีดขวาง
             SpawnHitParticle(hitPoint);
+            PlayHitSFX(hitPoint);
             _onHitEvent?.Invoke();
             _onHitPositionEvent?.Invoke(hitPoint);
 
@@ -142,6 +166,22 @@ namespace Athena.Player.Combat
                 {
                     ParticleManager.Instance.PlayPrefab(_launchParticlePrefab, transform.position);
                 }
+            }
+        }
+
+        private void PlayLaunchSFX()
+        {
+            if (!string.IsNullOrWhiteSpace(_launchSFXName) && SFXManager.Instance != null)
+            {
+                SFXManager.Instance.PlaySFXAtPosition(_launchSFXName, transform.position);
+            }
+        }
+
+        private void PlayHitSFX(Vector2 hitPoint)
+        {
+            if (!string.IsNullOrWhiteSpace(_hitSFXName) && SFXManager.Instance != null)
+            {
+                SFXManager.Instance.PlaySFXAtPosition(_hitSFXName, hitPoint);
             }
         }
     }

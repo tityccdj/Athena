@@ -211,6 +211,149 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   _contactCooldown: 0.6
+--- !u!1 &177501084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 177501085}
+  - component: {fileID: 177501089}
+  - component: {fileID: 177501088}
+  - component: {fileID: 177501087}
+  - component: {fileID: 177501086}
+  m_Layer: 5
+  m_Name: Icon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &177501085
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177501084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2059439598}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 18.5, y: 9.9}
+  m_SizeDelta: {x: 78.5537, y: 70.6983}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &177501086
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177501084}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 140888df95e03ed4ba6604ba8d1afaaa, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &177501087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177501084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 3
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 177501088}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &177501088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177501084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -5996187382890933572, guid: 0509c915b10238441aebf6724975383c, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &177501089
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177501084}
+  m_CullTransparentMesh: 1
 --- !u!1 &276037445
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,6 +557,18 @@ MonoBehaviour:
           m_StringArgument: Player_Heal
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Heal
+          m_BoolArgument: 0
+        m_CallState: 2
   _onDeathEvent:
     m_PersistentCalls:
       m_Calls:
@@ -458,10 +613,34 @@ MonoBehaviour:
   _hit2FreezeDuration: 0.08
   _onAttack1Event:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Attack1
+          m_BoolArgument: 0
+        m_CallState: 2
   _onAttack2Event:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_Attack2
+          m_BoolArgument: 0
+        m_CallState: 2
   _onDashAttackEvent:
     m_PersistentCalls:
       m_Calls:
@@ -479,6 +658,13 @@ MonoBehaviour:
         m_CallState: 2
   _projectilePrefab: {fileID: 6660138297621625085, guid: c2c963801e1060a46af8e0ec1193f1a5, type: 3}
   _projectileSpawnPoint: {fileID: 1593848831}
+  _projectileCooldown: 5
+  _enableCinematicZoom: 1
+  _zoomInSize: 3.2
+  _zoomInSpeed: 0.15
+  _zoomOutSpeed: 0.25
+  _slowMotionTimeScale: 0.2
+  _cinematicSafetyTimeout: 0.6
   _hitbox: {fileID: 527837946}
 --- !u!114 &279934090
 MonoBehaviour:
@@ -502,6 +688,18 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: Athena.Particles.ParticleEventTrigger, Assembly-CSharp
         m_MethodName: Play
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player_dash
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -659,6 +857,81 @@ CapsuleCollider2D:
   m_Offset: {x: -0.03326744, y: -0.06470519}
   m_Size: {x: 0.57975006, y: 1.4440418}
   m_Direction: 0
+--- !u!1 &308315948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 308315949}
+  - component: {fileID: 308315951}
+  - component: {fileID: 308315950}
+  m_Layer: 5
+  m_Name: BGImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &308315949
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308315948}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2059439598}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 31.4, y: 11.2}
+  m_SizeDelta: {x: 220, y: 35}
+  m_Pivot: {x: 0, y: 1}
+--- !u!114 &308315950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308315948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 6987741722879222119, guid: 3cf864ee10797c6419b64a5ea4b8af77, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &308315951
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308315948}
+  m_CullTransparentMesh: 1
 --- !u!1 &395129333
 GameObject:
   m_ObjectHideFlags: 0
@@ -1836,7 +2109,19 @@ MonoBehaviour:
   _hit2FreezeDuration: 0.08
   _onHitTargetEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Hit_Impact
+          m_BoolArgument: 0
+        m_CallState: 2
   _onHitPositionEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -40228,10 +40513,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 30
+  _maxHealth: 60
   _onDamagedEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Boss23_hurt
+          m_BoolArgument: 0
+        m_CallState: 2
   _onDefeatedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -41231,10 +41528,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 50
+  _maxHealth: 80
   _onDamagedEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Boss1_Hurt
+          m_BoolArgument: 0
+        m_CallState: 2
   _onDefeatedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -41562,7 +41871,19 @@ MonoBehaviour:
     m_Bits: 1024
   _onHitPlayerEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Boss1_ChargeHit
+          m_BoolArgument: 0
+        m_CallState: 2
   _contactCooldown: 0.6
 --- !u!61 &1047523925
 BoxCollider2D:
@@ -41736,7 +42057,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 15.238037, y: -11.851807}
+  m_AnchoredPosition: {x: 15.238037, y: -34}
   m_SizeDelta: {x: 425.7941, y: 101.136}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1109167502
@@ -42455,7 +42776,7 @@ MonoBehaviour:
   _defaultSFXGroup: {fileID: 0}
   _sfxPresets:
   - Name: Player_Attack1
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: f882c3d625950e048a8065628a497ad5, type: 3}
     Variations: []
     Volume: 1
     Pitch: 1
@@ -42464,7 +42785,7 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Player_Attack2
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: 48551c7fbc0a6ed4b8586d6f4446d740, type: 3}
     Variations: []
     Volume: 1
     Pitch: 0.95
@@ -42473,9 +42794,9 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Player_Dash
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: 19a7e14dcc8b38942bfe203788687752, type: 3}
     Variations: []
-    Volume: 0.9
+    Volume: 0.5
     Pitch: 1.1
     RandomPitchVariation: 0.05
     Cooldown: 0.03
@@ -42518,9 +42839,9 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Player_Heal
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: 337d4c030d8ff23428ddadd7f3b178bd, type: 3}
     Variations: []
-    Volume: 1
+    Volume: 0.3
     Pitch: 1
     RandomPitchVariation: 0.02
     Cooldown: 0.03
@@ -42536,7 +42857,7 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Player_Projectile_Shoot
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: 7abdffaa0ebf2a04a810102af348101f, type: 3}
     Variations: []
     Volume: 0.9
     Pitch: 1.1
@@ -42545,7 +42866,7 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Player_Projectile_Hit
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: 4dbf4bf6fff1dac449f2a7a95a35dc31, type: 3}
     Variations: []
     Volume: 1
     Pitch: 1
@@ -42554,7 +42875,7 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Hit_Impact
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: de2ec05b0560e8f499d10748861f95fb, type: 3}
     Variations: []
     Volume: 1
     Pitch: 1
@@ -42571,8 +42892,8 @@ MonoBehaviour:
     Cooldown: 0.03
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
-  - Name: Boss1_Cleave
-    Clip: {fileID: 0}
+  - Name: Boss1_Attack
+    Clip: {fileID: 8300000, guid: e14d4709480dc9545a08fc1af6f1cfe6, type: 3}
     Variations: []
     Volume: 1
     Pitch: 0.95
@@ -42589,8 +42910,8 @@ MonoBehaviour:
     Cooldown: 0.03
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
-  - Name: Boss1_Charge
-    Clip: {fileID: 0}
+  - Name: Boss1_ChargeHit
+    Clip: {fileID: 8300000, guid: 51672edf1bed4df468eeef9fec94061e, type: 3}
     Variations: []
     Volume: 1
     Pitch: 1
@@ -42599,7 +42920,7 @@ MonoBehaviour:
     OutputGroup: {fileID: 0}
     LastPlayedTime: -999
   - Name: Boss1_Hurt
-    Clip: {fileID: 0}
+    Clip: {fileID: 8300000, guid: b5bc36303a4de6c469016231db49740f, type: 3}
     Variations: []
     Volume: 0.9
     Pitch: 0.9
@@ -42717,6 +43038,15 @@ MonoBehaviour:
     LastPlayedTime: -999
   - Name: Gate_Close
     Clip: {fileID: 0}
+    Variations: []
+    Volume: 1
+    Pitch: 0.9
+    RandomPitchVariation: 0
+    Cooldown: 0.03
+    OutputGroup: {fileID: 0}
+    LastPlayedTime: -999
+  - Name: Boss23_hurt
+    Clip: {fileID: 8300000, guid: 461369b21b4e5024a906ca69cd719a49, type: 3}
     Variations: []
     Volume: 1
     Pitch: 0.9
@@ -43401,6 +43731,81 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1279646662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1279646663}
+  - component: {fileID: 1279646666}
+  - component: {fileID: 1279646665}
+  m_Layer: 5
+  m_Name: FullCD
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1279646663
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279646662}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2059439598}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 31.400024, y: 11.199992}
+  m_SizeDelta: {x: 220, y: 35}
+  m_Pivot: {x: 0, y: 1}
+--- !u!114 &1279646665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279646662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 3620086417154106182, guid: 3cf864ee10797c6419b64a5ea4b8af77, type: 3}
+  m_Type: 3
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 0
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1279646666
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279646662}
+  m_CullTransparentMesh: 1
 --- !u!1 &1317753122
 GameObject:
   m_ObjectHideFlags: 0
@@ -43415,6 +43820,7 @@ GameObject:
   - component: {fileID: 1317753125}
   - component: {fileID: 1317753127}
   - component: {fileID: 1317753128}
+  - component: {fileID: 1317753129}
   m_Layer: 8
   m_Name: Visual
   m_TagString: Untagged
@@ -43566,6 +43972,23 @@ MonoBehaviour:
   _customSpawnPoint: {fileID: 0}
   _offset: {x: 0, y: 0, z: 0}
   _parentToThis: 1
+--- !u!114 &1317753129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1317753122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e01628118fc0547acac6bb766cbb6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sfxName: 
+  _directClip: {fileID: 8300000, guid: e14d4709480dc9545a08fc1af6f1cfe6, type: 3}
+  _volumeMultiplier: 1
+  _playAtTransformPosition: 0
+  _customAudioPoint: {fileID: 0}
 --- !u!1 &1372409222
 GameObject:
   m_ObjectHideFlags: 0
@@ -43967,6 +44390,7 @@ GameObject:
   - component: {fileID: 1454607223}
   - component: {fileID: 1454607222}
   - component: {fileID: 1454607226}
+  - component: {fileID: 1454607227}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -44052,6 +44476,7 @@ RectTransform:
   - {fileID: 1109167501}
   - {fileID: 1942783409}
   - {fileID: 1832690219}
+  - {fileID: 2059439598}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -44087,6 +44512,31 @@ MonoBehaviour:
   _player: {fileID: 0}
   _cameraController: {fileID: 0}
   _bossHealthBarUI: {fileID: 0}
+--- !u!114 &1454607227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454607221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289fe721cfbdcd944af829a3aaa9f18f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _playerCombat: {fileID: 0}
+  _cooldownSlider: {fileID: 0}
+  _cooldownFillImage: {fileID: 1279646665}
+  _invertFill: 0
+  _projectileIcon: {fileID: 177501088}
+  _readyColor: {r: 1, g: 1, b: 1, a: 1}
+  _cooldownColor: {r: 0.35, g: 0.35, b: 0.35, a: 1}
+  _cooldownTextTMP: {fileID: 0}
+  _cooldownTextLegacy: {fileID: 0}
+  _showDecimal: 1
+  _onCooldownReadyEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1503151048
 GameObject:
   m_ObjectHideFlags: 0
@@ -44101,6 +44551,7 @@ GameObject:
   - component: {fileID: 1503151051}
   - component: {fileID: 1503151053}
   - component: {fileID: 1503151055}
+  - component: {fileID: 1503151056}
   m_Layer: 8
   m_Name: Visual
   m_TagString: Untagged
@@ -44251,6 +44702,84 @@ MonoBehaviour:
   _customSpawnPoint: {fileID: 0}
   _offset: {x: 0, y: 0, z: 0}
   _parentToThis: 0
+--- !u!114 &1503151056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503151048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e01628118fc0547acac6bb766cbb6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sfxName: 
+  _directClip: {fileID: 0}
+  _volumeMultiplier: 1
+  _playAtTransformPosition: 0
+  _customAudioPoint: {fileID: 0}
+--- !u!1 &1518361696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1518361698}
+  - component: {fileID: 1518361697}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1518361697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1518361696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ece776bcb9e097459021e56f6401835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _masterMusicVolume: 0.2
+  _defaultCrossfadeDuration: 4
+  _dontDestroyOnLoad: 0
+  _musicMixerGroup: {fileID: 0}
+  _explorationMusic: {fileID: 0}
+  _explorationVolume: 0.8
+  _phase1Music: {fileID: 8300000, guid: 430e312826e4b1c4ba0082d6e4ed81d0, type: 3}
+  _phase1Volume: 1
+  _phase2Music: {fileID: 0}
+  _phase2Volume: 1
+  _ghostTransitionMusic: {fileID: 8300000, guid: 944976ffdaa4fe741b90fac7bed36fa3, type: 3}
+  _ghostTransitionVolume: 0.9
+  _phase3Music: {fileID: 8300000, guid: b2387ebbf51b21744ab782d2fd5a732d, type: 3}
+  _phase3Volume: 1
+  _victoryMusic: {fileID: 0}
+  _victoryVolume: 1
+  _autoSyncWithBossManager: 1
+--- !u!4 &1518361698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1518361696}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -195.08823, y: 1155.402, z: -3.0698736}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1532557085
 GameObject:
   m_ObjectHideFlags: 0
@@ -51139,10 +51668,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d27c1a54a85bc264bb8286ea7cf8af1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 20
+  _maxHealth: 40
   _onDamagedEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1229328055}
+        m_TargetAssemblyTypeName: Athena.Audio.SFXManager, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Boss23_hurt
+          m_BoolArgument: 0
+        m_CallState: 2
   _onDefeatedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -51162,7 +51703,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playIntroOnStart: 1
-  _introDuration: 2
+  _introDuration: 10
   _floatSpeed: 7.5
   _preferredHoverHeight: 1.5
   _bobbingFrequency: 5
@@ -51452,6 +51993,84 @@ PolygonCollider2D:
       - {x: 1.9830704, y: 0.30901718}
       - {x: 1.6399984, y: 1.3737535}
   m_UseDelaunayMesh: 0
+--- !u!1 &2059439597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2059439598}
+  - component: {fileID: 2059439600}
+  - component: {fileID: 2059439599}
+  m_Layer: 5
+  m_Name: CDpanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2059439598
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059439597}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 308315949}
+  - {fileID: 1279646663}
+  - {fileID: 177501085}
+  m_Father: {fileID: 1454607225}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 0, y: -134}
+  m_SizeDelta: {x: 487.0937, y: 39.173584}
+  m_Pivot: {x: 0, y: 1}
+--- !u!114 &2059439599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059439597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2059439600
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059439597}
+  m_CullTransparentMesh: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -51477,3 +52096,4 @@ SceneRoots:
   - {fileID: 1799310308}
   - {fileID: 1372409224}
   - {fileID: 1229328056}
+  - {fileID: 1518361698}

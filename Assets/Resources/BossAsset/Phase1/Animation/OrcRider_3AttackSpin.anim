@@ -121,6 +121,20 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 1.1666666
+    functionName: PlayClip
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: e14d4709480dc9545a08fc1af6f1cfe6, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.5
+    functionName: PlayClip
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: e14d4709480dc9545a08fc1af6f1cfe6, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 1.5833334
     functionName: OnHitboxClose
     data: 

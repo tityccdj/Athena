@@ -32,6 +32,7 @@ namespace Athena.Player.Movement
 
         [Header("Visual")]
         [SerializeField] private Transform _visualTransform;
+        private float _baseScaleX = 1f;
 
         private Rigidbody2D _rb;
         private CollisionDetector2D _collisionDetector;
@@ -73,12 +74,25 @@ namespace Athena.Player.Movement
             _defaultGravityScale = _rb.gravityScale;
 
             if (_visualTransform == null) _visualTransform = transform;
+            _baseScaleX = Mathf.Abs(_visualTransform.localScale.x);
+            if (_baseScaleX < 0.001f) _baseScaleX = 1f;
+        }
+
+        private void Start()
+        {
+            SetFacingDirection(FacingDirection != 0 ? FacingDirection : 1);
         }
 
         private void Update()
         {
             if (_input == null || _collisionDetector == null) return;
             if (_isDead) return;
+
+            // Self-healing: ป้องกันกรณีมีระบบหรือแอนิเมชั่นภายนอกทำให้ scale.x กลายเป็น 0 จนตัวละครหาย
+            if (_visualTransform != null && Mathf.Abs(_visualTransform.localScale.x) < 0.001f)
+            {
+                SetFacingDirection(FacingDirection != 0 ? FacingDirection : 1);
+            }
 
             UpdateFacingDirection();
             CheckJump();
@@ -111,10 +125,7 @@ namespace Athena.Player.Movement
             float horizontal = _input.MoveInput.x;
             if (Mathf.Abs(horizontal) > 0.05f)
             {
-                FacingDirection = horizontal > 0 ? 1 : -1;
-                Vector3 scale = _visualTransform.localScale;
-                scale.x = Mathf.Abs(scale.x) * FacingDirection;
-                _visualTransform.localScale = scale;
+                SetFacingDirection(horizontal > 0 ? 1 : -1);
             }
         }
 
@@ -159,7 +170,11 @@ namespace Athena.Player.Movement
 
         private void ExecuteWallJump()
         {
-            int wallDir = _collisionDetector.WallDirection;
+            // ป้องกัน wallDir เป็น 0 ซึ่งจะทำให้ FacingDirection กลายเป็น 0 และ scale.x = 0
+            int wallDir = (_collisionDetector != null && _collisionDetector.WallDirection != 0) 
+                ? _collisionDetector.WallDirection 
+                : FacingDirection;
+
             _canJump = false;
             _hasReleasedJumpKey = false;
             _lastJumpTime = Time.time;
@@ -172,10 +187,7 @@ namespace Athena.Player.Movement
             _wallJumpInputLockEndTime = Time.time + _wallJumpInputLockDuration;
 
             // หันหน้าออกจากกำแพง
-            FacingDirection = -wallDir;
-            Vector3 scale = _visualTransform.localScale;
-            scale.x = Mathf.Abs(scale.x) * FacingDirection;
-            _visualTransform.localScale = scale;
+            SetFacingDirection(-wallDir);
 
             _onJumpEvent?.Invoke();
         }
@@ -278,6 +290,7 @@ namespace Athena.Player.Movement
         {
             _isDead = false;
             _isMovementLocked = false;
+            SetFacingDirection(FacingDirection != 0 ? FacingDirection : 1);
         }
 
         public void ApplyDirectVelocity(Vector2 velocity)
@@ -293,6 +306,24 @@ namespace Athena.Player.Movement
         public void StopHorizontalVelocity()
         {
             _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
+        }
+
+        /// <summary>
+        /// กำหนดทิศทางการหันหน้าและพลิก Sprite พร้อมป้องกัน scale.x กลายเป็น 0 เด็ดขาด
+        /// </summary>
+        public void SetFacingDirection(int direction)
+        {
+            if (direction == 0) return; // ห้ามเป็น 0 เด็ดขาด
+
+            FacingDirection = direction > 0 ? 1 : -1;
+
+            if (_visualTransform != null)
+            {
+                Vector3 scale = _visualTransform.localScale;
+                float baseScale = (_baseScaleX > 0.001f) ? _baseScaleX : 1f;
+                scale.x = baseScale * FacingDirection;
+                _visualTransform.localScale = scale;
+            }
         }
     }
 }

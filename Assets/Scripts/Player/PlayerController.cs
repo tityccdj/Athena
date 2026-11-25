@@ -54,7 +54,7 @@ namespace Athena.Player
             // Wire up dependencies cleanly
             _movement.Initialize(_inputReader, _collisionDetector);
             _dash.Initialize(_inputReader, _movement, _health);
-            _combat.Initialize(_inputReader, _movement, _dash);
+            _combat.Initialize(_inputReader, _movement, _dash, _health);
             _health.Initialize(_inputReader, _movement, rb);
 
             if (_animation != null)

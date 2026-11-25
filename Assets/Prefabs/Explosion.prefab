@@ -128,6 +128,7 @@ GameObject:
   - component: {fileID: 3029530823391402444}
   - component: {fileID: 4613130641847343175}
   - component: {fileID: 7732512963155249678}
+  - component: {fileID: 7284891504391210254}
   m_Layer: 12
   m_Name: Visual
   m_TagString: Untagged
@@ -227,3 +228,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7284891504391210254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6188012727178203869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e01628118fc0547acac6bb766cbb6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sfxName: 
+  _directClip: {fileID: 8300000, guid: d9d5b41ce806ce2408f764af88618dc2, type: 3}
+  _volumeMultiplier: 0.25
+  _playAtTransformPosition: 0
+  _customAudioPoint: {fileID: 0}

@@ -1,5 +1,7 @@
 using System;
 using System.Collections;
+using Athena.CameraSystem;
+using Athena.Player.Health;
 using Athena.Player.Input;
 using Athena.Player.Movement;
 using UnityEngine;
@@ -33,6 +35,23 @@ namespace Athena.Player.Combat
         [Header("Dash Attack Settings (GDD: Projectile, 2 Damage)")]
         [SerializeField] private GameObject _projectilePrefab;
         [SerializeField] private Transform _projectileSpawnPoint;
+        [Tooltip("ระยะเวลาคูลดาวน์ของการยิง Projectile (วินาที)")]
+        [SerializeField] private float _projectileCooldown = 3.0f;
+
+        [Header("Cinematic Zoom & Slow-Motion Settings")]
+        [Tooltip("เปิดใช้งานระบบซูมกล้องและสโลว์โมชั่นเวลาเล็ง/ชาร์จยิง Projectile หรือไม่")]
+        [SerializeField] private bool _enableCinematicZoom = true;
+        [Tooltip("ขนาด Orthographic Size ของกล้องตอนซูมเข้า (ยิ่งค่าน้อย ยิ่งซูมใกล้ ค่าปกติประมาณ 3.0 - 3.5)")]
+        [SerializeField] private float _zoomInSize = 3.2f;
+        [Tooltip("ความเร็วในการซูมเข้า (วินาที, เวลาจริง)")]
+        [SerializeField] private float _zoomInSpeed = 0.15f;
+        [Tooltip("ความเร็วในการซูมออกกลับเป็นปกติ (วินาที, เวลาจริง)")]
+        [SerializeField] private float _zoomOutSpeed = 0.25f;
+        [Range(0.05f, 1f)]
+        [Tooltip("สปีดเวลาช่วง Slow-Motion (เช่น 0.2 = เวลาช้าลง 5 เท่า, 1.0 = ปกติ)")]
+        [SerializeField] private float _slowMotionTimeScale = 0.2f;
+        [Tooltip("ระยะเวลาความปลอดภัยสูงสุดสำหรับ Cinematic Zoom (วินาที Realtime) หากไม่มี Event สั่งปิด หรือออกท่าไม่สำเร็จ จะคืนค่ากล้องและเวลาอัตโนมัติ")]
+        [SerializeField] private float _cinematicSafetyTimeout = 0.6f;
 
         [Header("Components")]
         [SerializeField] private PlayerAttackHitbox _hitbox;
@@ -40,11 +59,15 @@ namespace Athena.Player.Combat
         private IPlayerInput _input;
         private PlayerMovement _movement;
         private PlayerDash _dash;
+        private PlayerHealth _health;
 
         private int _currentComboStep = 0; // 0 = ready for Hit 1, 1 = ready for Hit 2
         private float _lastAttackTime = -999f;
+        private float _lastProjectileAttackTime = -999f;
         private bool _hasFiredDashAttackInCurrentDash = false;
+        private bool _isCinematicActive = false;
         private Coroutine _attackLockCoroutine;
+        private Coroutine _cinematicTimeoutCoroutine;
 
         // Track last executed combo step separately for Animation Event lookup
         // (since _currentComboStep resets to 0 after Hit 2)
@@ -53,15 +76,28 @@ namespace Athena.Player.Combat
         public event Action<int> OnMeleeAttackStarted; // comboStep: 1 or 2
         public event Action OnDashAttackTriggered;
 
-        public void Initialize(IPlayerInput input, PlayerMovement movement, PlayerDash dash)
+        public bool CanFireProjectile => Time.time >= _lastProjectileAttackTime + _projectileCooldown;
+        public float ProjectileCooldownRemaining => Mathf.Max(0f, (_lastProjectileAttackTime + _projectileCooldown) - Time.time);
+        public float ProjectileCooldownDuration => _projectileCooldown;
+        public float ProjectileCooldownNormalized => _projectileCooldown > 0f ? Mathf.Clamp01(ProjectileCooldownRemaining / _projectileCooldown) : 0f;
+
+        public void Initialize(IPlayerInput input, PlayerMovement movement, PlayerDash dash, PlayerHealth health = null)
         {
             _input = input;
             _movement = movement;
             _dash = dash;
+            _health = health;
 
             if (_dash != null)
             {
                 _dash.OnDashStarted += HandleDashStarted;
+                _dash.OnDashEnded += HandleDashEnded;
+            }
+
+            if (_health != null)
+            {
+                _health.OnDamaged += HandlePlayerDamaged;
+                _health.OnDeath += HandlePlayerDeath;
             }
         }
 
@@ -73,6 +109,10 @@ namespace Athena.Player.Combat
 
         public void ResetCombat()
         {
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
             if (_attackLockCoroutine != null)
             {
                 StopCoroutine(_attackLockCoroutine);
@@ -80,10 +120,19 @@ namespace Athena.Player.Combat
             }
             _currentComboStep = 0;
             _lastAttackTime = -999f;
+            _lastProjectileAttackTime = -999f;
             _hasFiredDashAttackInCurrentDash = false;
             if (_hitbox != null)
             {
                 _hitbox.Close();
+            }
+        }
+
+        private void OnDisable()
+        {
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
             }
         }
 
@@ -92,6 +141,13 @@ namespace Athena.Player.Combat
             if (_dash != null)
             {
                 _dash.OnDashStarted -= HandleDashStarted;
+                _dash.OnDashEnded -= HandleDashEnded;
+            }
+
+            if (_health != null)
+            {
+                _health.OnDamaged -= HandlePlayerDamaged;
+                _health.OnDeath -= HandlePlayerDeath;
             }
         }
 
@@ -116,7 +172,7 @@ namespace Athena.Player.Combat
             // Case 1: Dash Attack (GDD: Attack during Dash fires projectile)
             if (_dash != null && _dash.IsDashing)
             {
-                if (!_hasFiredDashAttackInCurrentDash)
+                if (!_hasFiredDashAttackInCurrentDash && CanFireProjectile)
                 {
                     _input.ConsumeAttackBuffer();
                     ExecuteDashAttack();
@@ -135,6 +191,12 @@ namespace Athena.Player.Combat
 
         private void ExecuteMeleeAttack()
         {
+            // หากมีการซูมหรือสโลว์โมชั่นค้างอยู่จากการเล็ง/แดช ให้ยกเลิกทันทีเมื่อกดโจมตีระยะประชิด
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+
             _lastAttackTime = Time.time;
             _currentComboStep++;
             _lastExecutedComboStep = _currentComboStep; // remember for Animation Event
@@ -184,6 +246,12 @@ namespace Athena.Player.Combat
         /// </summary>
         public void AnimEvent_FireProjectile()
         {
+            // หากมีการซูมกล้องและสโลว์โมชั่นค้างอยู่ ให้ซูมออกและคืนเวลาสู่ปกติทันที
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+
             if (_projectilePrefab == null) return;
             Vector3 spawnPos = _projectileSpawnPoint != null ? _projectileSpawnPoint.position : transform.position;
             GameObject projObj = Instantiate(_projectilePrefab, spawnPos, Quaternion.identity);
@@ -217,6 +285,7 @@ namespace Athena.Player.Combat
         private void ExecuteDashAttack()
         {
             _hasFiredDashAttackInCurrentDash = true;
+            _lastProjectileAttackTime = Time.time;
 
             // Projectile is fired by Animation Event (AnimEvent_FireProjectile)
             // This just notifies subscribers (e.g. PlayerAnimation to play DashAttack clip)
@@ -228,6 +297,93 @@ namespace Athena.Player.Combat
         {
             _hasFiredDashAttackInCurrentDash = false;
         }
+
+        private void HandleDashEnded()
+        {
+            // หาก Dash จบลงแล้วแต่ยังมี Cinematic Zoom ค้างอยู่ (เช่น ออกท่าไม่สำเร็จ หรือถูกขัดจังหวะ) ให้คืนค่าทันที
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+        }
+
+        private void HandlePlayerDamaged(int damage)
+        {
+            // หากได้รับดาเมจระหว่างชาร์จ/สโลว์โมชั่น ให้แคนเซิลและคืนค่ากล้องกับเวลาทันที
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+        }
+
+        private void HandlePlayerDeath()
+        {
+            // หากผู้เล่นเสียชีวิต ให้คืนค่ากล้องกับเวลาทันที
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+        }
+
+        #region Cinematic Zoom & Slow-Motion
+
+        /// <summary>
+        /// Animation Event: เริ่มซูมกล้องเข้าหาตัวละครและ Slow-motion เวลา
+        /// </summary>
+        public void AnimEvent_StartCinematicZoom()
+        {
+            if (!_enableCinematicZoom) return;
+
+            _isCinematicActive = true;
+            Time.timeScale = _slowMotionTimeScale;
+            Time.fixedDeltaTime = 0.02f * Time.timeScale;
+
+            if (CameraController2D.Instance != null)
+            {
+                CameraController2D.Instance.ZoomTo(_zoomInSize, _zoomInSpeed);
+            }
+
+            // เริ่มนับเวลา Safety Timeout (Realtime) เพื่อป้องกันการค้างกรณีไม่มี Event ปิด หรือโดนขัดจังหวะ
+            if (_cinematicTimeoutCoroutine != null)
+            {
+                StopCoroutine(_cinematicTimeoutCoroutine);
+            }
+            _cinematicTimeoutCoroutine = StartCoroutine(CinematicSafetyTimeoutRoutine(_cinematicSafetyTimeout));
+        }
+
+        /// <summary>
+        /// Animation Event: สิ้นสุด Slow-motion และคืนขนาดกล้องกลับเป็นปกติ
+        /// </summary>
+        public void AnimEvent_EndCinematicZoom()
+        {
+            if (_cinematicTimeoutCoroutine != null)
+            {
+                StopCoroutine(_cinematicTimeoutCoroutine);
+                _cinematicTimeoutCoroutine = null;
+            }
+
+            if (!_isCinematicActive) return;
+
+            _isCinematicActive = false;
+            Time.timeScale = 1.0f;
+            Time.fixedDeltaTime = 0.02f;
+
+            if (CameraController2D.Instance != null)
+            {
+                CameraController2D.Instance.ResetZoom(_zoomOutSpeed);
+            }
+        }
+
+        private IEnumerator CinematicSafetyTimeoutRoutine(float timeout)
+        {
+            yield return new WaitForSecondsRealtime(timeout);
+            if (_isCinematicActive)
+            {
+                AnimEvent_EndCinematicZoom();
+            }
+        }
+
+        #endregion
     }
 }
 
