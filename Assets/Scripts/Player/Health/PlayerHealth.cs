@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using Athena.CameraSystem;
 using Athena.Core;
 using Athena.Core.Interfaces;
 using Athena.Player.Input;
@@ -23,6 +24,14 @@ namespace Athena.Player.Health
         [SerializeField] private UnityEngine.Events.UnityEvent _onDamagedEvent;
         [SerializeField] private UnityEngine.Events.UnityEvent _onHealedEvent;
         [SerializeField] private UnityEngine.Events.UnityEvent _onDeathEvent;
+
+        [Header("Camera Shake on Damage")]
+        [Tooltip("เปิดใช้งาน Camera Shake เมื่อ Player ได้รับความเสียหายหรือไม่")]
+        [SerializeField] private bool _enableCameraShake = true;
+        [Tooltip("ระยะเวลาการสั่นของกล้องเมื่อโดนดาเมจ (วินาที)")]
+        [SerializeField] private float _damageShakeDuration = 0.2f;
+        [Tooltip("ความแรงการสั่นของกล้องเมื่อโดนดาเมจ")]
+        [SerializeField] private float _damageShakeIntensity = 0.35f;
 
         [Header("Visual Feedback")]
         [SerializeField] private SpriteRenderer _spriteRenderer;
@@ -99,6 +108,12 @@ namespace Athena.Player.Health
             OnDamaged?.Invoke(damageToTake);
             OnHealthChanged?.Invoke(_currentHealth, _maxHealth);
             _onDamagedEvent?.Invoke();
+
+            // Camera Shake เมื่อได้รับดาเมจ
+            if (_enableCameraShake && CameraController2D.Instance != null)
+            {
+                CameraController2D.Instance.TriggerShake(_damageShakeDuration, _damageShakeIntensity);
+            }
 
             // Apply Knockback
             if (info.KnockbackForce > 0f)

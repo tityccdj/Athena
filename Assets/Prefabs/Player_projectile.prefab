@@ -164,6 +164,7 @@ MonoBehaviour:
   _hitParticleName: Player_pPtjOH
   _hitParticlePrefab: {fileID: 0}
   _hitParticleOffset: {x: 0, y: 0, z: 0}
+  _hitFreezeDuration: 0.12
   _launchParticleName: 
   _launchParticlePrefab: {fileID: 0}
   _onLaunchEvent:

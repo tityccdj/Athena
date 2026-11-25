@@ -405,6 +405,9 @@ MonoBehaviour:
   _onDeathEvent:
     m_PersistentCalls:
       m_Calls: []
+  _enableCameraShake: 1
+  _damageShakeDuration: 0.2
+  _damageShakeIntensity: 0
   _spriteRenderer: {fileID: 1453037744}
   _flashInterval: 0.1
 --- !u!114 &279934089
@@ -428,6 +431,7 @@ MonoBehaviour:
   _hit2Knockback: 7
   _attack1LockDuration: 0.35
   _attack2LockDuration: 0.4
+  _hit2FreezeDuration: 0.08
   _onAttack1Event:
     m_PersistentCalls:
       m_Calls: []
@@ -1565,6 +1569,8 @@ MonoBehaviour:
   _currentRoomBounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
+  _defaultShakeDuration: 0.2
+  _defaultShakeIntensity: 0.35
 --- !u!1 &527777065
 GameObject:
   m_ObjectHideFlags: 0
@@ -1718,6 +1724,7 @@ MonoBehaviour:
   _hitParticleName: Player_hit
   _hitParticlePrefab: {fileID: 0}
   _particleOffset: {x: 0, y: 0, z: 0}
+  _hit2FreezeDuration: 0.08
   _onHitTargetEvent:
     m_PersistentCalls:
       m_Calls: []

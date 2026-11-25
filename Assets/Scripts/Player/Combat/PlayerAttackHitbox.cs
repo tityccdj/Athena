@@ -28,6 +28,10 @@ namespace Athena.Player.Combat
         [Tooltip("ระยะ Offset เพิ่มเติมจากจุดปะทะ")]
         [SerializeField] private Vector3 _particleOffset = Vector3.zero;
 
+        [Header("Hit Stop / Freeze Frame Settings")]
+        [Tooltip("ระยะเวลา Freeze Frame เมื่อฟัน Hit ที่สองโดนศัตรู (วินาที เช่น 0.08 - 0.12) 0 = ปิด")]
+        [SerializeField] private float _hit2FreezeDuration = 0.08f;
+
         [Header("Unity Events (สำหรับเชื่อมต่อ Event อื่นๆ เพิ่มเติม)")]
         [SerializeField] private UnityEngine.Events.UnityEvent _onHitTargetEvent;
         [SerializeField] private UnityEngine.Events.UnityEvent<Vector3> _onHitPositionEvent;
@@ -37,6 +41,7 @@ namespace Athena.Player.Combat
         private int _facingDirection;
         private float _knockbackForce;
         private GameObject _attacker;
+        private bool _isComboHit2 = false;
 
         // Track hit entities within single open window to avoid multi-hit
         private readonly HashSet<IDamageable> _damagedThisSwing = new HashSet<IDamageable>();
@@ -46,12 +51,17 @@ namespace Athena.Player.Combat
         /// <summary>
         /// เรียกจาก Animation Event "HitboxOpen" — เปิด hitbox พร้อมตั้งค่า damage
         /// </summary>
-        public void Open(int damage, int facingDirection, float knockbackForce, GameObject attacker)
+        public void Open(int damage, int facingDirection, float knockbackForce, GameObject attacker, bool isComboHit2 = false, float overrideFreezeDuration = -1f)
         {
             _damage = damage;
             _facingDirection = facingDirection;
             _knockbackForce = knockbackForce;
             _attacker = attacker;
+            _isComboHit2 = isComboHit2;
+            if (overrideFreezeDuration >= 0f)
+            {
+                _hit2FreezeDuration = overrideFreezeDuration;
+            }
             _damagedThisSwing.Clear();
             _isActive = true;
         }
@@ -62,6 +72,7 @@ namespace Athena.Player.Combat
         public void Close()
         {
             _isActive = false;
+            _isComboHit2 = false;
             _damagedThisSwing.Clear();
         }
 
@@ -114,6 +125,12 @@ namespace Athena.Player.Combat
                         Vector2 knockbackDir = new Vector2(_facingDirection, 0.2f).normalized;
                         DamageInfo info = new DamageInfo(_damage, hitPoint, knockbackDir, _knockbackForce, _attacker);
                         damageable.TakeDamage(info);
+
+                        // Freeze Frame เมื่อฟัน Hit ที่สองโดนศัตรู
+                        if (_isComboHit2 && _hit2FreezeDuration > 0f)
+                        {
+                            HitStopManager.Instance.Freeze(_hit2FreezeDuration);
+                        }
 
                         // เล่น Particle Effect ณ ตำแหน่งที่ฟันโดนทันที
                         SpawnHitParticle(hitPoint);

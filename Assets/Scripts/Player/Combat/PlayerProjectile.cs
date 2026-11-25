@@ -25,6 +25,10 @@ namespace Athena.Player.Combat
         [Tooltip("ระยะ Offset เพิ่มเติมจากจุดปะทะ")]
         [SerializeField] private Vector3 _hitParticleOffset = Vector3.zero;
 
+        [Header("Hit Stop / Freeze Frame Settings")]
+        [Tooltip("ระยะเวลา Freeze Frame เมื่อกระสุนยิงโดนศัตรู (วินาที เช่น 0.06 - 0.1) 0 = ปิด")]
+        [SerializeField] private float _hitFreezeDuration = 0.08f;
+
         [Header("Launch Particle Settings (เล่น Particle ตอนยิงออกไป)")]
         [Tooltip("ชื่อ Particle ใน ParticleManager ตอนเริ่มยิงกระสุนออกไป (ใส่หรือไม่ใส่ก็ได้)")]
         [SerializeField] private string _launchParticleName;
@@ -92,6 +96,12 @@ namespace Athena.Player.Combat
                         source: gameObject
                     );
                     damageable.TakeDamage(info);
+
+                    // Freeze Frame เมื่อยิงโดนศัตรู
+                    if (_hitFreezeDuration > 0f)
+                    {
+                        HitStopManager.Instance.Freeze(_hitFreezeDuration);
+                    }
                 }
             }
 

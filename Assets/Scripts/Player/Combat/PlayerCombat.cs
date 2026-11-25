@@ -21,6 +21,10 @@ namespace Athena.Player.Combat
         [SerializeField] private float _attack1LockDuration = 0.35f;
         [SerializeField] private float _attack2LockDuration = 0.4f;
 
+        [Header("Hit Stop / Freeze Frame Settings")]
+        [Tooltip("ระยะเวลา Freeze Frame เมื่อฟัน Hit ที่สองโดนศัตรู (วินาที เช่น 0.08 - 0.12) 0 = ปิด")]
+        [SerializeField] private float _hit2FreezeDuration = 0.08f;
+
         [Header("Unity Events (สำหรับเชื่อมต่อ ParticleManager หรือเสียง)")]
         [SerializeField] private UnityEngine.Events.UnityEvent _onAttack1Event;
         [SerializeField] private UnityEngine.Events.UnityEvent _onAttack2Event;
@@ -163,7 +167,8 @@ namespace Athena.Player.Combat
             // Use _lastExecutedComboStep which is preserved even after _currentComboStep resets
             int damage = (_lastExecutedComboStep == 1) ? _hit1Damage : _hit2Damage;
             float knockback = (_lastExecutedComboStep == 1) ? _hit1Knockback : _hit2Knockback;
-            _hitbox.Open(damage, _movement.FacingDirection, knockback, gameObject);
+            bool isHit2 = (_lastExecutedComboStep == 2);
+            _hitbox.Open(damage, _movement.FacingDirection, knockback, gameObject, isHit2, _hit2FreezeDuration);
         }
 
         /// <summary>

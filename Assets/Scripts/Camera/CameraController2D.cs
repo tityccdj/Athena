@@ -1,3 +1,4 @@
+using System.Collections;
 using Athena.Player;
 using UnityEngine;
 
@@ -23,10 +24,18 @@ namespace Athena.CameraSystem
         [SerializeField] private bool _isConfined = false;
         [SerializeField] private Bounds _currentRoomBounds;
 
+        [Header("Camera Shake Settings")]
+        [Tooltip("ระยะเวลาการสั่นเริ่มต้น (วินาที)")]
+        [SerializeField] private float _defaultShakeDuration = 0.2f;
+        [Tooltip("ความแรงการสั่นเริ่มต้น")]
+        [SerializeField] private float _defaultShakeIntensity = 0.35f;
+
         private Camera _cam;
         private Vector3 _currentVelocity = Vector3.zero;
         private float _defaultOrthographicSize = 5f;
         private Coroutine _winZoomCoroutine;
+        private Coroutine _shakeCoroutine;
+        private Vector3 _shakeOffset = Vector3.zero;
 
         public bool IsConfined => _isConfined;
         public Bounds CurrentRoomBounds => _currentRoomBounds;
@@ -70,9 +79,14 @@ namespace Athena.CameraSystem
                 desiredPos = ClampPositionToBounds(desiredPos);
             }
 
-            // 3. เคลื่อนที่กล้องแบบ Smooth
+            // 3. เคลื่อนที่กล้องแบบ Smooth พร้อมบวก Shake Offset
             Vector3 smoothedPos = Vector3.SmoothDamp(transform.position, desiredPos, ref _currentVelocity, _smoothTime);
-            transform.position = new Vector3(smoothedPos.x, smoothedPos.y, _offset.z);
+            transform.position = new Vector3(smoothedPos.x + _shakeOffset.x, smoothedPos.y + _shakeOffset.y, _offset.z);
+        }
+
+        private void OnDisable()
+        {
+            StopShake();
         }
 
         /// <summary>
@@ -179,5 +193,63 @@ namespace Athena.CameraSystem
             if (originalTarget != null) _target = originalTarget;
             _winZoomCoroutine = null;
         }
+
+        #region Camera Shake
+
+        /// <summary>
+        /// เรียกใช้ Camera Shake ด้วยค่าเริ่มต้นที่กำหนดไว้ใน Inspector
+        /// </summary>
+        public void TriggerShake()
+        {
+            TriggerShake(_defaultShakeDuration, _defaultShakeIntensity);
+        }
+
+        /// <summary>
+        /// เรียกใช้ Camera Shake โดยระบุระยะเวลาและความแรง
+        /// </summary>
+        /// <param name="duration">ระยะเวลาสั่น (วินาที)</param>
+        /// <param name="intensity">ความแรงในการสั่น (ระยะขยับของกล้อง)</param>
+        public void TriggerShake(float duration, float intensity)
+        {
+            if (duration <= 0f || intensity <= 0f) return;
+
+            if (_shakeCoroutine != null)
+            {
+                StopCoroutine(_shakeCoroutine);
+            }
+            _shakeCoroutine = StartCoroutine(ShakeRoutine(duration, intensity));
+        }
+
+        /// <summary>
+        /// หยุดการสั่นของกล้องทันที
+        /// </summary>
+        public void StopShake()
+        {
+            if (_shakeCoroutine != null)
+            {
+                StopCoroutine(_shakeCoroutine);
+                _shakeCoroutine = null;
+            }
+            _shakeOffset = Vector3.zero;
+        }
+
+        private IEnumerator ShakeRoutine(float duration, float intensity)
+        {
+            float elapsed = 0f;
+            while (elapsed < duration)
+            {
+                // ใช้ unscaledDeltaTime เพื่อให้การสั่นยังทำงานได้อย่างเป็นธรรมชาติแม้ติด Freeze Frame / Hit Stop
+                elapsed += Time.unscaledDeltaTime;
+                float damper = 1f - Mathf.Clamp01(elapsed / duration);
+                Vector2 randomOffset = Random.insideUnitCircle * (intensity * damper);
+                _shakeOffset = new Vector3(randomOffset.x, randomOffset.y, 0f);
+                yield return null;
+            }
+
+            _shakeOffset = Vector3.zero;
+            _shakeCoroutine = null;
+        }
+
+        #endregion
     }
 }
