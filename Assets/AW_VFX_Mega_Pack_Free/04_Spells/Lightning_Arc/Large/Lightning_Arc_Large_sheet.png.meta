@@ -121,7 +121,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -159,7 +159,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -200,10 +200,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 15
-        width: 137
-        height: 40
+        x: 0
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +222,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_1
       rect:
         serializedVersion: 2
-        x: 209
-        y: 11
-        width: 134
-        height: 39
+        x: 180
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +244,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_2
       rect:
         serializedVersion: 2
-        x: 388
-        y: 18
-        width: 132
-        height: 33
+        x: 360
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_3
       rect:
         serializedVersion: 2
-        x: 566
-        y: 13
-        width: 136
-        height: 39
+        x: 540
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +288,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_4
       rect:
         serializedVersion: 2
-        x: 752
-        y: 19
-        width: 128
-        height: 33
+        x: 720
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_5
       rect:
         serializedVersion: 2
-        x: 932
-        y: 15
-        width: 131
-        height: 39
+        x: 900
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_6
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 17
-        width: 135
-        height: 40
+        x: 1080
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +354,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_7
       rect:
         serializedVersion: 2
-        x: 1288
-        y: 19
-        width: 135
-        height: 39
+        x: 1260
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,10 +376,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_8
       rect:
         serializedVersion: 2
-        x: 1467
-        y: 25
-        width: 138
-        height: 35
+        x: 1440
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,10 +398,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_9
       rect:
         serializedVersion: 2
-        x: 1645
-        y: 20
-        width: 143
-        height: 41
+        x: 1620
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_10
       rect:
         serializedVersion: 2
-        x: 1829
-        y: 22
-        width: 141
-        height: 39
+        x: 1800
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +442,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_11
       rect:
         serializedVersion: 2
-        x: 2008
-        y: 22
-        width: 135
-        height: 28
+        x: 1980
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +464,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_12
       rect:
         serializedVersion: 2
-        x: 2189
-        y: 17
-        width: 137
-        height: 35
+        x: 2160
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,10 +486,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_13
       rect:
         serializedVersion: 2
-        x: 2370
-        y: 23
-        width: 133
-        height: 31
+        x: 2340
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,10 +508,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_14
       rect:
         serializedVersion: 2
-        x: 2548
-        y: 18
-        width: 137
-        height: 33
+        x: 2520
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_15
       rect:
         serializedVersion: 2
-        x: 2727
-        y: 23
-        width: 141
-        height: 30
+        x: 2700
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_16
       rect:
         serializedVersion: 2
-        x: 2909
-        y: 23
-        width: 133
-        height: 30
+        x: 2880
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
       name: Lightning_Arc_Large_sheet_17
       rect:
         serializedVersion: 2
-        x: 2937
-        y: 42
-        width: 7
-        height: 7
+        x: 3060
+        y: 0
+        width: 180
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,253 +592,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_18
-      rect:
-        serializedVersion: 2
-        x: 2994
-        y: 39
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c3aee4ca2ce0f580800000000000000
-      internalID: -8795270403817823288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_19
-      rect:
-        serializedVersion: 2
-        x: 3087
-        y: 20
-        width: 138
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 934c1157da747bed0800000000000000
-      internalID: -2398369466232486855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_20
-      rect:
-        serializedVersion: 2
-        x: 3117
-        y: 42
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f9f14d7b1616f3c0800000000000000
-      internalID: -4326246084721378832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_21
-      rect:
-        serializedVersion: 2
-        x: 3174
-        y: 39
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7be23a325bc720c80800000000000000
-      internalID: -8357980841017397577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_22
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 34
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08b59be9c977f5fe0800000000000000
-      internalID: -1198107461295711360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_23
-      rect:
-        serializedVersion: 2
-        x: 825
-        y: 23
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2fc874456b35c1c0800000000000000
-      internalID: -4484112547850957009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_24
-      rect:
-        serializedVersion: 2
-        x: 1005
-        y: 23
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcd0b8c09baa82050800000000000000
-      internalID: 5776054233858772431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_25
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 25
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f0b094fde1b8ade0800000000000000
-      internalID: -1321610855064751880
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_26
-      rect:
-        serializedVersion: 2
-        x: 1365
-        y: 23
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37e235c492b621ff0800000000000000
-      internalID: -66873219338785165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_27
-      rect:
-        serializedVersion: 2
-        x: 1539
-        y: 25
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef6a8b44763eabd70800000000000000
-      internalID: 9059803633083262718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_Arc_Large_sheet_28
-      rect:
-        serializedVersion: 2
-        x: 1545
-        y: 23
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ccd39b19551ef680800000000000000
-      internalID: -8719508356083753788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fcd16b84bbb686b42b839d561bf8c7ef
     internalID: 0
     vertices: []
     indices: 
@@ -858,18 +616,7 @@ TextureImporter:
       Lightning_Arc_Large_sheet_15: 8053471435694182934
       Lightning_Arc_Large_sheet_16: 2236192373777401472
       Lightning_Arc_Large_sheet_17: -3279064134156094854
-      Lightning_Arc_Large_sheet_18: -8795270403817823288
-      Lightning_Arc_Large_sheet_19: -2398369466232486855
       Lightning_Arc_Large_sheet_2: -8788558799347605747
-      Lightning_Arc_Large_sheet_20: -4326246084721378832
-      Lightning_Arc_Large_sheet_21: -8357980841017397577
-      Lightning_Arc_Large_sheet_22: -1198107461295711360
-      Lightning_Arc_Large_sheet_23: -4484112547850957009
-      Lightning_Arc_Large_sheet_24: 5776054233858772431
-      Lightning_Arc_Large_sheet_25: -1321610855064751880
-      Lightning_Arc_Large_sheet_26: -66873219338785165
-      Lightning_Arc_Large_sheet_27: 9059803633083262718
-      Lightning_Arc_Large_sheet_28: -8719508356083753788
       Lightning_Arc_Large_sheet_3: 8738454046981741415
       Lightning_Arc_Large_sheet_4: -5384177314865825226
       Lightning_Arc_Large_sheet_5: -4386717705333533740

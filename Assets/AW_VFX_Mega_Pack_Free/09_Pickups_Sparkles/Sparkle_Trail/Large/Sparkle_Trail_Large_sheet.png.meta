@@ -217,7 +217,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -255,7 +255,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -296,10 +296,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 12
-        width: 17
-        height: 13
+        x: 0
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 7
-        width: 11
-        height: 11
+        x: 64
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_2
       rect:
         serializedVersion: 2
-        x: 42
-        y: 8
-        width: 20
-        height: 17
+        x: 128
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_3
       rect:
         serializedVersion: 2
-        x: 81
-        y: 12
-        width: 18
-        height: 13
+        x: 192
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_4
       rect:
         serializedVersion: 2
-        x: 97
-        y: 8
-        width: 9
-        height: 9
+        x: 256
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_5
       rect:
         serializedVersion: 2
-        x: 103
-        y: 8
-        width: 20
-        height: 17
+        x: 320
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_6
       rect:
         serializedVersion: 2
-        x: 149
-        y: 8
-        width: 17
-        height: 14
+        x: 384
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_7
       rect:
         serializedVersion: 2
-        x: 163
-        y: 10
-        width: 18
-        height: 12
+        x: 448
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_8
       rect:
         serializedVersion: 2
-        x: 213
-        y: 9
-        width: 14
-        height: 13
+        x: 512
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_9
       rect:
         serializedVersion: 2
-        x: 225
-        y: 12
-        width: 15
-        height: 9
+        x: 576
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_10
       rect:
         serializedVersion: 2
-        x: 238
-        y: 2
-        width: 16
-        height: 17
+        x: 640
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_11
       rect:
         serializedVersion: 2
-        x: 278
-        y: 9
-        width: 9
-        height: 9
+        x: 704
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_12
       rect:
         serializedVersion: 2
-        x: 285
-        y: 10
-        width: 17
-        height: 11
+        x: 768
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_13
       rect:
         serializedVersion: 2
-        x: 299
-        y: 3
-        width: 16
-        height: 17
+        x: 832
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_14
       rect:
         serializedVersion: 2
-        x: 339
-        y: 9
-        width: 9
-        height: 9
+        x: 896
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_15
       rect:
         serializedVersion: 2
-        x: 346
-        y: 12
-        width: 16
-        height: 9
+        x: 960
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +648,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_16
       rect:
         serializedVersion: 2
-        x: 362
-        y: 6
-        width: 11
-        height: 11
+        x: 1024
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: Sparkle_Trail_Large_sheet_17
       rect:
         serializedVersion: 2
-        x: 366
-        y: 12
-        width: 16
-        height: 17
+        x: 1088
+        y: 0
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,957 +688,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_18
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 11
-        width: 21
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d23b4de9c952a0bc0800000000000000
-      internalID: -3816196379633208531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_19
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 7
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a2995493c3c7f7a0800000000000000
-      internalID: -6343386305353117022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_20
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 11
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df76260672f0a30c0800000000000000
-      internalID: -4595343807982966787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_21
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 11
-        width: 21
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fff590caaf0a29680800000000000000
-      internalID: -8749754127538888705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_22
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 6
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc749fc246aa8f510800000000000000
-      internalID: 1583202616248715213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_23
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 14
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3cce73596b08dca0800000000000000
-      internalID: -5992026757216154564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_24
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 2
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80b17121b721609c0800000000000000
-      internalID: -3961458502431991032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_25
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 12
-        width: 14
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1c3a98c17aabaf50800000000000000
-      internalID: 6893791060294253595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_26
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 8
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8795964b23b177a70800000000000000
-      internalID: 8824551899444894072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_27
-      rect:
-        serializedVersion: 2
-        x: 551
-        y: 15
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 12eab7216397f8670800000000000000
-      internalID: 8543180291290410529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_28
-      rect:
-        serializedVersion: 2
-        x: 555
-        y: 2
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57af8d843b49c1860800000000000000
-      internalID: 7502034577034639989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_29
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 12
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5c2e5d0b739caf50800000000000000
-      internalID: 6894047286311922782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_30
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 8
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c9d83928412b54f0800000000000000
-      internalID: -839040311761511992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_31
-      rect:
-        serializedVersion: 2
-        x: 611
-        y: 14
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b186c9ea521d1100800000000000000
-      internalID: 80240550040994224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_32
-      rect:
-        serializedVersion: 2
-        x: 618
-        y: 5
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 926cd7ce22f428350800000000000000
-      internalID: 6017459063535552041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_33
-      rect:
-        serializedVersion: 2
-        x: 657
-        y: 8
-        width: 18
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e76b25ca90b4acc0800000000000000
-      internalID: -3700638815012296731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_34
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 15
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d30d84f949483ddd0800000000000000
-      internalID: -2462478797379153859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_35
-      rect:
-        serializedVersion: 2
-        x: 679
-        y: 6
-        width: 20
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14940cb8b26d075b0800000000000000
-      internalID: -5372558872936429247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_36
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 10
-        width: 24
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee110fc2b849f70c0800000000000000
-      internalID: -4575775370909838866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_37
-      rect:
-        serializedVersion: 2
-        x: 739
-        y: 5
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ad5dc3d026b2f4f0800000000000000
-      internalID: -796373931982496350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_38
-      rect:
-        serializedVersion: 2
-        x: 746
-        y: 9
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16017bd740b413080800000000000000
-      internalID: -9209497280334851999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_39
-      rect:
-        serializedVersion: 2
-        x: 789
-        y: 10
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b14e520301306f20800000000000000
-      internalID: 3413782406541230514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_40
-      rect:
-        serializedVersion: 2
-        x: 801
-        y: 7
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbe76addcc62a5880800000000000000
-      internalID: -8621535875313533249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_41
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 10
-        width: 23
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11399203becfc4620800000000000000
-      internalID: 2759858758726816529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_42
-      rect:
-        serializedVersion: 2
-        x: 854
-        y: 14
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d19c92b06e898870800000000000000
-      internalID: 8685629902325322195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_43
-      rect:
-        serializedVersion: 2
-        x: 861
-        y: 7
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55458075b0a1bce20800000000000000
-      internalID: 3371817382024074325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_44
-      rect:
-        serializedVersion: 2
-        x: 867
-        y: 9
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdc346b79284eb450800000000000000
-      internalID: 6106397487761997023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_45
-      rect:
-        serializedVersion: 2
-        x: 874
-        y: 13
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2f692415b9e91160800000000000000
-      internalID: 6996880460033388335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_46
-      rect:
-        serializedVersion: 2
-        x: 915
-        y: 14
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d62ddfad921341d50800000000000000
-      internalID: 6707039800898998893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_47
-      rect:
-        serializedVersion: 2
-        x: 922
-        y: 7
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9208035284b4ad20800000000000000
-      internalID: 3288952099719086747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_48
-      rect:
-        serializedVersion: 2
-        x: 929
-        y: 10
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffe2e351a2c3cdfd0800000000000000
-      internalID: -2315909956932587777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_49
-      rect:
-        serializedVersion: 2
-        x: 935
-        y: 14
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6594d4cb6c788e6f0800000000000000
-      internalID: -655124458149951146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_50
-      rect:
-        serializedVersion: 2
-        x: 942
-        y: 4
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3efe9f9bc09c58050800000000000000
-      internalID: 5802264751433707491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_51
-      rect:
-        serializedVersion: 2
-        x: 977
-        y: 7
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 699b3f8f1c5827d30800000000000000
-      internalID: 4427748451810523542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_52
-      rect:
-        serializedVersion: 2
-        x: 989
-        y: 10
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 642c8edfb95ed63a0800000000000000
-      internalID: -6670423014923255226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_53
-      rect:
-        serializedVersion: 2
-        x: 995
-        y: 13
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc1f3af35fc839230800000000000000
-      internalID: 3644411508435448268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_54
-      rect:
-        serializedVersion: 2
-        x: 1003
-        y: 4
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a097f5e0298a34e00800000000000000
-      internalID: 1027850485230434570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_55
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 10
-        width: 21
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f88c2dea5c2a4a340800000000000000
-      internalID: 4874199666647025807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_56
-      rect:
-        serializedVersion: 2
-        x: 1057
-        y: 14
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b22d8c29a48481880800000000000000
-      internalID: -8640076399982882261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_57
-      rect:
-        serializedVersion: 2
-        x: 1066
-        y: 7
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfb533a9a748fc2b0800000000000000
-      internalID: -5562081352671339524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_58
-      rect:
-        serializedVersion: 2
-        x: 1099
-        y: 10
-        width: 20
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b300359fe4585870800000000000000
-      internalID: 8671774470478758836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_59
-      rect:
-        serializedVersion: 2
-        x: 1117
-        y: 14
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebdc546e02079c130800000000000000
-      internalID: 3587521864781909438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sparkle_Trail_Large_sheet_60
-      rect:
-        serializedVersion: 2
-        x: 1127
-        y: 8
-        width: 20
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d7b9828d9578bee0800000000000000
-      internalID: -1245115977607563311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4aaeca4564ffacf49898a612d05055e9
     internalID: 0
     vertices: []
     indices: 
@@ -1658,54 +712,11 @@ TextureImporter:
       Sparkle_Trail_Large_sheet_15: -8941089932445227457
       Sparkle_Trail_Large_sheet_16: -405400292938565199
       Sparkle_Trail_Large_sheet_17: 5370873052010498239
-      Sparkle_Trail_Large_sheet_18: -3816196379633208531
-      Sparkle_Trail_Large_sheet_19: -6343386305353117022
       Sparkle_Trail_Large_sheet_2: -5489459828259779567
-      Sparkle_Trail_Large_sheet_20: -4595343807982966787
-      Sparkle_Trail_Large_sheet_21: -8749754127538888705
-      Sparkle_Trail_Large_sheet_22: 1583202616248715213
-      Sparkle_Trail_Large_sheet_23: -5992026757216154564
-      Sparkle_Trail_Large_sheet_24: -3961458502431991032
-      Sparkle_Trail_Large_sheet_25: 6893791060294253595
-      Sparkle_Trail_Large_sheet_26: 8824551899444894072
-      Sparkle_Trail_Large_sheet_27: 8543180291290410529
-      Sparkle_Trail_Large_sheet_28: 7502034577034639989
-      Sparkle_Trail_Large_sheet_29: 6894047286311922782
       Sparkle_Trail_Large_sheet_3: -1152308064351776940
-      Sparkle_Trail_Large_sheet_30: -839040311761511992
-      Sparkle_Trail_Large_sheet_31: 80240550040994224
-      Sparkle_Trail_Large_sheet_32: 6017459063535552041
-      Sparkle_Trail_Large_sheet_33: -3700638815012296731
-      Sparkle_Trail_Large_sheet_34: -2462478797379153859
-      Sparkle_Trail_Large_sheet_35: -5372558872936429247
-      Sparkle_Trail_Large_sheet_36: -4575775370909838866
-      Sparkle_Trail_Large_sheet_37: -796373931982496350
-      Sparkle_Trail_Large_sheet_38: -9209497280334851999
-      Sparkle_Trail_Large_sheet_39: 3413782406541230514
       Sparkle_Trail_Large_sheet_4: 1126015882164747686
-      Sparkle_Trail_Large_sheet_40: -8621535875313533249
-      Sparkle_Trail_Large_sheet_41: 2759858758726816529
-      Sparkle_Trail_Large_sheet_42: 8685629902325322195
-      Sparkle_Trail_Large_sheet_43: 3371817382024074325
-      Sparkle_Trail_Large_sheet_44: 6106397487761997023
-      Sparkle_Trail_Large_sheet_45: 6996880460033388335
-      Sparkle_Trail_Large_sheet_46: 6707039800898998893
-      Sparkle_Trail_Large_sheet_47: 3288952099719086747
-      Sparkle_Trail_Large_sheet_48: -2315909956932587777
-      Sparkle_Trail_Large_sheet_49: -655124458149951146
       Sparkle_Trail_Large_sheet_5: 1098899874836781592
-      Sparkle_Trail_Large_sheet_50: 5802264751433707491
-      Sparkle_Trail_Large_sheet_51: 4427748451810523542
-      Sparkle_Trail_Large_sheet_52: -6670423014923255226
-      Sparkle_Trail_Large_sheet_53: 3644411508435448268
-      Sparkle_Trail_Large_sheet_54: 1027850485230434570
-      Sparkle_Trail_Large_sheet_55: 4874199666647025807
-      Sparkle_Trail_Large_sheet_56: -8640076399982882261
-      Sparkle_Trail_Large_sheet_57: -5562081352671339524
-      Sparkle_Trail_Large_sheet_58: 8671774470478758836
-      Sparkle_Trail_Large_sheet_59: 3587521864781909438
       Sparkle_Trail_Large_sheet_6: -3471512789643852912
-      Sparkle_Trail_Large_sheet_60: -1245115977607563311
       Sparkle_Trail_Large_sheet_7: -5898182067794104360
       Sparkle_Trail_Large_sheet_8: 31837453161446078
       Sparkle_Trail_Large_sheet_9: -3162907638834481966
